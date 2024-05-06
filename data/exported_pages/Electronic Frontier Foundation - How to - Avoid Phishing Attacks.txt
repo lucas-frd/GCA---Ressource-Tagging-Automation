@@ -1,0 +1,14 @@
+=Description=
+<br>
+This resource provides guidance on how to avoid phishing attacks, which are malicious attempts to deceive individuals into revealing sensitive information or performing harmful actions. Phishing attacks typically involve receiving an email or link that appears harmless but is designed to trick the recipient into clicking on a malicious link, opening a harmful document, installing malicious software, or entering personal information into a fake website.
+ 
+ The purpose of this resource is to educate individuals about the risks associated with phishing attacks and to provide practical tips for self-defense. By understanding the tactics employed by adversaries, users can better protect themselves and their digital security.
+ 
+ The main features of this resource include an explanation of what phishing attacks are, common methods used by attackers, and the potential consequences of falling victim to such attacks. It also offers guidance on how to identify and avoid phishing attempts, such as being cautious of suspicious emails, verifying the legitimacy of websites, and keeping software up to date.
+ 
+ By following the recommendations outlined in this resource, individuals can enhance their awareness of phishing attacks and take proactive measures to safeguard their personal information and digital devices. It empowers users to make informed decisions and adopt effective strategies to mitigate the risks associated with phishing.
+<br>
+=More Information=
+<br>
+https://ssd.eff.org/module/how-avoid-phishing-attacks
+[[Category:Scams and Phishing]]

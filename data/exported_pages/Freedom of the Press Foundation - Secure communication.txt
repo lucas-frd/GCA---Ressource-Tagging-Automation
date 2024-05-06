@@ -1,0 +1,9 @@
+=Description=
+<br>
+Secure communication is a Freedom of the Press Foundation tool that helps people securely communicate with one another. It provides step-by-step instructions on how to set up and use various secure communication methods, including email, instant messaging, and phone calls. It also offers advice on how to avoid common security mistakes and how to protect your communications from surveillance.
+<br>
+=More Information=
+<br>
+https://freedom.press/training/secure-communication/
+[[Category:Encryption]]
+[[Category:Secure Interactions]]

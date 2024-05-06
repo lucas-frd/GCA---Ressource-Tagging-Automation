@@ -1,0 +1,9 @@
+=Description=
+<br>
+The Microsoft Security Compliance Toolkit (SCT) is a free, centralized, and automated tool that allows organizations to holistically assess, build, customize, and operate their security baselines for multiple Microsoft products at once. The SCT is composed of several different tools and documentation that help organizations assess their security posture, build out customized security baselines, and operate their baselines on an on-going basis. The SCT is updated on a regular basis with new security best practices, and
+<br>
+=More Information=
+<br>
+https://www.microsoft.com/en-us/download/details.aspx?id=55319
+[[Category:Security Testing & Auditing]]
+[[Category:Attack & Penetration Testing]]

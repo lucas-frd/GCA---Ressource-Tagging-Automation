@@ -1,0 +1,9 @@
+=Description=
+<br>
+The Report Remove tool is a web-based service that allows users to report and remove online content that is harmful or abusive. The service is designed to help users protect themselves and others from online harassment and bullying. Reports can be made anonymously, and all information submitted through the service is confidential. Once a report is made, the team at Report Remove will review the content and take appropriate action. This may include removing the content from the site, contacting the site owner, or taking legal action
+<br>
+=More Information=
+<br>
+https://www.childline.org.uk/info-advice/bullying-abuse-safety/online-mobile-safety/report-remove/
+[[Category:Parents & Families]]
+[[Category:Hotlines & Services]]

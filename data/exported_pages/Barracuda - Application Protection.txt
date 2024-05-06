@@ -1,0 +1,17 @@
+=Description=
+<br>
+Barracuda is a leading provider of security, networking, and storage products and solutions for businesses and organizations of all sizes. The company was founded in 2003 and is headquartered in Campbell, California, with offices and facilities in over 15 countries around the world. Barracuda has a global presence and serves customers in a wide range of industries, including education, government, healthcare, financial services, and more.
+
+The organization's main focus is on protecting its customers' data and network
+<br>
+=More Information=
+<br>
+https://www.barracuda.com/products
+[[Category:Websites & Applications]]
+[[Category:Secure Interactions]]
+[[Category:API Security]]
+[[Category:DDoS Protection]]
+[[Category:Bot Mitigation]]
+[[Category:Web Application Firewall (WAF)]]
+[[Category:Managed Security Service Providers (MSSPs)]]
+[[Category:Threat & Vulnerability Management]]

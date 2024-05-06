@@ -1,0 +1,9 @@
+=Description=
+<br>
+MultiForcer is a brute forcing tool that can be used to guess passwords for different file types. It supports a variety of file formats, including Word, Excel, PDF, and ZIP. It is available for both Windows and Linux.
+<br>
+=More Information=
+<br>
+https://www.sans.org/tools/?per-page=100
+[[Category:Security Testing & Auditing]]
+[[Category:Attack & Penetration Testing]]

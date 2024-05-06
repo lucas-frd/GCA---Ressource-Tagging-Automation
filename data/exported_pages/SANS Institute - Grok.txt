@@ -1,0 +1,8 @@
+=Description=
+<br>
+The SANS Grok is a tool used to help organizations understand their security risks and vulnerabilities. It provides a dashboard that displays information about the organization's environment, its critical assets, and the threats that it faces. The dashboard is interactive and allows users to drill down into specific areas of interest. The tool also includes a risk assessment module that generates a report based on the information collected.
+<br>
+=More Information=
+<br>
+https://www.sans.org/tools/?per-page=100
+[[Category:Security Information & Event Management (SIEM)]]

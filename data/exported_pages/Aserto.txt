@@ -1,0 +1,8 @@
+=Description=
+<br>
+Aserto is a cloud-based data management and security platform that helps organizations control, secure, and manage their data. Aserto provides a central repository for all your data, so you can easily track changes, access control, and auditing. Aserto also offers a variety of security features to protect your data, including encryption, user access controls, and two-factor authentication.
+<br>
+=More Information=
+<br>
+https://www.aserto.com/
+[[Category:User Provisioning & Governance]]

@@ -1,0 +1,8 @@
+=Description=
+<br>
+The Brooklyn District Attorneys Office is a government organization responsible for prosecuting cyber fraud and other crimes in the Brooklyn borough of New York City.
+<br>
+=More Information=
+<br>
+http://www.brooklynda.org/frauds/#cyber
+[[Category:New York]]

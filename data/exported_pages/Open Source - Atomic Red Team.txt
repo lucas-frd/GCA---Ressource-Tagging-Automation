@@ -1,0 +1,9 @@
+=Description=
+<br>
+The Atomic Red Team is a set of tools that allow you to test your security controls by executing known attacks. It includes a library of attacks that are mapped to the Mitre ATT&CK framework, as well as a command line interface and a powershell module. The tools can be used to generate attack documentation, and to run the attacks against targets.
+<br>
+=More Information=
+<br>
+https://atomicredteam.io/
+[[Category:Security Testing & Auditing]]
+[[Category:Attack & Penetration Testing]]

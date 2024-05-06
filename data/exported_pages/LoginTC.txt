@@ -1,0 +1,8 @@
+=Description=
+<br>
+LoginTC is a login authentication system that allows users to securely log in to websites and applications using their fingerprint, retina scan, or other biometric data. LoginTC ¶s security is based on the user¶s physical characteristics, which makes it much more difficult for hackers to gain access to accounts. The system is also easy to use, as users simply need to scan their fingerprint or retina to login. LoginTC is an ideal solution for businesses that want to increase security without compromising usability.
+<br>
+=More Information=
+<br>
+https://logintc.com/
+[[Category:Two-Factor & Multi-Factor Authentication]]

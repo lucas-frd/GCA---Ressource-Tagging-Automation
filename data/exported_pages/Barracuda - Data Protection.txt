@@ -1,0 +1,11 @@
+=Description=
+<br>
+Founded in 2003 and headquartered in Barracuda, California, Barracuda is a leading provider of cloud-based security and data protection solutions for businesses and organizations worldwide. The company is known for its innovative and reliable products and services that help protect against various cyber threats and data breaches.
+
+Barracuda's organization data protection is a comprehensive and integrated approach to securing and safeguarding sensitive information for organizations. It includes a range of solutions and services designed to protect data across all types of systems
+<br>
+=More Information=
+<br>
+https://www.barracuda.com/products
+[[Category:Backup & Restoration of Data]]
+[[Category:Data Loss Prevention (DLP)]]

@@ -1,0 +1,10 @@
+=Description=
+<br>
+AccessOwl is a software company that provides a set of tools to improve digital accessibility. Their main product is a web accessibility tool that automatically checks websites for accessibility problems and provides guidance on how to fix them.
+
+AccessOwl’s accessibility tool is designed to help website owners, developers, and designers improve the accessibility of their websites. The tool can be used to check for common accessibility problems, such as missing alternate text for images, incorrect heading levels, and empty links.
+<br>
+=More Information=
+<br>
+https://www.accessowl.com/
+[[Category:User Provisioning & Governance]]

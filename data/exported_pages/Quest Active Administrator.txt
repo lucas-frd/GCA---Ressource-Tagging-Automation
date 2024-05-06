@@ -1,0 +1,8 @@
+=Description=
+<br>
+The Quest Active Administrator is a management tool that is designed to help organizations manage and monitor their Active Directory environment. The tool provides a web-based console that allows administrators to view information about their Active Directory environment, including objects, groups, and policies. The Quest Active Administrator also provides a range of reports that can be used to troubleshoot issues or identify potential problems.
+<br>
+=More Information=
+<br>
+https://www.quest.com/active-administrator/
+[[Category:User Provisioning & Governance]]

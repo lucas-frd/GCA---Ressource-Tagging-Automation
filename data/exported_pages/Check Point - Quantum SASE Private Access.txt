@@ -1,0 +1,10 @@
+=Description=
+<br>
+Quantum SASE Private Access is an organization that operates within Check Point, a global cybersecurity company founded in 1993. Check Point is a leading provider of network security solutions and is headquartered in Tel Aviv, Israel.
+
+Quantum SASE Private Access, which stands for Secure Access Service Edge, is a comprehensive network security solution offered by Check Point. It combines advanced security features, such as virtual private network (VPN) and software-defined wide area network (SD-WAN), with cloud-based security
+<br>
+=More Information=
+<br>
+https://www.checkpoint.com/products/
+[[Category:Remote Access]]

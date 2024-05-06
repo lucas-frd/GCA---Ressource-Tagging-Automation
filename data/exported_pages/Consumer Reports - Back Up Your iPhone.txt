@@ -1,0 +1,10 @@
+=Description=
+<br>
+The Back Up Your iPhone tool from Consumer Reports helps users create backups of their iOS devices, including their iPhone, iPad, and iPod Touch. The tool guides users through the process of selecting what data to include in their backup, choosing where to store the backup, and setting up a schedule for creating backups. The tool also provides tips for managing and securing backups, and for restoring data from a backup if necessary.
+<br>
+=More Information=
+<br>
+https://securityplanner.consumerreports.org/tool/back-up-your-iphone
+[[Category:Backup & Restoration of Data]]
+[[Category:Smart Phones]]
+[[Category:iOS Devices]]

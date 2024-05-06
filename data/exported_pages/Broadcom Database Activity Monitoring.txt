@@ -1,0 +1,11 @@
+=Description=
+<br>
+Broadcom Database Activity Monitoring is an organization that specializes in cybersecurity solutions for enterprises. It is a part of Broadcom, one of the world's leading technology companies that offers a wide range of products and services in the fields of semiconductors, infrastructure software, and the acquisition of the enterprise software division of CA Technologies.
+
+Broadcom Database Activity Monitoring provides robust protection for critical databases and sensitive data against cyber threats such as database breaches, fraud attempts, and insider threats. Its solutions offer real-time visibility
+<br>
+=More Information=
+<br>
+https://www.broadcom.com/products#cybersecurity
+[[Category:Data Loss Prevention (DLP)]]
+[[Category:Data Privacy & Protection (DPP)]]

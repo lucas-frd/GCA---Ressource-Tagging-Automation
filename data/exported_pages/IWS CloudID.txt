@@ -1,0 +1,8 @@
+=Description=
+<br>
+IWS CloudID is a tool that allows organizations to connect their on-premises identities to cloud-based applications. It provides a single point of connection for all users, regardless of their location. IWS CloudID provides organizations with the ability to manage their user identities in a centralized way, while still allowing users to access their applications from anywhere. IWS CloudID also includes a variety of features that make it easy to connect to popular cloud-based applications, such as Active Directory,
+<br>
+=More Information=
+<br>
+https://www.iwsinc.com/products/cloudi/
+[[Category:Biometric]]

@@ -1,0 +1,8 @@
+=Description=
+<br>
+AT&T Cybersecurity's Alien Labs Open Threat Exchange (OTX) is a free and open platform that enables users to share threat intelligence and collaborate on threat mitigation. OTX provides users with access to a wealth of threat data from a variety of sources, including AT&T's own global network of sensors. This data is aggregated, normalized, and made available through an intuitive web interface and set of APIs, making it easy for users to consume and share threat intelligence within their organization
+<br>
+=More Information=
+<br>
+https://cybersecurity.att.com/open-threat-exchange
+[[Category:Threat & Vulnerability Management]]

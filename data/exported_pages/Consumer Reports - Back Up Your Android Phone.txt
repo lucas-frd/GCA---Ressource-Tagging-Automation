@@ -1,0 +1,10 @@
+=Description=
+<br>
+Backing up your Android phone is important in case you lose your phone or it is stolen. This tool from Consumer Reports helps you to back up your phone so that you do not lose your contacts, photos, or other important data. The tool provides step-by-step instructions on how to back up your phone using a variety of methods, including using a computer, using a cloud service, or using an external hard drive.
+<br>
+=More Information=
+<br>
+https://securityplanner.consumerreports.org/tool/back-up-your-android-phone
+[[Category:Backup & Restoration of Data]]
+[[Category:Smart Phones]]
+[[Category:Android]]

@@ -1,0 +1,10 @@
+=Description=
+<br>
+NOAA Weather Apps, also known as National Weather Service (NWS), is a division of National Oceanic and Atmospheric Administration (NOAA) that provides comprehensive weather forecasting and information services to the public, government agencies, and businesses. It is the sole official source of weather, water, and climate forecasts and warnings for the United States.
+
+NOAA Weather Apps is responsible for collecting, analyzing, and disseminating meteorological data, as well as issuing severe weather alerts and warnings, including hurricanes, and many other types of significant weather events.
+<br>
+=More Information=
+<br>
+https://www.weather.gov/
+[[Category:Weather apps]]

@@ -1,0 +1,10 @@
+=Description=
+<br>
+QuakeFeed is an organization focused on providing real-time earthquake information to users around the world. Founded in 2013, QuakeFeed is based in San Francisco, California, and is run by a small team of developers, data scientists, and geologists.
+
+The organization's website, https://quakefeed.com/, is a comprehensive and user-friendly platform that offers a variety of earthquake-related services. The website features a map showcasing the most recent earthquakes around the world, along with their magnitude.
+<br>
+=More Information=
+<br>
+https://quakefeed.com/
+[[Category:Disaster alert apps]]

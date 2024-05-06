@@ -1,0 +1,14 @@
+=Description=
+<br>
+This resource provides information and advice on online hate, aiming to educate users about its nature and encourage them to take action. The hub explains that online hate refers to language or actions that specifically target a characteristic of an individual or a group in the digital space. It highlights that many of these characteristics, such as race or ethnicity, age, gender, sexual orientation, and religion, are protected by law. Consequently, workplaces, educational institutions, and other areas are prohibited from taking discriminatory actions based on these characteristics.
+  
+  The resource emphasizes the importance of understanding online hate and its impact on individuals and communities. By raising awareness, it seeks to empower users to combat online hate and create a safer digital environment. The hub provides facts and information about online hate, shedding light on its prevalence and the legal protections in place.
+  
+  While the article does not explicitly outline the specific features of the resource, it can be inferred that it offers practical advice and guidance on how to address online hate. It likely provides strategies for reporting and dealing with instances of online hate, as well as resources for further support and information.
+  
+  Overall, this resource serves as a valuable tool for individuals seeking to educate themselves about online hate and take proactive steps to combat it. By promoting awareness and providing guidance, it aims to foster a more inclusive and respectful online community.
+<br>
+=More Information=
+<br>
+https://www.internetmatters.org/issues/online-hate/
+[[Category:Cyberbullying]]

@@ -1,0 +1,9 @@
+=Description=
+<br>
+Google reCAPTCHA protects websites from spam and abuse. It uses advanced risk analysis techniques to tell humans and bots apart. With the new API, a significant number of your valid human users will pass the reCAPTCHA challenge without having to solve a CAPTCHA. reCAPTCHA offers more than just spam protection. By turning on the CAPTCHA, you can help digitize old books and newspapers.
+<br>
+=More Information=
+<br>
+https://www.google.com/recaptcha/about/
+[[Category:Website]]
+[[Category:Captcha]]

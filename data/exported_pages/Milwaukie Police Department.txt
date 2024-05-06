@@ -1,0 +1,8 @@
+=Description=
+<br>
+The Milwaukie Police Department organization is responsible for conducting criminal investigations and maintaining public safety in Milwaukie, Oregon.
+<br>
+=More Information=
+<br>
+https://www.milwaukieoregon.gov/police/criminal-investigation-unit
+[[Category:Oregon]]

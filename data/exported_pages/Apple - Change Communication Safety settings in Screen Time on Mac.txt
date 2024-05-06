@@ -1,0 +1,19 @@
+=Description=
+<br>
+Screen Time is a feature in macOS that allows you to control the amount of time you and your family spend on the computer. It also provides tools to help you manage communication safety settings, so you can limit who your children can communicate with online.
+
+To change communication safety settings:
+
+Open Screen Time.
+
+Select your child's account, then click Communication in the sidebar.
+
+Select the contact types that you want to allow or block.
+
+If you want
+<br>
+=More Information=
+<br>
+https://support.apple.com/guide/mac-help/change-communication-safety-settings-screen-mchl73858d16/mac#:~:text=If%20nudity%20is%20detected%2C%20the,Screen%20Time%20in%20the%20sidebar.
+[[Category:MacOS]]
+[[Category:Privacy Settings]]

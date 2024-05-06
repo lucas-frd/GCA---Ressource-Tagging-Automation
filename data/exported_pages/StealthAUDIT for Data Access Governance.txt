@@ -1,0 +1,8 @@
+=Description=
+<br>
+StealthAUDIT for Data Access Governance provides discovery, assessment, and remediation of data access risk across the enterprise. The tool includes an out-of-the-box data access policy and access risk models that are tuned to industry and regulatory standards. It provides a 360-degree view of data access, from users and processes to data types and systems. StealthAUDIT also offers a flexible workflow engine that automates and enforces data access governance.
+<br>
+=More Information=
+<br>
+https://www.stealthaudit.com/
+[[Category:Single Sign-On (SSO)]]

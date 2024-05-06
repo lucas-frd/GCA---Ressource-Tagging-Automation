@@ -1,0 +1,10 @@
+=Description=
+<br>
+Check Point is a leading provider of cybersecurity solutions for organizations of all sizes. Their IPsec VPN service is a key offering in their comprehensive portfolio, providing organizations with a secure and reliable method of connecting remote locations and users to their corporate network.
+
+The organization's IPsec VPN is a type of virtual private network that utilizes the Internet Protocol Security (IPsec) protocol to create a secure and encrypted tunnel between two or more networks. This allows for secure communication and data transfer over an unsecured network,
+<br>
+=More Information=
+<br>
+https://www.checkpoint.com/products/
+[[Category:VPN]]

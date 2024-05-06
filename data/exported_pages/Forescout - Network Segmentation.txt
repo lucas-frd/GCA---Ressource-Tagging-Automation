@@ -1,0 +1,14 @@
+=Description=
+<br>
+This tool simplifies network segmentation for zero trust architectures by providing visualized traffic flows and policy simulation. By visualizing traffic flows, users can easily identify which communication should and shouldn't occur within their network. Additionally, the tool allows for policy simulation, enabling users to test policy changes and avoid any potential gaps or misconfigurations without disrupting business operations. 
+
+The Forescout Platform aims to streamline the design, planning, and deployment of dynamic network segmentation. It addresses the issue of under-segmented networks, which can lead to the propagation of threats and an increased blast radius, thereby elevating risk and exposure. 
+
+With its design-first approach, this tool offers efficient network segmentation management. Users can visualize traffic flows and simulate policy changes, ensuring that their network is properly segmented and secure. By removing complexity from the process, the tool helps organizations implement zero trust architectures more effectively. 
+
+Overall, this resource provides a practical solution for organizations seeking to enhance their network security through effective network segmentation. Its main features include visualizing traffic flows, simulating policy changes, and facilitating the design and deployment of dynamic network segmentation.
+<br>
+=More Information=
+<br>
+https://www.forescout.com/solutions/network-segmentation/
+[[Category:Network Devices]]

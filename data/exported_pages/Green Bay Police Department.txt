@@ -1,0 +1,8 @@
+=Description=
+<br>
+The Green Bay Police Department is a law enforcement agency that employs detectives to investigate and solve crimes in the city of Green Bay, Wisconsin.
+<br>
+=More Information=
+<br>
+https://greenbaywi.gov/1068/Detectives
+[[Category:Wisconsin]]

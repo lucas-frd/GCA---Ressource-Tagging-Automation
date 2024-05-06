@@ -1,0 +1,8 @@
+=Description=
+<br>
+9Star Elastic SSO is an access management application that provides a single sign-on solution for enterprises. It offers a centralized login portal for users to access all their applications with one set of credentials. The tool also provides a self-service password management feature to allow users to reset their own passwords. Additionally, 9Star Elastic SSO integrates with other 9Star products to provide a complete identity and access management solution.
+<br>
+=More Information=
+<br>
+https://www.9star.com/
+[[Category:Single Sign-On (SSO)]]

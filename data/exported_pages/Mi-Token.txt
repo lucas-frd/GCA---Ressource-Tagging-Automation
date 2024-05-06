@@ -1,0 +1,8 @@
+=Description=
+<br>
+Mi-Token is a multi-factor authentication solution that provides a high level of security for organizations of all sizes. It uses a variety of authentication factors, including something the user knows (a password or PIN), something the user has (a physical token or key), and something the user is (biometric data). Mi-Token can be used to secure access to on-premises resources, cloud-based applications, and mobile devices. It integrates with existing authentication infrastructure, making it easy
+<br>
+=More Information=
+<br>
+https://www.itsec.com/mi-token/
+[[Category:Two-Factor & Multi-Factor Authentication]]

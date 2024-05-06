@@ -1,0 +1,8 @@
+=Description=
+<br>
+The Fremont Police Department is a law enforcement organization responsible for preventing and investigating scams, fraud, and financial crimes in the city of Fremont.
+<br>
+=More Information=
+<br>
+https://www.fremontpolice.gov/crime-prevention/scams-fraud-financial-crimes
+[[Category:California]]

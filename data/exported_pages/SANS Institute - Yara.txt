@@ -1,0 +1,8 @@
+=Description=
+<br>
+The Advanced Malware Protection (AMP) tool, Yara, was found at the website of the São Paulo Research Foundation (FAPESP). Yara is a tool that allows users to scan files or memory modules and identify malicious software. Yara uses a signature-based approach, where a user can create a signature for a specific piece of malware and then use that signature to identify the malware in a scan. Yara is unique in that it supports both static and dynamic analysis
+<br>
+=More Information=
+<br>
+https://virustotal.github.io/yara/
+[[Category:Anti-virus & Anti-malware Software]]

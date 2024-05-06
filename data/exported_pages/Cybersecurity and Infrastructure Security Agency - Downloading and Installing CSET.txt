@@ -1,0 +1,11 @@
+=Description=
+<br>
+This resource, titled Downloading and Installing CSET, is a guide provided by America's Cyber Defense Agency. It introduces the Cyber Security Evaluation Tool (CSET) and outlines the process of downloading and installing it. CSET is designed to assist organizations in evaluating their cybersecurity posture and identifying potential vulnerabilities. It offers a systematic, disciplined, and repeatable approach to cybersecurity assessment. The guide emphasizes the importance of using official, secure websites for downloading CSET. It highlights that official government websites in the United States use the .gov domain and secure connections with HTTPS. Users are advised to share sensitive information only on these trusted platforms. The purpose of this resource is to provide clear instructions on how to obtain and install CSET, ensuring that users can access the tool safely and securely. By following the outlined steps, organizations can leverage CSET to evaluate their cybersecurity measures effectively. Overall, this guide serves as a reliable source of information for individuals and organizations seeking to enhance their cybersecurity practices. It offers a concise and straightforward overview of the process involved in downloading and installing CSET, enabling users to take proactive steps towards strengthening their cyber defenses.
+<br>
+=More Information=
+<br>
+https://www.cisa.gov/downloading-and-installing-cset
+[[Category:Security Awareness & Training]]
+[[Category:Risks & Threats]]
+[[Category:Risk Reduction]]
+[[Category:Risk Self-Assessment]]

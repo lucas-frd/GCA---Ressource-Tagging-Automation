@@ -1,0 +1,10 @@
+=Description=
+<br>
+WeatherBug is a popular and well-established organization that provides real-time weather information to millions of people around the world. It was founded in 1992 and is headquartered in Germantown, Maryland. 
+
+The core mission of WeatherBug is to provide accurate and reliable weather information to individuals, businesses, and governments in order to help them make informed decisions based on current and forecasted weather conditions.
+<br>
+=More Information=
+<br>
+https://www.weatherbug.com/
+[[Category:Weather apps]]

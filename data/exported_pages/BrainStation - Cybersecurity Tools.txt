@@ -1,0 +1,10 @@
+=Description=
+<br>
+This resource provides a guide on how to become a cybersecurity analyst, offering insights into the field and the tools commonly used by professionals in this role. The guide aims to assist individuals interested in pursuing a career in cybersecurity. The main focus of this resource is to provide information on the tools utilized by cybersecurity analysts. It offers an overview of the different types of tools that are commonly employed in this profession. The resource aims to help aspiring cybersecurity analysts understand the tools they may encounter and work with in their future roles. The guide also encourages individuals to consider enrolling in the Cybersecurity Certificate Course at BrainStation. By speaking with a Learning Advisor, interested individuals can gather more information about the course and its potential benefits for their career development. Overall, this resource serves as a starting point for those interested in becoming cybersecurity analysts. It provides an overview of the field and highlights the tools commonly used in this profession. By offering insights and information, the resource aims to assist individuals in making informed decisions about their career path in cybersecurity.
+<br>
+=More Information=
+<br>
+https://brainstation.io/career-guides/what-tools-do-cybersecurity-analysts-use
+[[Category:Individuals]]
+[[Category:Parents & Families]]
+[[Category:Small & Medium Sized Businesses]]

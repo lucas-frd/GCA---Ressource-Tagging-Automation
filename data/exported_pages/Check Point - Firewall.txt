@@ -1,0 +1,10 @@
+=Description=
+<br>
+Check Point is a leading provider of cybersecurity solutions for organizations of all sizes. The company's flagship product is Check Point Firewall, a network security software that protects networks and data from cyber threats.
+
+Check Point Firewall is a highly advanced firewall that provides multiple layers of defense to prevent and detect intrusions, malware, and other cyber attacks. It offers a comprehensive security solution, combining advanced technologies such as intrusion prevention, application control, antivirus, and anti-bot capabilities. These capabilities work together to provide organizations with
+<br>
+=More Information=
+<br>
+https://www.checkpoint.com/products/
+[[Category:Firewalls]]

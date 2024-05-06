@@ -1,0 +1,10 @@
+=Description=
+<br>
+This tool is designed to provide organizations with a secure way to manage access to their systems and data. It uses a variety of methods to authenticate users and ensure that only authorized users can access sensitive information. Additionally, the tool provides a way for organizations to monitor and control user activity, so that they can quickly identify and respond to any potential threats.
+<br>
+=More Information=
+<br>
+https://www.thalesgroup.com/en/markets/digital-identity-and-security/digital-identity-and-access-management/safenet-trusted-access
+[[Category:Single Sign-On (SSO)]]
+[[Category:Identity & Access Management (IAM)]]
+[[Category:Two-Factor & Multi-Factor Authentication]]

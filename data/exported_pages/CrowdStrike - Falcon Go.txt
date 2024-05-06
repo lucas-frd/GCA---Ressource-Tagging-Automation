@@ -1,0 +1,10 @@
+=Description=
+<br>
+Falcon Go is a bundled offering of CrowdStrike’s Falcon endpoint protection platform that aims to provide comprehensive and effective security solutions for organizations of all sizes. Established in 2011, CrowdStrike is a cybersecurity company that specializes in cloud-delivered endpoint protection and threat intelligence.
+
+The organization is headquartered in Sunnyvale, California, with operations in multiple countries around the world, including the United States, Australia, and Germany. CrowdStrike’s mission is to stop breaches by leveraging the power of the cloud to
+<br>
+=More Information=
+<br>
+https://www.crowdstrike.com/products/bundles/falcon-go/
+[[Category:Endpoint Security]]

@@ -1,0 +1,8 @@
+=Description=
+<br>
+The tool Secureworks WhiskeySAML found at https://github.com/secureworks/whiskeysamlandfriends is used to quickly generate and manage security assertions for SAML-based authentication. The tool includes a number of features to help with this process, including the ability to create and manage multiple SAML entities, add and remove SAML attributes, and sign SAML assertions. The tool also includes a number of command-line options to help with the management of SAML
+<br>
+=More Information=
+<br>
+https://github.com/secureworks/whiskeysamlandfriends
+[[Category:Attack & Penetration Testing]]

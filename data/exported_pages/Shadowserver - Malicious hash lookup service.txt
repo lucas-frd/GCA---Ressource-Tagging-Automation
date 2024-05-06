@@ -1,0 +1,9 @@
+=Description=
+<br>
+The tool is designed to provide a malicious hash lookup service. The service is designed to help researchers identify files that may be associated with malware. The service is free to use and is available to anyone with an internet connection. The service is updated daily with new malware hashes.
+<br>
+=More Information=
+<br>
+https://www.shadowserver.org/what-we-do/network-reporting/api-research/
+[[Category:Law Enforcement]]
+[[Category:National CERTs]]

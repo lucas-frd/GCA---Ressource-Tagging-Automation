@@ -1,0 +1,8 @@
+=Description=
+<br>
+PingID is a cloud-based identity management service that provides secure, single sign-on access to PingOne and other cloud and on-premises applications. PingID uses strong authentication methods, such as one-time passcodes, push notifications, and biometrics, to ensure that only the authorized user can access the account. PingID also provides a centralized account management console, where administrators can view activity logs and manage user access.
+<br>
+=More Information=
+<br>
+https://www.pingidentity.com/
+[[Category:Two-Factor & Multi-Factor Authentication]]

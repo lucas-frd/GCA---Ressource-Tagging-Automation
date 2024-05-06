@@ -1,0 +1,8 @@
+=Description=
+<br>
+CSA STAR has public registry of cloud providers complying with CSA Cloud Controls Matrix best practices. Free to view and download all entries to analyze the security of providers. Also free for providers to submit level one self assessments.
+<br>
+=More Information=
+<br>
+https://cloudsecurityalliance.org/star
+[[Category:All Businesses]]

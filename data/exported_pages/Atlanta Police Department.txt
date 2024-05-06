@@ -1,0 +1,8 @@
+=Description=
+<br>
+The Atlanta Police Department is a municipal law enforcement agency dedicated to keeping the city of Atlanta safe through professional and efficient policing services.
+<br>
+=More Information=
+<br>
+https://www.atlantapd.org/services/online-reporting
+[[Category:Georgia]]

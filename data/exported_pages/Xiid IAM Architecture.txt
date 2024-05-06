@@ -1,0 +1,8 @@
+=Description=
+<br>
+Xiid IAM Architecture is a security tool that helps organizations to manage their user access and permission levels. It provides a centralized platform for managing users, roles, and permissions. It also offers a granular control over user access to different resources. Additionally, it helps to monitor user activity and track changes made to the system.
+<br>
+=More Information=
+<br>
+https://www.xiid.com/
+[[Category:Single Sign-On (SSO)]]

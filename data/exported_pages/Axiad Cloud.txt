@@ -1,0 +1,8 @@
+=Description=
+<br>
+Axiad Cloud is a cloud-based security solution that helps businesses protect their data and applications from cyber threats. It provides a centralized platform for managing security policies, monitoring activity, and responding to incidents. Axiad Cloud also includes a range of tools for automating security tasks, such as patch management and vulnerability scanning.
+<br>
+=More Information=
+<br>
+https://www.axiad-cloud.com/
+[[Category:Identity & Access Management (IAM)]]

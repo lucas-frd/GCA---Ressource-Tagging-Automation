@@ -1,0 +1,11 @@
+=Description=
+<br>
+OpenText is a leading global provider of Enterprise Information Management (EIM) solutions, headquartered in Waterloo, Ontario, Canada. The company was founded in 1991 and has grown to become one of the largest information management companies in the world, with a wide range of solutions and services for enterprises of all sizes.
+
+One of the key solutions offered by OpenText is EnCase Forensic, a product specifically designed for digital forensic investigations. EnCase Forensic is a comprehensive and powerful toolset that
+<br>
+=More Information=
+<br>
+https://www.opentext.com/products/security-cloud
+[[Category:Incident Reporting & Recovery]]
+[[Category:Forensics]]

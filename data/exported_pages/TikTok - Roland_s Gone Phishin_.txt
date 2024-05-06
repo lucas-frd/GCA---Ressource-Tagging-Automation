@@ -1,0 +1,32 @@
+=Description=
+<br>
+This resource, titled "Roland's Gone Phishin'", features an article by TikTok's Global Chief Security Officer, Roland Cloutier. The article aims to educate readers on how to protect themselves from falling victim to phishing attacks. It emphasizes the importance of being cautious and provides tools and additional resources to help users safeguard their online presence.
+  
+  The main focus of the article is to raise awareness about phishing attacks and provide practical advice on how to avoid becoming a victim. It encourages users to report any suspicious activity within the app and offers a toolbox with various tools and resources to enhance online security.
+  
+  The article does not delve into specific details about the tools or resources provided in the toolbox. However, it emphasizes the importance of taking action to protect oneself from phishing attacks. It also mentions that the approximate time required to implement the tools is defined under the category of "Time."
+  
+  Overall, this resource serves as a valuable guide for individuals seeking to enhance their knowledge about phishing attacks and take proactive measures to protect themselves online. By providing tools and resources, it empowers users to be more vigilant and resilient against phishing attempts.
+<br>
+=More Information=
+<br>
+https://gcatoolkit.org/rolands-gone-phishin/
+[[Category:Scams and Phishing]]
+[[Category:Browse the Web Securely]]
+[[Category:Videos]]
+
+=Description=
+<br>
+This resource, called "Roland's Password Kitchen," provides helpful tips for creating strong passwords. It is presented by TikTok's Global Chief Security Officer, Roland Cloutier. The purpose of this resource is to educate users on the importance of strong passwords and provide tools and additional resources to help protect their accounts with two-factor authentication.
+  
+  The main feature of this resource is the toolbox, which offers various tools and resources to assist users in creating strong passwords. It also emphasizes the importance of using stronger passwords during Internet Safety Month and throughout the year.
+  
+  The resource does not provide detailed information about the specific tools or instructions available in the toolbox. However, it is clear that the focus is on promoting password security and providing users with the necessary resources to enhance their account protection.
+  
+  Please note that this article does not include copyright information or contact details.
+<br>
+=More Information=
+<br>
+https://gcatoolkit.org/rolands-password-kitchen/
+[[Category:Choosing a Secure Password]]
+[[Category:Videos]]

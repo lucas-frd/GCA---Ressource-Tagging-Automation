@@ -1,0 +1,10 @@
+=Description=
+<br>
+Veltec Networks is a technology solutions provider based in San Jose, California. The company offers a variety of IT services, including cloud computing, cybersecurity, and IT management. One of their areas of expertise is in Microsoft Outlook, a popular email management platform.
+
+The organization's blog post titled "How To Report Junk & Phishing Emails In Microsoft Outlook" provides a step-by-step guide on how to report suspicious emails within the Microsoft Outlook program.
+<br>
+=More Information=
+<br>
+https://www.veltecnetworks.com/how-to-report-junk-phishing-emails-in-microsoft-outlook-2/
+[[Category:Media Coverage of Associated Fraud or Criminal Activity]]

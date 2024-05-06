@@ -1,0 +1,10 @@
+=Description=
+<br>
+Bitcoin and Cryptocurrency Technologies is an online course offered by Princeton University through the online learning platform, Coursera. It aims to provide a comprehensive understanding of the principles, technology, and economics behind cryptocurrencies, specifically focusing on Bitcoin.
+
+The course is structured into 12 modules, covering the basic concepts of cryptocurrencies, the mechanics of Bitcoin, mining, and transactions, as well as the economics and applications of crypto technology.
+<br>
+=More Information=
+<br>
+https://www.coursera.org/learn/cryptocurrency
+[[Category:Cryptocurrency Courses and Workshops]]

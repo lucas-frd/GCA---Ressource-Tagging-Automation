@@ -1,0 +1,8 @@
+=Description=
+<br>
+The EAC Election Security Voter Pamphlet is a document created by the United States Election Assistance Commission that provides information on election security. The pamphlet covers topics such as the importance of election security, the types of threats to elections, and how to protect against them. It also includes information on what to do if you suspect that your vote has been compromised. The pamphlet is intended to help educate voters on the importance of election security and to empower them to take action to protect the integrity of the
+<br>
+=More Information=
+<br>
+https://www.eac.gov/sites/default/files/eac_assets/1/6/Electionsecurity_voter_pamphlet.pdf
+[[Category:Voters]]

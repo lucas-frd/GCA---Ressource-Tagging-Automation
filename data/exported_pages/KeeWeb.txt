@@ -1,0 +1,8 @@
+=Description=
+<br>
+KeeWeb is a free, open-source password manager that provides a secure way to store and manage your passwords. It uses AES-256 encryption to keep your passwords safe, and provides an easy-to-use interface for managing them. You can create multiple password databases, and each database can be encrypted with a different key. KeeWeb also supports Two-Factor Authentication, which adds an extra layer of security to your account.
+<br>
+=More Information=
+<br>
+https://keeweb.info/
+[[Category:Password Managers]]

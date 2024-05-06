@@ -1,0 +1,8 @@
+=Description=
+<br>
+Phonism is a communication tool that allows users to manage their phone calls and messages in one place. The app provides a visual interface for users to see all their phone calls and messages in one place, as well as options to manage their contacts, call forwarding, voicemail, and other settings. Phonism also offers features to help users manage their time and productivity, such as the ability to set up call and message reminders, and to create custom call and message templates.
+<br>
+=More Information=
+<br>
+https://www.phonism.com/
+[[Category:User Provisioning & Governance]]

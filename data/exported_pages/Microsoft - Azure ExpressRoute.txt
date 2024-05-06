@@ -1,0 +1,10 @@
+=Description=
+<br>
+Azure ExpressRoute is a service that enables private, reliable connectivity between an organization’s on-premises datacenters and Microsoft Azure. ExpressRoute connections do not go over the public Internet, which offers greater security and reliability. Private connectivity can be provided through an ExpressRoute partner, such as a network service provider, or through a direct connection that an organization establishes between its on-premises network and an Azure ExpressRoute circuit.
+
+Azure ExpressRoute provides the following
+<br>
+=More Information=
+<br>
+https://azure.microsoft.com/en-us/services/expressroute/
+[[Category:Two-Factor & Multi-Factor Authentication]]

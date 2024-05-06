@@ -1,0 +1,8 @@
+=Description=
+<br>
+Cryptojacking Explained is a resource provided by CSO, a leading information security website for business professionals. The purpose of Cryptojacking Explained is to educate individuals and organizations about the increasingly prevalent threat of cryptojacking, a form of cyberattack that exploits computer processing power to mine cryptocurrencies without the owner's permission or knowledge.
+<br>
+=More Information=
+<br>
+https://www.csoonline.com/article/564521/what-is-cryptojacking-how-to-prevent-detect-and-recover-from-it.html
+[[Category:Cryptojacking]]

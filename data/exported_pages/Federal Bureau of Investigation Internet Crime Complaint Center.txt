@@ -1,0 +1,8 @@
+=Description=
+<br>
+The Federal Bureau of Investigation Internet Crime Complaint Center is an organization that serves as a central hub for victims of cybercrime to report and provide information to law enforcement agencies for investigation and prosecution.
+<br>
+=More Information=
+<br>
+https://ic3.gov/default.aspx
+[[Category:Federal]]

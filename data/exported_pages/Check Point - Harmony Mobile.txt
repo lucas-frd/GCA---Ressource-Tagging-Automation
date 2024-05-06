@@ -1,0 +1,12 @@
+=Description=
+<br>
+Harmony Mobile is an organization that focuses on providing security solutions for the mobile workforce. They are a subsidiary of Check Point, a multinational technology company that specializes in cybersecurity.
+
+The parent company, Check Point, was founded in 1993 in Israel and has since expanded globally, with offices in over 100 countries. They are recognized as a leader in the industry and have received numerous awards for their innovative security products.
+
+The Harmony Mobile division was established to meet the increasing demand for mobile security solutions in
+<br>
+=More Information=
+<br>
+https://www.checkpoint.com/products/
+[[Category:Mobile Security]]

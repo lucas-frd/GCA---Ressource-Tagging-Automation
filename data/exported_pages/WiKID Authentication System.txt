@@ -1,0 +1,8 @@
+=Description=
+<br>
+WiKID is a two-factor authentication system that is designed to be simple to use and more secure than traditional passwords. WiKID uses a client-server architecture in which the server is responsible for generating passes, and the client is responsible for verifying them. When a user attempts to log in to a WiKID-protected system, the client sends a request to the server, which then generates a pass. The server then sends the pass back to the client, which verifies
+<br>
+=More Information=
+<br>
+https://www.wikid.com/authentication-system/
+[[Category:Two-Factor & Multi-Factor Authentication]]

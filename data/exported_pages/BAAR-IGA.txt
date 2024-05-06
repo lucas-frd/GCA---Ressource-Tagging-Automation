@@ -1,0 +1,8 @@
+=Description=
+<br>
+Salesforce Identity-Governed Architecture (BAAR-IGA) is a data architecture that uses Salesforce as the identity provider (IdP) to govern access to data stored in other systems. It uses Salesforce's "login with Salesforce" feature to authenticate users and authorize them to access data in other systems. BAAR-IGA is designed to work with Salesforce's "Security Groups" feature, which allows administrators to granularly control access to data based on
+<br>
+=More Information=
+<br>
+https://www.bluink.com/bluink-enterprise/
+[[Category:Identity & Access Management (IAM)]]

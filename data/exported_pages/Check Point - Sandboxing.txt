@@ -1,0 +1,10 @@
+=Description=
+<br>
+Checkpoint is a global cybersecurity company that specializes in providing advanced threat prevention solutions for businesses and organizations. The company was founded in 1993 by Gil Shwed, Marius Nacht, and Shlomo Kramer, and is currently headquartered in Tel Aviv, Israel with offices in over 100 countries.
+
+The organization Sandboxing, found under the Products section of Checkpoint's official website, is a powerful threat prevention tool designed to protect businesses and organizations from advanced and targeted cyber attacks. Sandboxing is a
+<br>
+=More Information=
+<br>
+https://www.checkpoint.com/products/
+[[Category:Firewalls]]

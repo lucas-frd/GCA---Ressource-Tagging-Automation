@@ -1,0 +1,10 @@
+=Description=
+<br>
+This tool provides steps for securing your smart TV. It begins by asking whether your TV is connected to the internet, and if so, whether it is behind a firewall. If not, it recommends connecting it to the internet and turning on the firewall. It also recommend setting a strong password for your router and wifi network.
+
+Next, the tool recommends changing the default administrator password for your TV. It also recommends disabling features that could allow your TV to be controlled remotely, such as wake
+<br>
+=More Information=
+<br>
+https://securityplanner.consumerreports.org/tool/secure-your-smart-tv
+[[Category:Smart TVs]]

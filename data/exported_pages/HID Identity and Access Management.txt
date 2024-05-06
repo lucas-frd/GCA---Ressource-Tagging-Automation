@@ -1,0 +1,11 @@
+=Description=
+<br>
+HID Identity and Access Management (IAM) is a security solution that helps organizations manage user identities and permissions. It includes a centralized user management console, an audit trail to track user activity, and a self-service password reset feature. IAM can be used to control access to physical and logical resources, such as doors, computers, and applications. It can also be used to manage digital identities, such as social media accounts and email accounts.
+<br>
+=More Information=
+<br>
+https://www.hidglobal.com/products/identity-and-access-management/
+[[Category:Biometric]]
+[[Category:Identity & Access Management (IAM)]]
+[[Category:Single Sign-On (SSO)]]
+[[Category:Two-Factor & Multi-Factor Authentication]]

@@ -1,0 +1,8 @@
+=Description=
+<br>
+The Clarke County Sheriff's Office is responsible for enforcing the law, protecting citizens, and investigating cybercrimes within Clarke County, Ohio.
+<br>
+=More Information=
+<br>
+https://www.clarkcountyohio.gov/574/Cybercrimes
+[[Category:Ohio]]

@@ -1,0 +1,8 @@
+=Description=
+<br>
+Corbado is a project management tool that helps teams manage their projects and work together more efficiently. It features a Kanban board that visualizes project progress and ensures that everyone is on the same page. Additionally, Corbado includes tools for collaboration, such as chat and video conferencing, as well as a file sharing system.
+<br>
+=More Information=
+<br>
+https://corbado.com/
+[[Category:Password Managers]]

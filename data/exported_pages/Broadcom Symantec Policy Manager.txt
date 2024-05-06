@@ -1,0 +1,11 @@
+=Description=
+<br>
+Broadcom Symantec Policy Manager is a cybersecurity solution designed and developed by Broadcom, a leading global technology company. Broadcom is based in San Jose, California and has offices and operations in over 30 countries worldwide. The company is known for its cutting-edge and innovative products and services that aim to secure and enhance the performance of enterprise networks, cloud infrastructure, and applications.
+
+Symantec Policy Manager is one of Broadcom's flagship products in their cybersecurity portfolio. It is a comprehensive solution that helps organizations
+<br>
+=More Information=
+<br>
+https://www.broadcom.com/products#cybersecurity
+[[Category:Governance, Risk, and Compliance (GRC)]]
+[[Category:Security Policies, Procedures, and Guidelines]]

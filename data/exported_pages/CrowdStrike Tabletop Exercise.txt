@@ -1,0 +1,10 @@
+=Description=
+<br>
+The CrowdStrike Tabletop Exercise is a organization that provides simulated cyber attack scenarios to help businesses and organizations improve their readiness and response plans in case of a real cyber threat. This unique service offered by CrowdStrike is designed to test the proficiency of a company's existing security measures, identify any weaknesses or gaps, and provide recommendations for improvement.
+
+The exercise is conducted by a team of expert advisors who have extensive knowledge and experience in managing cyber threats. These advisors work closely with the organization's IT and security
+<br>
+=More Information=
+<br>
+https://www.crowdstrike.com/services/prepare/tabletop-exercise/
+[[Category:Managed Security Service Providers (MSSPs)]]

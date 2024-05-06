@@ -1,0 +1,9 @@
+=Description=
+<br>
+Cybersecurity Services is a Wipfli cybersecurity consulting service that helps businesses identify and manage cybersecurity risks. The service includes a comprehensive assessment of the company's cybersecurity readiness, development of a customized cybersecurity program, and ongoing monitoring and support. The service is designed to help businesses protect their confidential data, comply with industry regulations, and avoid costly cyberattacks.
+<br>
+=More Information=
+<br>
+https://www.wipfli.com/services/consulting/cybersecurity
+[[Category:Nonprofits & Charities]]
+[[Category:Small & Medium Sized Businesses]]

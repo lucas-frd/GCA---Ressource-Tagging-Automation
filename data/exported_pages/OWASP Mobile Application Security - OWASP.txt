@@ -1,0 +1,9 @@
+=Description=
+<br>
+The OWASP Mobile Application Security (MAS) flagship project provides a security standard for mobile apps (OWASP MASVS), a comprehensive testing guide (OWASP MASTG) and a checklist bringing everything together. Together they provide that covers during a m
+<br>
+=More Information=
+<br>
+https://owasp.org/www-project-mobile-app-security/
+[[Category:CIS - 16 - Application Software Security]]
+[[Category:Developers and Development Organizations]]

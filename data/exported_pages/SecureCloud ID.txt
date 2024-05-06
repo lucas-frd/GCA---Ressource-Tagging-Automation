@@ -1,0 +1,8 @@
+=Description=
+<br>
+Securecloud ID offers a comprehensive and centralized solution for managing users, applications, and devices across hybrid IT environments. It provides visibility into risk, automates identity lifecycle management, and delivers strong authentication and authorization. With Securecloud ID, you can quickly and easily onboard users, Applications, and devices while maintaining security and compliance.
+<br>
+=More Information=
+<br>
+https://www.cisco.com/c/en/us/solutions/security/securex.html
+[[Category:Single Sign-On (SSO)]]

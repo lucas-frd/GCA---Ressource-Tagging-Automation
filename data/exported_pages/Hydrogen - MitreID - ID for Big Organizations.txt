@@ -1,0 +1,8 @@
+=Description=
+<br>
+MitreID is an enterprise-level identity management system that enables organizations to securely manage the identities of their employees, partners, and customers. It provides a centralized repository for identity information and enables Single Sign-On (SSO) access to corporate applications and resources. MitreID also supports strong authentication methods, such as two-factor authentication, to further secure access to sensitive data and systems.
+<br>
+=More Information=
+<br>
+https://www.preempt.com/
+[[Category:Single Sign-On (SSO)]]

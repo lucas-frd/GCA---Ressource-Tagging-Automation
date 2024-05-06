@@ -1,0 +1,8 @@
+=Description=
+<br>
+Memory integrity is a security feature in Windows that helps protect against rootkits and other sophisticated malware that can execute code in a protected area of memory. By configuring code integrity policies, administrators can specify which code can run in protected memory and which code can not. This can help prevent malicious code from running and potentially compromising the system.
+<br>
+=More Information=
+<br>
+https://learn.microsoft.com/en-us/windows/security/threat-protection/device-guard/enable-virtualization-based-protection-of-code-integrity
+[[Category:Servers]]

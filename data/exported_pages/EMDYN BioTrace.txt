@@ -1,0 +1,8 @@
+=Description=
+<br>
+EMDYN BioTrace monitor changes in heart rate, blood pressure, and respiration rate in order to provide feedback for relaxation and stress management. It is a wearable device that can be used for both short-term and long-term monitoring. The device is simple to use and can be worn for extended periods of time. EMDYN BioTrace is an FDA cleared device and has been clinically validated.
+<br>
+=More Information=
+<br>
+https://www.emdyn.com/biotrace/
+[[Category:Biometric]]

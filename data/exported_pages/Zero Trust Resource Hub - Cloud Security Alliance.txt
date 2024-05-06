@@ -1,0 +1,8 @@
+=Description=
+<br>
+Curated site of useful Zero Trust technical documents and standards
+<br>
+=More Information=
+<br>
+https://cloudsecurityalliance.org/zt/resources/
+[[Category:All Businesses]]

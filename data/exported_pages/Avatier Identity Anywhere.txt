@@ -1,0 +1,12 @@
+=Description=
+<br>
+Founded in 1997, Avatier is the leader in identity management software. Avatier Identity Anywhere is the company’s flagship product, and allows organizations to securely manage and protect user identities and access to critical resources. With Identity Anywhere, organizations can quickly and easily deploy strong authentication, authorization, and single sign-on capabilities across their entire enterprise.
+
+Avatier Identity Anywhere is a highly scalable and flexible solution that can be deployed on-premises or
+<br>
+=More Information=
+<br>
+https://avatier.com/identity-anywhere/
+[[Category:Single Sign-On (SSO)]]
+[[Category:User Provisioning & Governance]]
+[[Category:Identity & Access Management (IAM)]]

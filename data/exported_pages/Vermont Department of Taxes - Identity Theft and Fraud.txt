@@ -1,0 +1,8 @@
+=Description=
+<br>
+The Vermont Department of Taxes' Identity Theft and Fraud organization provides resources and assistance for individuals and businesses impacted by tax-related identity theft and fraud.
+<br>
+=More Information=
+<br>
+http://tax.vermont.gov/help-and-resources/identity-theft-and-fraud
+[[Category:Vermont]]

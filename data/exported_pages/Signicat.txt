@@ -1,0 +1,9 @@
+=Description=
+<br>
+The Signicat tool enables users to sign documents electronically. It is a secure and efficient way to sign documents, and eliminates the need for paper documents. The tool is easy to use, and enables users to sign documents from any device.
+<br>
+=More Information=
+<br>
+https://www.signicat.com/
+[[Category:Biometric]]
+[[Category:Two-Factor & Multi-Factor Authentication]]

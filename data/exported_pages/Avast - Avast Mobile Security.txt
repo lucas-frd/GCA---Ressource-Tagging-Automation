@@ -1,0 +1,11 @@
+=Description=
+<br>
+Avast Mobile Security is a security tool for Android devices that provides protection against malware, spyware, and other threats. It also includes features such as a remote lock and wipe, which can help you if your device is lost or stolen. Avast Mobile Security is available for free, and there is also a premium version with additional features.
+<br>
+=More Information=
+<br>
+https://www.avast.com/en-us/free-mobile-security#pc
+[[Category:Mobile Device Management]]
+[[Category:Scams]]
+[[Category:Anti-virus & Anti-malware Software]]
+[[Category:Android]]

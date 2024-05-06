@@ -1,0 +1,10 @@
+=Description=
+<br>
+FusionAuth is a free and open source identity management system that provides features like user registration and login, password management, two-factor authentication, and more. It's designed to be easy to use and scalable, making it a good choice for organizations of all sizes.
+<br>
+=More Information=
+<br>
+https://fusionauth.io/
+[[Category:Single Sign-On (SSO)]]
+[[Category:User Provisioning & Governance]]
+[[Category:Two-Factor & Multi-Factor Authentication]]

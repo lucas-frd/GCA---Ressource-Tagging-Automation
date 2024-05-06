@@ -1,0 +1,8 @@
+=Description=
+<br>
+FireEye HELM is a security management tool that consolidates security posture across an organization’s hybrid IT environment. It provides a unified view of an organization’s security posture, maps security events to the underlying business processes, and includes automation and workflows to help manage and resolve security incidents. HELM also provides integration with a variety of security products and services, including firewalls, intrusion detection and prevention systems, and vulnerability scanners.
+<br>
+=More Information=
+<br>
+https://www.fireeye.com/solutions/helm.html
+[[Category:Threat & Vulnerability Management]]

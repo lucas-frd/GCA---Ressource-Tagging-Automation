@@ -1,0 +1,16 @@
+=Description=
+<br>
+This resource focuses on helping individuals and businesses avoid online scams. In partnership with the Canada Revenue Agency (CRA), the blog post provides insights into the importance of cyber security. It acknowledges the prevalence of scams in our daily lives, such as suspicious phone calls, emails, and text messages.
+  
+  The article aims to raise awareness about these scams and offers guidance on how to protect oneself from falling victim to them. It emphasizes the need for vigilance and caution when interacting online, particularly when sharing personal information or engaging in financial transactions.
+  
+  By partnering with the CRA, the resource benefits from their expertise in cyber security and their commitment to safeguarding Canadians. This collaboration enhances the credibility and reliability of the information provided.
+  
+  While the article does not delve into specific scam techniques or provide step-by-step instructions, it serves as a starting point for individuals and businesses to educate themselves about online scams. It encourages readers to stay informed, be skeptical of unsolicited communications, and report any suspicious activity to the appropriate authorities.
+  
+  Overall, this resource serves as a valuable reminder of the prevalence of online scams and the importance of taking proactive measures to protect oneself and others from falling victim to them.
+<br>
+=More Information=
+<br>
+https://www.getcybersafe.gc.ca/en/blogs/helping-others-avoid-online-scams
+[[Category:Scams and Phishing]]

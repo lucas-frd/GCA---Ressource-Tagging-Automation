@@ -1,0 +1,18 @@
+=Description=
+<br>
+This resource is a security configuration management (SCM) solution called Tripwire Enterprise. It is designed to assist organizations in maintaining superior security and achieving continuous compliance. 
+ 
+ Tripwire Enterprise is known for its file integrity monitoring (FIM) capabilities, which allow it to accurately identify security misconfigurations and indicators of compromise. By doing so, it helps organizations reduce their attack surface and enhance their overall security posture.
+ 
+ One of the main features of Tripwire Enterprise is its real-time detection capability. This feature enables organizations to quickly identify and respond to threats, anomalies, and suspicious changes. By shortening the time it takes to catch and limit damage from these security incidents, Tripwire Enterprise helps organizations mitigate potential risks more effectively.
+ 
+ Another key feature of Tripwire Enterprise is its deep system visibility. This capability provides organizations with unparalleled insight into the state of their security systems. By having a comprehensive understanding of their security infrastructure, organizations can make informed decisions and take proactive measures to strengthen their security defenses.
+ 
+ Overall, Tripwire Enterprise serves as a powerful tool for organizations seeking to enhance their security and maintain compliance. Its combination of file integrity monitoring, real-time detection, and deep system visibility makes it a valuable resource for identifying and addressing security vulnerabilities.
+<br>
+=More Information=
+<br>
+https://www.tripwire.com/products/tripwire-enterprise
+[[Category:Operational]]
+[[Category:Systems, Devices, Applications, and Services]]
+[[Category:Configuration Management]]

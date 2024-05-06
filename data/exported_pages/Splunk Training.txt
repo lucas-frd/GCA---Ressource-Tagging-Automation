@@ -1,0 +1,9 @@
+=Description=
+<br>
+The Splunk Training is a web-based application that helps users learn how to use Splunk software. The app provides a series of tutorials and exercises to help users master Splunk's search, reporting, and analysis features. The app also includes a simulated environment that allows users to practice using Splunk without having to install the software on their own computer.
+<br>
+=More Information=
+<br>
+https://bots.splunk.com/login?redirect=/
+[[Category:Security Awareness & Training]]
+[[Category:Security Information & Event Management (SIEM)]]

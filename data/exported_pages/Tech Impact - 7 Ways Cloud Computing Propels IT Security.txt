@@ -1,0 +1,10 @@
+=Description=
+<br>
+This resource explores the intersection of cloud computing and IT security, highlighting seven ways in which cloud technology is driving advancements in security, particularly through encryption. The article acknowledges the common misconception that cloud computing and IT security are separate entities, but emphasizes the potential consequences of overlooking their connection. By taking a broader perspective on IT security, the resource aims to shed light on the significant role that cloud computing plays in shaping security practices. The article does not delve into specific details or examples, but rather provides a general overview of the seven ways in which the cloud is driving IT security. It suggests that the prevalence of cloud-related breaches in the media contributes to the misconception that cloud computing and security are unrelated. However, by examining IT security through a wider lens, readers can gain a better understanding of the crucial role that cloud technology plays in shaping security measures. Overall, this resource serves as a concise introduction to the relationship between cloud computing and IT security. It highlights the importance of recognizing the impact of cloud technology on security practices and encourages readers to consider the ways in which the cloud can drive advancements in encryption and other security measures.
+<br>
+=More Information=
+<br>
+https://blog.techimpact.org/7-ways-cloud-computing-propels-it-security
+[[Category:Risks & Threats]]
+[[Category:Cloud Services]]
+[[Category:Social Media]]

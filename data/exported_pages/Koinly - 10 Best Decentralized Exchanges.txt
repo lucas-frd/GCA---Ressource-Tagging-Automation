@@ -1,0 +1,12 @@
+=Description=
+<br>
+The Koinly blog lists the 10 best decentralized exchanges (DEXes) currently available. The list is based on a number of factors including liquidity, security, features, and user experience.
+
+1. Uniswap
+
+Uniswap is a DEX built on Ethereum that allows for the swapping of ERC20 tokens. It uses a liquidity pool model, which means that there is no order book or traditional trading pairs. Instead, users supply liquidity to the
+<br>
+=More Information=
+<br>
+https://koinly.io/blog/best-decentralized-exchanges/
+[[Category:Decentralized Exchange (DEX) Use]]

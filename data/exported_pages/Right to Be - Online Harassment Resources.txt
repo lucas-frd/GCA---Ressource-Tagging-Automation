@@ -1,0 +1,16 @@
+=Description=
+<br>
+This resource provides a range of content types and subjects to address various societal issues. It aims to assist individuals in healing, developing resilience, and acquiring the necessary training to make a positive impact. The resource covers topics such as active shooter situations, bystander intervention, implicit bias, online and public harassment, repairing harm, and responding to workplace harassment. It also emphasizes the importance of self-care as an act of revolution.
+ 
+ One of the main features of this resource is its comprehensive collection of resources that individuals can utilize to begin their healing journey or support others who have experienced harassment. It offers a platform for individuals to share their stories or read and support others who have faced similar challenges.
+ 
+ Additionally, the resource provides an opportunity for users to donate, enabling the organization to continue its work in addressing these issues. It also offers a contact option for general inquiries, press inquiries, training requests, or corporate engagements.
+ 
+ Overall, this resource serves as a valuable tool for individuals seeking guidance, support, and training in order to address and combat various forms of harassment. It provides a platform for sharing experiences, accessing resources, and contributing to positive change in society.
+<br>
+=More Information=
+<br>
+https://righttobe.org/resources/?page=2&subject=3
+[[Category:Cyberbullying]]
+[[Category:Digital Etiquette]]
+[[Category:Account Safety & Privacy]]

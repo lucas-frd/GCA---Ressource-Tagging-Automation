@@ -1,0 +1,8 @@
+=Description=
+<br>
+The New York City Police Department is the primary law enforcement agency responsible for maintaining public safety and investigating crimes in New York City.
+<br>
+=More Information=
+<br>
+https://www1.nyc.gov/site/nypd/bureaus/investigative/detectives.page
+[[Category:New York]]

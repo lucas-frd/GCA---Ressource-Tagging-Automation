@@ -1,0 +1,8 @@
+=Description=
+<br>
+The JumpCloud Open Directory Platform enables businesses to securely connect their employees to the resources they need, whether it’s on-premises or in the cloud. With JumpCloud, businesses can synchronize their employee data across all their applications and devices, ensuring that everyone has the same up-to-date information. JumpCloud also provides a single sign-on solution, so employees only have to remember one set of credentials to access all their applications. The Open Directory Platform is designed to
+<br>
+=More Information=
+<br>
+https://jumpcloud.com/solutions/open-directory-platform/
+[[Category:Identity & Access Management (IAM)]]

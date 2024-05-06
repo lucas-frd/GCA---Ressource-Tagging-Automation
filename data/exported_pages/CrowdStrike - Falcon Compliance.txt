@@ -1,0 +1,10 @@
+=Description=
+<br>
+CrowdStrike is a cybersecurity company that offers a suite of advanced data protection tools under their Falcon Compliance product line. Founded in 2011, CrowdStrike's mission is to stop breaches by providing cloud-delivered endpoint protection. They utilize cutting-edge technology and world-class threat intelligence to protect their clients' data and networks from cyberattacks.
+
+Falcon Compliance is a sub-organization of CrowdStrike that specializes in providing compliance solutions to businesses of all sizes. Their services are designed to ensure that companies are
+<br>
+=More Information=
+<br>
+https://www.crowdstrike.com/products/data-protection/
+[[Category:Compliance]]

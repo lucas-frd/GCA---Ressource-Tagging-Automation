@@ -1,0 +1,8 @@
+=Description=
+<br>
+The Cloud Infrastructure Entitlement Management (CIM) tool is designed to help organizations manage their cloud infrastructure entitlements. It provides a centralized view of all cloud entitlements, including those for infrastructure as a service (IaaS), Platform as a Service (PaaS), and Software as a Service (SaaS). The CIM tool also provides an entitlement management system that can be used to track and manage cloud entitlements. The CIM tool is designed to work with all
+<br>
+=More Information=
+<br>
+https://www.cloudinfrastructureentitlementmanagement.com/
+[[Category:Identity & Access Management (IAM)]]

@@ -1,0 +1,8 @@
+=Description=
+<br>
+The SANS Institute offers a tool called SIFT, which stands for SANS Investigative Forensic Toolkit. This toolkit is designed to give investigators the ability to perform a variety of forensic tasks on a variety of different platforms. The SIFT workstation is a Linux Virtual Machine that is pre-configured with all of the necessary tools and data. The SIFT workstation can be run on a variety of different platforms, including Windows, MacOS, and Linux. The SIFT work
+<br>
+=More Information=
+<br>
+https://sans.org/sift
+[[Category:Incident Reporting & Recovery]]

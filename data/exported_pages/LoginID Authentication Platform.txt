@@ -1,0 +1,9 @@
+=Description=
+<br>
+LoginID Authentication Platform provides customers with a secure way to log in to their accounts and access their personal information. The platform uses a variety of authentication methods, including biometrics, to verify the identity of the user and allow them to access their account. LoginID also offers a variety of features to its customers, including the ability to securely store their personal information, create a personal profile, and receive customer support.
+<br>
+=More Information=
+<br>
+https://loginid.io/
+[[Category:Two-Factor & Multi-Factor Authentication]]
+[[Category:Biometric]]

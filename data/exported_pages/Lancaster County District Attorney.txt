@@ -1,0 +1,8 @@
+=Description=
+<br>
+The Lancaster County District Attorney organization is responsible for the investigation and prosecution of criminal cases in Lancaster County, Pennsylvania.
+<br>
+=More Information=
+<br>
+https://www.co.lancaster.pa.us/516/Computer-Forensic-Unit
+[[Category:Pennsylvania]]

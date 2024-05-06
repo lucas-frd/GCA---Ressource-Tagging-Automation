@@ -1,0 +1,8 @@
+=Description=
+<br>
+Prove is a tool that allows users to create and share proofs of their work. It allows users to create a proof by taking a photo or video of their work, and then sharing it with others. The tool also allows users to share their proofs with others via email, social media, or by embedding them on their website. Prove has a free and paid version, and the paid version offers more features, such as the ability to create private proofs and to use custom branding.
+<br>
+=More Information=
+<br>
+https://www.prove.com/
+[[Category:Two-Factor & Multi-Factor Authentication]]

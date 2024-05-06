@@ -1,0 +1,8 @@
+=Description=
+<br>
+Collabfiltrator is a tool used to help identify possible malicious collaboration among adversaries. It does this by first identifying communication channels between systems, then inspecting the traffic for indicators of suspicious or malicious activity. This tool can be used to help analysts understand the relationships and communications between adversaries, and can also be used to help identify potential new threats.
+<br>
+=More Information=
+<br>
+https://github.com/0xC01DF00D/Collabfiltrator
+[[Category:DNS]]

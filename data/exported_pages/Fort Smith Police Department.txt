@@ -1,0 +1,8 @@
+=Description=
+<br>
+The Fort Smith Police Department is a law enforcement organization dedicated to protecting the community and combating cybercrime.
+<br>
+=More Information=
+<br>
+https://old.fortsmithpd.org/CyberInvestUnit.asp
+[[Category:Arkansas]]

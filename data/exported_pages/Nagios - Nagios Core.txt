@@ -1,0 +1,17 @@
+=Description=
+<br>
+This tool, Nagios Core, is an open-source industry standard for IT infrastructure monitoring and alerting. It offers several benefits to IT staff in monitoring and managing critical components of their infrastructure.
+ 
+ One of the main features of Nagios Core is its monitoring capability. IT staff can configure Nagios to monitor various aspects of their IT infrastructure, such as system metrics, network protocols, applications, services, servers, and network infrastructure. This allows them to keep a close eye on the health and performance of these components.
+ 
+ Another key feature is the alerting system. Nagios Core sends alerts to administrators when critical infrastructure components fail or recover. This timely notification ensures that administrators are promptly informed about important events and can take necessary actions. Alerts can be delivered through email, SMS, or custom scripts, providing flexibility in how administrators receive notifications.
+ 
+ Additionally, Nagios Core offers a response mechanism. IT staff can acknowledge alerts and take appropriate actions to address the issues identified. This helps in streamlining the incident response process and ensuring that problems are resolved efficiently.
+ 
+ Overall, Nagios Core serves as a reliable and comprehensive tool for IT infrastructure monitoring and alerting. Its open-source nature makes it accessible to a wide range of users, and its features enable IT staff to proactively manage their infrastructure and respond effectively to critical events.
+<br>
+=More Information=
+<br>
+https://www.nagios.com/products/nagios-core/
+[[Category:Nonprofits & Charities]]
+[[Category:Small & Medium Sized Businesses]]

@@ -1,0 +1,10 @@
+=Description=
+<br>
+Ensighten is a technology company based in San Jose, California that specializes in website security. Their website, https://www.ensighten.com/website-security/, serves as a platform for potential customers to learn more about the organization's security solutions and services. The website exudes a professional and modern feel, with a clean and organized layout that makes it easy to navigate.
+
+The homepage of the website immediately captures the attention of visitors with a bold and impactful banner. The top navigation bar provides
+<br>
+=More Information=
+<br>
+https://www.ensighten.com/website-security/
+[[Category:Websites & Applications]]

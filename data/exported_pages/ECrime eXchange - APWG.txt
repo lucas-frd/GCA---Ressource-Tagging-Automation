@@ -1,0 +1,13 @@
+=Description=
+<br>
+The APWG eCrime Exchange (eCX) is the clearinghouse and repository developed specifically to exchange machine event and Internet event data about common cybercrimes such as phishing. The APWG’s member organizations contribute new data, and extract data
+<br>
+=More Information=
+<br>
+https://apwg.org/ecx
+[[Category:CIS - 9 - Email and Web Browser Protections]]
+[[Category:All Businesses]]
+[[Category:Governments and Intergovernmental Organizations]]
+[[Category:Law Enforcement]]
+[[Category:National CERTs]]
+[[Category:Nonprofits & Charities]]

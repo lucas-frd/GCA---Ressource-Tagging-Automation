@@ -1,0 +1,8 @@
+=Description=
+<br>
+Inkscape is afree and open-source vector graphics editor. It can be used to create or edit vector graphics such as illustrations, logos, and line art. It has a versatile set of features and can be extended through plugins. Inkscape is available for Microsoft Windows, macOS, and Linux.
+<br>
+=More Information=
+<br>
+https://inkscape.org/
+[[Category:Security Information & Event Management (SIEM)]]

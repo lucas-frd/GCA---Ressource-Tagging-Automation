@@ -1,0 +1,9 @@
+=Description=
+<br>
+Hitachi ID Identity Manager is an enterprise identity management system that provides a central repository for identity information and automates the provisioning and de-provisioning of users across systems. It includes features such as workflow-based approval processes, role-based access control, and self-service password management. It integrates with a variety of systems, both on-premises and in the cloud, and supports a wide range of authentication methods.
+<br>
+=More Information=
+<br>
+https://www.hitachi-id.com/idm/
+[[Category:User Provisioning & Governance]]
+[[Category:Identity & Access Management (IAM)]]

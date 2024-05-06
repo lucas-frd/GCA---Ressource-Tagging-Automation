@@ -1,0 +1,9 @@
+=Description=
+<br>
+Netcat is a client-server networking tool used for reading and writing data across a network. It can be used for a variety of purposes, including network debugging, port scanning, and file transfer. Netcat is a versatile tool that can be used in a number of different ways, making it a valuable tool for system administrators and security professionals.
+<br>
+=More Information=
+<br>
+https://netcat.sourceforge.io/
+[[Category:Secure Interactions]]
+[[Category:Sensitive Data]]

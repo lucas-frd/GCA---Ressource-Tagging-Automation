@@ -1,0 +1,8 @@
+=Description=
+<br>
+A Canadian law that gives the public the right to access government information and protects the privacy of individuals.
+<br>
+=More Information=
+<br>
+https://www.canada.ca/en/treasury-board-secretariat/services/access-information-privacy.html
+[[Category:Canada]]

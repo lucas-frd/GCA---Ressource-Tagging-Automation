@@ -1,0 +1,8 @@
+=Description=
+<br>
+FuseLogic is an identity and access management tool that helps organizations secure and manage access to their data and resources. FuseLogic provides a centralized platform for managing user identities, permissions, and access controls. It enables organizations to control who has access to what data and resources, and helps to ensure that only authorized users can access sensitive information. FuseLogic also provides auditing and reporting capabilities to help organizations track and manage access to their data and resources.
+<br>
+=More Information=
+<br>
+https://www.fuselogic.com/identity-access-management/
+[[Category:Identity & Access Management (IAM)]]

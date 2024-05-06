@@ -1,0 +1,8 @@
+=Description=
+<br>
+Binary Edge is a vulnerability management and intelligence gathering platform. The platform enables users to scan for vulnerabilities in their systems and infrastructure, as well as gather intelligence on potential threats. Binary Edge also provides access to a range of security tools and services, including malware analysis and incident response.
+<br>
+=More Information=
+<br>
+https://app.binaryedge.io/sign-up
+[[Category:Threat & Vulnerability Management]]

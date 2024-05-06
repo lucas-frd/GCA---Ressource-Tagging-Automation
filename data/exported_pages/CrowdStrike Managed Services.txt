@@ -1,0 +1,10 @@
+=Description=
+<br>
+CrowdStrike Managed Services is a part of the larger organization CrowdStrike, a leading cloud-native endpoint protection company. The Managed Services division offers advanced cybersecurity solutions to its clients, combining industry-leading technology, expert analysis, and customized security strategies to provide high-quality protection against cyber threats. 
+
+At CrowdStrike Managed Services, the primary focus is on providing proactive and comprehensive security solutions to organizations of all sizes and across industries. Their services aim to reduce the burden on internal IT teams, allowing them to focus
+<br>
+=More Information=
+<br>
+https://www.crowdstrike.com/services/
+[[Category:Managed Security Service Providers (MSSPs)]]

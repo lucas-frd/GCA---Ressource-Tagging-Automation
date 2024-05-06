@@ -1,0 +1,9 @@
+=Description=
+<br>
+Carbon Black TAU Excel 4 Macro Analysis is a tool that can be used to analyze Excel 4 macros. This tool is written in Python and is open source. This tool can be used to extract information from Excel 4 macros, such as the macro author, macro description, and macro code. This tool can also be used to generate a report that can be used to understand the behavior of the macro and to determine whether the macro is malicious.
+<br>
+=More Information=
+<br>
+https://github.com/carbonblack/excel4-tests
+[[Category:Security Testing & Auditing]]
+[[Category:Attack & Penetration Testing]]

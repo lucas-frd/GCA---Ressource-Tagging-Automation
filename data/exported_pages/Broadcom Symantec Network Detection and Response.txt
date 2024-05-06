@@ -1,0 +1,10 @@
+=Description=
+<br>
+Broadcom Symantec Network Detection and Response is an organization that focuses on providing cutting-edge solutions to protect and defend against cyber threats. It is a subsidiary of Broadcom, a leading global technology company that offers a wide range of products and services in the areas of networking, storage, software, and semiconductors.
+
+The primary objective of Broadcom Symantec Network Detection and Response is to provide advanced cybersecurity solutions that enable businesses to effectively detect, investigate, and respond to cyber threats in real-time
+<br>
+=More Information=
+<br>
+https://www.broadcom.com/products#cybersecurity
+[[Category:Network Detection and Response (NDR)]]

@@ -1,0 +1,10 @@
+=Description=
+<br>
+Keycloak is a Java-based security management tool for web applications which is developed by Red Hat. It provides Single-Sign-On (SSO) and User Federation capabilities for web applications deployed in JBoss Application Server or WildFly containers. Keycloak can be used as an Identity Provider (IdP) for SAML and OpenID Connect (OIDC) services. It also provides an administrative console and APIs for management tasks.
+
+Keycloak's major features
+<br>
+=More Information=
+<br>
+https://www.keycloak.org/
+[[Category:Single Sign-On (SSO)]]

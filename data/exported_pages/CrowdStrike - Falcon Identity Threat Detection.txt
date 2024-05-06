@@ -1,0 +1,10 @@
+=Description=
+<br>
+Falcon Identity Protection is an organization that specializes in threat detection and prevention for enterprise identities. They are a part of the larger cybersecurity company, CrowdStrike, which is headquartered in Sunnyvale, California. Falcon Identity Protection was founded in 2011 and has quickly become a leading provider of identity threat detection services for businesses and organizations. 
+
+Their mission is to provide comprehensive, proactive protection for enterprise identities across multiple platforms and applications. They focus on identifying and preventing cyber threats, such as account takeovers
+<br>
+=More Information=
+<br>
+https://www.crowdstrike.com/products/identity-protection/
+[[Category:Identity & Access Management (IAM)]]

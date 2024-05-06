@@ -1,0 +1,9 @@
+=Description=
+<br>
+Akku is a software tool designed to help manage and monitor digital assets. It provides users with a complete view of their portfolio, including all relevant data and analytics. Akku also offers a number of features to help users track and monitor their investments, including alerts, news, and notifications.
+<br>
+=More Information=
+<br>
+https://www.akku.com/
+[[Category:User Provisioning & Governance]]
+[[Category:Identity & Access Management (IAM)]]

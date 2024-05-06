@@ -1,0 +1,8 @@
+=Description=
+<br>
+The Biloxi Police Department is a law enforcement agency responsible for investigating and preventing crime in the city of Biloxi, Mississippi.
+<br>
+=More Information=
+<br>
+https://biloxi.ms.us/criminal-investigations-division/
+[[Category:Mississippi]]

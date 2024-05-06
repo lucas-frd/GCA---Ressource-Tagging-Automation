@@ -1,0 +1,9 @@
+=Description=
+<br>
+Security Onion is a distribution of Linux that provides visibility into your network by providing network security monitoring tools. The project is open source and hosted on GitHub. The distribution includes a number of tools for traffic analysis, intrusion detection, and security forensics. Security Onion can be deployed as a standalone server or can be integrated into an existing network.
+<br>
+=More Information=
+<br>
+https://securityonionsolutions.com/software/
+[[Category:Threat & Vulnerability Management]]
+[[Category:Security Information & Event Management (SIEM)]]

@@ -1,0 +1,10 @@
+=Description=
+<br>
+Industrial threat defense is a specialized organization founded and based in Cisco, one of the leading companies in the technology industry. It offers a wide range of advanced solutions and services designed specifically for industrial environments to protect against cyber threats. The organization's main goal is to provide comprehensive security solutions that address the unique challenges faced by industrial companies, such as manufacturing, energy, and transportation.
+
+The core focus of Industrial threat defense is to secure industrial control systems (ICS) and critical infrastructure against cyber attacks, theft,
+<br>
+=More Information=
+<br>
+https://www.cisco.com/site/us/en/products/security/all-products.html
+[[Category:Threat & Vulnerability Management]]

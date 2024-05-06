@@ -1,0 +1,11 @@
+=Description=
+<br>
+The Splunk Attack Range is a free and open source tool that allows users to create and manage security simulations within their Splunk instance. With this tool, security analysts can define various attack scenarios and then monitor and analyze the data generated from these simulations. This allow users to identify potential security issues and gaps in their Splunk instance, and then take corrective action to mitigate these risks. The Splunk Attack Range is a valuable tool for any organization using Splunk, and can help make Splunk
+<br>
+=More Information=
+<br>
+https://github.com/splunk/attack_range
+[[Category:Security Testing & Auditing]]
+[[Category:Attack & Penetration Testing]]
+[[Category:Cloud Services]]
+[[Category:Cloud Security]]

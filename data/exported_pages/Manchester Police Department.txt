@@ -1,0 +1,8 @@
+=Description=
+<br>
+The Manchester Police Department's Cybercrime Unit is responsible for investigating and preventing cybercrimes in the city.
+<br>
+=More Information=
+<br>
+https://www.manchesternh.gov/Departments/Police/Cybercrime-Unit
+[[Category:New Hampshire]]

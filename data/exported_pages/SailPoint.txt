@@ -1,0 +1,11 @@
+=Description=
+<br>
+SailPoint is an enterprise software company that provides Identity and Access Management (IAM) solutions. The company's core products are its IdentityIQ and SailPoint SecurityIQ platforms, which provide governance, risk management, and compliance capabilities for organizations. SailPoint's products are available on-premises and as software-as-a-service (SaaS) offerings.
+
+SailPoint was founded in 2005 and is headquartered in Austin, Texas. The company has over 1,
+<br>
+=More Information=
+<br>
+https://www.sailpoint.com/
+[[Category:Identity & Access Management (IAM)]]
+[[Category:User Provisioning & Governance]]

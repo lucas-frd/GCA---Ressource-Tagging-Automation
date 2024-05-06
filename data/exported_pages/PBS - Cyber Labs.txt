@@ -1,0 +1,18 @@
+=Description=
+<br>
+This resource, provided by Lockheed Martin, offers an interactive cybersecurity lab where users can take control of defending a company against cyber attacks. The lab presents a series of cybersecurity challenges that aim to strengthen users' understanding of cyber defenses and their ability to thwart attackers. By engaging in activities such as password cracking, code crafting, and defeating malicious hackers, users can enhance their knowledge and skills in the field of cybersecurity.
+  
+  The lab is designed to simulate real-world scenarios, allowing users to experience the challenges faced by organizations in protecting their digital assets. Through hands-on exercises, users can gain practical insights into the techniques and strategies employed by cyber attackers, as well as the countermeasures used to safeguard against them.
+  
+  This resource is produced for PBS Online by WGBH, a 501(c)(3) not-for-profit organization. It provides an engaging and educational platform for individuals interested in cybersecurity to learn and test their skills. Users are encouraged to create an account to save their progress, although it is important to note that progress will not be saved without logging in.
+  
+  Overall, this cybersecurity lab offers an interactive and immersive experience for users to develop their understanding of cyber defenses and hone their abilities to protect against increasingly sophisticated cyber attacks.
+<br>
+=More Information=
+<br>
+https://www.pbs.org/wgbh/nova/labs/lab/cyber/
+[[Category:Security Awareness & Training]]
+[[Category:Websites & Applications]]
+[[Category:Games & Activities]]
+[[Category:Risk Self-Assessment]]
+[[Category:Videos]]

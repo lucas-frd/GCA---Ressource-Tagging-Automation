@@ -1,0 +1,8 @@
+=Description=
+<br>
+Corsha is a cloud-based platform that enables businesses to manage and optimize their customer relationships. It provides a suite of tools to help businesses automate their customer relationship management (CRM) processes, including contact management, sales force automation, and marketing automation. Corsha also offers a range of features to help businesses improve their customer service, such as a knowledge base, customer forums, and live chat.
+<br>
+=More Information=
+<br>
+https://www.corsha.com/
+[[Category:Two-Factor & Multi-Factor Authentication]]

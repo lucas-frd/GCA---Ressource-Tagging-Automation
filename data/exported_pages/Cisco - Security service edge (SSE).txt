@@ -1,0 +1,10 @@
+=Description=
+<br>
+The Security Service Edge (SSE) is an innovative security solution offered by Cisco, a leading technology company with over 30 years of experience in providing networking and security solutions to businesses worldwide. The SSE is designed to provide robust and comprehensive security to various network endpoints, including cloud applications, mobile devices, data centers, and branch offices.
+
+The SSE is built on Cisco's extensive portfolio of security products and services, including firewalls, intrusion prevention systems, advanced threat protection, and cloud security, to
+<br>
+=More Information=
+<br>
+https://www.cisco.com/site/us/en/products/security/all-products.html
+[[Category:Cloud Security]]

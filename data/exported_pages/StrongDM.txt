@@ -1,0 +1,8 @@
+=Description=
+<br>
+StrongDM is a Dynamic Access Management platform that puts people first by giving technical staff a direct route to the critical infrastructure they need to be their most productive. End users enjoy frictionless access to all of their work resources, whether on-premises or in the cloud. StrongDM delivers complete visibility into how your resources are being accessed and by whom, so you can be confident that your data is always safe.
+<br>
+=More Information=
+<br>
+https://www.strongdm.com/
+[[Category:Identity & Access Management (IAM)]]

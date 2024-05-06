@@ -1,0 +1,15 @@
+=Description=
+<br>
+This resource provides guidance on protecting the future of a nonprofit's data and online presence. It emphasizes the importance of taking proactive steps to secure online activities, especially in light of recent data hacks. The resource suggests referring to the IRS guide and a separate guide for small businesses (which is also applicable to nonprofits) for best practices. The main recommendation is to circulate the advice from the IRS and discuss it with the nonprofit's paid staff, volunteers, and anyone else who uses the organization's computers. By doing so, the nonprofit can raise awareness about the potential risks and implement necessary measures to safeguard their data. While the specific details of the IRS guide and the small business guide are not provided, the resource highlights their relevance and encourages nonprofits to consult them for comprehensive guidance on protecting their data. Overall, this resource serves as a reminder for nonprofits to prioritize data security and offers a starting point for organizations to take action in safeguarding their online activities. By following the suggested steps and engaging in discussions about data protection, nonprofits can better protect their valuable information and ensure the continuity of their operations.
+<br>
+=More Information=
+<br>
+https://www.councilofnonprofits.org/articles/protect-future-your-nonprofits-data
+[[Category:Security Awareness & Training]]
+[[Category:Risk Reduction]]
+[[Category:Risk Self-Assessment]]
+[[Category:Risks & Threats]]
+[[Category:Understanding Relevant Threats]]
+[[Category:Data Loss Prevention (DLP)]]
+[[Category:DNS]]
+[[Category:Secure Interactions]]

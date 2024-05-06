@@ -1,0 +1,18 @@
+=Description=
+<br>
+This resource provides information on how to encrypt the data on a Mac using FileVault. FileVault is a built-in feature in macOS that allows users to secure their information by encoding the data on their startup disk. 
+  
+  The resource is part of the macOS User Guide and is categorized under the Privacy and security section. It aims to help users understand and utilize the FileVault feature effectively. 
+  
+  The main features covered in this resource include an overview of FileVault and its purpose, instructions on how to enable FileVault encryption on a Mac, and information on managing FileVault settings. 
+  
+  By following the instructions provided, users can ensure that their data is protected and inaccessible to unauthorized individuals. Encrypting Mac data with FileVault adds an extra layer of security to the device, safeguarding sensitive information from potential threats. 
+  
+  Overall, this resource serves as a comprehensive guide for Mac users who want to enhance the privacy and security of their data by utilizing the FileVault feature. It provides step-by-step instructions and explanations to help users understand the process and make informed decisions regarding their data encryption.
+<br>
+=More Information=
+<br>
+https://support.apple.com/en-gb/guide/mac-help/mh11785/mac
+[[Category:Protecting You & Your Childs Personal Information]]
+[[Category:Computers (Laptops & Desktops)]]
+[[Category:Encryption]]

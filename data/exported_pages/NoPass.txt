@@ -1,0 +1,8 @@
+=Description=
+<br>
+NoPass is a password management tool that stores your passwords securely and gives you the ability to generate strong passwords. It also allows you to share passwords with others, and gives you the ability to revoke access at any time. NoPass is available as a free trial, or you can purchase a premium subscription.
+<br>
+=More Information=
+<br>
+https://www.nopass.com/
+[[Category:Two-Factor & Multi-Factor Authentication]]

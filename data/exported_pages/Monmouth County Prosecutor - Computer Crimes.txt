@@ -1,0 +1,8 @@
+=Description=
+<br>
+The Monmouth County Prosecutor's Office Computer Crimes organization investigates and prosecutes digital crimes in Monmouth County.
+<br>
+=More Information=
+<br>
+http://mcponj.org/computer-crimes/
+[[Category:New Jersey]]

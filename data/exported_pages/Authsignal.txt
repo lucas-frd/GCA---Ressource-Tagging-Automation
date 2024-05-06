@@ -1,0 +1,9 @@
+=Description=
+<br>
+Authsignal is a platform that helps companies to secure their online presence and prevent cyber attacks. It offers a range of tools to help businesses to assess their risks, monitor their systems and protect their data.
+<br>
+=More Information=
+<br>
+https://authsignal.com/
+[[Category:Biometric]]
+[[Category:Two-Factor & Multi-Factor Authentication]]

@@ -1,0 +1,10 @@
+=Description=
+<br>
+A hardware wallet is a physical device that stores your private keys in a secure manner. They are often used in conjunction with software wallets to give users the best of both worlds - the security of a hardware wallet with the convenience of a software wallet.
+
+Hardware wallets are typically designed to be highly secure, in order to protect your private keys from being stolen by hackers. They usually have a number of security features, such as the ability to set up a PIN code or password, and a
+<br>
+=More Information=
+<br>
+https://medium.com/radartech/hardware-wallets-explained-da8bd93ce801
+[[Category:Wallet Transaction Approval Risk Management]]

@@ -1,0 +1,16 @@
+=Description=
+<br>
+This resource is a network access control (NAC) solution called Forescout. It aims to go beyond authentication by providing access control decisions powered by compliance. The purpose of this tool is to help organizations identify and manage cyber assets that may be hidden in their network blind spots. 
+
+Forescout offers several key features to achieve this goal. Firstly, it can assess the compliance posture of the identified assets, ensuring they meet the necessary security standards. If any non-compliant assets are found, the tool can trigger remediation workflows to address the issues and bring them into compliance. 
+
+Additionally, Forescout enables organizations to enforce access controls across networks of various sizes and configurations. This means that it can apply consistent security policies and restrictions to all connected devices, regardless of their location or network shape. 
+
+The effectiveness of Forescout's NAC solution has been recognized by Frost & Sullivan, who named it a 2023 Frost Radar™ NAC Innovation Leader. This analysis benchmarks the top 11 companies in the NAC market across 10 growth and innovation criteria. 
+
+In summary, Forescout's NAC solution offers organizations the ability to go beyond authentication and make access control decisions based on compliance. With features such as asset discovery, compliance assessment, remediation workflows, and network-wide access control enforcement, Forescout aims to help organizations enhance their network security and mitigate risks associated with hidden cyber assets.
+<br>
+=More Information=
+<br>
+https://www.forescout.com/solutions/network-access-control/
+[[Category:Authentication Approaches]]

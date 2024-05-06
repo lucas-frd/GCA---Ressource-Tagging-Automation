@@ -1,0 +1,8 @@
+=Description=
+<br>
+Nervepoint Access Manager is a web-based tool that helps organizations manage their internal user access to applications and data. It provides a centralized platform for managing user identities, authentication, and authorization. Access Manager also includes features for auditing and reporting on user activity.
+<br>
+=More Information=
+<br>
+https://www.nervepoint.com/access-manager/
+[[Category:User Provisioning & Governance]]

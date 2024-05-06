@@ -1,0 +1,8 @@
+=Description=
+<br>
+The Indianapolis Metropolitan Police Department is a law enforcement agency responsible for maintaining public safety in the city of Indianapolis, Indiana.
+<br>
+=More Information=
+<br>
+https://www.indy.gov/agency/indianapolis-metropolitan-police-department
+[[Category:Indiana]]

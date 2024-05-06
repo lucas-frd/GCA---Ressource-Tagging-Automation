@@ -1,0 +1,8 @@
+=Description=
+<br>
+OAuth.io is a tool that manages OAuth authentication for developers. It provides a single point of control for developers to manage OAuth connections for all their applications, and it makes it easy to connect to new services and update existing ones. OAuth.io also provides a way for developers to share their OAuth connections with other developers, so that they can use the same connections in their own applications.
+<br>
+=More Information=
+<br>
+https://oauth.io/
+[[Category:Two-Factor & Multi-Factor Authentication]]

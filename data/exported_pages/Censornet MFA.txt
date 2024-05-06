@@ -1,0 +1,8 @@
+=Description=
+<br>
+Censornet MFA is a cloud-based multi-factor authentication service that helps organizations protect their data and systems by requiring users to verify their identities using multiple factors. With Censornet MFA, users are prompted to enter their username and password, and then they are required to enter a code that is sent to their mobile device via text message or email. Censornet MFA also supports biometric authentication methods, such as fingerprint scanning and facial recognition, which makes
+<br>
+=More Information=
+<br>
+https://www.censornet.com/mfa/
+[[Category:Two-Factor & Multi-Factor Authentication]]

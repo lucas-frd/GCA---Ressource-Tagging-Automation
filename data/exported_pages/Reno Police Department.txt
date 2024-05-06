@@ -1,0 +1,8 @@
+=Description=
+<br>
+The Reno Police Department is a law enforcement organization dedicated to protecting and serving the community of Reno, Nevada.
+<br>
+=More Information=
+<br>
+https://www.renopd.com/detectives
+[[Category:Nevada]]

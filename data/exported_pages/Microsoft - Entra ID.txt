@@ -1,0 +1,9 @@
+=Description=
+<br>
+The tool Entra ID is a Microsoft tool that allows businesses to manage employee identities and access to corporate resources. The tool can be used to create and manage user accounts, assign permissions and access rights, and track user activity. The tool also provides a self-service portal for users to reset their own passwords and update their personal information. Entra ID is a cloud-based service that integrates with other Microsoft products and services, such as Active Directory, Azure Active Directory, and Office 365.
+<br>
+=More Information=
+<br>
+https://www.microsoft.com/en-us/security/identity-access-management/enterprise/entra-id
+[[Category:Single Sign-On (SSO)]]
+[[Category:Identity & Access Management (IAM)]]

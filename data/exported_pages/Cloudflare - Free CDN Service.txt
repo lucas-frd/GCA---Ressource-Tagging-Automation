@@ -1,0 +1,10 @@
+=Description=
+<br>
+Cloudflare's Free CDN Service is a content delivery network that speeds up the loading of websites by caching static content on a global network of servers. It reduces the load on the origin server and improves the user experience by delivering content from the server closest to the user. The service is free for up to 100 GB of bandwidth per month.
+<br>
+=More Information=
+<br>
+https://www.cloudflare.com/application-services/products/cdn/
+[[Category:Managed Security Service Providers (MSSPs)]]
+[[Category:Website]]
+[[Category:Internet Connection]]

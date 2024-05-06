@@ -1,0 +1,11 @@
+=Description=
+<br>
+Broadcom Symantec Threat Hunter is an organization that specializes in cybersecurity and is a part of the larger technology company Broadcom. The company offers advanced security solutions to help protect businesses and individuals from cyber threats and attacks. Broadcom Symantec Threat Hunter's mission is to proactively identify and mitigate potential security risks through advanced threat intelligence, detection, and response capabilities.
+
+Headquartered in San Jose, California, Broadcom Symantec Threat Hunter has a global presence with offices in over 25 countries. The
+<br>
+=More Information=
+<br>
+https://www.broadcom.com/products#cybersecurity
+[[Category:Endpoint Detection & Response (EDR)]]
+[[Category:Threat Hunting]]

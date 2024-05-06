@@ -1,0 +1,8 @@
+=Description=
+<br>
+The Twilio Verify API is a powerful tool that allows you to easily verify user identities. With just a few lines of code, you can easily verify user phone numbers, emails, and even Social Security numbers. Twilio Verify API is incredibly easy to use, and it's free to try. Simply sign up for a free Twilio account and you're ready to go.
+<br>
+=More Information=
+<br>
+https://www.twilio.com/verify/
+[[Category:Two-Factor & Multi-Factor Authentication]]

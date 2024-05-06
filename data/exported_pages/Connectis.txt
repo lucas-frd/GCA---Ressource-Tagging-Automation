@@ -1,0 +1,9 @@
+=Description=
+<br>
+Connectis Identity & Access Management (IAM) is a complete, cloud-based solution that helps organizations manage digital identities and access privileges across their entire ecosystem. The tool provides a central platform for provisioning and managing user accounts, as well as a comprehensive set of tools for identity and access governance. Connectis IAM is designed to work with any type of application or service, and it supports a wide range of industry-standard protocols. The tool is also fully integrated with Connectis products
+<br>
+=More Information=
+<br>
+https://www.connectis.com/iam/
+[[Category:Single Sign-On (SSO)]]
+[[Category:Identity & Access Management (IAM)]]

@@ -1,0 +1,8 @@
+=Description=
+<br>
+Zscaler's Internet Threat Exposure Analysis is a cloud-based tool that helps organizations uncover potential internet threats and vulnerabilities. The tool offers a comprehensive view of an organization's internet traffic, including external threats, internal threats, and malware. The tool also provides detailed insights into an organization's internet usage, including web browsing, email, and file sharing. Internet Threat Exposure Analysis is a valuable tool for organizations looking to improve their internet security posture.
+<br>
+=More Information=
+<br>
+http://securitypreview.zscaler.com/
+[[Category:Threat & Vulnerability Management]]

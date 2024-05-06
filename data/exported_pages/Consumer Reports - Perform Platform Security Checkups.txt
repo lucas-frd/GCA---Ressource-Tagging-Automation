@@ -1,0 +1,8 @@
+=Description=
+<br>
+Perform Platform Security Checkups is a free online tool from Consumer Reports that helps users understand the security of their online accounts and take steps to improve it. The tool provides users with a list of the most popular online platforms and asks a series of questions about each platform, such as whether the user has two-factor authentication enabled. Based on the answers provided, the tool produces a report that rates the security of the user's online accounts and provides recommendations for improving security. The report also includes
+<br>
+=More Information=
+<br>
+https://securityplanner.consumerreports.org/tool/account-security-checkups
+[[Category:Account Safety & Privacy]]

@@ -1,0 +1,10 @@
+=Description=
+<br>
+Launched in early 2019, Allthenticator is a free, open-source tool that allows users to generate one-time passcodes for two-factor authentication (2FA). Allthenticator is available for Windows, macOS, and Linux, and can be used with any service that supports the time-based one-time password (TOTP) standard, such as Google Authenticator, Microsoft Authenticator, or Authy.
+
+With Allthenticator, users
+<br>
+=More Information=
+<br>
+https://allthenticator.com/
+[[Category:Two-Factor & Multi-Factor Authentication]]

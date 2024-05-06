@@ -1,0 +1,8 @@
+=Description=
+<br>
+Verify Now (formerly known as MyVerify) is an online tool that allows users to verify the accuracy of their personal information. The tool is designed to help users avoid errors when signing up for new services or applications. Verify Now accepts information from a variety of sources, including government ID documents, utility bills, and credit reports. Once the user's information is entered, Verify Now checks the accuracy of the data and provides a report to the user. The report includes a summary of the
+<br>
+=More Information=
+<br>
+https://www.verifynow.com/
+[[Category:Two-Factor & Multi-Factor Authentication]]

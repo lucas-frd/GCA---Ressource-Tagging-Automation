@@ -1,0 +1,10 @@
+=Description=
+<br>
+Cisco XDR, also known as Cisco Extended Detection and Response, is a security solution offered by Cisco Systems, a leading multinational technology company that specializes in networking and cybersecurity products and services. Based in San Jose, California, Cisco was founded in 1984 and has become a globally recognized brand for its innovative and reliable security solutions.
+
+Cisco XDR is a comprehensive security platform that provides advanced threat detection, investigation, and response capabilities across the entire network, endpoints, cloud, and email. It combines
+<br>
+=More Information=
+<br>
+https://www.cisco.com/site/us/en/products/security/all-products.html
+[[Category:Network Security]]

@@ -1,0 +1,10 @@
+=Description=
+<br>
+Opentext is an organization that specializes in providing security solutions for cloud-based environments. They offer a range of products and services that aim to protect data, applications, and infrastructure in the cloud. The company was founded in 1991 and is headquartered in Waterloo, Ontario, Canada.
+
+Opentext's main focus is on providing secure cloud solutions for businesses across various industries. Their products and services include cloud access security broker (CASB), secure file sharing and collaboration, cloud data protection, secure
+<br>
+=More Information=
+<br>
+https://www.opentext.com/products/security-cloud
+[[Category:Identity & Access Management (IAM)]]

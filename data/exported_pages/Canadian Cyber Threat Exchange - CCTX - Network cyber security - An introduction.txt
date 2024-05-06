@@ -1,0 +1,17 @@
+=Description=
+<br>
+This resource provides an introduction to network cyber security, focusing on the importance of protecting network devices such as modems and routers. It highlights the often overlooked role of these devices in our daily lives and emphasizes the need to prioritize their security.
+  
+  The article acknowledges that network devices are typically taken for granted until something goes wrong. It emphasizes the significance of these devices, which silently work in the background while our attention is focused on other devices. The resource aims to shift this perspective and encourage users to appreciate and safeguard their network devices.
+  
+  The main purpose of this resource is to raise awareness about the importance of network cyber security and to motivate users to take action to protect their devices. It emphasizes the need to show appreciation for these devices by implementing measures to keep them safe from cyber threats.
+  
+  While the article does not provide specific details about the recommended security measures, it serves as a starting point for users to understand the significance of network cyber security. By highlighting the role of network devices and the need to prioritize their protection, the resource aims to prompt users to explore further resources or seek professional advice on securing their network devices.
+  
+  In summary, this resource introduces the concept of network cyber security and emphasizes the importance of protecting network devices. It encourages users to appreciate the role of these devices and take steps to ensure their safety from cyber threats.
+<br>
+=More Information=
+<br>
+https://www.getcybersafe.gc.ca/en/blogs/network-cyber-security-introduction
+[[Category:Security Awareness & Training]]
+[[Category:Network Devices]]

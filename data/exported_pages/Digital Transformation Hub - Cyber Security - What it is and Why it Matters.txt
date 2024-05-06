@@ -1,0 +1,10 @@
+=Description=
+<br>
+Cyber security is the practice of protecting computer networks, systems and user data from unauthorized access or theft. It is a growing concern for businesses and individuals alike, as the number and sophistication of cyber attacks continues to rise. Cyber security encompasses a range of measures, including firewalls, encryption, access control and malware detection and removal. It is important to implement these measures in order to protect your data and your business from the potentially devastating consequences of a breach.
+<br>
+=More Information=
+<br>
+https://digitaltransformation.org.au/guides/cyber-security/cyber-security-what-it-and-why-it-matters
+[[Category:Security Awareness & Training]]
+[[Category:Risks & Threats]]
+[[Category:Risk Reduction]]

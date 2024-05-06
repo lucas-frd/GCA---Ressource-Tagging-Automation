@@ -1,0 +1,10 @@
+=Description=
+<br>
+Content Awareness is a digital security organization that is based in Check Point, a multi-national technology company that specializes in providing advanced cybersecurity solutions for businesses and organizations. Check Point was founded in 1993 by Gil Shwed, Marius Nacht, and Shlomo Kramer, and has since grown to become a global leader in the cybersecurity industry with over 100,000 customers worldwide.
+
+At its core, Content Awareness is focused on delivering innovative and comprehensive security solutions to protect organizations from advanced cyber threats.
+<br>
+=More Information=
+<br>
+https://www.checkpoint.com/products/
+[[Category:Firewalls]]

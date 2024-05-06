@@ -1,0 +1,8 @@
+=Description=
+<br>
+The New Hampshire State Police is a law enforcement agency responsible for conducting specialized investigations and providing services to the community.
+<br>
+=More Information=
+<br>
+https://www.nhsp.dos.nh.gov/our-services/investigative-services-bureau/special-investigations
+[[Category:New Hampshire]]

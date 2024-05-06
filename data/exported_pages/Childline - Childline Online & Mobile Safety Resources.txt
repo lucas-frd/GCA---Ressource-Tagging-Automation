@@ -1,0 +1,10 @@
+=Description=
+<br>
+Childline is a website and helpline for children and young people in the UK. They offer confidential advice and support on issues such as bullying, abuse, and online safety. The website has a range of resources, including articles, videos, and interactive games, to help children and young people stay safe online. There is also a dedicated page for parents and carers, with advice on how to keep their child safe online. Childline also offer a mobile app, which gives children and
+<br>
+=More Information=
+<br>
+https://www.childline.org.uk/info-advice/bullying-abuse-safety/online-mobile-safety/
+[[Category:Cyberbullying]]
+[[Category:Hotlines & Services]]
+[[Category:Websites & Applications]]

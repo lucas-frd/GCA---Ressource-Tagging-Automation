@@ -1,0 +1,17 @@
+=Description=
+<br>
+This resource is the Heimdal Threat-hunting & Action Center, a comprehensive platform designed to enhance security measures. It combines the power of advanced XTP engine technology with the integration of the Heimdal suite, offering security teams a holistic view of their IT landscape.
+ 
+ The main purpose of the Heimdal Threat-hunting & Action Center is to provide security teams with an advanced threat and risk-centric perspective of their entire IT infrastructure. By offering granular telemetry across endpoints and networks, the platform enables swift decision-making in response to potential threats.
+ 
+ One of the key features of this platform is its integration with the award-winning Heimdal suite. This integration ensures that security teams have access to a wide range of security tools and functionalities, enhancing their ability to detect and respond to threats effectively.
+ 
+ The Heimdal Threat-hunting & Action Center leverages the power of the advanced XTP engine, which enables proactive threat hunting and detection. This engine utilizes cutting-edge technology to identify and mitigate potential risks before they can cause significant harm.
+ 
+ Overall, the Heimdal Threat-hunting & Action Center is a revolutionary platform that empowers security teams to take a proactive approach to threat detection and response. By providing a comprehensive view of the IT landscape and leveraging advanced technology, this platform equips organizations with the tools they need to enhance their security posture and protect against evolving threats.
+<br>
+=More Information=
+<br>
+https://heimdalsecurity.com/enterprise-security/products/threat-hunting-action-center.php
+[[Category:Nonprofits & Charities]]
+[[Category:Small & Medium Sized Businesses]]

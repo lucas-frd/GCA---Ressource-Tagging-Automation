@@ -1,0 +1,8 @@
+=Description=
+<br>
+Cybersecurity Awareness Month is an annual event that is designed to raise awareness about the importance of cybersecurity and to provide resources to help individuals and organizations stay safe online. The event is organized by the National Cybersecurity Alliance, a nonprofit, public-private partnership that is dedicated to promoting cybersecurity awareness and education. Each year, the event focuses on a different theme, and this year's theme is Own Your Cybersecurity. The event includes a variety of resources, such as blog posts,
+<br>
+=More Information=
+<br>
+https://staysafeonline.org/programs/cybersecurity-awareness-month/
+[[Category:Individuals]]

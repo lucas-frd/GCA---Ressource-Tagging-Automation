@@ -1,0 +1,8 @@
+=Description=
+<br>
+Opal Security is a cloud-based security platform that helps organizations secure their data and applications. It provides a unified platform for managing security risks, compliance, and infrastructure security. Opal Security enables organizations to securely store, share, and Collaborate on sensitive data. It also helps organizations manage user access to data and applications, and provides a centralized view of security risks.
+<br>
+=More Information=
+<br>
+https://opal-security.com/
+[[Category:User Provisioning & Governance]]

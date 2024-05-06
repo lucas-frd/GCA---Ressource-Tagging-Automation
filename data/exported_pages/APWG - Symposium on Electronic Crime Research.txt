@@ -1,0 +1,18 @@
+=Description=
+<br>
+This resource, the Symposium on Electronic Crime Research (eCrime 2022), is an annual event that aims to foster collaboration and knowledge exchange among academic researchers, industry security practitioners, and law enforcement in the field of cybercrime. The symposium spans three days and features a diverse program consisting of keynote presentations, technical and practical sessions, and interactive panels.
+
+The primary objective of eCrime 2022 is to provide a platform for experts to discuss and share their experiences, ideas, and lessons learned in combating various forms of electronic crime. The symposium covers a wide range of topics related to detecting and mitigating eCrime, including online fraud, malware, phishing, ransomware, and more.
+
+Academic researchers have the opportunity to submit their work for presentation at the symposium, allowing them to showcase their research findings and contribute to the collective understanding of electronic crime. The symposium also encourages industry security practitioners and law enforcement professionals to share their practical insights and strategies for combating cyber threats.
+
+By bringing together experts from different backgrounds, eCrime 2022 facilitates interdisciplinary collaboration and promotes the development of effective countermeasures against electronic crime. Attendees can expect to gain valuable knowledge, network with professionals in the field, and stay up-to-date with the latest advancements in cybercrime research and prevention.
+
+Overall, the Symposium on Electronic Crime Research (eCrime 2022) serves as a vital resource for those interested in understanding and addressing the challenges posed by electronic crime. It offers a platform for collaboration, knowledge sharing, and the exploration of innovative solutions to combat cyber threats.
+<br>
+=More Information=
+<br>
+https://ecrimeresearch.org/ecrime-symposium/
+[[Category:All Businesses]]
+[[Category:Governments and Intergovernmental Organizations]]
+[[Category:Individuals]]

@@ -1,0 +1,9 @@
+=Description=
+<br>
+Microsoft's Enterprise ID (EID) is a tool that helps organizations manage identity and access across their enterprise. It provides a centralized identity management platform that can be used to manage user accounts, permissions, and access control. EID also offers an SSO solution that allows users to access multiple applications with a single sign-on. Microsoft EID integrates with Active Directory and other popular identity management solutions to provide a comprehensive solution for enterprise identity and access management.
+<br>
+=More Information=
+<br>
+https://www.microsoft.com/en-us/security/enterprise/identity-and-access-management/
+[[Category:User Provisioning & Governance]]
+[[Category:Two-Factor & Multi-Factor Authentication]]

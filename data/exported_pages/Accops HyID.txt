@@ -1,0 +1,10 @@
+=Description=
+<br>
+Accops HyID is an enterprise-grade solution that allows organizations to securely store and manage their identity information. It provides a centralized repository for storing and managing identity data, as well as a robust set of tools for administering and regulating access to this data. Accops HyID also offers a wide range of features for managing user identities, such as the ability to create and manage user accounts, set up and enforce identity policies, and monitor and audit user activity.
+<br>
+=More Information=
+<br>
+https://accops.com/hyid/
+[[Category:Single Sign-On (SSO)]]
+[[Category:Identity & Access Management (IAM)]]
+[[Category:Two-Factor & Multi-Factor Authentication]]

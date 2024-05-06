@@ -1,0 +1,8 @@
+=Description=
+<br>
+The Alabama Law Enforcement Agency is a state government organization responsible for providing law enforcement services and promoting public safety throughout Alabama.
+<br>
+=More Information=
+<br>
+https://www.alea.gov/contact-alea
+[[Category:Alabama]]

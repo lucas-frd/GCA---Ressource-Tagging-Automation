@@ -1,0 +1,8 @@
+=Description=
+<br>
+Spiceworks is a comprehensive IT management software that helps businesses in a variety of ways. It gives businesses the ability to inventory and track their hardware and software, monitor their networks, and resolve issues. In addition, Spiceworks provides a marketplace where businesses can find and compare products and services, and connect with IT professionals.
+<br>
+=More Information=
+<br>
+https://www.spiceworks.com/
+[[Category:Know What You Have - Create an Inventory]]

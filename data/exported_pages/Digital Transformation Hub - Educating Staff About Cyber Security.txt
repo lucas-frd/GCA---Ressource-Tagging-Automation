@@ -1,0 +1,8 @@
+=Description=
+<br>
+The resource Educating Staff About Cyber Security is a part of the Digital Transformation Hub, a website dedicated to providing useful resources and information on digital transformation for businesses and organizations.
+<br>
+=More Information=
+<br>
+https://digitaltransformation.org.au/guides/cyber-security/educating-staff-about-cyber-security
+[[Category:Controlling Access & Authentication]]

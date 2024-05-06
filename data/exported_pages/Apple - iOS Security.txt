@@ -1,0 +1,15 @@
+=Description=
+<br>
+Developed by Apple, iOS Security is a security guide that helps iPhone and iPad users protect their devices from malware, phishing attacks, and other security threats. The guide provides tips on how to create strong passwords, how to avoid sharing personal information online, and how to keep your device up to date with the latest security patches. In addition, the guide includes information on how to use Apple's built-in security features, such as Touch ID and Find My iPhone, to further protect your
+<br>
+=More Information=
+<br>
+https://support.apple.com/guide/security/welcome/web
+[[Category:Recognising Untrustworthy or Inappropriate Applications]]
+[[Category:Virtual Assistants & Smart Speakers]]
+[[Category:Encryption]]
+[[Category:Device & Operating Systems Updates]]
+[[Category:Passwords]]
+[[Category:Smart Phones]]
+[[Category:Anti-virus & Anti-malware Software]]
+[[Category:iOS Devices]]

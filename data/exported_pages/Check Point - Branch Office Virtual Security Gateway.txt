@@ -1,0 +1,10 @@
+=Description=
+<br>
+Branch Office Virtual Security Gateway is a virtualized security solution offered by Check Point, a leading provider of cybersecurity solutions. The company was founded in 1993 in Israel and has since become a global leader in the industry, serving over 100,000 organizations of various sizes and industries.
+
+The Branch Office Virtual Security Gateway is designed to provide advanced security to branch and remote offices, ensuring protection against cyber threats while maintaining the performance and efficiency of the network. This solution is a part of the Check Point
+<br>
+=More Information=
+<br>
+https://www.checkpoint.com/products/
+[[Category:Firewalls]]

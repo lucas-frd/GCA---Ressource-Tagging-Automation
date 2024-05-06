@@ -1,0 +1,8 @@
+=Description=
+<br>
+The Walton County Sheriffs Office is a law enforcement agency responsible for protecting and serving the community of Walton County, providing a safe and secure environment for its citizens.
+<br>
+=More Information=
+<br>
+https://waltonso.org/law-enforcement/
+[[Category:Florida]]

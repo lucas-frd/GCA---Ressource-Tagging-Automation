@@ -1,0 +1,10 @@
+=Description=
+<br>
+At the core of AIDE is a database of 4 years' worth of global honeyfarm data. The current focus is on using the data to identify pockets of criminality and encourage cleanup in source networks. The ultimate goal is to use this sort of intelligence to info
+<br>
+=More Information=
+<br>
+https://www.globalcyberalliance.org/aide/
+[[Category:Developers and Development Organizations]]
+[[Category:ISPs]]
+[[Category:National CERTs]]

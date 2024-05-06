@@ -1,0 +1,9 @@
+=Description=
+<br>
+The OWASP Security Knowledge Framework is an open source web application that explains secure coding principles in multiple programming languages. The goal of OWASP-SKF is to help you learn and integrate security by design in your software development and
+<br>
+=More Information=
+<br>
+https://owasp.org/www-project-security-knowledge-framework/
+[[Category:CIS - 16 - Application Software Security]]
+[[Category:Developers and Development Organizations]]

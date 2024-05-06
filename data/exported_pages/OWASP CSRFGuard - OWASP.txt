@@ -1,0 +1,9 @@
+=Description=
+<br>
+OWASP CSRFGuard is a library that implements a variant of the synchronizer token pattern to mitigate the risk of Cross-Site Request Forgery (CSRF) attacks.
+<br>
+=More Information=
+<br>
+https://owasp.org/www-project-csrfguard/
+[[Category:CIS - 16 - Application Software Security]]
+[[Category:Developers and Development Organizations]]

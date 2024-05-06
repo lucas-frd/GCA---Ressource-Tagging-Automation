@@ -1,0 +1,10 @@
+=Description=
+<br>
+Clerk.dev is found at https://clerk.dev/, and is a
+
+Developer platform that enables you to code, manage and ship code faster. It provides you with 8 tools that makes your coding experience more efficient and straightforward. These tools include: an IDE, a code management system, a code shipping system, and a code review system. Additionally, Clerk.dev provides you with a community of other developers who can help answer your questions and review your code.
+<br>
+=More Information=
+<br>
+https://clerk.dev/
+[[Category:Two-Factor & Multi-Factor Authentication]]

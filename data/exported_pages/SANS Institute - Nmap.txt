@@ -1,0 +1,13 @@
+=Description=
+<br>
+Nmap is a network exploration and security auditing tool. It can be used to identify hosts and services on a network, as well as security issues. Nmap can be used to scan for vulnerable open ports on systems.
+
+Nmap is a free and open source tool that is available for Windows, Linux, and OS X. Nmap has a graphical user interface (GUI) and a command-line interface (CLI). Nmap can be used to scan for vulnerable open
+<br>
+=More Information=
+<br>
+https://nmap.org/
+[[Category:Security Testing & Auditing]]
+[[Category:Attack & Penetration Testing]]
+[[Category:Threat & Vulnerability Management]]
+[[Category:Know What You Have - Create an Inventory]]

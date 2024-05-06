@@ -1,0 +1,8 @@
+=Description=
+<br>
+The 10Duke Enterprise platform enables businesses to quickly and easily deploy and manage APIs and microservices. The platform provides a complete end-to-end solution for creating, deploying, managing, and scaling APIs and microservices. The platform is available as a self-hosted solution or as a cloud-based service. The 10Duke Enterprise platform is built on top of the open source 10Duke Core API Management platform. The platform provides a web-based UI for managing APIs and
+<br>
+=More Information=
+<br>
+https://www.10duke.com/
+[[Category:User Provisioning & Governance]]

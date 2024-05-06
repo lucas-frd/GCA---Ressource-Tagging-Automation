@@ -1,0 +1,13 @@
+=Description=
+<br>
+CyberSafety Platform is an organization based in CloudCover, a leading cybersecurity company. The platform provides innovative and advanced solutions to protect businesses from cyber threats. It offers a comprehensive suite of tools and services designed to safeguard businesses against various cyber attacks.
+
+The platform is designed to cater to the needs of businesses of all sizes, from small startups to large enterprises. It is a cloud-based solution, which means it can be accessed from anywhere with an internet connection. This makes it highly convenient for businesses that
+<br>
+=More Information=
+<br>
+https://cloudcover.cc/ccb1-platform/
+[[Category:Insurance]]
+[[Category:Threat & Vulnerability Management]]
+[[Category:Security Information & Event Management]]
+[[Category:Risk Monitoring]]

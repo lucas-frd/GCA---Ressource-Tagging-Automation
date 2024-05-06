@@ -1,0 +1,8 @@
+=Description=
+<br>
+DGM is a Deep Security Manager that helps you govern your data with centralized control and visibility. It provides you with the ability to centrally manage and monitor data security, compliance, and risk across your organization. It gives you the ability to create and enforce policies to ensure that your data is protected and compliant with industry regulations. It also provides you with real-time visibility into your data security posture, so you can quickly identify and respond to threats.
+<br>
+=More Information=
+<br>
+https://www.deepsecuritymanager.com/data-governance/
+[[Category:User Provisioning & Governance]]

@@ -1,0 +1,8 @@
+=Description=
+<br>
+The SSO-Rest is a Single Sign On service that offers a REST API to enable you to easily add SSO capabilities to your web applications. It provides a simple,ECMAScript-compliant JSON interface that allows you to quickly add SSO functionality to your web applications without having to deal with the underlying authentication mechanisms. The SSO-Rest API is designed to work with any application that supports theJSON format, making it easy to integrate SSO into your existing web applications
+<br>
+=More Information=
+<br>
+https://www.ssorest.com/
+[[Category:Single Sign-On (SSO)]]

@@ -1,0 +1,8 @@
+=Description=
+<br>
+Metasploit is a free and open source penetration testing tool that helps security professionals find and exploit security vulnerabilities in systems and applications. It can be used to launch attacks and test defenses. Metasploit has a large database of exploit code for a variety of platforms. It also includes tools for developing and testing new exploits. Metasploit is a powerful tool that should be in every security professional's toolkit.
+<br>
+=More Information=
+<br>
+https://www.metasploit.com/download
+[[Category:Threat & Vulnerability Management]]

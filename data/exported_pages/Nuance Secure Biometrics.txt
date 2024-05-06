@@ -1,0 +1,8 @@
+=Description=
+<br>
+Nuance Security offers a tool called Secure Biometrics that allows organizations to authenticate individuals based on their biometric data. This data can include fingerprints, iris scans, and facial recognition. The tool allows organizations to set up authentication systems that are more secure than traditional password-based systems. This is because biometric data is unique to each individual and is very difficult to replicate. In addition, Secure Biometrics offers a number of other security features, such as the ability to
+<br>
+=More Information=
+<br>
+https://www.nuance.com/en-us/solutions/security/secure-biometrics/
+[[Category:Biometric]]

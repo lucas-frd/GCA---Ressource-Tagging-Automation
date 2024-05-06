@@ -1,0 +1,8 @@
+=Description=
+<br>
+The Directive on Copyright in the Digital Single Market is a European Union directive that was adopted in 2019. The directive updates the EU's copyright laws for the digital age and includes new provisions on online copyright infringement, value sharing between online platforms and copyright holders, and the use of copyrighted materials in education and research.
+<br>
+=More Information=
+<br>
+https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32019L0790
+[[Category:European Union]]

@@ -1,0 +1,8 @@
+=Description=
+<br>
+AU10TIX's BOS is the world's first and only end-to-end solution for automated ID verification and authentication, combing ID document scanning, machine vision,III and advanced ID data validation for a wide range of ID types from over 200 countries. By automating the entire ID verification process, from ID document authentication to live video biometrics, AU10TIX's BOS speeds up customer on-boarding and KYC/AML compliance while eliminating expensive and
+<br>
+=More Information=
+<br>
+https://www.au10tix.com/
+[[Category:Biometric]]

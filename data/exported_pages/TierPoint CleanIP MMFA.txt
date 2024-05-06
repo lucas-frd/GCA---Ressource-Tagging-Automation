@@ -1,0 +1,8 @@
+=Description=
+<br>
+The TierPoint CleanIP MMFA is a secure web gateway that filters internet traffic and blocks malicious content, phishing attempts, and other online threats. The appliance is easy to deploy and manage, and offers comprehensive protection for businesses of all sizes.
+<br>
+=More Information=
+<br>
+https://www.tierpoint.com/products/cleanip-mmfa/
+[[Category:Two-Factor & Multi-Factor Authentication]]

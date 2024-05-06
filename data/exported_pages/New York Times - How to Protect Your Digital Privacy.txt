@@ -1,0 +1,11 @@
+=Description=
+<br>
+The New York Times' How to Protect Your Digital Privacy guide is a comprehensive look at the various ways you can keep your data and online activity private. The guide covers everything from using a VPN and TOR to browsing the web anonymously and encrypting your email. It also includes advice on securing your social media accounts and avoiding online scams. Overall, the guide is an excellent resource for anyone who wants to learn more about how to protect their digital privacy.
+<br>
+=More Information=
+<br>
+https://www.nytimes.com/guides/privacy-project/how-to-protect-your-digital-privacy
+[[Category:Political and Social-1]]
+[[Category:Election Officials-1]]
+[[Category:Journalists-1]]
+[[Category:Voters-1]]

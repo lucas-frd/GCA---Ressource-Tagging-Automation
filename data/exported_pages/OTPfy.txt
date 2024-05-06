@@ -1,0 +1,8 @@
+=Description=
+<br>
+OTPfy is a tool that allows users to generate one-time passwords (OTPs) for use with two-factor authentication (2FA). The tool provides a step-by-step guide for setting up OTP generation and provides a handy password generator that can be used to create strong, unique passwords for each account. OTPfy also includes a QR code generator that can be used to create QR codes that can be scanned by a mobile device to set up 2FA.
+<br>
+=More Information=
+<br>
+https://otpfy.com/
+[[Category:Two-Factor & Multi-Factor Authentication]]

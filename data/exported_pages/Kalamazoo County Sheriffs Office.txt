@@ -1,0 +1,8 @@
+=Description=
+<br>
+"The Kalamazoo County Sheriffs Office is a law enforcement organization responsible for protecting and serving the residents of Kalamazoo County, Michigan."
+<br>
+=More Information=
+<br>
+https://www.kalcounty.com/sheriff/operations.htm
+[[Category:Michigan]]

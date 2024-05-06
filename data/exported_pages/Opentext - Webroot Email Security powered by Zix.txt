@@ -1,0 +1,10 @@
+=Description=
+<br>
+Webroot Email Security powered by Zix is a cloud-based email security solution provided by OpenText, a global leader in information management and security. The solution is designed to protect businesses from email-based threats such as phishing, malware, and data breaches.
+
+At its core, Webroot Email Security powered by Zix is based on the Zix platform, a secure messaging platform developed by Zix Corporation, a leader in email encryption and data protection solutions. Zix's advanced threat intelligence and encryption technology
+<br>
+=More Information=
+<br>
+https://www.opentext.com/products/security-cloud
+[[Category:Email & Other Communications]]

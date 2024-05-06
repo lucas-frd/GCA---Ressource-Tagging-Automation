@@ -1,0 +1,8 @@
+=Description=
+<br>
+The Magento 2 Mobile Login Extension is a tool that allows customers to log in to their Magento 2 account using their mobile phone. The extension will send a text message to the customer's mobile phone with a login link. The customer can then click on the link and be taken directly to their account page. The extension also includes a "remember me" feature so that customers can stay logged in on their mobile phone for future visits.
+<br>
+=More Information=
+<br>
+https://www.magento.com/magento-2/mobile-login-extension.html
+[[Category:Two-Factor & Multi-Factor Authentication]]

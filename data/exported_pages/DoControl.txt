@@ -1,0 +1,8 @@
+=Description=
+<br>
+DoControl is a cloud-based quality management software that helps companies to improve their quality management processes and compliance with quality standards. It offers a central platform for managing quality documents, maintaining version control, and approvals. The software enables companies to track Quality KPIs, view real-time reports, create quality alerts, and distribute quality tasks. It also offers a mobile app for field teams to access quality data on the go. DoControl is a flexible and scalable solution that can be customized to meet
+<br>
+=More Information=
+<br>
+https://docontrol.com/
+[[Category:User Provisioning & Governance]]

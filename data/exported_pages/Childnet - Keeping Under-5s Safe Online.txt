@@ -1,0 +1,18 @@
+=Description=
+<br>
+This resource provides online safety advice for parents and carers with young children. According to Ofcom's research, a significant number of 3-4 year olds have access to tablets, with some even having their own. As technology becomes increasingly prevalent in children's lives, it is important for parents to ensure their youngest ones are protected while using the internet.
+  
+  The resource offers 8 top tips that parents can implement at home to promote online safety for their young children. These tips aim to create a secure online environment and guide parents in managing their children's online activities. While the specific tips are not mentioned in the provided text, they likely cover areas such as setting parental controls, monitoring screen time, and teaching children about online privacy and appropriate behavior.
+  
+  By following these tips, parents can help their children enjoy the benefits of technology while minimizing potential risks. It is crucial for parents to be proactive in safeguarding their children's online experiences, considering the wide range of activities children engage in online, including playing games, communicating with family, watching videos, and using voice-enabled technologies.
+  
+  Overall, this resource serves as a valuable guide for parents and carers, equipping them with practical advice to ensure the online safety of their young children.
+<br>
+=More Information=
+<br>
+https://www.childnet.com/help-and-advice/keeping-young-children-safe-online/
+[[Category:Recognising Untrustworthy or Inappropriate Applications]]
+[[Category:Websites & Applications]]
+[[Category:Encouraging an Open Dialogue with Your Child]]
+[[Category:Explaining the Risks]]
+[[Category:Planning Your Security Together]]

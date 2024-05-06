@@ -1,0 +1,11 @@
+=Description=
+<br>
+The Global Cyber Alliance (GCA) is an international non-profit organisation whose mission is to eliminate cyber risk and improve online trust. One of the ways it does this is by providing resources and guidance on implementing DMARC, which is a security protocol that helps organisations to protect their email communications from being spoofed or used for phishing attacks.
+
+The GCA's DMARC Setup Guide & Resources includes a step-by-step guide on how to configure DMARC for your organisation
+<br>
+=More Information=
+<br>
+https://www.globalcyberalliance.org/dmarc/
+[[Category:Nonprofits & Charities]]
+[[Category:Small & Medium Sized Businesses]]

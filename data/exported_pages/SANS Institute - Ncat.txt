@@ -1,0 +1,9 @@
+=Description=
+<br>
+The SANS Institute has developed a tool called Ncat which is a network exploration and administration tool. It can be used for tasks such as port scanning,posing as a web server, transferring files, or connecting to a remote shell. Ncat is written in the C programming language and is available for free from the institute's website.
+<br>
+=More Information=
+<br>
+https://ncat.org/
+[[Category:Security Devices]]
+[[Category:Security Information & Event Management (SIEM)]]

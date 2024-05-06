@@ -1,0 +1,9 @@
+=Description=
+<br>
+Sandbox Scryer is a malware analysis tool that can be used to analyze PE files and PDFs. It uses a combination of static and dynamic analysis to generate a report on the malware.
+<br>
+=More Information=
+<br>
+https://github.com/PayloadSecurity/Sandbox_Scryer
+[[Category:Threat & Vulnerability Management]]
+[[Category:Security Information & Event Management (SIEM)]]

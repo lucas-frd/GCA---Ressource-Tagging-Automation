@@ -1,0 +1,9 @@
+=Description=
+<br>
+Evidan Identity Governance and Administration is a web-based tool that helps organizations manage and govern their identities. It allows organizations to create and manage identity and access policies, and provides a centralized repository for identity data. It also includes workflow capabilities to help automate and manage access requests and approvals.
+<br>
+=More Information=
+<br>
+https://www.evidian.com/identity-and-access-management/
+[[Category:Single Sign-On (SSO)]]
+[[Category:User Provisioning & Governance]]

@@ -1,0 +1,8 @@
+=Description=
+<br>
+The CloudAccess Identity Management tool is a cloud-based tool that allows organizations to manage their identity and access management needs in one place. The tool provides a central repository for storing and managing user accounts, passwords, and permissions. It also provides a way to connect to other systems and applications using single sign-on (SSO) technology. The tool includes a built-in workflow engine that allows organizations to automate their identity and access management processes.
+<br>
+=More Information=
+<br>
+https://www.cloudaccess.com/identity-management/
+[[Category:Identity & Access Management (IAM)]]

@@ -1,0 +1,8 @@
+=Description=
+<br>
+The tool More Cyber Security Resources is a digital transformation hub that provides up to date resources and information on how to protect your business from cybercrime. The site offers a range of resources including guides, tip sheets, checklists and templates to help businesses implement effective cyber security measures. The site also includes case studies and interviews with experts in the field, to provide insights into the latest threats and trends.
+<br>
+=More Information=
+<br>
+https://digitaltransformation.org.au/guides/cyber-security/more-cyber-security-resources
+[[Category:Security Awareness & Training]]

@@ -1,0 +1,8 @@
+=Description=
+<br>
+The Brookline Police Department's Detective Division is responsible for investigating and solving criminal cases in the Brookline community.
+<br>
+=More Information=
+<br>
+https://www.brooklinepolice.com/134/Detective-Division
+[[Category:Massachusetts]]

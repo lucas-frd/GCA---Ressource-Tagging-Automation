@@ -1,0 +1,10 @@
+=Description=
+<br>
+DEX Security Guide is an organization that focuses on providing comprehensive security guidelines for decentralized exchanges (DEXs). It is a sub-division of CoolWallet, a leading provider of secure blockchain hardware wallets for cryptocurrencies.
+
+The organization's mission is to educate users on the potential security risks associated with using DEXs and provide them with the necessary knowledge and tools to protect their assets. DEX Security Guide recognizes the growing popularity of DEXs as they offer a decentralized and user-controlled approach to trading and handling cryptocurrencies and other types of blockchain-based digital assets.
+<br>
+=More Information=
+<br>
+https://www.coolwallet.io/blog/decentralized-exchange-dex-security-guide/
+[[Category:DEX Best Practices]]

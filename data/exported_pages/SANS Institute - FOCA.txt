@@ -1,0 +1,13 @@
+=Description=
+<br>
+FOCA is a tool that helps analysts and investigators to recover metadata and other hidden information from the files that organizations store on their networks. By analyzing these files, FOCA can help to uncover evidence of malicious or unauthorized activity. This tool can be used to analyze a variety of file types, including office documents, PDFs, and images.
+<br>
+=More Information=
+<br>
+https://www.sans.org/tools/?per-page=100
+[[Category:Threat & Vulnerability Management]]
+[[Category:Know What Your Have - Create an Inventory]]
+[[Category:Understanding Relevant Threats]]
+[[Category:Understanding Your Risks]]
+[[Category:Risk Self-Assessment]]
+[[Category:Risk Reduction]]

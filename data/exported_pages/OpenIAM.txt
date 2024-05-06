@@ -1,0 +1,8 @@
+=Description=
+<br>
+OpenIAM is an online tool that allows organizations to manage their digital identities. It provides a single platform for managing multiple identities and provides a variety of features to help organizations control access to their resources. OpenIAM also offers a variety of reports and analytics to help organizations understand their identity management practices.
+<br>
+=More Information=
+<br>
+https://www.securecloudid.com/
+[[Category:Single Sign-On (SSO)]]

@@ -1,0 +1,11 @@
+=Description=
+<br>
+The YubiKey is a hardware device that provides an additional layer of security when used in conjunction with a software application. The device, which is about the size of a standard USB flash drive, contains a built-in cryptographic chip that generates a unique key when pressed. This key can then be used to authenticate the user to a web application or service.
+
+The YubiKey is designed to be a convenient and affordable alternative to traditional two-factor authentication devices, which can be
+<br>
+=More Information=
+<br>
+https://www.yubico.com/
+[[Category:Two-Factor & Multi-Factor Authentication]]
+[[Category:Biometric]]

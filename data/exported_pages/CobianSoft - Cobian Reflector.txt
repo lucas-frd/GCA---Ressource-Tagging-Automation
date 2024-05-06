@@ -1,0 +1,16 @@
+=Description=
+<br>
+This resource is called Cobian Backup, a file-backup program designed to create automatic backups for directories and files. It offers the flexibility of running as a service or a regular application. Cobian Backup allows users to back up their data to various locations, including the same computer, network, or even an FTP server. The program supports compression and encryption, ensuring the security and efficiency of the backup process.
+
+In addition to Cobian Backup, there is also Cobian Reflector, a new addition to the Cobian Backup family. While limited information is provided about Cobian Reflector, it appears to be a separate tool or feature within the Cobian Backup suite.
+
+Cobian Backup provides users with a reliable solution for safeguarding their important files and directories. By automating the backup process, users can ensure that their data is protected without the need for manual intervention. The program's ability to back up to various locations, including FTP servers, offers flexibility and convenience.
+
+With compression and encryption capabilities, Cobian Backup prioritizes data security and storage efficiency. Users can compress their backups to save disk space and encrypt their data to protect it from unauthorized access.
+
+Overall, Cobian Backup is a versatile and user-friendly file-backup program that offers a range of features to meet the needs of individuals and businesses alike. Whether running as a service or a regular application, users can rely on Cobian Backup to create automatic backups and protect their valuable data.
+<br>
+=More Information=
+<br>
+https://www.cobiansoft.com/cobianbackup.html
+[[Category:Backup & Restoration of Data]]

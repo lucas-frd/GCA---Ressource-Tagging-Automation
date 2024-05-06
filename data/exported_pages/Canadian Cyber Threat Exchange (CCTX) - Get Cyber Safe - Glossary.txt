@@ -1,0 +1,14 @@
+=Description=
+<br>
+This resource provides a glossary of cyber security jargon, offering definitions for various terms related to the ever-changing world of cyber security. It aims to help users understand and navigate through the complex terminology commonly used in this field.
+  
+  One of the main features of this resource is the comprehensive list of definitions it offers. It covers a wide range of terms, from basic concepts like administrative privileges to more specific terms like adware. Each definition is concise and provides a clear explanation of the term, making it accessible to both beginners and those with more advanced knowledge in cyber security.
+  
+  The resource also highlights key aspects to be aware of when it comes to certain terms. For example, in the case of adware, it outlines the potential problems associated with it, such as unauthorized installations and browser hijacking. This additional information helps users understand the implications and risks associated with specific cyber security terms.
+  
+  Overall, this tool serves as a valuable reference for individuals seeking to enhance their understanding of cyber security jargon. By providing clear definitions and highlighting important considerations, it enables users to navigate the complex world of cyber security terminology with ease.
+<br>
+=More Information=
+<br>
+https://www.getcybersafe.gc.ca/en/glossary
+[[Category:Cyber Security Terms & Definitions]]

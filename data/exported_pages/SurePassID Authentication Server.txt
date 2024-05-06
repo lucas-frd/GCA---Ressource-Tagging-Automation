@@ -1,0 +1,11 @@
+=Description=
+<br>
+SurePassID Authentication Server is an authentication server that uses the SurePassID technology. This technology is based on the National Security Agency's Suite B Cryptography. Suite B Cryptography is a set of cryptographic algorithms that are designed to be resistant to attack. SurePassID Authentication Server uses these algorithms to provide a secure authentication experience.
+
+SurePassID Authentication Server provides a secure way to authenticate users. It uses the Suite B Cryptography to provide a secure authentication experience. This technology
+<br>
+=More Information=
+<br>
+https://surepassid.com/
+[[Category:Single Sign-On (SSO)]]
+[[Category:Two-Factor & Multi-Factor Authentication]]

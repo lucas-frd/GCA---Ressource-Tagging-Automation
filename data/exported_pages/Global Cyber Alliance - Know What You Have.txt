@@ -1,0 +1,19 @@
+=Description=
+<br>
+This resource is a toolkit designed to help individuals improve their cyber hygiene. The main purpose of this toolkit is to guide users in understanding and securing their devices and accounts. It emphasizes the importance of knowing what you have and taking inventory of your devices and accounts to identify potential risks.
+  
+  The toolkit offers a step-by-step approach, starting with the foundational step of knowing what you have. It encourages users to create a list of their devices and applications, and to keep it updated as they add or remove items. This inventory serves as the basis for improving cyber hygiene.
+  
+  The toolkit also provides information about different levels and types of cyber hygiene, allowing users to customize their approach based on their specific needs. It offers filters to help users navigate through the available resources and find the most relevant information.
+  
+  Additionally, the toolkit offers additional training and resources for users to explore. This allows individuals to further enhance their knowledge and skills in improving their cyber hygiene.
+  
+  Overall, this toolkit serves as a comprehensive resource for individuals looking to enhance their cyber hygiene. By providing guidance on taking inventory, understanding risks, and offering additional training, it aims to empower users to protect their devices and accounts effectively.
+<br>
+=More Information=
+<br>
+https://gcatoolkit.org/individuals/know-what-you-have/
+[[Category:Know What You Have - Create an Inventory]]
+[[Category:Create an Inventory of Your Familys Devices]]
+[[Category:Applications]]
+[[Category:Tutorials and Training Resources for Families]]

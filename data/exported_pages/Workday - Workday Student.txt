@@ -1,0 +1,8 @@
+=Description=
+<br>
+Workday Student is an enterprise resource planning (ERP) software system that helps colleges and universities manage their student data. The software includes modules for admissions, financial aid, registration, and student records. Workday Student is a cloud-based system that is accessible from any device with an internet connection. The software is designed to be user-friendly and includes a self-service portal for students to access their records and perform administrative tasks. Workday Student integrates with other Workday products, such
+<br>
+=More Information=
+<br>
+https://www.workday.com/en-us/products/student/overview.html
+[[Category:Financial]]

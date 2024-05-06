@@ -1,0 +1,8 @@
+=Description=
+<br>
+The Blueprint for Ransomware Defense represents a set of foundational and actionable Safeguards, aimed at small- and medium-sized enterprises (SMEs).They’re based on a curated subset of the globally recognized CIS Critical Security Controls. It is writt
+<br>
+=More Information=
+<br>
+https://securityandtechnology.org/ransomwaretaskforce/blueprint-for-ransomware-defense/
+[[Category:Small & Medium Sized Businesses]]

@@ -1,0 +1,9 @@
+=Description=
+<br>
+Microsoft Defender Application Guard is a security feature that isolates untrusted apps and files in a separate environment called a "container." This isolation protects your device from malicious or untrusted apps and files, even if they're disguised as legitimate ones. Defender Application Guard only runs on Windows 10 Enterprise and Windows 10 Pro devices, and it requires special hardware and software.
+<br>
+=More Information=
+<br>
+https://learn.microsoft.com/en-us/windows/security/threat-protection/microsoft-defender-application-guard/md-app-guard-overview
+[[Category:Secure Interactions]]
+[[Category:Anti-virus & Anti-malware Software]]

@@ -1,0 +1,8 @@
+=Description=
+<br>
+The Oregon Department of Justice is a state agency dedicated to promoting public safety and enforcing the law through its Criminal Justice Division.
+<br>
+=More Information=
+<br>
+https://doj.state.or.us/oregon-department-of-justice/divisions/criminal-justice/
+[[Category:Oregon]]

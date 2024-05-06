@@ -1,0 +1,8 @@
+=Description=
+<br>
+The Internet Crime Complaint Center (IC3) is a partnership between the FBI and the National White Collar Crime Center serving as a central resource for reporting and investigating internet-related crimes.
+<br>
+=More Information=
+<br>
+https://www.ic3.gov/
+[[Category:Delaware]]

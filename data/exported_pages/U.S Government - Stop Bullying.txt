@@ -1,0 +1,17 @@
+=Description=
+<br>
+This resource provides information on how to prevent and address bullying behavior. It emphasizes the importance of adults responding promptly and consistently to bullying incidents to convey the message that such behavior is not acceptable. The resource highlights that research has shown this approach to be effective in stopping bullying.
+  
+  The website emphasizes the need for adults to learn how to identify bullying and provides guidance on how to stand up to it safely. It encourages adults to take immediate action when they witness or become aware of bullying, as this can have a significant impact on preventing further incidents.
+  
+  The resource also emphasizes the role of adults in creating a safe and supportive environment for children. It provides strategies and resources for adults to effectively address bullying, including tips on how to talk to children about bullying and how to work with schools and communities to prevent and respond to bullying incidents.
+  
+  The website is an official government resource, ensuring the credibility and reliability of the information provided. It uses a secure .gov domain, indicating that it is an official government organization in the United States.
+  
+  Overall, this resource aims to educate adults on how to identify and address bullying behavior, emphasizing the importance of prompt and consistent action. It provides practical strategies and resources to help adults create a safe and supportive environment for children, ultimately working towards the prevention of bullying.
+<br>
+=More Information=
+<br>
+https://www.stopbullying.gov/
+[[Category:Cyberbullying]]
+[[Category:Hotlines & Services]]

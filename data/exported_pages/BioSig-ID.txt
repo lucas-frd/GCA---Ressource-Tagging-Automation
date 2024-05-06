@@ -1,0 +1,8 @@
+=Description=
+<br>
+BioSig-ID is a biometric identification tool that uses an individual's unique biological characteristics to verify their identity. This could be something like a fingerprint, iris scan, or voice recognition. BioSig-ID is used in a variety of settings, such as for security at work, to access personal accounts, or to confirm identity when making a purchase. The advantage of using BioSig-ID is that it is more secure than traditional methods like a password or PIN,
+<br>
+=More Information=
+<br>
+https://www.biosigid.com/
+[[Category:Biometric]]

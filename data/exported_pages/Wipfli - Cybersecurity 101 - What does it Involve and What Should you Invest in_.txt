@@ -1,0 +1,12 @@
+=Description=
+<br>
+Cybersecurity 101 is a comprehensive and foundational program designed and implemented by Wipfli, a financial services and consulting firm. The organization utilizes a proactive and holistic approach to address the ever-evolving cybersecurity threats faced by organizations today.
+
+At its core, Cybersecurity 101 involves identifying, protecting, detecting, responding, and recovering from cyber threats. This involves assessing the digital infrastructure, devices, and networks within an organization, and developing and implementing appropriate security protocols, policies, and procedures to identify gaps.
+<br>
+=More Information=
+<br>
+https://www.wipfli.com/insights/articles/cyber-cons-cybersecurity-101
+[[Category:Digital Literacy Programs]]
+[[Category:Digital Literacy Programs]]
+[[Category:Digital Literacy Programs]]

@@ -1,0 +1,9 @@
+=Description=
+<br>
+OWASP Juice Shop is probably the most modern and sophisticated insecure web application! It can be used in security trainings, awareness demos, CTFs and as a guinea pig for security tools! Juice Shop encompasses vulnerabilities from the entire OWASP Top T
+<br>
+=More Information=
+<br>
+https://owasp.org/www-project-juice-shop/
+[[Category:CIS - 14 - Security Awareness and Skills Training]]
+[[Category:Developers and Development Organizations]]

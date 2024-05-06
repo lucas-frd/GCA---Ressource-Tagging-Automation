@@ -1,0 +1,8 @@
+=Description=
+<br>
+Virus Total is a free online virus, malware and URL scanner. It scans files and URLs submitted by users against over 70 antivirus engines and URL blacklists. If a file or URL is detected by at least one engine, it is considered malicious. Virus Total also aggregates and stores results from malware analysis systems such as Hybrid Analysis, Google Safe Browsing, PhishTank, and ThreatExpert. These results are available through the Virus Total API and web interface.
+<br>
+=More Information=
+<br>
+https://support.virustotal.com/hc/en-us/articles/115002126889-How-it-works
+[[Category:Anti-virus & Anti-malware Software]]

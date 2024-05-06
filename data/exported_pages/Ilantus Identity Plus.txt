@@ -1,0 +1,9 @@
+=Description=
+<br>
+Iilantus Identity Plus is an enterprise-grade identity management solution that enables organizations to centrally manage and secure user identities, access, and permissions. With Identity Plus, organizations can streamline identity and access management processes, reduce costs, and improve security. Identity Plus includes features such as user provisioning, password management, single sign-on, auditing and reporting, and more.
+<br>
+=More Information=
+<br>
+https://www.ilantus.com/identity-plus/
+[[Category:User Provisioning & Governance]]
+[[Category:Identity & Access Management (IAM)]]

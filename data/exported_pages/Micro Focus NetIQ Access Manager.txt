@@ -1,0 +1,8 @@
+=Description=
+<br>
+Micro Focus NetIQ Access Manager is an enterprise-level identity management and access control solution. It provides a centralized repository for user identities and credentials, and a set of tools for managing access to company resources. NetIQ Access Manager can be used to control access to on-premises applications and data, as well as cloud-based resources. It supports both LDAP and Active Directory for identity management, and can be integrated with other Micro Focus products such as Micro Focus ArcSight and Micro
+<br>
+=More Information=
+<br>
+https://www.microfocus.com/en-us/products/identity-and-access-management/netiq-access-manager
+[[Category:Single Sign-On (SSO)]]

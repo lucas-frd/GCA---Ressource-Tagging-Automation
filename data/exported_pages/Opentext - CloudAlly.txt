@@ -1,0 +1,12 @@
+=Description=
+<br>
+CloudAlly is a cutting-edge organization that specializes in providing secure cloud backup and recovery services to businesses and organizations. The company is based in Opentext, a multinational software and information technology company that provides management and analytics services to companies worldwide.
+
+Founded in 2011, CloudAlly emerged as a result of the growing need for dependable and secure cloud backup solutions in the market. As more and more businesses began to adopt the cloud as their primary data storage platform, the risk of data loss
+<br>
+=More Information=
+<br>
+https://www.opentext.com/products/security-cloud
+[[Category:Backup & Restoration of Data]]
+[[Category:Cloud Services]]
+[[Category:SaaS]]

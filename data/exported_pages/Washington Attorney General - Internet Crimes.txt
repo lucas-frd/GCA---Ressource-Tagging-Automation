@@ -1,0 +1,8 @@
+=Description=
+<br>
+The Washington Attorney General's Internet Crimes organization is dedicated to protecting individuals and businesses from online fraud and other illegal activities through investigation, education, and enforcement.
+<br>
+=More Information=
+<br>
+http://atg.wa.gov/internet-crime
+[[Category:Washington]]

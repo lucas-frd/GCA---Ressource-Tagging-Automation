@@ -1,0 +1,8 @@
+=Description=
+<br>
+Haventec Authenticate is a software tool that helps organisations to secure their online services. It does this by providing a secure way to authenticate users and provides a range of features to help organisations to manage and monitor access to their services.
+<br>
+=More Information=
+<br>
+https://www.haventec.com/authenticate/
+[[Category:Two-Factor & Multi-Factor Authentication]]

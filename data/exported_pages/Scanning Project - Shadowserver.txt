@@ -1,0 +1,9 @@
+=Description=
+<br>
+Daily scanning of entire IPv4 space for over 100 services, plus 10 IPv6 services (latter based on hitlists). Overview of external exposed services worldwide since 2014. Remote fingerprinting of IoT and other devices, with over 1200+ fingerprinting rules c
+<br>
+=More Information=
+<br>
+https://www.shadowserver.org/what-we-do/network-reporting/get-reports/
+[[Category:All Businesses]]
+[[Category:National CERTs]]

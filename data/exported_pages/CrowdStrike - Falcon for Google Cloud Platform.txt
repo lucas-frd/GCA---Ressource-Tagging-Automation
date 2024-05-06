@@ -1,0 +1,10 @@
+=Description=
+<br>
+Falcon for Google Cloud Platform is an integrated cybersecurity solution offered by CrowdStrike, a leading provider of next-generation endpoint protection. This solution is specifically designed to protect workloads and applications on the Google Cloud Platform (GCP) by utilizing Falcon's industry-leading technology and expertise in threat detection and prevention.
+
+CrowdStrike is a global cybersecurity company founded in 2011 and based in Sunnyvale, California. The company's mission is to reinvent security for the cloud era by providing innovative and effective
+<br>
+=More Information=
+<br>
+https://www.crowdstrike.com/products/cloud-security/falcon-for-google-cloud-platform/
+[[Category:Cloud Security]]

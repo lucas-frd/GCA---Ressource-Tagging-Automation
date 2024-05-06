@@ -1,0 +1,9 @@
+=Description=
+<br>
+We-ID is a tool that allows users to create and manage their own digital identities. It is designed to work with any type of digital identity, including those based on blockchain technology. We-ID is an open source project, which means that anyone can contribute to its development. The tool is available for free and can be used by anyone who wants to create or manages their own digital identity.
+<br>
+=More Information=
+<br>
+https://we-id.io/
+[[Category:Single Sign-On (SSO)]]
+[[Category:Identity & Access Management (IAM)]]

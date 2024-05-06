@@ -1,0 +1,11 @@
+=Description=
+<br>
+This CNET tool allows users to check their Android phone for malicious apps. The tool will scan your device and app store for any malicious apps that may have been installed on your device. It is important to note that this tool is not 100% effective, but it is a good way to check for any suspicious activity on your device.
+<br>
+=More Information=
+<br>
+https://www.cnet.com/tech/mobile/how-to-check-your-android-phone-for-malicious-apps/
+[[Category:Mobile Devices]]
+[[Category:Recognising Untrustworthy or Inappropriate Applications]]
+[[Category:Anti-virus & Anti-malware Software]]
+[[Category:Android]]

@@ -1,0 +1,8 @@
+=Description=
+<br>
+The Crystal Compliance Oracle is a blockchain-based tool that enables businesses to track and trace their compliance with regulations. The tool can be used to track compliance with a wide range of regulations, including those governing anti-money laundering (AML), know-your-customer (KYC), and sanctions. The Oracle provides a transparent and auditable record of compliance that can be shared with regulators. The tool can also be used to verify compliance with contracts, such as supply chain contracts. The
+<br>
+=More Information=
+<br>
+https://crystalblockchain.com/oracle/
+[[Category:Crypto Compliance]]

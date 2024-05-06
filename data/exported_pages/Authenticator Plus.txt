@@ -1,0 +1,8 @@
+=Description=
+<br>
+Authenticator Plus is a multi-factor authentication solution that provides a secure way to access corporate applications and data. It combines the power of two-factor authentication with the convenience of a single sign-on solution. Authenticator Plus supports a variety of authentication methods, including fingerprint, iris, voice, and facial recognition. It also supports a variety of factor types, including one-time password, time-based one-time password, and challenge-response. Authenticator Plus is available as
+<br>
+=More Information=
+<br>
+https://www.manageengine.com/products/authenticator-plus/
+[[Category:Two-Factor & Multi-Factor Authentication]]

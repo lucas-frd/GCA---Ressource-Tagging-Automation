@@ -1,0 +1,9 @@
+=Description=
+<br>
+Passly is a secure password manager that helps you generate and manage strong passwords for all of your online accounts. It includes features such as a password generator, password strength checker, and secure sharing. Passly also stores your password in a secure, encrypted format so that it can't be read by anyone else.
+<br>
+=More Information=
+<br>
+https://passly.com/
+[[Category:Single Sign-On (SSO)]]
+[[Category:Two-Factor & Multi-Factor Authentication]]

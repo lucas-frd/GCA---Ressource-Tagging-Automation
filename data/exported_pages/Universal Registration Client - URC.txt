@@ -1,0 +1,9 @@
+=Description=
+<br>
+The Universal Registration Client (URC™) allows you to quickly and easily register your products with multiple online retailers. Using URC™, you can manage your product listings, inventory, and orders from a single interface. URC™ makes it easy to keep your products up-to-date and ensure that your customers can find the products they need.
+<br>
+=More Information=
+<br>
+https://www.universalregistration.com/about/
+[[Category:Two-Factor & Multi-Factor Authentication]]
+[[Category:Biometric]]

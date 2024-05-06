@@ -1,0 +1,8 @@
+=Description=
+<br>
+SecureX is a cloud-based platform that provides a single point of control for all of Cisco’s security products. It consolidates multiple security tools into a single interface, making it easier to manage and deploy Cisco security products. SecureX also offers a central location for storing security policies, which can be applied to multiple devices. In addition, SecureX provides visibility into the security posture of an organization, allowing security teams to identify and address potential threats.
+<br>
+=More Information=
+<br>
+https://www.passport.net/
+[[Category:Single Sign-On (SSO)]]

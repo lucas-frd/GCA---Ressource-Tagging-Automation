@@ -1,0 +1,12 @@
+=Description=
+<br>
+Check Point is a leading global provider of cybersecurity solutions, dedicated to protecting organizations from cyber threats and attacks. One of their offerings, IoT Protect Firmware Security, focuses specifically on securing the firmware of IoT devices.
+
+IoT Protect Firmware Security is designed to protect the firmware of IoT devices from being compromised by cybercriminals. Firmware refers to the software that is embedded in a device's hardware and controls its basic functions. This includes devices such as smart home appliances, industrial sensors, and medical devices.
+
+The
+<br>
+=More Information=
+<br>
+https://www.checkpoint.com/products/
+[[Category:IoT Security]]

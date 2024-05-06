@@ -1,0 +1,13 @@
+=Description=
+<br>
+Caldera is a tool that automates the creation of attack simulations in order to test an organization's security defenses. It is designed to be used by red teams as well as purple teams in order to evaluate security procedures and measure response times. Caldera is open source and developed by MITRE. 
+
+Caldera automates the process of setting up and running attack simulations by exploiting the capabilities of existing threat emulation tools, such as Cobalt Strike and Metasploit.
+<br>
+=More Information=
+<br>
+https://github.com/mitre/caldera
+[[Category:Security Testing & Auditing]]
+[[Category:Attack & Penetration Testing]]
+[[Category:Incident Reporting & Response]]
+[[Category:Security Information & Event Management (SIEM)]]

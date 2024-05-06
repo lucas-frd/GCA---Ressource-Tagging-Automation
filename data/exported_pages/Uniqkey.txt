@@ -1,0 +1,10 @@
+=Description=
+<br>
+Uniqkey is a tool that allows you to generate unique keys for your online accounts. This ensures that your accounts are safe and secure, and that you can access them from any device. Uniqkey is easy to use and only requires a few clicks to set up.
+<br>
+=More Information=
+<br>
+https://www.uniqkey.com/
+[[Category:Password Managers]]
+[[Category:User Provisioning & Governance]]
+[[Category:Two-Factor & Multi-Factor Authentication]]

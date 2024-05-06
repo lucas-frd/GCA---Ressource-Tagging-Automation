@@ -1,0 +1,8 @@
+=Description=
+<br>
+Works closely with election officials and security and technology personnel to provide the highest standards of election security, including incident response and remediation through our team of cyber experts. Our 24x7x365 Security Operations Center (SOC)
+<br>
+=More Information=
+<br>
+https://www.cisecurity.org/isac
+[[Category:Governments - US State - Local - Tribal - Territorial (SLTT)]]

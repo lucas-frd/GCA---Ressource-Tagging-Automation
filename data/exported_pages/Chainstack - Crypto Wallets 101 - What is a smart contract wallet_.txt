@@ -1,0 +1,8 @@
+=Description=
+<br>
+Crypto Wallets 101 is a comprehensive organization that aims to educate individuals about the world of cryptocurrency wallets. They provide in-depth information on different types of wallets, their features, and the latest developments in the crypto wallet space. One of the topics they cover is the concept of a smart contract wallet, which is a relatively new type of wallet that offers advanced security features and allows for more complex transactions to take place.
+<br>
+=More Information=
+<br>
+https://chainstack.com/what-is-a-smart-contract-wallet/
+[[Category:Smart Contract Wallet Use]]

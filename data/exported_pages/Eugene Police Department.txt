@@ -1,0 +1,8 @@
+=Description=
+<br>
+The Eugene Police Department is a law enforcement agency responsible for investigating and preventing financial crimes within the city of Eugene, Oregon.
+<br>
+=More Information=
+<br>
+https://www.eugene-or.gov/981/Financial-Crimes
+[[Category:Oregon]]

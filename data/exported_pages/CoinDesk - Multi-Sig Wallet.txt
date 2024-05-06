@@ -1,0 +1,8 @@
+=Description=
+<br>
+A multi-signature wallet, also known as a multisig wallet, is a cryptocurrency wallet that allows users to store their coins in a wallet that is secured by multiple private keys. This means that in order to spend the coins in a multisig wallet, multiple users must sign off on the transaction. This makes it more difficult for a single user to hack the wallet and steal the coins, as they would need to have access to all of the private keys.
+<br>
+=More Information=
+<br>
+https://www.coindesk.com/learn/what-is-a-multisig-wallet/
+[[Category:Digital Currency Users]]

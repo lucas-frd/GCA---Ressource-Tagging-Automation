@@ -1,0 +1,11 @@
+=Description=
+<br>
+Microsoft Intune is a cloud-based tool from Microsoft that helps businesses manage and protect their mobile devices and PCs. With Intune, businesses can manage devices and apps, set policies, and view reports on device and app usage. Intune also helps businesses track their IT assets, including software licenses and compliance.
+<br>
+=More Information=
+<br>
+https://learn.microsoft.com/en-us/mem/
+[[Category:Data Loss Prevention (DLP)]]
+[[Category:Endpoint Detection and Response (EDR)]]
+[[Category:Mobile Device Management]]
+[[Category:Mobile Application Management (MAM)]]

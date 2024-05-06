@@ -1,0 +1,12 @@
+=Description=
+<br>
+Nikto is a SANS Institute tool that can be used to find vulnerabilities in web applications. It can be used to find known vulnerabilities in web applications, as well as to find new vulnerabilities. Nikto is written in Perl and is available for Windows, Linux, and OS X.
+<br>
+=More Information=
+<br>
+https://github.com/sullo/nikto/
+[[Category:Website]]
+[[Category:Servers]]
+[[Category:Secure Interactions]]
+[[Category:Security Testing & Auditing]]
+[[Category:Attack & Penetration Testing]]

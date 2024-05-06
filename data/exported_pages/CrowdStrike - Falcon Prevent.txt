@@ -1,0 +1,10 @@
+=Description=
+<br>
+Falcon Prevent is a comprehensive cybersecurity solution offered by CrowdStrike, a leading cybersecurity company founded in 2011. CrowdStrike is headquartered in Sunnyvale, California, with offices around the world including the United States, Europe, and Asia. The company has a team of over 3,000 employees and serves a range of industries including government, healthcare, finance, and technology.
+
+Falcon Prevent is a core product in CrowdStrike's Falcon platform, which provides customers with continuous threat protection and visibility
+<br>
+=More Information=
+<br>
+https://www.crowdstrike.com/products/bundles/falcon-go/
+[[Category:Endpoint Security]]

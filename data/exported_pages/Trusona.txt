@@ -1,0 +1,8 @@
+=Description=
+<br>
+Trusona is a tool that allows businesses to verify the identity of their customers. By using Trusona, businesses can be sure that the person signing up for their service is who they say they are. This is done through the use of a unique ID that is assigned to each user. This ID can then be used to verify the user's identity when they sign up for a service. Trusona is a secure and convenient way for businesses to verify the identity of their customers.
+<br>
+=More Information=
+<br>
+https://trusona.com/
+[[Category:Two-Factor & Multi-Factor Authentication]]

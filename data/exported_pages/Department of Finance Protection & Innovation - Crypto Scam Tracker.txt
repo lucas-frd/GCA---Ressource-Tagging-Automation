@@ -1,0 +1,10 @@
+=Description=
+<br>
+Crypto Scam Tracker is an organization that operates under the Department of Finance Protection & Innovation (DFPI). The DFPI is a regulatory and enforcement agency for financial services and products in the state of California. It is responsible for protecting consumers and promoting fair competition among financial institutions. The DFPI also aims to provide a safe and secure financial environment for consumers and businesses in California.
+
+The Crypto Scam Tracker is a part of the DFPI's Consumer Services Office, which focuses on educating and assisting consumers about various types of cryptocurrency scams.
+<br>
+=More Information=
+<br>
+https://dfpi.ca.gov/crypto-scams/
+[[Category:Digital Currency Specific Scams and Attacks]]

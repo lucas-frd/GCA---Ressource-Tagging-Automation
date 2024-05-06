@@ -1,0 +1,9 @@
+=Description=
+<br>
+The OWASP Amass Project has developed a tool to help information security professionals perform network mapping of attack surfaces and perform external asset discovery using open source information gathering and active reconnaissance techniques.
+<br>
+=More Information=
+<br>
+https://owasp.org/www-project-amass/
+[[Category:CIS - 1 - Inventory and Control of Enterprise Assets]]
+[[Category:Cybersecurity Providers]]

@@ -1,0 +1,8 @@
+=Description=
+<br>
+The tool Tink found at https://github.com/google/tink is an open source tool that enables developers to use various cryptographic algorithms securely. With Tink, developers can easily add security to their applications without having to worry about the underlying complexities of cryptography. Tink is available for a variety of platforms, including Android, iOS, and Java.
+<br>
+=More Information=
+<br>
+https://github.com/google/tink
+[[Category:Encryption]]

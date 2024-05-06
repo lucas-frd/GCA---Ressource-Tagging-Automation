@@ -1,0 +1,8 @@
+=Description=
+<br>
+Zed Attack Proxy (ZAP) is an open-source web application security scanner. It is used to find vulnerabilities in web applications. ZAP can be used to automatically find security vulnerabilities in web applications. It can also be used to manually find security vulnerabilities.
+<br>
+=More Information=
+<br>
+https://www.zaproxy.org/
+[[Category:Attack & Penetration Testing]]

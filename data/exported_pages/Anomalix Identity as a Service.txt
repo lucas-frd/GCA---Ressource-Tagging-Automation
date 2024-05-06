@@ -1,0 +1,8 @@
+=Description=
+<br>
+Anomalix Identity as a Service is a cloud-based identity management solution that helps organizations securely manage and access employee and client data. The solution provides a centralized location for storing and managing identity data, as well as a set of tools for managing access to that data. The solution features role-based access control, which allows organizations to control who can access what data, and auditing capabilities, which provides a record of who accessed what data and when. The solution also includes a self
+<br>
+=More Information=
+<br>
+https://authress.com/
+[[Category:Identity & Access Management (IAM)]]

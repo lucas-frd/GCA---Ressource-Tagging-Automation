@@ -1,0 +1,12 @@
+=Description=
+<br>
+Cloudflare Website DDoS Protection is a security tool that helps protect websites from DDoS attacks. It works by examinining traffic to a website and identifying and blocking malicious traffic. It also includes features that help to mitigate the effects of DDoS attacks, such as rate limiting and connection draining. Cloudflare Website DDoS Protection is available for free, and there are also paid plans that include additional features and support.
+<br>
+=More Information=
+<br>
+https://www.cloudflare.com/plans/free/
+[[Category:Applications]]
+[[Category:Website]]
+[[Category:Network Devices]]
+[[Category:Managed Security Service Providers (MSSPs)]]
+[[Category:Internet Connection]]

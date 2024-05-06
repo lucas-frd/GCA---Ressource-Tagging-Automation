@@ -1,0 +1,8 @@
+=Description=
+<br>
+The Poplar Bluff Police Department is an organization that includes a Cyber Crimes Task Force within its Criminal Investigations Bureau.
+<br>
+=More Information=
+<br>
+https://www.pbpolice.org/criminal-investigations-bureau/cyber-crimes-task-force
+[[Category:Missouri]]

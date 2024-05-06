@@ -1,0 +1,10 @@
+=Description=
+<br>
+Intruder is a cloud-based security assessment tool that allows users to test the security of their websites and applications. Intruder provides a variety of features designed to help users identify and fix vulnerabilities in their systems. These features include a web application security scanner, a network security scanner, and a web application firewall. Intruder also offers a variety of resources to help users learn about web application security.
+<br>
+=More Information=
+<br>
+https://www.intruder.io/
+[[Category:Website]]
+[[Category:Attack & Penetration Testing]]
+[[Category:Security Testing & Auditing]]

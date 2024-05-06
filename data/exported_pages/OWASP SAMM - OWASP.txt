@@ -1,0 +1,9 @@
+=Description=
+<br>
+Software Assurance Maturity Model's mission is to provide an effective and measurable way for you to analyze and improve your secure development lifecycle. SAMM supports the complete software lifecycle and is technology and process agnostic.
+<br>
+=More Information=
+<br>
+https://owasp.org/www-project-samm/
+[[Category:CIS - 16 - Application Software Security]]
+[[Category:Developers and Development Organizations]]

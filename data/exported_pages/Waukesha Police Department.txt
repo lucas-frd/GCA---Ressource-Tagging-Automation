@@ -1,0 +1,8 @@
+=Description=
+<br>
+The Waukesha Police Department is the law enforcement organization responsible for investigating and preventing criminal activity in the city of Waukesha, Wisconsin.
+<br>
+=More Information=
+<br>
+https://www.waukesha-wi.gov/government/departments/criminal-investigation-division.php
+[[Category:Wisconsin]]

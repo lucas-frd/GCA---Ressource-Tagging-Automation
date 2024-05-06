@@ -1,0 +1,9 @@
+=Description=
+<br>
+Magellan is CTA's automated threat indicator sharing platform. Member companies submit indicators of compromise and associated context to the platform; members can then retrieve submissions by others. All CTA members are required to submit a minimum numbe
+<br>
+=More Information=
+<br>
+https://cyberthreatalliance.org
+[[Category:Cybersecurity Providers]]
+[[Category:Security Operations Entities]]

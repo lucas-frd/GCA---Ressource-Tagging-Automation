@@ -1,0 +1,12 @@
+=Description=
+<br>
+Open Source Insights is a tool that allows developers to explore dependencies within their projects. By selecting a project, developers can see a dependency graph, which highlights the dependencies between the various libraries and packages used by the project. In addition, developers can view information about each dependency, including the number of times it has been depended upon, the number of repositories it is used in, and the licenses associated with it. This tool can be useful for developers who want to ensure that their projects are using
+<br>
+=More Information=
+<br>
+https://deps.dev/
+[[Category:Threat & Vulnerability Management]]
+[[Category:Understanding Relevant Threats]]
+[[Category:Understanding Your Risks]]
+[[Category:Risk Self-Assessment]]
+[[Category:Risk Reduction]]

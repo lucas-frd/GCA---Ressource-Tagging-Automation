@@ -1,0 +1,12 @@
+=Description=
+<br>
+CloudGen Firewall is a product offered by Barracuda, a leading provider of cloud-enabled security solutions. Based in Barracuda, California, the company was founded in 2003 by a team of security and networking experts. Since then, it has grown to become a global corporation with operations in over 100 countries. 
+
+Barracuda's main focus is on providing powerful security and networking solutions for businesses of all sizes. Their diverse product portfolio includes firewalls, email security, network
+<br>
+=More Information=
+<br>
+https://www.barracuda.com/products
+[[Category:Firewalls]]
+[[Category:Cloud Security]]
+[[Category:Intrusion Detection & Prevention Systems (IDPS)]]

@@ -1,0 +1,8 @@
+=Description=
+<br>
+ElePass is an app that helps you keep track of your passwords. It stores your passwords securely and encrypts them so that only you can access them. It also includes a password generator to help you create strong passwords. ElePass is available for iPhone, iPad, and iPod touch.
+<br>
+=More Information=
+<br>
+https://elepass.app/
+[[Category:Password Managers]]

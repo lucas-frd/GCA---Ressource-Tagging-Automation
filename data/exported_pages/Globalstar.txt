@@ -1,0 +1,10 @@
+=Description=
+<br>
+Globalstar is a leading telecommunications company headquartered in Covington, Louisiana, with operations all over the world. Founded in 1991, Globalstar has become a pioneer in satellite-based communication solutions, offering a wide range of products and services for both commercial and individual customers.
+
+The company's primary focus is on providing reliable and efficient satellite connectivity for remote locations and areas with limited or no access to traditional land-based communication networks.
+<br>
+=More Information=
+<br>
+https://www.globalstar.com/en-us/
+[[Category:Satellite internet]]

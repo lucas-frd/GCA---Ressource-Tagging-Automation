@@ -1,0 +1,8 @@
+=Description=
+<br>
+QuickLaunch is a cloud-based digital experience platform that helps organizations deliver engaging and personalized digital experiences to their employees, customers, and partners. The platform provides a set of tools and services that enable organizations to create, manage, and deliver digital experiences across multiple channels and devices. QuickLaunch also provides a set of APIs that allow organizations to integrate the platform with their existing systems and applications.
+<br>
+=More Information=
+<br>
+https://www.quicklaunch.com/
+[[Category:Single Sign-On (SSO)]]

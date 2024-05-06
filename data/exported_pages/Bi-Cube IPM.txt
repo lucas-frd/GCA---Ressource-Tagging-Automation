@@ -1,0 +1,8 @@
+=Description=
+<br>
+The bi-Cube IPM tool is a biometric authentication tool that uses both fingerprint and iris recognition to authenticate users. The tool is designed for use in high security environments, such as government agencies and financial institutions. The bi-Cube IPM tool uses two cameras, one for each eye, to capture iris patterns. The tool then compares the patterns to those stored in a database to verify the identity of the user. The bi-Cube IPM tool is also equipped with a fingerprint scanner
+<br>
+=More Information=
+<br>
+https://www.c2identity.com/
+[[Category:Identity & Access Management (IAM)]]

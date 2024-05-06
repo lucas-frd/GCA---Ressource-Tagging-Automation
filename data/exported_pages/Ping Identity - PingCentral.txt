@@ -1,0 +1,8 @@
+=Description=
+<br>
+PingCentral is an identity management tool that provides a central point of control for Ping Identity products. It allows administrators to manage users, groups, and permissions, as well as configure and monitor Ping Identity products. It also provides a web-based interface for end users to manage their own accounts and access Ping Identity products.
+<br>
+=More Information=
+<br>
+https://www.pingidentity.com/products/pingcentral/
+[[Category:User Provisioning & Governance]]

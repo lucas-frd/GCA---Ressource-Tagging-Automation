@@ -1,0 +1,8 @@
+=Description=
+<br>
+The Buffalo Cyber Task Force is a partnership between the FBI, local law enforcement, and private sector members focused on preventing and responding to cyber threats in the Buffalo, NY area.
+<br>
+=More Information=
+<br>
+https://www.infragardbuffalo.org/about-infragard/buffalo-cyber-taskforce
+[[Category:New York]]

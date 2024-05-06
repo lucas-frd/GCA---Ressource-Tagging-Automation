@@ -1,0 +1,10 @@
+=Description=
+<br>
+Cisco Security Connector is a comprehensive security organization that is a part of Cisco, a multinational technology company based in the United States. The organization offers a wide range of security products and solutions to protect businesses and individuals from cyber threats.
+
+Cisco Security Connector is comprised of several divisions, each with a specific focus on different aspects of security. These divisions include Network Security, Endpoint Security, Cloud Security, and Advanced Threat Solutions. The organization's main goal is to provide a comprehensive security approach to protect networks, data
+<br>
+=More Information=
+<br>
+https://www.cisco.com/site/us/en/products/security/all-products.html
+[[Category:Endpoint Detection & Response (EDR)]]

@@ -1,0 +1,10 @@
+=Description=
+<br>
+QLS Lightspeed Firewalls is a product line offered by Check Point, a global provider of cybersecurity solutions. The company was founded in 1993 by Gil Shwed, Marius Nacht, and Shlomo Kramer, and is headquartered in Tel Aviv, Israel. Check Point has since grown to become one of the leading providers of cybersecurity solutions, with over 5,000 employees and operations in more than 100 countries.
+
+The QLS Lightspeed Firewalls product line is designed to provide
+<br>
+=More Information=
+<br>
+https://www.checkpoint.com/products/
+[[Category:Firewalls]]

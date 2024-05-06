@@ -1,0 +1,8 @@
+=Description=
+<br>
+The Google Cloud Identity and Access Management (IAM) tool helps you manage who has access to your Google Cloud resources, and what they can do with those resources. IAM gives you control over who can administer your Google Cloud account, as well as who can access and use the resources within your account. IAM also provides a way to audit and monitor access to your resources.
+<br>
+=More Information=
+<br>
+https://cloud.google.com/iam/
+[[Category:Identity & Access Management (IAM)]]

@@ -1,0 +1,13 @@
+=Description=
+<br>
+Cloudflare Gateway is a Cloudflare product that provides a secure internet gateway for devices on your network. It filters internet traffic and blocks malicious content, allowing only safe and trusted traffic to pass through. Cloudflare Gateway can be used on its own or in conjunction with Cloudflare's other security products to provide a comprehensive security solution for your network.
+<br>
+=More Information=
+<br>
+https://www.cloudflare.com/zero-trust/products/gateway/
+[[Category:Reputational]]
+[[Category:Operational]]
+[[Category:Sensitive Data]]
+[[Category:Website]]
+[[Category:Cloud Services]]
+[[Category:Internet Connection]]

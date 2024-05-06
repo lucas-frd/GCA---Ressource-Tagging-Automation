@@ -1,0 +1,10 @@
+=Description=
+<br>
+The Digital Capability Quiz is an online assessment tool created by the Digital Transformation Hub, an organization dedicated to promoting and facilitating digital capabilities for organizations in Australia. This quiz is designed to help organizations assess their level of cybersecurity readiness and identify areas for improvement.
+
+The Digital Transformation Hub is a non-profit organization that was established to support the Australian government's Digital Transformation Program. It is headquartered in Canberra and collaborates with various government agencies, industry partners, and academia to advance digital transformation initiatives in the country.
+<br>
+=More Information=
+<br>
+https://digitaltransformation.org.au/survey/page/cybersecurity
+[[Category:Operational]]

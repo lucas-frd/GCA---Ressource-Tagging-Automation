@@ -1,0 +1,21 @@
+=Description=
+<br>
+This resource provides information and advice on the topic of sexting, specifically focusing on supporting children and understanding the risks they may face online. The main features of this resource include:
+  
+  1. Look At Me Ã¢â‚¬â€œ Teens, Sexting and Risks Report: This report offers valuable insights into the motivations behind sharing explicit content and sheds light on the prevalence of sexting among teenagers.
+  
+  2. Learn about sexting: This section aims to educate readers about the concept of sexting, providing a comprehensive understanding of what it entails and its potential consequences.
+  
+  3. Understand the risks: By exploring the risks associated with sexting, this resource equips parents and guardians with the knowledge needed to offer appropriate support and guidance to children, helping to ensure their safety online.
+  
+  4. Protect your child: This section offers practical advice on how to empower children with the necessary tools to make informed decisions about what they share online. It emphasizes the importance of open communication and setting boundaries.
+  
+  5. Deal with it: In the event that a child has sent or received explicit content, this resource provides guidance on how to address the situation and support the child effectively. It offers strategies for initiating conversations and seeking professional help if needed.
+  
+  Overall, this resource serves as a valuable guide for parents and guardians, equipping them with the knowledge and tools to navigate the complex issue of sexting and support their children in making responsible choices online.
+<br>
+=More Information=
+<br>
+https://www.internetmatters.org/issues/sexting/
+[[Category:Exposure to Harmful Content]]
+[[Category:Sending Explicit Images]]

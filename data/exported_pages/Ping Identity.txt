@@ -1,0 +1,10 @@
+=Description=
+<br>
+Ping Identity is a tool that allows you to secure your online identity. It allows you to login to your favorite websites and applications with your Ping Identity account. You can also use Ping Identity to manage your online identity and keep your personal information safe.
+<br>
+=More Information=
+<br>
+https://www.pingidentity.com/
+[[Category:Single Sign-On (SSO)]]
+[[Category:Identity & Access Management (IAM)]]
+[[Category:Two-Factor & Multi-Factor Authentication]]

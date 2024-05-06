@@ -1,0 +1,11 @@
+=Description=
+<br>
+The Review Your iPhone's App Permissions tool from Consumer Reports helps users understand and review the permissions they've granted to apps on their iPhone. The tool provides an overview of the types of permissions that apps can request, and why they might need them. It also offers a step-by-step guide for reviewing and managing app permissions. After users have reviewed their permissions, the tool provides recommendations for how to better secure their iPhone and protect their privacy.
+<br>
+=More Information=
+<br>
+https://securityplanner.consumerreports.org/tool/review-iphone-app-permissions
+[[Category:Protecting You & Your Childs Personal Information]]
+[[Category:Smart Phones]]
+[[Category:iOS Devices]]
+[[Category:Location & Tracking]]

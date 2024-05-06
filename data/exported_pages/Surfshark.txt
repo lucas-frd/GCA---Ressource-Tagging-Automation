@@ -1,0 +1,10 @@
+=Description=
+<br>
+Surfshark is a virtual private network (VPN) service provider based in the British Virgin Islands, founded in 2018. The organization aims to provide safe and private internet access to its users, allowing them to browse the web without any restrictions or fear of their data being compromised.
+
+At the heart of Surfshark's organization is its commitment to privacy and security. The company operates under a strict no-logs policy, meaning that it does not track or store any user data, ensuring your privacy.
+<br>
+=More Information=
+<br>
+https://surfshark.com/
+[[Category:VPN]]

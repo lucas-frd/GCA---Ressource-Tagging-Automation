@@ -1,0 +1,13 @@
+=Description=
+<br>
+This tool is a free website security scanner that allows users to check the security status of their website. By entering the domain name, the tool performs an external scan to detect known malware or malicious code on the site. It also checks if the website is up-to-date and secure. The purpose of this resource is to provide website owners with a quick and easy way to assess the security of their websites. By scanning for known malware and checking for vulnerabilities, users can identify potential threats and take appropriate action to protect their websites and visitors. It is important to note that while this tool detects many types of known malware that are visible without access to the website's code, it may not detect all kinds of malware or a site taken down by malware. Therefore, it is recommended to use additional security measures and conduct regular comprehensive scans to ensure complete protection. Overall, this website security scanner offers a convenient solution for website owners to proactively monitor the security of their websites and take necessary steps to mitigate potential risks.
+<br>
+=More Information=
+<br>
+https://www.sitelock.com/free-website-scan/
+[[Category:Risk Reduction]]
+[[Category:Website]]
+[[Category:Attack & Penetration Testing]]
+[[Category:Risks & Threats]]
+[[Category:Security Testing & Auditing]]
+[[Category:Risk Self-Assessment]]

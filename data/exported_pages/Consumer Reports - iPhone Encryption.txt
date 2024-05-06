@@ -1,0 +1,13 @@
+=Description=
+<br>
+The iPhone Encryption tool is a Consumer Reports guide that helps users encrypt their iPhones. The guide provides instructions on how to enable encryption on an iPhone, as well as how to set a passcode. The guide also includes information on what to do if you forget your passcode.
+<br>
+=More Information=
+<br>
+https://securityplanner.consumerreports.org/tool/encrypt-your-iphone
+[[Category:Sensitive Data]]
+[[Category:Encryption]]
+[[Category:Smart Phones]]
+[[Category:iOS Devices]]
+[[Category:Protecting You & Your Childs Personal Information]]
+[[Category:Secure Interactions]]

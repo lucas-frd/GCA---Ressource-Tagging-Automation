@@ -1,0 +1,10 @@
+=Description=
+<br>
+Kali Linux is a Debian-derived Linux distribution designed for digital forensics and penetration testing. It is operated by the Offensive Security company. The Kali Linux project is was founded in 2013 by Mati Aharoni and Devon Kearns of Offensive Security through the merger of two earlier projects, BackTrack Linux and Whax.
+
+Kali Linux provides a comprehensive collection of security tools, many of which are geared towards network and application security assessment and pentesting. Some of the more popular
+<br>
+=More Information=
+<br>
+https://www.kali.org/
+[[Category:Attack & Penetration Testing]]

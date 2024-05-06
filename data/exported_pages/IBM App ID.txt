@@ -1,0 +1,8 @@
+=Description=
+<br>
+IBM App ID is a cloud-based tool that helps developers quickly and easily add identity and access management capabilities to their applications. App ID uses industry-standard OAuth 2.0 and OpenID Connect protocols to provide a robust, scalable solution that can be easily integrated into any application. App ID supports a wide range of features, including single sign-on (SSO), multifactor authentication (MFA), and user registration and login. App ID is available as a free or
+<br>
+=More Information=
+<br>
+https://www.ibm.com/security/ibm-security-verify/
+[[Category:Two-Factor & Multi-Factor Authentication]]

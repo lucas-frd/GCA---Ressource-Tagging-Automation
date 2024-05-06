@@ -1,0 +1,8 @@
+=Description=
+<br>
+Identt Knowledge is a searchable online database of over 8 million real estate transactions. It includes data on sales prices, square footage, property type, and location. Users can search for specific properties or neighborhoods, and compare prices and trends over time. The site also includes a blog with articles on topics such as real estate investing, home buying, and selling.
+<br>
+=More Information=
+<br>
+https://www.identt.com/
+[[Category:Biometric]]

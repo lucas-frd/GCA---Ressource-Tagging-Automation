@@ -1,0 +1,9 @@
+=Description=
+<br>
+IFA is a public service which alerts on compromised credentials recovered online. Stolen credentials include credit/debit cards, email accounts with passwords, and user login accounts with passwords. Credentials are recovered daily by cyber-research analy
+<br>
+=More Information=
+<br>
+https://www.ncfta.net
+[[Category:CIS - 6 - Access Control Management]]
+[[Category:All Businesses]]

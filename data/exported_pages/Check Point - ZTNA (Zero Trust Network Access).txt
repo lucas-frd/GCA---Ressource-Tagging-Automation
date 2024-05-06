@@ -1,0 +1,10 @@
+=Description=
+<br>
+Zero Trust Network Access (ZTNA) is an advanced cybersecurity solution offered by Check Point, a leading provider of network and endpoint security solutions. ZTNA is designed to provide secure remote access to corporate resources and applications, regardless of the user's location or device.
+
+At its core, ZTNA is a software-defined perimeter (SDP) technology that implements the zero-trust security model. This model assumes that the network is always hostile and requires continuous authentication and authorization to access resources.
+<br>
+=More Information=
+<br>
+https://www.checkpoint.com/products/
+[[Category:Zero Trust]]

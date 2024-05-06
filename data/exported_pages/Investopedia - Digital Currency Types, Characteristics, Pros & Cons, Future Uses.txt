@@ -1,0 +1,8 @@
+=Description=
+<br>
+Digital currency refers to virtual or electronic forms of payment that can be used as an alternative to traditional paper money. There are various types of digital currency, including cryptocurrencies like Bitcoin, stablecoins like Tether, and centralized digital currencies like PayPal and Venmo. This resource is provided by Investopedia and contains an overview of the different types of digital currencies in use.
+<br>
+=More Information=
+<br>
+https://www.investopedia.com/terms/d/digital-currency.asp
+[[Category:Different Types of Digital Currency]]

@@ -1,0 +1,16 @@
+=Description=
+<br>
+This resource provides a comprehensive list of step-by-step guides for setting up parental controls on broadband and mobile networks. The purpose of these guides is to make it easier for parents to limit the inappropriate content their children might encounter online. 
+  
+  The resource offers visual instructions and step-by-step videos to assist users in the process of setting up these controls. By providing clear and concise instructions, it aims to simplify the often complex task of configuring parental controls on major broadband providers and mobile networks.
+  
+  Users can navigate through the guides by clicking on the specific broadband or mobile network they are using. The resource covers a wide range of popular providers, ensuring that users can find instructions relevant to their specific service.
+  
+  Additionally, a search function is available for users to quickly find the desired guide by entering specific keywords. This feature allows users to easily locate the instructions they need without having to browse through the entire list.
+  
+  Overall, this resource aims to empower parents by providing them with the necessary tools and guidance to protect their children from inappropriate online content. With its user-friendly interface and comprehensive collection of guides, it offers a valuable resource for those seeking to set up parental controls on broadband and mobile networks.
+<br>
+=More Information=
+<br>
+https://www.internetmatters.org/parental-controls/broadband-mobile/
+[[Category:Understanding Parental Controls]]

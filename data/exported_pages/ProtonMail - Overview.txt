@@ -1,0 +1,10 @@
+=Description=
+<br>
+ProtonMail is a secure email and communication service based in Switzerland. It was founded in 2014 by a group of scientists at the European Organization for Nuclear Research (CERN) who were concerned about the growing threat of online surveillance and privacy breaches.
+
+The organization's mission is to provide users with a secure and private way to communicate online, protecting their sensitive data and personal information from hackers, governments, and other third parties.
+<br>
+=More Information=
+<br>
+https://proton.me/mail
+[[Category:Email & Other Communications]]

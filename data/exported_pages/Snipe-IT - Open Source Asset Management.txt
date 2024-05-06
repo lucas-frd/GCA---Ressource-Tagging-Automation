@@ -1,0 +1,16 @@
+=Description=
+<br>
+This tool, Snipe-IT, is an open-source software designed with transparency, security, and oversight in mind. It aims to provide users with a vendor lock-in-free experience. Additionally, Snipe-IT offers a cloud-hosted platform with a 99.99% SLA uptime guarantee, ensuring reliability and speed through servers located in data centers worldwide.
+
+Security is a top priority for Snipe-IT, both in terms of the software product itself and the cloud-hosting infrastructure. This focus on security aims to provide users with peace of mind when managing their assets.
+
+One of the notable features of Snipe-IT is its frequent updates. With new releases every few weeks, users can expect bug fixes and new features to be shipped on a daily basis. This commitment to continuous improvement ensures that the tool remains up-to-date and responsive to user needs.
+
+Furthermore, Snipe-IT offers dedicated support to its users. This means that users can rely on assistance and guidance when encountering any issues or needing help with the tool's functionalities.
+
+In summary, Snipe-IT is an open-source asset management tool that prioritizes transparency, security, and user support. With its cloud-hosted platform, frequent updates, and dedicated support, Snipe-IT aims to provide users with a reliable and efficient solution for managing their assets.
+<br>
+=More Information=
+<br>
+https://snipeitapp.com/
+[[Category:Know What You Have - Create an Inventory]]

@@ -1,0 +1,17 @@
+=Description=
+<br>
+This tool, Microsoft Authenticator, is a simple and highly secure two-factor authentication app that can be used across various applications. Its main purpose is to enhance the security of user accounts by adding an extra layer of protection.
+  
+  To get started, users can download the Microsoft Authenticator app on their Android or iOS mobile devices. The app can be found on the Google Play Store for Android users and the App Store for iOS users. Once downloaded, users can set up the app by scanning a QR code provided.
+  
+  Once set up, Microsoft Authenticator allows users to sign in to their accounts with the assurance that their accounts are safer due to the implementation of two-step verification. This involves the use of one-time passcodes and push approvals, which provide an additional level of security beyond just a username and password.
+  
+  One of the key features of Microsoft Authenticator is its ability to back up and recover user accounts. This ensures that even if a device is lost or replaced, users can easily restore their accounts and continue using the app without any hassle.
+  
+  Overall, Microsoft Authenticator is a reliable tool for individuals who prioritize the security of their online accounts. By implementing two-factor authentication, it adds an extra layer of protection and peace of mind for users.
+<br>
+=More Information=
+<br>
+https://www.microsoft.com/en-gb/security/mobile-authenticator-app
+[[Category:Two-Factor & Multi-Factor Authentication]]
+[[Category:Smart Phones]]

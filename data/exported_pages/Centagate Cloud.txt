@@ -1,0 +1,8 @@
+=Description=
+<br>
+Centagate Cloud is a cloud-based content management tool that helps businesses manage their content across multiple channels. It provides a central repository for all content, which can be accessed by authorized users from anywhere in the world. The tool also helps businesses track and analyze their content performance, and make changes accordingly.
+<br>
+=More Information=
+<br>
+https://www.centagate.com/
+[[Category:Two-Factor & Multi-Factor Authentication]]

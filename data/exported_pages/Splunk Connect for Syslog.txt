@@ -1,0 +1,8 @@
+=Description=
+<br>
+Splunk Connect for Syslog is a Splunk app that allows you to collect and index syslog data from remote systems. It uses the syslog-ng application to collect syslog data and send it to a Splunk server for indexing. The app provides a web interface for viewing and searching your syslog data.
+<br>
+=More Information=
+<br>
+https://splunkbase.splunk.com/app/4740
+[[Category:Security Information & Event Management (SIEM)]]

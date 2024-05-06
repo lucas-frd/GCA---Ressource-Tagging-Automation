@@ -1,0 +1,28 @@
+=Description=
+<br>
+This resource, Forcepoint Data Visibility, aims to strengthen data security management by providing a panoramic view of sensitive data. It addresses the challenge of understanding who exactly has access to sensitive data in the face of data sprawl.
+
+Data sprawl refers to the widespread distribution of data across various systems and platforms, making it challenging to assess and mitigate risks effectively. Forcepoint Data Visibility offers a solution by enhancing Data Loss Prevention (DLP) capabilities.
+
+By utilizing Forcepoint Data Visibility, organizations can gain a comprehensive understanding of their data landscape. This tool enables them to identify potential vulnerabilities and take proactive measures to protect sensitive information. With a panoramic view of data, organizations can make informed decisions regarding data access, usage, and security.
+
+The main features of Forcepoint Data Visibility include:
+
+1. Comprehensive Data View: Gain a holistic view of data across multiple systems and platforms, allowing organizations to identify potential risks and vulnerabilities.
+
+2. Data Access Monitoring: Monitor and track data access activities to ensure compliance with security policies and identify any unauthorized access attempts.
+
+3. Risk Assessment: Assess the level of risk associated with different data assets, enabling organizations to prioritize security measures and allocate resources effectively.
+
+4. Data Loss Prevention Enhancement: Strengthen existing DLP capabilities by integrating Forcepoint Data Visibility, enabling organizations to proactively prevent data breaches and mitigate potential threats.
+
+In summary, Forcepoint Data Visibility provides organizations with a panoramic view of their data, enhancing data security management and enabling proactive measures to protect sensitive information. By addressing the challenges of data sprawl, this resource empowers organizations to strengthen their data security posture and mitigate risks effectively.
+<br>
+=More Information=
+<br>
+https://www.forcepoint.com/product/forcepoint-data-visibility
+[[Category:Know What You Have - Create an Inventory]]
+[[Category:Insiders]]
+[[Category:Know Your Users - Active User List Showing Needs]]
+[[Category:Data Loss Prevention (DLP)]]
+[[Category:Periodic Know Your Users Reviews]]

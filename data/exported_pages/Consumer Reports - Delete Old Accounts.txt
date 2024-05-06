@@ -1,0 +1,14 @@
+=Description=
+<br>
+The Delete Old Accounts tool helps users identify and delete old, unused online accounts. It is a part of Consumer Reports' Security Planner, a free online resource that helps users understand and improve their online security. 
+
+The tool works by asking users to input the email addresses associated with their online accounts. It then uses publicly available data to identify which of those accounts are no longer active. Finally, it provides instructions for deleting those old accounts. 
+
+Delete Old Accounts is a
+<br>
+=More Information=
+<br>
+https://securityplanner.consumerreports.org/tool/delete-old-accounts
+[[Category:Protecting You & Your Childs Personal Information]]
+[[Category:Periodic Know Your Users Reviews]]
+[[Category:Account Safety & Privacy]]

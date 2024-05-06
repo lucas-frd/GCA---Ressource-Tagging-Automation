@@ -1,0 +1,11 @@
+=Description=
+<br>
+BehavioSec is a tool that uses behavioral biometrics to authenticate users.Behavioral biometrics is a type of biometric that relies on the way a person interacts with a device, rather than their physical characteristics. This makes it more difficult for someone to impersonate another person, as they would need to know not only their physical characteristics, but also their behavior.
+
+BehavioSec uses a variety of factors to authenticate users, including the way they
+<br>
+=More Information=
+<br>
+https://www.behaviosec.com/
+[[Category:Biometric]]
+[[Category:Two-Factor & Multi-Factor Authentication]]

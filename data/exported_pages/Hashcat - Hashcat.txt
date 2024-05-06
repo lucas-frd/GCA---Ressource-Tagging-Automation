@@ -1,0 +1,14 @@
+=Description=
+<br>
+Hashcat is a powerful password recovery tool that can be used to recover lost passwords, 
+
+ Hashcat can be used to recover passwords from a variety of sources, including traditional password databases, Windows NTDS hashes, and a variety of other formats. Hashcat is a highly effective tool, and has a variety of features that make it a valuable password recovery tool, including:
+
+-Hashcat can use a variety of password cracking algorithms, including brute-force and dictionary attacks.
+<br>
+=More Information=
+<br>
+https://hashcat.net/hashcat/
+[[Category:Risk Self-Assessment]]
+[[Category:Risk Reduction]]
+[[Category:Security Testing & Auditing]]

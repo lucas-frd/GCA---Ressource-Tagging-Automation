@@ -1,0 +1,8 @@
+=Description=
+<br>
+The Rhode Island State Police - Computer Crimes Unit is a law enforcement unit dedicated to investigating and prosecuting cyber crimes in the state of Rhode Island.
+<br>
+=More Information=
+<br>
+https://risp.ri.gov/ccu
+[[Category:Rhode Island]]

@@ -1,0 +1,8 @@
+=Description=
+<br>
+The Pittsburgh Bureau of Police is the law enforcement agency responsible for maintaining public safety and enforcing the laws in the city of Pittsburgh.
+<br>
+=More Information=
+<br>
+https://pittsburghpa.gov/joinpghpolice/about/units.html
+[[Category:Pennsylvania]]

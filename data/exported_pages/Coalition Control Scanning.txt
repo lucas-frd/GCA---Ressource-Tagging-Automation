@@ -1,0 +1,8 @@
+=Description=
+<br>
+Coalition Control is a malicious internet traffic scanning and blocking tool. It is designed to protect users from malicious websites, phishing attacks, and other online threats. Coalition Control uses a variety of techniques to scan and block traffic, including DNS filtering, IP reputation, and URL blocking. It is constantly updated with new threat intelligence to protect users from the latest online threats.
+<br>
+=More Information=
+<br>
+https://control.coalitioninc.com/
+[[Category:Threat & Vulnerability Management]]

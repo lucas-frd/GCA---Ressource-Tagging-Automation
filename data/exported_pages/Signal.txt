@@ -1,0 +1,12 @@
+=Description=
+<br>
+Signal is a non-profit organization that focuses on providing secure and private communication services to its users.
+
+The main aim of the organization is to promote privacy and security in online communication by developing open-source software for messaging and voice calling.
+
+Signal is best known for its end-to-end encrypted messaging app, also called Signal, which is available for both Android and iOS devices.
+<br>
+=More Information=
+<br>
+https://signal.org/
+[[Category:Messaging apps]]

@@ -1,0 +1,8 @@
+=Description=
+<br>
+SAASPASS is a software as a service (SaaS) platform that provides enterprise-grade security and authentication for businesses and individuals. It offers two-factor authentication (2FA), single sign-on (SSO), and passwordless login, as well as a host of other features designed to keep data safe and secure. SAASPASS is easy to use and offers a variety of pricing plans to fit any budget.
+<br>
+=More Information=
+<br>
+https://www.saaspass.com/
+[[Category:Password Managers]]

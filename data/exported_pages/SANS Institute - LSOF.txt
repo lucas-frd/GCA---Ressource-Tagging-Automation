@@ -1,0 +1,9 @@
+=Description=
+<br>
+LSOF is a command line tool that displays information about open files and processes. It can be used to identify processes that are using a given file, port, or network socket. LSOF is useful for debugging and troubleshooting issues related to file and resource contention.
+<br>
+=More Information=
+<br>
+https://www.sans.org/tools/?per-page=100
+[[Category:Incident Reporting & Recovery]]
+[[Category:Configuration Management]]

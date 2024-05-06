@@ -1,0 +1,9 @@
+=Description=
+<br>
+This resource provides a list of cybersecurity resources compiled by FINRA (Financial Industry Regulatory Authority) to assist firms in managing their cybersecurity risk. The resources offered include various tools and information, although it is important to note that their use does not guarantee compliance with FINRA's cybersecurity rules and policies. FINRA does not endorse or guarantee any of the resources mentioned. One of the featured resources is Krebs on Security, a cybersecurity blog that offers comprehensive news and investigations related to security. This blog provides in-depth coverage of security incidents and keeps readers informed about the latest developments in the field. Additionally, the resource includes a report that compiles real-world data breaches and information security incidents. This report serves as a valuable reference for understanding the nature and impact of such incidents, providing insights that can help firms enhance their cybersecurity measures. Lastly, the resource mentions the Privacy Rights Clearinghouse, a non-profit organization dedicated to protecting privacy rights. While the specific details of their cybersecurity resources are not provided, it can be inferred that they offer valuable information and guidance in this area. Overall, this resource offers a collection of tools and information that firms can utilize to manage their cybersecurity risk. It is important to note that while these resources are provided, firms must still ensure their own compliance with FINRA's cybersecurity rules and policies.
+<br>
+=More Information=
+<br>
+https://www.finra.org/rules-guidance/key-topics/cybersecurity/non-finra-cybersecurity-resources
+[[Category:Nonprofits & Charities]]
+[[Category:Small & Medium Sized Businesses]]

@@ -1,0 +1,8 @@
+=Description=
+<br>
+A federal law that protects the privacy of student education records.
+<br>
+=More Information=
+<br>
+https://www2.ed.gov/ferpa
+[[Category:United States]]

@@ -1,0 +1,8 @@
+=Description=
+<br>
+IDnow is an online identity verification service. It allows users to verify their identity using a webcam and a government-issued ID, such as a driver's license or passport. The service is designed to help businesses comply with anti-money laundering (AML) and KYC (know your customer) regulations. IDnow offers two-factor authentication and supports over 100 different types of ID documents from over 60 countries. The service is available in 21 languages.
+<br>
+=More Information=
+<br>
+https://www.idnow.com/
+[[Category:Biometric]]

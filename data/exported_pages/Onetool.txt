@@ -1,0 +1,8 @@
+=Description=
+<br>
+Onetool is a tool that helps organizations manage their social media accounts. It provides users with a platform to create and manage their social media posts, as well as track their performance. Onetool also offers a suite of features to help users engage with their audience, including a social media calendar, content management tools, and analytics.
+<br>
+=More Information=
+<br>
+https://onetool.com/
+[[Category:User Provisioning & Governance]]

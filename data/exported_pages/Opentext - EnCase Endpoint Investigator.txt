@@ -1,0 +1,12 @@
+=Description=
+<br>
+Opentext is a global enterprise software company that provides solutions for information management, digital transformation, and business process management. It was founded in 1991 and is headquartered in Waterloo, Canada.
+
+EnCase Endpoint Investigator is an organization within Opentext that focuses specifically on security and cloud solutions. It offers a comprehensive platform for endpoint detection and response (EDR), digital forensics, and data breach investigations. The goal of this organization is to help businesses proactively identify and respond to
+<br>
+=More Information=
+<br>
+https://www.opentext.com/products/security-cloud
+[[Category:Incident Reporting & Recovery]]
+[[Category:Forensics]]
+[[Category:Behavioral Analytics]]

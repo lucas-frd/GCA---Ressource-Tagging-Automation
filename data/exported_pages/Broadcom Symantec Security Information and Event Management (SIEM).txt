@@ -1,0 +1,11 @@
+=Description=
+<br>
+Broadcom Symantec Security Information and Event Management (SIEM) is a cybersecurity organization that offers advanced threat detection and response solutions to businesses and organizations. With its headquarters based in Broadcom, a global technology company, Broadcom Symantec SIEM is a subsidiary of Broadcom Inc. and operates as a part of the company’s Enterprise Security Division.
+
+Broadcom Symantec SIEM focuses on providing comprehensive security solutions that protect businesses’ digital assets from cyber threats such as malware, ransomware, data
+<br>
+=More Information=
+<br>
+https://www.broadcom.com/products#cybersecurity
+[[Category:Network Detection and Response (NDR)]]
+[[Category:Security Information & Event Management (SIEM)]]

@@ -1,0 +1,15 @@
+=Description=
+<br>
+This resource, Forcepoint Data Classification, aims to enhance data classification accuracy and efficiency through the utilization of Getvisibility's technology. Data security is a multifaceted task, and safeguarding data across various platforms such as cloud, endpoint, email, network, and web can be a daunting endeavor. Forcepoint Data Classification addresses this challenge by harnessing the power of Machine Learning (ML) and Artificial Intelligence (AI) to automate and streamline the data classification process.
+
+By leveraging ML and AI, Forcepoint Data Classification enables organizations to identify and categorize sensitive data more accurately and efficiently. This technology analyzes data patterns, content, and context to determine the appropriate classification level, ensuring that data is appropriately protected based on its sensitivity. This resource helps organizations comply with data protection regulations and maintain the confidentiality, integrity, and availability of their data.
+
+Forcepoint Data Classification offers a comprehensive solution that integrates seamlessly with existing security infrastructure. It provides real-time visibility into data classification, allowing organizations to monitor and track data throughout its lifecycle. Additionally, it offers customizable policies and rules to align with specific organizational requirements and industry standards.
+
+With Forcepoint Data Classification, organizations can enhance their data protection capabilities, reduce the risk of data breaches, and improve overall security posture. By automating the data classification process, this resource enables organizations to optimize their data security efforts and focus on other critical aspects of their business.
+<br>
+=More Information=
+<br>
+https://www.forcepoint.com/product/forcepoint-data-classification
+[[Category:Data Loss Prevention (DLP)]]
+[[Category:Sensitive Data]]

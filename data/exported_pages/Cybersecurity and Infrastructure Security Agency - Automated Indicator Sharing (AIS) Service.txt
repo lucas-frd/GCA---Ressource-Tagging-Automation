@@ -1,0 +1,10 @@
+=Description=
+<br>
+The Automated Indicator Sharing (AIS) Service is an initiative established by the Cybersecurity and Infrastructure Security Agency (CISA) to enhance the detection and response capabilities of organizations against cyber threats. This service enables the timely and automated sharing of cyber threat information, allowing for a more coordinated and collaborative approach to cyber defense.
+
+The AIS Service works by allowing participating organizations to share threat intelligence in real-time with other trusted entities, such as government agencies, industry partners, and private sector companies.
+<br>
+=More Information=
+<br>
+https://www.cisa.gov/resources-tools/services/automated-indicator-sharing-ais-service
+[[Category:Data Security]]

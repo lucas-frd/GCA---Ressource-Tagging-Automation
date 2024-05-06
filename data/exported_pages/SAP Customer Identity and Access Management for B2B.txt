@@ -1,0 +1,10 @@
+=Description=
+<br>
+SAP Customer Identity and Access Management for B2B (C4B) is a secure, cloud-based identity management solution that helps businesses manage customer identities and access to business applications. C4B provides a single, unified view of customer identities across multiple business applications, making it easy to manage customer access and identities. C4B also offers a robust set of security features to protect customer data, including multi-factor authentication, password management, and user activity monitoring.
+<br>
+=More Information=
+<br>
+https://www.sap.com/products/customer-identity-and-access-management/for-b2b.html
+[[Category:Single Sign-On (SSO)]]
+[[Category:User Provisioning & Governance]]
+[[Category:Two-Factor & Multi-Factor Authentication]]

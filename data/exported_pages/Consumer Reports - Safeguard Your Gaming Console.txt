@@ -1,0 +1,8 @@
+=Description=
+<br>
+The Safeguard Your Gaming Console tool is a web-based tool from Consumer Reports that helps users secure their gaming consoles. The tool provides users with step-by-step instructions on how to secure their consoles, as well as tips on how to keep their consoles secure. The tool also includes a list of security measures that users can take to protect their consoles, such as ensuring that their consoles are always up-to-date with the latest security patches and using strong passwords.
+<br>
+=More Information=
+<br>
+https://securityplanner.consumerreports.org/tool/secure-your-gaming-console
+[[Category:Gaming Consoles]]

@@ -1,0 +1,10 @@
+=Description=
+<br>
+SBS is a security training organization that specializes in Physical Security Awareness (PSA) training. They provide training and consulting services to organizations and individuals who want to enhance their physical security measures and protect their assets.
+
+The organization's mission is to educate and inform their clients about the importance of physical security and how to implement effective security measures. They aim to create a safer environment for businesses, individuals, and communities by promoting awareness and best practices in physical security.
+<br>
+=More Information=
+<br>
+https://www.sbstrains.com/physical-security-awareness-psa#:~:text=PHYSICAL%20SECURITY%20AWARENESS%20(PSA),-It%20seems%20like&text=Like%20cyber%2Dattacks%2C%20physical%20security,%2C%20facilities%2C%20and%20other%20assets.
+[[Category:Storage]]

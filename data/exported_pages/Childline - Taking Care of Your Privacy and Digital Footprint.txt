@@ -1,0 +1,10 @@
+=Description=
+<br>
+The Taking Care of Your Privacy and Digital Footprint tool is a resource from Childline that helps young people understand how to manage their online privacy and digital footprint. The tool provides tips and advice on topics such as creating strong passwords, choosing what to share online, and controlling who can see your posts and photos. The goal of the tool is to help young people stay safe online and avoid being the victim of cyberbullying or other forms of online harassment.
+<br>
+=More Information=
+<br>
+https://www.childline.org.uk/info-advice/bullying-abuse-safety/online-mobile-safety/taking-care-your-digital-footprint/
+[[Category:Protecting You & Your Childs Personal Information]]
+[[Category:Social Media, Email & Instant Messaging]]
+[[Category:Choosing a Secure Password]]

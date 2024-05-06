@@ -1,0 +1,9 @@
+=Description=
+<br>
+AwareXM is a tool that allows organizations to monitor employee email and instant messenger usage in order to improve productivity and compliance. The software provides detailed reports of employee activity, including who is sending and receiving messages, when messages are being sent, and what content is being communicated. AwareXM also offers real-time alerts to provide visibility into potential compliance issues as they happen. By using AwareXM, organizations can improve communication and collaboration while also ensuring that their employees are adhering to internal policies
+<br>
+=More Information=
+<br>
+https://www.awarexm.com/
+[[Category:Biometric]]
+[[Category:Two-Factor & Multi-Factor Authentication]]

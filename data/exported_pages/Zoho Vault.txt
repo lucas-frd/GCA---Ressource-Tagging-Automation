@@ -1,0 +1,8 @@
+=Description=
+<br>
+Zoho Vault is a secure, cloud-based password manager that helps businesses keep track of their employee login credentials and other sensitive data. It offers features such as two-factor authentication, password sharing, and activity tracking. Zoho Vault also integrates with other Zoho products, making it a convenient solution for businesses that use multiple Zoho services.
+<br>
+=More Information=
+<br>
+https://www.zoho.com/vault/
+[[Category:Password Managers]]

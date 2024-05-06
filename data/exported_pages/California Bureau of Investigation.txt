@@ -1,0 +1,8 @@
+=Description=
+<br>
+The California Bureau of Investigation is a state law enforcement agency responsible for assisting local law enforcement agencies in investigating major crimes and providing criminal justice information and technology services.
+<br>
+=More Information=
+<br>
+https://oag.ca.gov/bi
+[[Category:California]]

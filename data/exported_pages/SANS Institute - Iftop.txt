@@ -1,0 +1,8 @@
+=Description=
+<br>
+Iftop is a command-line tool that displays a list of the currently active network connections, as well as information on the bandwidth being used by each connection. It can be useful for identifying which applications or services are using the most bandwidth, and for troubleshooting network problems.
+<br>
+=More Information=
+<br>
+https://www.sans.org/tools/?per-page=100
+[[Category:Security Information & Event Management (SIEM)]]

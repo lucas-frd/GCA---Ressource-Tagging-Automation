@@ -1,0 +1,8 @@
+=Description=
+<br>
+The Multi-State Information Sharing and Analysis Center (MS-ISAC) Operations is a security organization that focuses on protecting state, local, tribal, and territorial (SLTT) government agencies from cyber threats. It is based in the Center for Internet Security (CIS), a non-profit organization dedicated to enhancing cyber security readiness and response across the public and private sectors. The MS-ISAC is one of several Information Sharing and Analysis Centers (ISACs) that operate under the CIS umbrella.
+<br>
+=More Information=
+<br>
+https://www.cisecurity.org/isac
+[[Category:Security Awareness]]

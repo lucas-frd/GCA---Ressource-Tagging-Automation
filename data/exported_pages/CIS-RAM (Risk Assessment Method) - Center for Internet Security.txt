@@ -1,0 +1,8 @@
+=Description=
+<br>
+An information security risk assessment method that helps organizations implement and assess their security posture against the CIS Critical Security Controls (CIS Controls) cybersecurity best practices.
+<br>
+=More Information=
+<br>
+https://learn.cisecurity.org/cis-ram
+[[Category:All Businesses]]

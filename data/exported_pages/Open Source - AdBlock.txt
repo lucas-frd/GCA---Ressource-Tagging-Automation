@@ -1,0 +1,8 @@
+=Description=
+<br>
+AdBlock is an open-source tool that can be used to block ads on websites. It is available for both desktop and mobile devices, and can be installed as an extension or plugin for web browsers such as Google Chrome, Mozilla Firefox, and Microsoft Edge. AdBlock works by preventing ads from being loaded on websites, and can also block other elements such as pop-ups, banner ads, and video ads. It is a highly configurable tool that allows users to customize their experience,
+<br>
+=More Information=
+<br>
+https://gcatoolkit.org/tool/adblock/
+[[Category:Anti-virus & Anti-malware Software]]

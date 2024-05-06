@@ -1,0 +1,12 @@
+=Description=
+<br>
+Falcon Firewall Management is a product offered by CrowdStrike, a leading cybersecurity company founded in 2011. The organization specializes in cloud-based endpoint protection, threat intelligence, and incident response services for businesses and government agencies around the world.
+
+Falcon Firewall Management is a solution specifically designed to defend against advanced cyber threats. It is a sophisticated firewall solution that provides comprehensive visibility into network traffic, protects against malicious activities, and offers advanced threat detection capabilities.
+
+The organization operates on a cloud-based infrastructure, making
+<br>
+=More Information=
+<br>
+https://www.crowdstrike.com/products/bundles/falcon-pro/
+[[Category:Endpoint Security]]

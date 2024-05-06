@@ -1,0 +1,8 @@
+=Description=
+<br>
+NorthRow is a tool that helps organizations keep track of their customer data. It allows them to see where their customers are coming from, what they are interested in, and how they can better engage with them. NorthRow also provides insights into customer behaviour, so organizations can identify trends and optimize their marketing strategies.
+<br>
+=More Information=
+<br>
+https://www.northrow.com/
+[[Category:Biometric]]

@@ -1,0 +1,8 @@
+=Description=
+<br>
+The Electronic Identification and Trust Services (eIDAS) Regulation is a European Union regulation that establishes a framework for electronic identification and trust services (eIDAS) in the EU. The eIDAS Regulation aims to create a single digital market for eIDAS in the EU and to increase trust in online transactions.
+<br>
+=More Information=
+<br>
+https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32014R0910
+[[Category:European Union]]

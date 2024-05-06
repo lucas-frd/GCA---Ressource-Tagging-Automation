@@ -1,0 +1,8 @@
+=Description=
+<br>
+The OWASP OWTF tool is designed to help developers and pentesters assess the security of web applications. It does this by providing a comprehensive and extensible framework that can be used to test the security of web applications. OWASP OWTF is also designed to be modular, so that it can be easily extended and customized to meet the needs of specific projects.
+<br>
+=More Information=
+<br>
+https://owasp.org/www-project-owtf/
+[[Category:All Businesses]]

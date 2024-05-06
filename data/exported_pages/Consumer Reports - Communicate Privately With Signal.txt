@@ -1,0 +1,10 @@
+=Description=
+<br>
+Signal is an organization that offers secure and private text and call communication services. It is based in Consumer Reports, a trusted and independent non-profit organization that provides unbiased information and analysis on different products and services. Signal is a free and open-source messaging app that prioritizes user privacy and security above all else.
+
+The organization was founded in 2013 by Moxie Marlinspike and Brian Acton with the mission to make private communication accessible to everyone.
+<br>
+=More Information=
+<br>
+https://securityplanner.consumerreports.org/tool/text-call-privately-with-signal
+[[Category:Secure Interactions]]

@@ -1,0 +1,8 @@
+=Description=
+<br>
+Tenfold is a customer relationship management (CRM) tool that helps sales teams manage their customer interactions. It consolidates customer data from multiple sources into one place, provides tools for managing customer communication and follow-up, and enables sales teams to track their progress with customers. Tenfold also offers integration with popular sales tools, such as Salesforce and Hubspot, making it a valuable tool for sales teams who want to streamline their workflow.
+<br>
+=More Information=
+<br>
+https://www.tenfold.com/
+[[Category:User Provisioning & Governance]]

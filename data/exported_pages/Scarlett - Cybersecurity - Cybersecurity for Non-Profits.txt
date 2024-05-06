@@ -1,0 +1,9 @@
+=Description=
+<br>
+Cybersecurity for Non-Profits is a set of tools and services designed to help organizations protect themselves from cyber attacks. The tools and services offered by Scarlett|Cybersecurity include a cyber risk assessment, a security awareness training program, and a managed security services package. The cyber risk assessment is a comprehensive review of an organization's cyber security posture, and provides recommendations for improving their security posture. The security awareness training program helps organizations educate their employees on cybersecurity risks and best practices. The
+<br>
+=More Information=
+<br>
+https://www.scarlettcybersecurity.com/nonprof-cyber-security-solutions
+[[Category:Nonprofits & Charities]]
+[[Category:Small & Medium Sized Businesses]]

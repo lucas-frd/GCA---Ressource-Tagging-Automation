@@ -1,0 +1,10 @@
+=Description=
+<br>
+The Microsoft Baseline Security Analyzer is a free tool from the SANS Institute that can be used to scan a system for common security vulnerabilities. The MBSA can be run on Windows systems and will report any vulnerabilities that it finds. The report can then be used to help remediate the vulnerabilities.
+<br>
+=More Information=
+<br>
+https://www.sans.org/tools/?per-page=100
+[[Category:Security Testing & Auditing]]
+[[Category:Attack & Penetration Testing]]
+[[Category:Windows]]

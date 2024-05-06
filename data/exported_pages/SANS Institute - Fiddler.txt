@@ -1,0 +1,8 @@
+=Description=
+<br>
+Fiddler is a free web debugging tool that can be used to help analyze traffic from web applications. It can be used to debug web applications, monitor network traffic, and troubleshoot problems. Fiddler is available for Windows, Mac, and Linux.
+<br>
+=More Information=
+<br>
+https://www.telerik.com/fiddler
+[[Category:Threat & Vulnerability Management]]

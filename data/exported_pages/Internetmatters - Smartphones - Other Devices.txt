@@ -1,0 +1,17 @@
+=Description=
+<br>
+This resource provides step-by-step guides to help parents set controls on smartphones, tablets, and other mobile devices that their children use. With children starting to use devices at a younger age, it is crucial for parents to consider implementing controls to ensure their safety and manage their device usage effectively.
+  
+  The resource offers a range of guides that cover various aspects of device control, including location tracking, social media use, and parental controls. These guides provide simple and easy-to-follow instructions, allowing parents to navigate through the settings of popular devices and implement the desired controls.
+  
+  By following the step-by-step instructions provided in the guides, parents can gain a better understanding of how to set controls on smartphones, tablets, and other mobile devices. This empowers them to make informed decisions about their children's device usage and protect them from potential risks associated with unrestricted access.
+  
+  Whether it's limiting screen time, blocking inappropriate content, or managing app permissions, this resource equips parents with the necessary knowledge to take control of their children's device usage. By implementing these controls, parents can strike a balance between allowing their children to benefit from technology and ensuring their safety and well-being.
+  
+  In summary, this resource offers a collection of step-by-step guides that assist parents in setting controls on smartphones, tablets, and other mobile devices. By following these guides, parents can effectively manage their children's device usage and protect them from potential risks.
+<br>
+=More Information=
+<br>
+https://www.internetmatters.org/parental-controls/smartphones-and-other-devices/
+[[Category:Understanding Parental Controls]]
+[[Category:Mobile Devices]]

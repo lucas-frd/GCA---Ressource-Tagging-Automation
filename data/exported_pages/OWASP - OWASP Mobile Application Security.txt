@@ -1,0 +1,8 @@
+=Description=
+<br>
+The OWASP Mobile Application Security project is a collaborative effort to improve the security of mobile applications. The project provides resources and tools to help developers secure their mobile apps. The project also educates developers about common security risks and how to avoid them.
+<br>
+=More Information=
+<br>
+https://owasp.org/www-project-mobile-app-security/
+[[Category:Developers and Development Organizations]]

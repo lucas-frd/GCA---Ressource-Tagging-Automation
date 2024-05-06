@@ -1,0 +1,11 @@
+=Description=
+<br>
+The SolarWinds Security Essentials tool is a suite of security tools designed to help organizations secure their networks and compliance posture. The tools included in the suite are designed to provide visibility into potential security risks, help with compliance audits, and provide guidance on best practices for securing networks.
+
+The SolarWinds Security Essentials tool includes a number of features that make it a valuable resource for organizations looking to improve their security posture. The tool provides a dashboard that gives organizations an overview of their
+<br>
+=More Information=
+<br>
+https://www.sans.org/tools/?per-page=100
+[[Category:Security Information & Event Management (SIEM)]]
+[[Category:Threat & Vulnerability Management]]

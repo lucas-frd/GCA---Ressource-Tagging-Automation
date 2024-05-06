@@ -1,0 +1,8 @@
+=Description=
+<br>
+The Curity Identity Server is an identity management tool that helps organizations to securely manage and protect their digital identities. It provides a centralized repository for storing and managing identity data, and enables organizations to quickly and easily provision new identities and access to applications and services. The Curity Identity Server also offers a range of features to help organizations meet their compliance requirements, including support for Single Sign-On (SSO) and multi-factor authentication (MFA).
+<br>
+=More Information=
+<br>
+https://www.curity.com/products/identity-server/
+[[Category:Identity & Access Management (IAM)]]

@@ -1,0 +1,8 @@
+=Description=
+<br>
+Tenable Nessus Essentials is a free version of the popular Tenable Nessus vulnerability scanner. It includes all of the basic features of Nessus, making it an excellent choice for small businesses and individuals who need a simple, yet effective way to scan their systems for vulnerabilities. Nessus Essentials is easy to use and can be run from a GUI or command line interface.
+<br>
+=More Information=
+<br>
+https://www.tenable.com/products/nessus/nessus-essentials
+[[Category:Threat & Vulnerability Management]]

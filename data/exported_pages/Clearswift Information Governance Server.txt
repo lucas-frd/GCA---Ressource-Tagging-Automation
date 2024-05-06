@@ -1,0 +1,8 @@
+=Description=
+<br>
+The Clearswift Information Governance Server is a software tool designed to help organizations manage and govern their electronic information. It provides a central repository for storing and tracking electronic information, as well as tools for managing and analyzing that information. The server is designed to be used by both IT staff and business users, and offers a number of features to help organizations meet their compliance and governance obligations.
+<br>
+=More Information=
+<br>
+https://www.clearswift.com/information-governance-server/
+[[Category:User Provisioning & Governance]]

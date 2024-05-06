@@ -1,0 +1,14 @@
+=Description=
+<br>
+This resource, the UKCIS Digital Passport, is designed to assist care experienced children and young people, as well as their carers, in facilitating conversations about their online experiences. The Digital Passport serves as a communication tool to encourage open dialogue between children and young people and their carers regarding their online lives.
+  
+  The Digital Passport consists of three components that are meant to be used collectively. Firstly, there is an introduction section that provides an overview of the resource. Secondly, there is a section specifically tailored for adults and carers, offering guidance and information on how to engage in discussions about digital experiences with children and young people. Lastly, there is a section dedicated to children and young people, providing them with resources and support to navigate their online lives.
+  
+  By utilizing the Digital Passport, care experienced children and young people can have regular conversations about their digital experiences with trusted individuals. This resource aims to foster a safe and supportive environment where discussions about online activities can take place, ensuring that children and young people feel empowered and informed.
+  
+  Overall, the UKCIS Digital Passport serves as a valuable tool for care experienced children and young people, as well as their carers, to engage in meaningful conversations about their online lives. It provides a structured approach to address digital experiences and promotes a sense of understanding and support within the care environment.
+<br>
+=More Information=
+<br>
+https://www.internetmatters.org/ukcis-vulnerable-working-group/ukcis-digital-passport/
+[[Category:Planning Your Security Together]]

@@ -1,0 +1,12 @@
+=Description=
+<br>
+The Brennan Center for Justice's Election Security tool is a comprehensive resource for information and guidance on the threats to our election infrastructure, the vulnerabilities of our current system, and the steps we can take to protect our elections. The tool includes a step-by-step guide for election administrators, a state-by-state analysis of election security measures, and a range of resources on everything from cybersecurity to election audits.
+<br>
+=More Information=
+<br>
+https://www.brennancenter.org/election-security
+[[Category:Risk Reduction]]
+[[Category:Voters]]
+[[Category:Risks & Threats]]
+[[Category:Election Officials & Organizations]]
+[[Category:Risk Self-Assessment]]

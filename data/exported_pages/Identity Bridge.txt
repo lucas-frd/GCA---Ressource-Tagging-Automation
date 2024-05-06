@@ -1,0 +1,8 @@
+=Description=
+<br>
+Identity Bridge is a tool that allows organizations to securely connect their on-premises identity infrastructure to the cloud. The tool bridges the gap between on-premises and cloud-based identity management systems, allowing organizations to take advantage of the benefits of both worlds. With Identity Bridge, organizations can federate their on-premises identity infrastructure with their cloud-based identity management system, allowing for a single sign-on experience for users. In addition, the tool allows organizations to synchronize
+<br>
+=More Information=
+<br>
+https://www.identitybridge.com/
+[[Category:Identity & Access Management (IAM)]]

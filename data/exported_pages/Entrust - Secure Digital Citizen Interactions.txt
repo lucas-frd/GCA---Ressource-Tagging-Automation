@@ -1,0 +1,10 @@
+=Description=
+<br>
+Entrust is an organization that focuses on providing secure digital citizen interactions for individuals and government agencies. They enable secure online communication, transactions and access to government services through their innovative technology and solutions.
+
+The organization's goal is to create a more secure and trusted digital environment for citizens by safeguarding sensitive data and preventing identity theft and fraud. They work towards achieving this through their state-of-the-art security technology, customer-focused approach, and expertise in the field of digital identity and encryption.
+<br>
+=More Information=
+<br>
+https://www.entrust.com/solutions/secure-digital-citizen-interactions
+[[Category:Secure Online Services]]

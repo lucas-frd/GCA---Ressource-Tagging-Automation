@@ -1,0 +1,9 @@
+=Description=
+<br>
+The GCA Cybersecurity Toolkit for Journalists is a set of tools and resources designed to help journalists protect themselves from online threats. The toolkit includes a password manager, a secure messaging app, and a resource guide with tips on how to stay safe online. The toolkit is available for free to all journalists.
+<br>
+=More Information=
+<br>
+https://gcatoolkit.org/journalists/
+[[Category:Political and Social-1.5]]
+[[Category:Journalists-1.5]]

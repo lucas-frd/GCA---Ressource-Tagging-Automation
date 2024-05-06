@@ -1,0 +1,8 @@
+=Description=
+<br>
+ZeroTek is a tool that allows users to connect to a computer from any location and use it as if they were sitting in front of it. It is perfect for those who need to work remotely or who want to have access to their files and applications from anywhere. ZeroTek is simple to use and only requires a user to install a small client application on their computer. Once installed, users can connect to their computer from any internet-enabled device and use it as if they were
+<br>
+=More Information=
+<br>
+https://www.zerotek.com/
+[[Category:Single Sign-On (SSO)]]

@@ -1,0 +1,11 @@
+=Description=
+<br>
+The Wipfli Investing in Cybersecurity Pays Dividends tool is an online resource that helps small and medium-size businesses (SMBs) understand the benefits of investing in cybersecurity. The tool includes a return on investment (ROI) calculator that allows businesses to enter their own data to see how much they could potentially save by investing in cybersecurity. The calculator takes into account factors such as the number of employees, the type of business, and the risk level of the
+<br>
+=More Information=
+<br>
+https://www.wipfli.com/insights/articles/cyber-small-and-medium-size-business-cybersecurity
+[[Category:Risk Reduction]]
+[[Category:Risks & Threats]]
+[[Category:Risk Self-Assessment]]
+[[Category:Security Awareness & Training]]

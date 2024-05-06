@@ -1,0 +1,11 @@
+=Description=
+<br>
+Broadcom Symantec Federation Manager, also known as Broadcom Federation Manager, is a part of the cybersecurity solutions offered by Broadcom, a leading semiconductor and software company based in San Jose, California. Broadcom is a global company with operations and customers in over 160 countries.
+
+Broadcom Symantec Federation Manager is a cloud-based identity and access management platform that helps organizations secure their digital identities and ensure seamless access control across various applications and services. The platform integrates with existing on-premises and cloud
+<br>
+=More Information=
+<br>
+https://www.broadcom.com/products#cybersecurity
+[[Category:Identity & Access Management (IAM)]]
+[[Category:Single Sign-On (SSO)]]

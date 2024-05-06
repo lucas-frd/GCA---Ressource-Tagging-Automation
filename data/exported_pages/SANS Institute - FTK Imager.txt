@@ -1,0 +1,8 @@
+=Description=
+<br>
+FTK Imager is a digital forensics tool used for acquiring and extracting data from digital media. FTK Imager can be used to connect to a live system and acquire data in a forensically sound manner, or to collect data from a system that has been powered down. FTK Imager can also be used to create disk images, which can be used for analysis or for creating a bootable environment for forensic analysis. FTK Imager supports a variety of file systems and
+<br>
+=More Information=
+<br>
+https://accessdata.com/product-download/ftk-imager
+[[Category:Incident Reporting & Recovery]]

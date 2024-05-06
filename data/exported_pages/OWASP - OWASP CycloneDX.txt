@@ -1,0 +1,8 @@
+=Description=
+<br>
+OWASP CycloneDX is a tool that creates a Software Bill of Materials (SBOM) from a software project, which can be used to understand the dependencies and components used in the project. The tool can be used to create an SBOM for any software project, regardless of size or programming language.
+<br>
+=More Information=
+<br>
+https://owasp.org/www-project-cyclonedx/
+[[Category:Developers and Development Organizations]]

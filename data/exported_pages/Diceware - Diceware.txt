@@ -1,0 +1,10 @@
+=Description=
+<br>
+Diceware is a tool for generating strong, memorable passwords using dice. It works by selecting a random word from a list of 7776 words, then concatenating multiple words together to create a password. The list of words is designed so that each word is equally likely to be selected, and the overall password is thus very difficult to predict.
+
+Diceware is an easy and convenient way to create strong passwords that are both difficult to guess and easy to remember. It is
+<br>
+=More Information=
+<br>
+https://diceware.dmuth.org/
+[[Category:Passwords]]

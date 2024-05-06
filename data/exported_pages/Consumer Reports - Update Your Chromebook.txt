@@ -1,0 +1,10 @@
+=Description=
+<br>
+This tool helps users update their Chromebooks in order to keep them secure. It provides step-by-step instructions on how to update the operating system, browser, and extensions. It also includes a link to a video tutorial.
+<br>
+=More Information=
+<br>
+https://securityplanner.consumerreports.org/tool/update-your-chromebook
+[[Category:Device & Operating System Updates]]
+[[Category:Computers (Laptops & Desktops)]]
+[[Category:Android]]

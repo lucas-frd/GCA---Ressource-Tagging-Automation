@@ -1,0 +1,8 @@
+=Description=
+<br>
+iDenfy is an online tool that helps businesses verify the identity of their customers. It allows businesses to collect and verify customer data, such as name, address, date of birth, and government ID. iDenfy also provides a fraud detection service, which uses machine learning to identify fraudsters and prevent them from opening new accounts.
+<br>
+=More Information=
+<br>
+https://www.idenfy.com/
+[[Category:Biometric]]

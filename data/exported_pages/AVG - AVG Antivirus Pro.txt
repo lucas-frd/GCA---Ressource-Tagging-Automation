@@ -1,0 +1,14 @@
+=Description=
+<br>
+AVG antivirus pro is a great tool for PC that offers protection against viruses, malware, and other online threats. It has a real-time scanner that scans your computer for threats and blocks them if they are found. It also has a quarantine area where it stores threats that it has found so that you can remove them later. It has a schedule function so that you can scan your computer at certain times, and it also has a self-protection mode so that it can protect itself
+<br>
+=More Information=
+<br>
+https://www.avg.com/en-us/homepage#pc
+[[Category:Website]]
+[[Category:Email & Other Communications]]
+[[Category:Threat & Vulnerability Management]]
+[[Category:Firewalls]]
+[[Category:Junk Mail]]
+[[Category:Phishing]]
+[[Category:Anti-virus & Anti-malware Software]]

@@ -1,0 +1,10 @@
+=Description=
+<br>
+The organization referred to in the article is Checkpoint, a leading provider of cybersecurity solutions for businesses and organizations. Checkpoint is based in Israel and has offices in various countries around the world.
+
+The company was founded in 1993 and has since become a trusted name in the cybersecurity industry, known for its innovative technologies and top-notch security products. Its main focus is on preventing cyber attacks and protecting businesses from all types of threats, including ransomware, phishing, and data breaches.
+<br>
+=More Information=
+<br>
+https://research.checkpoint.com/2022/scammers-are-creating-new-fraudulent-crypto-tokens-and-misconfiguring-smart-contracts-to-steal-funds/#:~:text=Some%20tokens%20contain%20a%2099%25%20sell%20fee%20which%20will%20steal,hackers%20that%20exploit%20the%20vulnerabilities.
+[[Category:Malicious Tokens]]

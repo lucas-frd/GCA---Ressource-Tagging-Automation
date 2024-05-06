@@ -1,0 +1,8 @@
+=Description=
+<br>
+Hire2Retire is an online retirement planning tool that calculates how much money you will need to retire based on your current salary, age, and retirement goals. It also provides recommendations on how to save and invest your money to reach your retirement goals.
+<br>
+=More Information=
+<br>
+https://www.hire2retire.com/
+[[Category:User Provisioning & Governance]]

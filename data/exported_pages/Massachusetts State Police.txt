@@ -1,0 +1,8 @@
+=Description=
+<br>
+The Massachusetts State Police organization is a law enforcement agency responsible for investigating and combating cyber crimes within the state.
+<br>
+=More Information=
+<br>
+https://www.mass.gov/info-details/specialized-units#cyber-crimes-unit-
+[[Category:Massachusetts]]

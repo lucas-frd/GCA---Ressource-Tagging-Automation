@@ -1,0 +1,8 @@
+=Description=
+<br>
+The CyberPeace Institute, through their Humanitarian Cybersecurity Program, provides independent and evidence-based insights on how vulnerable communities are targeted and harmed by malicious activities in cyberspace. Their assistance to NGOs and our legal and policy contributions are intrinsically linked with our ability to deliver unique data-driven analysis. They make data and analysis freely accessible to raise awareness of the harm of cyberattacks and to be used in further research. By signing up, an organization can get access to detection, prevention, assistance, and strengthening services. CyberPeace Builders provide hands-on assistance to NGOs to build cyber preparedness and resilience through risk assessments, simulation exercises and training, globally in addition to hands-on technical and forensic investigative support and assist with incident and crisis management. Furthermore, they work to develop standards, foster multistakeholder collaboration, and advocate for the protection of the humanitarian sector.
+<br>
+=More Information=
+<br>
+https://cyberpeaceinstitute.org/humanitarian-cybersecurity-center/#:~:text=The%20Humanitarian%20Cybersecurity%20Center%20(HCC,located%20anywhere%20in%20the%20world.
+[[Category:Legal Considerations]]

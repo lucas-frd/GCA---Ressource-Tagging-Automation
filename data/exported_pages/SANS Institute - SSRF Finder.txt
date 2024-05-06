@@ -1,0 +1,9 @@
+=Description=
+<br>
+The SANS Institute's SSRF Finder tool helps organizations find and fix security vulnerabilities related to servers that are exposed to the Internet. The tool is designed to scan for servers that are vulnerable to attackers gaining access to internal network resources. The SSRF Finder tool will also provide organizations with information on how to fix the vulnerabilities.
+<br>
+=More Information=
+<br>
+https://www.sans.org/tools/?per-page=100
+[[Category:Security Testing & Auditing]]
+[[Category:Attack & Penetration Testing]]

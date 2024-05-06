@@ -1,0 +1,10 @@
+=Description=
+<br>
+Automated Cloud SIEM is an organization based in Blumira that offers a comprehensive cloud-based Security Information and Event Management (SIEM) solution. The company was founded in 2016 by a team of experienced security professionals with the aim of making cybersecurity more accessible and manageable for businesses of all sizes.
+
+At the core of Automated Cloud SIEM is Blumira's advanced machine learning technology, which enables the platform to automatically detect and respond to security threats in real-time. This eliminates the need
+<br>
+=More Information=
+<br>
+https://www.blumira.com/product/cloud-siem/
+[[Category:Security Information & Event Management (SIEM)]]

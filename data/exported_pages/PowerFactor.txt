@@ -1,0 +1,8 @@
+=Description=
+<br>
+PowerFactor is a tool that helps businesses understand and improve their power usage. It provides insights into how businesses use energy, what factors affect their power usage, and how to improve their efficiency. The tool also offers tips and resources to help businesses save money on their energy bills.
+<br>
+=More Information=
+<br>
+https://www.powerfactor.com/
+[[Category:Two-Factor & Multi-Factor Authentication]]

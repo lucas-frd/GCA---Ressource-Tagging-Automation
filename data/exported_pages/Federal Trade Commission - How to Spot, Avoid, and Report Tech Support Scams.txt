@@ -1,0 +1,10 @@
+=Description=
+<br>
+The How to Spot, Avoid, and Report Tech Support Scams resource is provided by the Federal Trade Commission (FTC), a consumer protection agency in the United States. The FTC is responsible for promoting fair and honest business practices, protecting consumers from fraud, and providing information to help them make informed decisions. 
+
+The specific division of the FTC that handles tech support scams is the Bureau of Consumer Protection. This division works to prevent fraud, deception, and unfair business practices in the marketplace.
+<br>
+=More Information=
+<br>
+https://consumer.ftc.gov/articles/how-spot-avoid-and-report-tech-support-scams
+[[Category:Cryptocurrency Technical Support Scam]]

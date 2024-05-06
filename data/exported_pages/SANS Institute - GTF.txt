@@ -1,0 +1,8 @@
+=Description=
+<br>
+SANS Institute GTF is a computer forensics tool that can be used to identify and investigate computer crimes. It can be used to examine data on a computer's hard drive, including files that have been deleted. GTF can also be used to create a forensic image of a hard drive, which can be used to investigate a crime.
+<br>
+=More Information=
+<br>
+https://www.sans.org/tools/?per-page=100
+[[Category:Security Information & Event Management (SIEM)]]

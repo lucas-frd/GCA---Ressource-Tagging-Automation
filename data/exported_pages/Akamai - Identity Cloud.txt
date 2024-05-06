@@ -1,0 +1,14 @@
+=Description=
+<br>
+Identity Cloud is a comprehensive identity management solution offered by Akamai, a leading content delivery network and cloud services provider. The company was founded in 1998 and is headquartered in Cambridge, Massachusetts.
+
+Identity Cloud is designed to help organizations securely manage their customers' identities and provide a seamless and personalized digital experience. The platform offers a wide range of features and capabilities such as customer registration, authentication, authorization, user identity management, single sign-on, and multi-factor authentication.
+
+The organization is primarily focused
+<br>
+=More Information=
+<br>
+https://www.akamai.com/products/identity-cloud
+[[Category:Customer Identity & Access Management (CIAM)]]
+[[Category:Self-Service Registration]]
+[[Category:Single Sign-On (SSO)]]

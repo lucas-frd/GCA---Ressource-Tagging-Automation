@@ -1,0 +1,16 @@
+=Description=
+<br>
+This resource, the Center for Internet Security Risk Assessment Method (CIS RAM), is designed to assist organizations in implementing and evaluating their security measures against the CIS Critical Security Controls (CIS Controls) cybersecurity best practices. The CIS RAM Family of Documents offers comprehensive guidance, including instructions, examples, templates, and exercises, to facilitate the process of conducting a cyber risk assessment.
+
+CIS RAM offers three distinct security approaches, each tailored to support different levels of security. By utilizing this method, organizations can effectively evaluate their security posture and identify potential vulnerabilities or areas for improvement. The resource emphasizes the importance of security at every level, ensuring that all aspects of an organization's infrastructure are adequately protected.
+
+Developed in collaboration with the Center for Internet Security (CIS), CIS RAM provides a structured framework for conducting risk assessments. By following the guidelines outlined in the resource, organizations can gain a comprehensive understanding of their current security status and make informed decisions regarding risk mitigation strategies.
+
+To access the CIS RAM resource, users are required to complete a form, after which they can download the necessary documents. This ensures that the resource is accessible to those who are genuinely interested in utilizing it for their risk assessment needs.
+
+Overall, the CIS RAM resource serves as a valuable tool for organizations seeking to enhance their cybersecurity measures. By leveraging the guidance and resources provided, organizations can strengthen their security posture and better protect their digital assets.
+<br>
+=More Information=
+<br>
+https://learn.cisecurity.org/cis-ram
+[[Category:All Businesses]]

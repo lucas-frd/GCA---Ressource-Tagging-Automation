@@ -1,0 +1,13 @@
+=Description=
+<br>
+This article, titled New website security warnings raise the bar for nonprofits by Rick Cohen, highlights the importance for nonprofits to ensure their websites meet the new security standards set by Google. The article emphasizes that failure to comply with these standards can hinder a nonprofit's ability to engage with the public, including potential clients and donors. In the past, nonprofits could assure donors of their website's security by pointing out the presence of a small lock icon in the address bar, indicating the use of secure protocols. However, Google's new standards require additional measures to be taken to demonstrate website security. The article does not provide specific details about the new security standards, but it emphasizes the significance of complying with them. By doing so, nonprofits can maintain trust and credibility with their audience, ensuring a safe and secure online experience for visitors. Overall, this article serves as a reminder to nonprofits about the importance of website security and the potential consequences of not meeting the new standards set by Google. It encourages nonprofits to take action and make the necessary changes to ensure their websites are secure, enabling them to effectively engage with the public and attract potential clients and donors.
+<br>
+=More Information=
+<br>
+https://www.councilofnonprofits.org/articles/new-website-security-warnings-raise-bar-nonprofits
+[[Category:Nonprofits & Charities]]
+[[Category:Risks & Threats]]
+[[Category:Security Testing]]
+[[Category:Emergency Response and Planning]]
+[[Category:Social Media]]
+[[Category:Secure Interactions]]

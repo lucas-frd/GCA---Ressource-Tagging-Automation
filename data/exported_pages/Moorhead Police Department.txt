@@ -1,0 +1,8 @@
+=Description=
+<br>
+The Moorhead Police Department is the law enforcement agency responsible for investigations and maintaining public safety in the city of Moorhead.
+<br>
+=More Information=
+<br>
+https://www.cityofmoorhead.com/departments/police/investigations
+[[Category:Minnesota]]

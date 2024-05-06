@@ -1,0 +1,8 @@
+=Description=
+<br>
+The Lorain Police Department's Criminal Investigations Division is responsible for investigating and solving criminal cases in the city.
+<br>
+=More Information=
+<br>
+https://www.lorainpolice.com/criminal-investigations-division/
+[[Category:Ohio]]

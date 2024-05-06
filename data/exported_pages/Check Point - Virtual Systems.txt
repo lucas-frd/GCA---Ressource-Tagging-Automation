@@ -1,0 +1,8 @@
+=Description=
+<br>
+Virtual Systems is a leading organization in the field of cybersecurity based in Israel. It is a subsidiary of Check Point, a global provider of IT security solutions founded in 1993 by Gil Shwed, Marius Nacht, and Shlomo Kramer. Check Point has its headquarters in Tel Aviv, Israel, and has offices in over 80 countries around the world. The organization has a team of over 5,000 employees, including cybersecurity experts and engineers, to provide innovative and effective solutions for
+<br>
+=More Information=
+<br>
+https://www.checkpoint.com/products/
+[[Category:Firewalls]]

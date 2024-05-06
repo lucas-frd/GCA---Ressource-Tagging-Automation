@@ -1,0 +1,8 @@
+=Description=
+<br>
+A European Union regulation that regulates the processing of personal data.
+<br>
+=More Information=
+<br>
+https://commission.europa.eu/law/law-topic/data-protection_en
+[[Category:European Union]]

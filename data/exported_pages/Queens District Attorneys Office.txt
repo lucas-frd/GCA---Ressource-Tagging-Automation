@@ -1,0 +1,8 @@
+=Description=
+<br>
+The Queens District Attorney's Office is a law enforcement organization dedicated to investigating and prosecuting cyber crimes in the borough of Queens, New York.
+<br>
+=More Information=
+<br>
+https://queensda.org/investigations/#cyber-crime-unit
+[[Category:New York]]

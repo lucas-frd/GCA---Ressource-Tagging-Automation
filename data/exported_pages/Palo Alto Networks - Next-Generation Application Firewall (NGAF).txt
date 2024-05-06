@@ -1,0 +1,11 @@
+=Description=
+<br>
+Next-Generation Application Firewall (NGAF) is a product of Palo Alto Networks, a multinational cybersecurity company based in Santa Clara, California. The company was founded in 2005 by Nir Zuk, a former engineer and inventor of stateful firewall technology. Palo Alto Networks has been consistently recognized as a leader in the network security market, and its NGAF product is a testament to its commitment to innovation and providing advanced security solutions to its customers.
+
+NGAF is a next-generation firewall that goes beyond
+<br>
+=More Information=
+<br>
+https://www.paloaltonetworks.com/products/products-a-z
+[[Category:Firewalls]]
+[[Category:Application Security]]

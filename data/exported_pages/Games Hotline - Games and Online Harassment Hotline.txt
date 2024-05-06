@@ -1,0 +1,18 @@
+=Description=
+<br>
+This resource is a text-based support service that offers free and confidential emotional support to individuals in the USA. By texting the word SUPPORT to 23368, users can connect with trained hotline agents who are available to chat from 3-7pm PT every day.
+ 
+ The purpose of this tool is to provide a safe space for individuals to seek emotional support and discuss their concerns. It aims to help those who may be feeling overwhelmed, frustrated, or going through difficult times by offering a listening ear and guidance.
+ 
+ Users can initiate a conversation by texting their thoughts or concerns, and the trained hotline agents will respond, encouraging them to share more about what they are experiencing. The agents are there to provide support, offer guidance, and help individuals navigate their emotions.
+ 
+ This resource is particularly useful for streamers who may be dealing with hate raids, as it offers a comprehensive guide on how to stay safe. By texting SUPPORT to 23368, streamers can access this guide and learn strategies to protect themselves from online harassment.
+ 
+ Overall, this text-based support service provides a convenient and accessible way for individuals in the USA to seek emotional support. It offers a confidential platform where users can express their feelings and receive guidance from trained professionals.
+<br>
+=More Information=
+<br>
+https://gameshotline.org/
+[[Category:Online Gaming]]
+[[Category:Hotlines & Services]]
+[[Category:Account Safety & Privacy]]

@@ -1,0 +1,8 @@
+=Description=
+<br>
+The GateKeeper Client is a software application that provides a user with the ability to access and manage their account with the GateKeeper security system. The client allows a user to view their account activity, manage their security settings, and view their account history. The client also allows a user to add and remove devices from their account, as well as view and manage their device's security settings. The GateKeeper Client is a desktop application that is available for Windows and MacOS.
+<br>
+=More Information=
+<br>
+https://www.gatekeeper.com/client/
+[[Category:Two-Factor & Multi-Factor Authentication]]

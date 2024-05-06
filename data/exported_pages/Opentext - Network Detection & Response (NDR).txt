@@ -1,0 +1,12 @@
+=Description=
+<br>
+Network Detection & Response (NDR) is a security solution provided by Opentext, a global leader in Enterprise Information Management (EIM). Opentext’s NDR is a cloud-based platform designed to protect organizations against advanced cyber threats by identifying and responding to network-based attacks in real-time.
+
+The NDR platform utilizes machine learning and behavioral analysis to detect and respond to threats across an organization’s entire network, including on-premise, cloud, and hybrid environments. This enables businesses to have
+<br>
+=More Information=
+<br>
+https://www.opentext.com/products/security-cloud
+[[Category:Threat Hunting]]
+[[Category:Threat & Vulnerability Management]]
+[[Category:Intrusion Detection & Prevention Systems (IDPS)]]

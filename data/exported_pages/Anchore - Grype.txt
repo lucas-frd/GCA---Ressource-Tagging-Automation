@@ -1,0 +1,8 @@
+=Description=
+<br>
+Grype is a tool that allows users to create and manage Anchore images. With Grype, users can create an image of their application, then use Anchore to inspect the image for security vulnerabilities and policy violations. Grype also allows users to set up image scanning and policy enforcement pipelines, so that their images are always up-to-date and compliant with security policies.
+<br>
+=More Information=
+<br>
+https://github.com/anchore/grype
+[[Category:Threat & Vulnerability Management]]

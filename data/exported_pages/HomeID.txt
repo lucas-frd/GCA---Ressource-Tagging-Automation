@@ -1,0 +1,8 @@
+=Description=
+<br>
+HomeID is a home automation system that allows users to control and manage their home’s devices and appliances from a central hub. The system includes a mobile app and web portal that gives users access to their home’s devices from anywhere. HomeID also offers integration with popular smart home products and services, such as Amazon Alexa, Google Home, and Nest.
+<br>
+=More Information=
+<br>
+https://www.homeid.com/
+[[Category:Two-Factor & Multi-Factor Authentication]]

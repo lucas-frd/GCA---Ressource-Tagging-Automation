@@ -1,0 +1,15 @@
+=Description=
+<br>
+This resource, SecureTheVillage, aims to promote a cybersecure future by emphasizing the importance of community involvement in managing security and privacy. As a 501c(3) nonprofit organization, SecureTheVillage encourages individuals to become CyberGuardians and take the CyberGuardian Pledge. By joining their email list and participating in their events, individuals can stay informed and actively contribute to the cause.
+  
+  SecureTheVillage recognizes that cybersecurity is not solely the responsibility of individuals or organizations, but rather a collective effort. Their vision aligns with the idea of a cybersecure global village, where everyone plays a role in safeguarding digital assets and protecting privacy.
+  
+  The website features upcoming events and provides access to a collection of featured videos and recent events. This allows visitors to stay up to date with the latest developments in cybersecurity and gain valuable insights from industry experts.
+  
+  Supporting SecureTheVillage means supporting a community-based response to the cybersecurity and privacy crisis. By engaging with this resource, individuals can contribute to building a more secure digital environment for everyone.
+<br>
+=More Information=
+<br>
+https://securethevillage.org/
+[[Category:Security Awareness & Training]]
+[[Category:Websites & Applications]]

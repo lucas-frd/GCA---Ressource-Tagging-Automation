@@ -1,0 +1,8 @@
+=Description=
+<br>
+The McKeesport Police Department is a law enforcement agency responsible for maintaining public safety and enforcing the law in the city of McKeesport, Pennsylvania.
+<br>
+=More Information=
+<br>
+https://www.mckeesport-pa.gov/159/Police-Department
+[[Category:Pennsylvania]]

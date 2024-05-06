@@ -1,0 +1,10 @@
+=Description=
+<br>
+WatchTower Security Management App is a product designed and developed by Check Point, a leading cybersecurity company headquartered in Tel Aviv, Israel. Founded in 1993, Check Point has become a global leader in providing advanced cybersecurity solutions to businesses and organizations of all sizes.
+
+WatchTower Security Management App is a comprehensive security management platform that helps organizations to effectively protect their networks, data, and endpoints from cyber threats. It is an integral part of Check Point's Infinity Total Protection architecture, which provides multi-layered
+<br>
+=More Information=
+<br>
+https://www.checkpoint.com/products/
+[[Category:Security Information & Event Management (SIEM)]]

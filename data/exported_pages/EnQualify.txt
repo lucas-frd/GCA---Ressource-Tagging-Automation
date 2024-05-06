@@ -1,0 +1,9 @@
+=Description=
+<br>
+EnQualify is a tool that allows businesses to check their environmental performance against specific environmental indicators. It provides a report which includes a company's rating and rankings, as well as details of their environmental performance. This tool can be used to help a company improve their environmental practices.
+<br>
+=More Information=
+<br>
+https://www.enqualify.com/
+[[Category:Biometric]]
+[[Category:Two-Factor & Multi-Factor Authentication]]

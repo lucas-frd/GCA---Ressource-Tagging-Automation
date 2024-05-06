@@ -1,0 +1,8 @@
+=Description=
+<br>
+ID Analytics is a tool that helps organizations to verify the identity of their customers and employees. It uses data from various sources to create a profile for each individual, which is then used to assess the risk of fraud or identity theft. The tool can be used to prevent fraudsters from using stolen or synthetic identities to open new accounts, apply for loans, or commit other types of fraud. It can also be used to verify the identity of employees or customers when they are interacting with your organization online
+<br>
+=More Information=
+<br>
+https://www.id-analytics.com/
+[[Category:Two-Factor & Multi-Factor Authentication]]

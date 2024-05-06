@@ -1,0 +1,9 @@
+=Description=
+<br>
+Backup and recovery is a process of creating and storing copies of data that can be used to restore a system in the event of data loss. This process typically includes creating a backup of all data on a regular basis, as well as storing the backup in a safe location. In the event of data loss, the backup can be used to restore the lost data.
+<br>
+=More Information=
+<br>
+https://www.netapp.com/cyber-resilience/data-protection/data-backup-recovery/what-is-backup-recovery/
+[[Category:Security Awareness & Training]]
+[[Category:Backup & Restoration of Data]]

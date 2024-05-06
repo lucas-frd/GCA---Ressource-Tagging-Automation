@@ -1,0 +1,9 @@
+=Description=
+<br>
+Cloudflare Zero Trust Services is a cloud-based security solution that provides a comprehensive approach to protecting data and applications. It uses a zero-trust model to secure data and applications by verifying user and device identity, as well as ensuring that the data and applications are safe from malicious actors. Cloudflare Zero Trust Services is designed to work with existing security solutions and can be deployed quickly and easily.
+<br>
+=More Information=
+<br>
+https://www.cloudflare.com/plans/zero-trust-services/
+[[Category:Zero Trust]]
+[[Category:Managed Security Service Providers (MSSPs)]]

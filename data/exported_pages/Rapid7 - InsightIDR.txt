@@ -1,0 +1,10 @@
+=Description=
+<br>
+InsightIDR is a security information and event management (SIEM) solution developed by Rapid7, a leading cybersecurity company based in Boston, Massachusetts. The company was founded in 2000 and has since become a prominent figure in the security industry, with a mission to help organizations around the world secure their networks and data.
+
+The organization offers a wide range of products and services that help businesses and government agencies detect and respond to security breaches and vulnerabilities. Its flagship product, InsightIDR,
+<br>
+=More Information=
+<br>
+https://www.rapid7.com/products/insightidr/
+[[Category:Intrusion Detection & Prevention Systems (IDPS)]]

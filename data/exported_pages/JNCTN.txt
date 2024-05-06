@@ -1,0 +1,8 @@
+=Description=
+<br>
+JNCTN is a tool that allows users to create and manage their own networking infrastructure. With JNCTN, users can deploy and manage network devices, including routers, switches, and firewall appliances, without the need for physical hardware. JNCTN provides a web-based interface that allows users to manage their network devices and configurations online. JNCTN is designed to simplify the process of network deployments and to provide a cost-effective way to manage networking infrastructure.
+<br>
+=More Information=
+<br>
+https://jnctn.com/
+[[Category:Identity & Access Management (IAM)]]

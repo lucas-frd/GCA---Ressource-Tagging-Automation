@@ -1,0 +1,10 @@
+=Description=
+<br>
+Check Point is a global provider of cybersecurity solutions, offering a wide range of products and services to protect organizations from cyber threats. One of the key offerings from Check Point is their High Availability Cluster, which is designed to provide continuous and uninterrupted protection to networks and critical assets.
+
+The High Availability Cluster is a software-based solution that ensures business continuity by automatically transferring services to a standby device in case of a failure or outage. This cluster capability is achieved by integrating Check Point's Firewall, IPS, VPN,
+<br>
+=More Information=
+<br>
+https://www.checkpoint.com/products/
+[[Category:Websites & Applications]]

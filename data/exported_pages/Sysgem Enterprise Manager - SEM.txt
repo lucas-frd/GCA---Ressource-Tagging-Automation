@@ -1,0 +1,8 @@
+=Description=
+<br>
+Sysgem Enterprise Manager (SEM) is software that enables enterprises to manage and monitor their business processes. It provides a unified view of an enterprise's operations, allowing managers to see how each process is performing and identify potential improvements. SEM also includes tools for process mining, which can be used to discover hidden patterns and relationships in data. In addition, SEM can be used to create process models that can be used to simulate and optimize processes.
+<br>
+=More Information=
+<br>
+https://www.sysgem.com/solutions/sysgem-enterprise-manager/
+[[Category:User Provisioning & Governance]]

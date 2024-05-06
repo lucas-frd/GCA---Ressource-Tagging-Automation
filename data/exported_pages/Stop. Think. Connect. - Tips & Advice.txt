@@ -1,0 +1,10 @@
+=Description=
+<br>
+This resource provides a collection of tips and advice to promote online safety. It offers basic tips and advice in multiple languages, including English, Spanish, French (Canadian), Portuguese (Brazilian), Japanese, and Russian. The focus is on staying #CyberAware while using mobile devices, with specific safety tips provided for mobile users. Additionally, the resource offers tip sheets for various scenarios, such as when planning a wedding, emphasizing the importance of cyber safety. These tip sheets are designed to help individuals make informed decisions and take necessary precautions to protect themselves online. The resource also highlights the STOP. THINK. CONNECT.â„¢ campaign, which encourages users to pause and consider their actions before engaging online. It provides tip sheets in multiple languages, including French (Canadian) and Spanish, to cater to a wider audience. Overall, this resource aims to keep the web a safer place for everyone by providing practical advice and tips to enhance online safety. It covers a range of topics, from general online safety to specific scenarios, and offers information in multiple languages to ensure accessibility for a diverse audience. By promoting awareness and responsible online behavior, this resource contributes to a safer digital environment.
+<br>
+=More Information=
+<br>
+https://stopthinkconnect.org/tips-advice
+[[Category:Risks & Threats]]
+[[Category:Mobile Devices]]
+[[Category:Social Media]]

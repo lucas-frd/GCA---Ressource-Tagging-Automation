@@ -1,0 +1,10 @@
+=Description=
+<br>
+Fischer Identity is a tool that allows users to create and manage their online identities. It provides a variety of features that makes it easy to create and manage an online identity, including the ability to create and manage multiple identities, the ability to share information between identities, and the ability to control access to and use of information. Fischer Identity also allows users to connect with other users and create networks of friends and colleagues.
+<br>
+=More Information=
+<br>
+https://www.fischerid.com/
+[[Category:Single Sign-On (SSO)]]
+[[Category:User Provisioning & Governance]]
+[[Category:Identity & Access Management (IAM)]]

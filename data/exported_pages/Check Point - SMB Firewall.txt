@@ -1,0 +1,10 @@
+=Description=
+<br>
+Check Point is a leading global provider of cybersecurity solutions and services for small and medium-sized businesses (SMBs). The company’s focus on SMBs can be seen in its product lineup, as well as its mission statement, which states that the company’s goal is to "make internet security as easy as using the internet." Check Point was founded in 1993 and is headquartered in Tel Aviv, Israel, with offices in over 110 countries.
+
+The organization's SMB Firewall product can be found
+<br>
+=More Information=
+<br>
+https://www.checkpoint.com/products/
+[[Category:Firewalls]]

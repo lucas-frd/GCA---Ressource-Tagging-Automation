@@ -1,0 +1,9 @@
+=Description=
+<br>
+DOOT is an online tool that helps businesses and individuals track their goals, to-dos, and progress. It is simple to use and has a clean, modern interface. DOOT has many features including task and goal tracking, reminders, notes, and tags. You can also create custom views and reports, and share your DOOT with others. DOOT is a great tool for keeping you organized and motivated, and for helping you achieve your goals.
+<br>
+=More Information=
+<br>
+https://www.doot.io/
+[[Category:Biometric]]
+[[Category:Two-Factor & Multi-Factor Authentication]]

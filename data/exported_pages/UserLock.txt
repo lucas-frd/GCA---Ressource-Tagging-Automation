@@ -1,0 +1,8 @@
+=Description=
+<br>
+UserLock is a security tool that helps organizations manage and monitor user activity on their networks. It provides a centralized way to track user activity, enforce security policies, and monitor for suspicious activity. UserLock can be used to restrict access to sensitive data, limit user activity during certain hours, and track user activity for auditing purposes.
+<br>
+=More Information=
+<br>
+https://userlock.com/
+[[Category:Two-Factor & Multi-Factor Authentication]]

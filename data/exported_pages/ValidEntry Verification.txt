@@ -1,0 +1,8 @@
+=Description=
+<br>
+ValidEntry is a powerful online tool that helps businesses verify the identity of their customers. It uses a variety of data sources to verify customer information, including social media, government databases, and private databases. ValidEntry helps businesses to avoid fraud and to protect their customer data.
+<br>
+=More Information=
+<br>
+https://www.validentry.com/
+[[Category:Biometric]]

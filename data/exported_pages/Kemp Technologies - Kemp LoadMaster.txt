@@ -1,0 +1,11 @@
+=Description=
+<br>
+Kemp LoadMaster is a product offered by Kemp Technologies, a leading provider of virtual, hardware and cloud-based load balancing solutions. The company was founded in 2000 and is headquartered in New York City, with offices worldwide including in North America, Europe, and Asia Pacific.
+
+The primary focus of Kemp Technologies is to provide load balancing solutions that optimize the performance, security and robustness of applications and websites. Their flagship product, Kemp LoadMaster, is a powerful and versatile load balancing solution that
+<br>
+=More Information=
+<br>
+https://kemptechnologies.com/products/loadmaster
+[[Category:Application Security]]
+[[Category:Zero Trust]]

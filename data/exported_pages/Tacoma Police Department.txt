@@ -1,0 +1,8 @@
+=Description=
+<br>
+The Tacoma Police Department's Investigations Bureau is responsible for investigating and solving criminal cases in the Tacoma community.
+<br>
+=More Information=
+<br>
+https://www.cityoftacoma.org/government/city_departments/police/investigations_bureau
+[[Category:Washington]]

@@ -1,0 +1,8 @@
+=Description=
+<br>
+The Trusona Authentication Tool is a plugin that allows you to authenticate your WordPress account with Trusona. Trusona is a secure authentication service that uses the biometrics of your device to verify your identity. With this plugin, you can add an extra layer of security to your WordPress account by authenticating with Trusona.
+<br>
+=More Information=
+<br>
+https://wordpress.org/plugins/trusona/
+[[Category:Authentication Approaches]]

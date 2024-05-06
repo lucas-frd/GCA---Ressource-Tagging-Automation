@@ -1,0 +1,10 @@
+=Description=
+<br>
+Falcon for Azure is a cloud security solution developed by CrowdStrike, a leading cybersecurity company based in Sunnyvale, California. This innovative technology is specifically designed to protect Microsoft Azure cloud environments from advanced cyber threats.
+
+The Falcon for Azure platform is built on the proven and trusted CrowdStrike Falcon platform, which is known for its ability to stop breaches before they occur. This means that Falcon for Azure integrates seamlessly with existing Falcon deployments, allowing users to have unified visibility and protection across their Azure and on-pre
+<br>
+=More Information=
+<br>
+https://www.crowdstrike.com/products/cloud-security/falcon-for-azure/
+[[Category:Cloud Security]]

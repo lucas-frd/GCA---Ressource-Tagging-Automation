@@ -1,0 +1,18 @@
+=Description=
+<br>
+The Privacy Impact Assessment (PIA) Guide is a tool developed by the Office of the Australian Information Commissioner (OAIC) to help organisations and agencies conduct PIAs. The Guide sets out a structured approach for conducting a PIA, including:
+
+1. Describing the proposed project or initiative
+
+2. Identifying the information handling practices that will be undertaken as part of the project or initiative
+
+3. Assessing the privacy impacts of those information handling practices
+
+4
+<br>
+=More Information=
+<br>
+https://www.oaic.gov.au/privacy/privacy-guidance-for-organisations-and-government-agencies/privacy-impact-assessments/guide-to-undertaking-privacy-impact-assessments#related-pages
+[[Category:Risk Self-Assessment]]
+[[Category:Risks & Threats]]
+[[Category:Risk Reduction]]

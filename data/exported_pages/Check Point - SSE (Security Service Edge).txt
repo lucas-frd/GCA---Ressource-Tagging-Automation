@@ -1,0 +1,10 @@
+=Description=
+<br>
+Check Point's Security Service Edge (SSE) is a comprehensive and advanced cloud security solution designed to secure organizations and their networks from cyber threats. It is an innovative platform that combines advanced threat prevention, secure connectivity, and user-centric security services to create a holistic approach to security.
+
+SSE is based on the concept of a Security Service Edge, which is a distributed architecture that integrates network edge and cloud security services. This allows organizations to protect their users, data, and applications from anywhere at any
+<br>
+=More Information=
+<br>
+https://www.checkpoint.com/products/
+[[Category:Endpoint Detection & Response (EDR)]]

@@ -1,0 +1,8 @@
+=Description=
+<br>
+Authomize is a secure, cloud-based authentication and authorization solution that makes it easy to manage user access to applications and data. It provides a single, centralized platform for managing user identities, roles, and permissions. With Authomize, you can easily control who has access to what, and you can revoke access at any time. Authomize is flexible and scalable, and it integrates with your existing identity management systems.
+<br>
+=More Information=
+<br>
+https://www.authomize.com/
+[[Category:User Provisioning & Governance]]

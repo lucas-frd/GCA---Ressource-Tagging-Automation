@@ -1,0 +1,10 @@
+=Description=
+<br>
+R-Studio is an organization that specializes in creating software for data recovery and data analysis. It was founded in 2002 and is based in Boston, Massachusetts. R-Studio is the developer of the popular data recovery software of the same name, which is used by individuals and organizations across the globe.
+
+The goal of R-Studio is to develop high-quality and user-friendly data recovery and analysis tools that help individuals and organizations recover lost data and make sense of their data in an efficient and effective manner.
+<br>
+=More Information=
+<br>
+https://www.r-studio.com/
+[[Category:Data recovery]]

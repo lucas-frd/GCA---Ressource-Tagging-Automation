@@ -1,0 +1,8 @@
+=Description=
+<br>
+Check Point is a global organization that specializes in providing cybersecurity solutions, primarily in the form of data loss prevention (DLP) products. Founded in 1993, Check Point has established itself as a leader in the cybersecurity industry, with a presence in over 100 countries and a customer base of over 100,000 organizations. The company's headquarters is located in Tel Aviv, Israel, and it has offices in different parts of the world, including North America, Europe, and Asia Pacific.
+<br>
+=More Information=
+<br>
+https://www.checkpoint.com/products/
+[[Category:Firewalls]]

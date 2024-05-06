@@ -1,0 +1,10 @@
+=Description=
+<br>
+The Cyber Self-Assessment offered by Marsh is a comprehensive tool designed to help organizations assess and evaluate their current cyber risk management practices. Marsh is a global leader in insurance broking and risk management, with over 35,000 employees spread out across more than 130 countries. They specialize in helping companies of all sizes and industries manage risk and navigate complex challenges. 
+
+The Cyber Self-Assessment is an online platform that allows businesses to gain a better understanding of their cyber exposure and identify potential vulnerabilities.
+<br>
+=More Information=
+<br>
+https://www.marsh.com/us/services/cyber-risk/products/cyber-self-assessment.html
+[[Category:Risk Reduction]]

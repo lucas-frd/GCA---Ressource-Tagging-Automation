@@ -1,0 +1,9 @@
+=Description=
+<br>
+WSO2 Identity Server is a tool that helps organizations to securely store and manage identities of users and devices. It allows administrators to create and manage users, devices, and permissions. It also provides features such as Single Sign-On (SSO), multi-factor authentication, and role-based access control.
+<br>
+=More Information=
+<br>
+https://wso2.com/identity-and-access-management/
+[[Category:Single Sign-On (SSO)]]
+[[Category:User Provisioning & Governance]]

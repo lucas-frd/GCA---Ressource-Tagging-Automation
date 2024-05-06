@@ -1,0 +1,8 @@
+=Description=
+<br>
+The BlackBerry 2FA is a multi-factor authentication tool that can be used to secure access to BlackBerry devices and services. It uses a combination of a PIN code and a fingerprint or iris scan to verify the identity of the user. The PIN code can be changed by the user at any time, and the fingerprint or iris scan can be used to identify the user even if they are not able to remember the PIN code. The BlackBerry 2FA is a secure and convenient way to protect
+<br>
+=More Information=
+<br>
+https://www.blackberry.com/us/en/solutions/cybersecurity/zero-trust/multi-factor-authentication
+[[Category:Two-Factor & Multi-Factor Authentication]]

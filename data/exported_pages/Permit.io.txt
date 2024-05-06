@@ -1,0 +1,8 @@
+=Description=
+<br>
+Permit.io is an online platform that connects businesses with the necessary permits and licenses required to operate in their state. The site offers a streamlined application process and provides businesses with the ability to track the status of their permit applications. Permit.io also offers a database of permit and license requirements, as well as a community forum where businesses can ask questions and seek advice from other business owners.
+<br>
+=More Information=
+<br>
+https://www.permit.io/
+[[Category:User Provisioning & Governance]]

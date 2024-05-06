@@ -1,0 +1,11 @@
+=Description=
+<br>
+OpenVAS is a security scanner that can be used to identify vulnerabilities in systems and applications. It is a free and open source tool that is part of the Greenbone security scanner family. OpenVAS is available for download on the Greenbone website.
+
+OpenVAS performs security scans by checking for known vulnerabilities in systems and applications. It can be used to scan for vulnerabilities in local and remote systems. OpenVAS can be used to scan for vulnerabilities in both Windows and Linux
+<br>
+=More Information=
+<br>
+https://openvas.org/
+[[Category:Emerging Threat Awareness]]
+[[Category:Threat & Vulnerability Management]]

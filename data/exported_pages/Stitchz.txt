@@ -1,0 +1,8 @@
+=Description=
+<br>
+The Stitchz tool is a web-based application that allows users to create and share custom stitches. Stitches can be created from scratch or imported from a photo or image. Once a stitch is created, it can be shared with others via a unique URL.
+<br>
+=More Information=
+<br>
+https://www.stitchz.com/
+[[Category:Single Sign-On (SSO)]]

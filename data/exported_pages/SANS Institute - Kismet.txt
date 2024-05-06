@@ -1,0 +1,10 @@
+=Description=
+<br>
+Kismet is a wireless network detector, packet sniffer, and intrusion detection system for 802.11 wireless LANs. Kismet works with any wireless card which supports raw monitoring mode, and can sniff 802.11b, 802.11a, 802.11g, and 802.11n traffic. Kismet also features a plugin system which allows new features and detectors to be easily added.
+
+Kismet can be used to detect hidden wireless networks, identify
+<br>
+=More Information=
+<br>
+https://www.kismetwireless.net/
+[[Category:Threat & Vulnerability Management]]

@@ -1,0 +1,10 @@
+=Description=
+<br>
+Falcon Data Protection is a product offering from the cybersecurity company CrowdStrike. Founded in 2011, CrowdStrike is a leading provider of cloud-delivered endpoint protection solutions that help organizations protect their networks from advanced threats. The company is headquartered in Sunnyvale, California, and has a global presence with offices in the United States, Europe, and Asia.
+
+Falcon Data Protection is a comprehensive data protection solution that offers organizations real-time data protection against advanced and evolving threats. The product is powered by
+<br>
+=More Information=
+<br>
+https://www.crowdstrike.com/products/data-protection/
+[[Category:Data Loss Prevention (DLP)]]

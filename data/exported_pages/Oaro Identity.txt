@@ -1,0 +1,8 @@
+=Description=
+<br>
+The Oaro Identity is a tool that allows users to create and manage their own digital identities. It is based on the concept of self-sovereign identity, which allows individuals to control their own data and information. The Oaro Identity is built on the blockchain, which provides a secure and decentralized platform for managing data. The Oaro Identity is also integrated with a number of other services, such as social media, email, and messaging, which makes it easy for users to control their
+<br>
+=More Information=
+<br>
+https://www.oaro.com/identity/
+[[Category:Biometric]]

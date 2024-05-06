@@ -1,0 +1,10 @@
+=Description=
+<br>
+Remote Browser Isolation (RBI) is an organization under the umbrella of Cloudflare, a leading web security and performance company based in San Francisco, California. RBI is a cutting-edge solution designed to protect web users from online threats by isolating their web browsers in a secure environment.
+
+The RBI system works by creating a virtual web browser within the cloud, away from the user's physical device. When a user requests a webpage, Cloudflare’s global network systematically fetches and renders the page in
+<br>
+=More Information=
+<br>
+https://www.cloudflare.com/
+[[Category:Websites & Applications]]

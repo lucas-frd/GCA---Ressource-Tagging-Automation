@@ -1,0 +1,8 @@
+=Description=
+<br>
+The Virtual Asset Service Provider Screening tool from Elliptic is a way for businesses to track and monitor virtual asset service providers (VASPs) in order to comply with anti-money laundering (AML) regulations. The tool provides a risk score for each VASP, as well as information on the VASP's KYC/AML compliance history. This information can help businesses make more informed decisions about which VASPs to do business with, and can help them
+<br>
+=More Information=
+<br>
+https://www.elliptic.co/solutions/vasp-tracking
+[[Category:Centralized Exchange (CEX) Risk Intelligence and Management]]

@@ -1,0 +1,9 @@
+=Description=
+<br>
+Project Shield is a Google Jigsaw product that helps protect websites from distributed denial of service (DDoS) attacks. It uses Google's infrastructure to absorb and deflect DDoS traffic before it reaches the customer's website. Project Shield is available for free to eligible news organizations, human rights groups, and election monitors worldwide.
+<br>
+=More Information=
+<br>
+https://projectshield.withgoogle.com/landing
+[[Category:Threat & Vulnerability Management]]
+[[Category:Managed Security Service Providers (MSSPs)]]

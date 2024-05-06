@@ -1,0 +1,9 @@
+=Description=
+<br>
+Smishing is a Global Cyber Alliance tool that uses text messages to phish for information. It is designed to be used by organizations to test their employees' phishing awareness. Smishing attacks are becoming more common, as they are difficult to detect and can be very convincing. This tool allows organizations to see how their employees would react to a real smishing attack, and provides insight into which employees are at risk of falling for anattack.
+<br>
+=More Information=
+<br>
+https://vimeo.com/444356320
+[[Category:Scams and Phishing]]
+[[Category:Videos]]

@@ -1,0 +1,8 @@
+=Description=
+<br>
+The South Burlington Police Department's Bureau of Criminal Investigations is responsible for investigating and solving crimes within the city of South Burlington, Vermont.
+<br>
+=More Information=
+<br>
+https://www.southburlingtonvt.gov/departments/police_department/bureau_of_criminal_investigations.php
+[[Category:Vermont]]

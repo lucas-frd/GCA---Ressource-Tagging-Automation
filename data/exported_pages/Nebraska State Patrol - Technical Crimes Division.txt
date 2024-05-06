@@ -1,0 +1,8 @@
+=Description=
+<br>
+The Nebraska State Patrol - Technical Crimes Division is responsible for investigating and combating cyber crimes in the state.
+<br>
+=More Information=
+<br>
+https://statepatrol.nebraska.gov/divisions/investigative-services/technical-crimes-division/technical-crimes-division-cyber
+[[Category:Nebraska]]

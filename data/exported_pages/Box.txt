@@ -1,0 +1,10 @@
+=Description=
+<br>
+Box is a leading cloud content management and collaboration platform, based in Redwood City, California. Founded in 2005, the company provides a secure and easy-to-use solution for businesses and individuals to store, share, and access their content from anywhere, on any device.
+
+The organization prides itself on its mission to 'power how the world works together,' by offering a versatile and scalable platform that allows teams to work more efficiently and productively.
+<br>
+=More Information=
+<br>
+https://www.box.com/
+[[Category:Cloud storage]]

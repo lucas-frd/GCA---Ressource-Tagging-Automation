@@ -1,0 +1,8 @@
+=Description=
+<br>
+Cerbos is a tool used to manage server deployments and infrastructure. It provides a web-based user interface and an API for managing servers, deployments, and infrastructure. Cerbos was designed to be simple and easy to use, and to provide a single point of control for all your server deployments.
+<br>
+=More Information=
+<br>
+https://cerbos.dev/
+[[Category:User Provisioning & Governance]]

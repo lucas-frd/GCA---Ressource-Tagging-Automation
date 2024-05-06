@@ -1,0 +1,8 @@
+=Description=
+<br>
+MFCMAPI is a tool that allows users to view and edit messaging records in Microsoft Outlook. It can be used to view messages in any folder, including the Inbox, Outbox, and Sent Items folders. MFCMAPI can also be used to edit messages, including the Subject, Body, and Attachments fields. Additionally, MFCMAPI can be used to create new messages and folders, and to move messages between folders.
+<br>
+=More Information=
+<br>
+https://www.sans.org/tools/?per-page=100
+[[Category:Threat & Vulnerability Management]]

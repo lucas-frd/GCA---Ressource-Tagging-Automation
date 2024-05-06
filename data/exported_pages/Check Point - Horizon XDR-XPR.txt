@@ -1,0 +1,10 @@
+=Description=
+<br>
+Horizon XDR/XPR is an advanced enterprise security platform offered by Check Point, a leading global provider of cybersecurity solutions. The platform is designed to provide comprehensive protection against cyber threats and attacks, enabling organizations to safeguard their critical data and infrastructure.
+
+The organization behind Horizon XDR/XPR, Check Point, was founded in 1993 and is headquartered in Tel Aviv, Israel. It has a global presence with offices in more than 150 countries and partnerships with leading technology companies like Microsoft, Amazon
+<br>
+=More Information=
+<br>
+https://www.checkpoint.com/products/
+[[Category:Data Loss Prevention (DLP)]]

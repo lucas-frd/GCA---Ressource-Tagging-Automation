@@ -1,0 +1,8 @@
+=Description=
+<br>
+Cybersecurity assessments designed for nonprofits rooted in the NIST CSF includes assessment questions, outcomes and roadmap report, and training.
+<br>
+=More Information=
+<br>
+https://sightlinesecurity.org/kickstart
+[[Category:Nonprofits & Charities]]

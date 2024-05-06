@@ -1,0 +1,11 @@
+=Description=
+<br>
+Broadcom is a multinational corporation based in the United States that specializes in the design, development, and supply of a wide range of semiconductors and infrastructure software solutions. In recent years, Broadcom has also expanded its scope to include cybersecurity solutions, with the launch of the "Broadcom Data Security Suite."
+
+The Broadcom Data Security Suite is a comprehensive bundle of security products designed to protect businesses and organizations from cyber threats. It offers a wide range of solutions across various categories, including endpoint security,
+<br>
+=More Information=
+<br>
+https://www.broadcom.com/products#cybersecurity
+[[Category:Data Loss Prevention (DLP)]]
+[[Category:Data Privacy & Protection (DPP)]]

@@ -1,0 +1,8 @@
+=Description=
+<br>
+Arnica UnifiedLogon is a solution that allows organizations to securely authenticate users across multiple systems using a single set of credentials. The solution provides a centralized platform for managing user identities and passwords, and offers a variety of features to streamline the login process and improve security. UnifiedLogon integrates with existing identity management systems and can be deployed on-premises or in the cloud.
+<br>
+=More Information=
+<br>
+https://www.arnica.com/products/unifiedlogon/
+[[Category:User Provisioning & Governance]]

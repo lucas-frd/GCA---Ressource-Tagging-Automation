@@ -1,0 +1,10 @@
+=Description=
+<br>
+CrowdStrike Prepare is an organization within CrowdStrike, a leading provider of cloud-native endpoint protection and security solutions. CrowdStrike Prepare is focused on helping organizations prepare for and respond to cyber threats by providing comprehensive cybersecurity services and solutions. Their main objective is to empower organizations to proactively secure their technology infrastructure and effectively respond to cyber attacks.
+
+The organization offers a range of services to address different areas of cybersecurity, including threat intelligence, incident response, security assessment, and threat hunting. These services are designed
+<br>
+=More Information=
+<br>
+https://www.crowdstrike.com/services/prepare/
+[[Category:Managed Security Service Providers (MSSPs)]]

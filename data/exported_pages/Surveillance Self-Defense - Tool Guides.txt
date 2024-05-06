@@ -1,0 +1,10 @@
+=Description=
+<br>
+The Tool Guides section on the Surveillance Self-Defense (SSD) website is a comprehensive collection of educational and instructional resources designed to help individuals and organizations protect themselves from various forms of digital surveillance. These guides are developed and maintained by the Electronic Frontier Foundation (EFF), a non-profit organization dedicated to defending civil liberties in the digital world.
+
+The organization of the Tool Guides is based on a modular category system, with each module focusing on a specific aspect of digital surveillance.
+<br>
+=More Information=
+<br>
+https://ssd.eff.org/module-categories/tool-guidess
+[[Category:Security Awareness]]

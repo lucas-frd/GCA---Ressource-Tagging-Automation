@@ -1,0 +1,10 @@
+=Description=
+<br>
+Falcon Data Classification is a product offered by CrowdStrike, a leading cybersecurity company based in Sunnyvale, California. The organization specializes in providing advanced and comprehensive data protection solutions to businesses of all sizes.
+
+Falcon Data Classification is a data protection tool that helps organizations identify, classify, and protect sensitive data across their entire network. It uses advanced artificial intelligence and machine learning algorithms to analyze and classify data based on its level of sensitivity. This allows businesses to understand the type of data they have, where
+<br>
+=More Information=
+<br>
+https://www.crowdstrike.com/products/data-protection/
+[[Category:Data Loss Prevention (DLP)]]

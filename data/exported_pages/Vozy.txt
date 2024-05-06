@@ -1,0 +1,8 @@
+=Description=
+<br>
+Vozy is a (?????????). It allows you to record and share your voice messages with others. You can also add effects to your voice, such as echo or reverb, and share your recordings with others via social media or email.
+<br>
+=More Information=
+<br>
+https://www.vozy.co/
+[[Category:Biometric]]

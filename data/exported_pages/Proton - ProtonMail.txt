@@ -1,0 +1,9 @@
+=Description=
+<br>
+ProtonMail is an email service that uses end-to-end encryption to keep your messages private. It is one of the few email services that offers this type of encryption, which means that only you and the person you are communicating with can read your messages. This makes it a good choice for people who are concerned about privacy and security. ProtonMail also has a good reputation for being reliable and easy to use.
+<br>
+=More Information=
+<br>
+https://proton.me/mail
+[[Category:Email & Other Communications]]
+[[Category:Encryption]]

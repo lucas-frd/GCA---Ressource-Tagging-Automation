@@ -1,0 +1,8 @@
+=Description=
+<br>
+The ForgeRock Identity Platform is a set of tools that helps global brands, enterprises and government entities build secure, customer-facing relationships across any app, device or thing. The platform provides a complete set of capabilities for managing digital identities, including federation, Single Sign-On (SSO), multi-factor authentication, social login, and more.
+<br>
+=More Information=
+<br>
+https://www.forgerock.com/
+[[Category:Identity & Access Management (IAM)]]

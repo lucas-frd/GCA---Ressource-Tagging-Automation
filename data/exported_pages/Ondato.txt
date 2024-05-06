@@ -1,0 +1,8 @@
+=Description=
+<br>
+Ondato is a data discovery and visualization platform that enables users to explore, visualize and share data sets. The platform offers a variety of features designed to make data exploration and visualization easy, including a drag-and-drop interface, a variety of chart and graph types, and the ability to share data sets and visualizations with others.
+<br>
+=More Information=
+<br>
+https://ondato.com/
+[[Category:Biometric]]

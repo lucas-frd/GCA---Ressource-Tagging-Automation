@@ -1,0 +1,12 @@
+=Description=
+<br>
+OpenText is a leading global organization that specializes in information management and is headquartered in Waterloo, Canada. One of its key products is EnCase Mobile Investigator, which is a software solution for digital forensic investigations on mobile devices.
+
+EnCase Mobile Investigator is a powerful and comprehensive tool that enables digital forensic experts to extract, analyze, and report on data from a wide range of mobile devices in a forensically sound manner. This software is designed to help law enforcement agencies, corporations, and legal
+<br>
+=More Information=
+<br>
+https://www.opentext.com/products/security-cloud
+[[Category:Incident Reporting & Recovery]]
+[[Category:Forensics]]
+[[Category:Mobile Devices]]

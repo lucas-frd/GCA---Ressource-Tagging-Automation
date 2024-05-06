@@ -1,0 +1,8 @@
+=Description=
+<br>
+The Irvine Police Department is a law enforcement organization responsible for protecting and serving the city of Irvine and addressing computer-related crimes.
+<br>
+=More Information=
+<br>
+https://www.cityofirvine.org/irvine-police-department/computer-crimes
+[[Category:California]]

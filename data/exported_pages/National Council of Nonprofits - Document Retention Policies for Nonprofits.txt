@@ -1,0 +1,11 @@
+=Description=
+<br>
+This resource provides guidance on document retention policies for nonprofits. It emphasizes the importance of having a document management policy in place to ensure efficient organization and avoid potential legal issues. The resource highlights that it is impractical for nonprofits to retain every document they generate and encourages the adoption of a written policy to determine which documents should be retained and for how long. The resource acknowledges that casually discarding papers is acceptable in most cases, but emphasizes the potential consequences when critical documents are deleted or appear to have been intentionally removed as a cover-up during legal investigations. By implementing a document retention policy, nonprofits can mitigate these risks and maintain transparency. While the resource does not provide specific details on how to create a document retention policy, it serves as a reminder of the importance of having one in place. It highlights the need for nonprofits to carefully consider which documents should be retained and for what duration, taking into account legal requirements and potential future needs. Overall, this resource aims to raise awareness about the significance of document retention policies for nonprofits, emphasizing the need for a written policy to ensure proper document management and minimize potential legal complications.
+<br>
+=More Information=
+<br>
+https://www.councilofnonprofits.org/running-nonprofit/governance-leadership/document-retention-policies-nonprofits
+[[Category:Sensitive Data]]
+[[Category:Financial]]
+[[Category:Security Awareness]]
+[[Category:Security Policies, Procedures, and Guidelines]]

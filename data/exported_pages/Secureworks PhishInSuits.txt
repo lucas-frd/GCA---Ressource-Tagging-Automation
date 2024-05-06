@@ -1,0 +1,10 @@
+=Description=
+<br>
+Secureworks PhishInSuits is a free, open source tool that helps organizations identify and stop phishing attacks. PhishInSuits analyzes email headers and body content to identify phishing attacks, and provides a report with recommended actions to take.
+<br>
+=More Information=
+<br>
+https://github.com/secureworks/PhishInSuits
+[[Category:Phishing]]
+[[Category:Security Awareness & Training]]
+[[Category:Risk Self-Assessment]]

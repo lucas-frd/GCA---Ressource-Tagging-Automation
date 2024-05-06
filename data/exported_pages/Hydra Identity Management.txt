@@ -1,0 +1,8 @@
+=Description=
+<br>
+Hydra Identity Management is a cloud-based identity management solution that helps organizations manage user identities and access to applications and resources. It provides a central repository for managing user accounts and permissions, and includes features such as Single Sign-On (SSO), password management, and role-based access control. Hydra also offers a comprehensive set of APIs that can be used to integrate with third-party applications and systems.
+<br>
+=More Information=
+<br>
+https://www.get-hydra.com/
+[[Category:Two-Factor & Multi-Factor Authentication]]

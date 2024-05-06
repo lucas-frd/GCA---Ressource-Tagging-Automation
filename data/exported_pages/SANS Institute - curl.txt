@@ -1,0 +1,9 @@
+=Description=
+<br>
+Curl is a command line tool for transferring data specified with URL syntax. Curl supports a wide range of protocols including HTTP, HTTPS, FTP, FTPS, SCP, SFTP, TFTP, LDAP, DAP, DICT, TELNET, FILE, IMAP, POP3, SMTP and SMTPS. Curl also supports SSL certificates, HTTP POST, HTTP PUT, FTP uploading, HTTP form based upload, proxies, cookies, user+password authentication
+<br>
+=More Information=
+<br>
+https://curl.haxx.se/
+[[Category:Secure Interactions]]
+[[Category:Sensitive Data]]

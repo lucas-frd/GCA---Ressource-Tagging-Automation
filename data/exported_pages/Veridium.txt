@@ -1,0 +1,8 @@
+=Description=
+<br>
+Veridium is a software company that specializes in identity and access management. Their flagship product is called AuthShield, which is a multi-factor authentication platform that supports a variety of authentication methods including biometrics, tokens, and certificates. Veridium also offers a variety of other products and services including identity management, Single Sign-On, and fraud detection and prevention.
+<br>
+=More Information=
+<br>
+https://veridium.com/
+[[Category:Two-Factor & Multi-Factor Authentication]]

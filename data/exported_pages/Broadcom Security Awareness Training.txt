@@ -1,0 +1,10 @@
+=Description=
+<br>
+Broadcom Security Awareness Training is a highly recognized training program offered by Broadcom, a global technology company headquartered in San Jose, California. Broadcom is a leading provider of semiconductor and infrastructure software solutions, with a strong focus on cybersecurity.
+
+The purpose of the Broadcom Security Awareness Training program is to educate individuals and organizations on the importance of cybersecurity and how to protect against potential threats. It is designed to provide participants with a comprehensive understanding of the latest trends in cybercrime, as well as practical strategies for identifying and
+<br>
+=More Information=
+<br>
+https://www.broadcom.com/products#cybersecurity
+[[Category:Security Awareness & Training]]

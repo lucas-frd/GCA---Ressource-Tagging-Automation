@@ -1,0 +1,8 @@
+=Description=
+<br>
+Trustmatic is a tool that helps businesses manage their trustworthiness and build trust with their customers. It does this by tracking and managing customer feedback, complaints, and reviews. It also helps businesses create and maintain a trustworthiness profile, which they can use to improve their customer service and build trust with their customers.
+<br>
+=More Information=
+<br>
+https://trustmatic.com/
+[[Category:Biometric]]

@@ -1,0 +1,8 @@
+=Description=
+<br>
+Norton's firewall is a software program that helps protect your computer by blocking unauthorized incoming or outgoing connections. It does this by inspecting the data that comes through your internet connection and comparing it to a set of rules that you can customize. If the data doesn't match the rules, the firewall will block it. The firewall can also be set to warn you when it blocks something, so you can decide whether to allow it or not.
+<br>
+=More Information=
+<br>
+https://us.norton.com/feature/firewall
+[[Category:Firewalls]]

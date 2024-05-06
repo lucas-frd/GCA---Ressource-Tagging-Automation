@@ -1,0 +1,10 @@
+=Description=
+<br>
+HORACIUS is a tool that allows users to create and manage their own horoscopes. It provides a range of features that make it easy to create horoscopes that are accurate, informative, and personalised.
+
+Users can input their birth date and time, and HORACIUS will generate a detailed horoscope for them. This horoscope can be customised to include information on relationships, work, and finances, as well as a range of other topics.
+<br>
+=More Information=
+<br>
+https://www.horacius.com/
+[[Category:User Provisioning & Governance]]

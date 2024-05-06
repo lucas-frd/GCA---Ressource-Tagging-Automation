@@ -1,0 +1,10 @@
+=Description=
+<br>
+Check Point Harmony Connect Remote Access (ZTNA) is an advanced secure network solution developed and offered by Check Point Software Technologies, a leading cybersecurity company. This innovative solution enables secure remote access for users and devices to corporate resources, cloud applications, and data centers, regardless of their location.
+
+The Harmony Connect Remote Access (ZTNA) solution is based on the Zero Trust Network Access (ZTNA) concept, which is designed to provide the highest level of security to users and devices accessing
+<br>
+=More Information=
+<br>
+https://www.checkpoint.com/products/
+[[Category:Remote Access]]

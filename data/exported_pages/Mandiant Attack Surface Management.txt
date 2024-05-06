@@ -1,0 +1,9 @@
+=Description=
+<br>
+Mandiant Attack Surface Management is a platform that provides users with visibility into an organization’s Internet-exposed attack surface. The platform continuously monitors an organization’s attack surface and detects changes in real time, allowing users to quickly identify and mitigate potential security risks. Attack Surface Management also provides users with historical data and trend analysis, so they can identify and track changes over time.
+<br>
+=More Information=
+<br>
+https://www.mandiant.com/advantage/attack-surface-management
+[[Category:Threat & Vulnerability Management]]
+[[Category:Security Information & Event Management (SIEM)]]

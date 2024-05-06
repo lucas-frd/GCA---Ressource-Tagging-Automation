@@ -1,0 +1,9 @@
+=Description=
+<br>
+ROFL (Router Forensic Logger) is a SANS Institute tool that collects data from routers and stores it in a format that can be analyzed for forensics purposes. It can be used to investigate router configurations, data flows, and traffic patterns.
+<br>
+=More Information=
+<br>
+https://www.sans.org/tools/?per-page=100
+[[Category:Security Testing & Auditing]]
+[[Category:Attack & Penetration Testing]]

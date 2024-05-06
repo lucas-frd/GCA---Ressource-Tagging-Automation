@@ -1,0 +1,18 @@
+=Description=
+<br>
+This resource provides guidance on how to back up your Mac using Time Machine, the built-in backup feature of your Mac. Time Machine allows you to automatically back up your personal data, including apps, music, photos, emails, and documents, ensuring that you have a copy of your files in case of accidental deletion or inability to access them.
+  
+  To begin the backup process, you need to connect an external storage device, such as a USB drive or Thunderbolt drive, to your Mac. It is recommended to dedicate this storage device solely for Time Machine backups and not use it for storing other files.
+  
+  Creating a backup with Time Machine is a straightforward process that ensures the safety of your data. By following the steps outlined in this resource, you can set up regular backups, providing peace of mind and protection against data loss.
+  
+  Having a backup is essential for safeguarding your important files and allows you to easily restore them if needed. Time Machine simplifies the backup process by automating it, so you don't have to worry about manually copying files or folders.
+  
+  Whether you accidentally delete a file or encounter a system issue, Time Machine's backup feature ensures that you can easily retrieve your data. By utilizing this resource, you can learn how to effectively use Time Machine to create backups and secure your valuable information.
+<br>
+=More Information=
+<br>
+https://support.apple.com/en-gb/HT201250
+[[Category:Data Loss Prevention (DLP)]]
+[[Category:Computers (Laptops & Desktops)]]
+[[Category:Backup & Restoration of Data]]

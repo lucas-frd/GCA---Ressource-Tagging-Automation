@@ -1,0 +1,8 @@
+=Description=
+<br>
+The Office of Attorney General Keith Ellison is responsible for protecting consumers from identity theft in the state of Minnesota.
+<br>
+=More Information=
+<br>
+https://www.ag.state.mn.us/consumer/IdentityTheft/Default.asp
+[[Category:Minnesota]]

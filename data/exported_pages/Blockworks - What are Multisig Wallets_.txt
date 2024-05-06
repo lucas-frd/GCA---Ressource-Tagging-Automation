@@ -1,0 +1,10 @@
+=Description=
+<br>
+The organization that is described in the article is Blockworks, which is a media and events company focused on the intersection of blockchain, cryptocurrency, and traditional finance. It provides up-to-date news, insights, and analysis on developments in the crypto world and also hosts events that bring together industry leaders, investors, and other stakeholders.
+
+The article, titled 'What are Multisig Wallets?', discusses one of the key components of the crypto ecosystem: wallets.
+<br>
+=More Information=
+<br>
+https://blockworks.co/news/what-are-multisig-wallets
+[[Category:Multi-Signature Wallet Use]]

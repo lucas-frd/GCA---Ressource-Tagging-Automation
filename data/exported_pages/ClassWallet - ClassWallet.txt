@@ -1,0 +1,8 @@
+=Description=
+<br>
+ClassWallet is a tool that helps teachers manage money and expenses for their classroom. It allows teachers to keep track of expenses, donations, and payments made by parents and students. ClassWallet also provides a way for teachers to communicate with parents and students about financial matters.
+<br>
+=More Information=
+<br>
+https://classwallet.com/
+[[Category:Financial]]

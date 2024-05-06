@@ -1,0 +1,9 @@
+=Description=
+<br>
+John the Ripper is a free and open source password cracking tool that can be used to recover lost passwords. It is one of the most popular password cracking tools available and is used by security professionals and ethical hackers alike. John the Ripper uses a variety of methods to crack passwords, including dictionary and brute force attacks. It is available for a variety of platforms, including Windows, Linux, and OS X.
+<br>
+=More Information=
+<br>
+https://www.openwall.com/john/
+[[Category:Security Testing & Auditing]]
+[[Category:Attack & Penetration Testing]]

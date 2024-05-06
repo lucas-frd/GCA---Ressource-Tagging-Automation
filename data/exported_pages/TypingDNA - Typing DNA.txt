@@ -1,0 +1,8 @@
+=Description=
+<br>
+Created by TypingDNA, this tool uses your typing patterns to create a “dna” profile that can be used to verify your identity. This profile is created by tracking the timing, speed, and accuracy of your typing, as well as the keys you use most often. This information is then used to create a unique profile that can be used to verify your identity. This tool can be used to login to websites and applications, as well as to make sure that the person
+<br>
+=More Information=
+<br>
+https://www.typingdna.com/
+[[Category:Biometric]]

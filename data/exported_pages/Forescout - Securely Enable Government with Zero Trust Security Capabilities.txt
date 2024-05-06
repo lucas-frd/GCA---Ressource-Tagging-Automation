@@ -1,0 +1,10 @@
+=Description=
+<br>
+Securely Enable Government with Zero Trust Security Capabilities is a resource provided by Forescout, a leading organization that specializes in providing zero trust security solutions for government agencies. This organization is dedicated to helping government agencies securely and safely manage their networks, devices, and data in today's ever-evolving threat landscape.
+
+One of the core principles of this organization is the Zero Trust framework, which is based on the belief that trust should never be assumed for any user, device, or network location.
+<br>
+=More Information=
+<br>
+https://www.forescout.com/solutions/government/
+[[Category:Secure File Storage]]

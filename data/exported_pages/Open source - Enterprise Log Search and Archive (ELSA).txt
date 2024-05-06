@@ -1,0 +1,10 @@
+=Description=
+<br>
+enter image description here
+
+ELS Blackjack – Enterprise Log Search and Archive (ELSA) is an open source application that indexes, archives, and searches log data. It is designed to be scalable and efficient, with a focus on enterprise use cases. ELSA is built on top of the Elasticsearch search engine and supports a variety of log formats.
+<br>
+=More Information=
+<br>
+https://github.com/mcholste/elsa
+[[Category:Threat & Vulnerability Management]]

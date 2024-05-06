@@ -1,0 +1,8 @@
+=Description=
+<br>
+Youzer is a tool that helps you manage your online presence. It gives you the ability to connect with people and businesses, share information and files, and stay up-to-date with the latest news and trends. Youzer also allows you to customize your profile, so you can show the world who you are and what you're passionate about. Whether you're looking to grow your business or just stay connected with friends and family, Youzer is the perfect tool for you.
+<br>
+=More Information=
+<br>
+https://youzer.io/
+[[Category:User Provisioning & Governance]]

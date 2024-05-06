@@ -1,0 +1,9 @@
+=Description=
+<br>
+Malcolm is an open-source tool developed by CISA that allows users to conduct malware analysis and reverse engineering. The tool includes a variety of features that allow users to execute and analyze malicious code, as well as take screenshots and record video of the process. In addition, Malcolm provides an integrated disassembler and decompiler that makes it easy to generate code for in-depth analysis.
+<br>
+=More Information=
+<br>
+https://github.com/cisagov/Malcolm
+[[Category:Threat & Vulnerability Management]]
+[[Category:Security Information & Event Management (SIEM)]]

@@ -1,0 +1,8 @@
+=Description=
+<br>
+The tool Voting System Security Measures is a United States Election Assistance Commission document that outlines security measures for voting systems. The document covers topics such as physical security, system security, and election security. The document includes a list of recommended security measures for each topic. The recommended measures are meant to improve the security of voting systems and to protect the integrity of elections.
+<br>
+=More Information=
+<br>
+https://www.eac.gov/sites/default/files/electionofficials/security/Voting_System_Security_Measures_508_EAC.pdf
+[[Category:Voters]]

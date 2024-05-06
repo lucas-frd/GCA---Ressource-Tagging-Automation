@@ -1,0 +1,9 @@
+=Description=
+<br>
+OpenSSF Scorecard is a tool that allows you to measure the health of your open source project. The Scorecard consists of two parts: a questionnaire and a report. The questionnaire is a series of questions about your project, and the report is a detailed analysis of your answers.
+<br>
+=More Information=
+<br>
+https://github.com/ossf/scorecard
+[[Category:Understanding Your Risks]]
+[[Category:Understanding Relevant Threats]]

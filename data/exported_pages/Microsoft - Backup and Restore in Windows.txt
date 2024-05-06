@@ -1,0 +1,11 @@
+=Description=
+<br>
+Windows Backup and Restore allows you to create backups of your important files and restore them if needed. You can create a backup to a local drive, external drive, or network location. You can also schedule backups to run automatically.
+<br>
+=More Information=
+<br>
+https://support.microsoft.com/en-us/windows/backup-and-restore-in-windows-352091d2-bb9d-3ea3-ed18-52ef2b88cbef
+[[Category:Data Loss Prevention (DLP)]]
+[[Category:Computers (Laptops & Desktops)]]
+[[Category:Backup & Restoration of Data]]
+[[Category:Windows]]

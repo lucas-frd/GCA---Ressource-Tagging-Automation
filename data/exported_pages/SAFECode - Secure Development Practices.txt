@@ -1,0 +1,8 @@
+=Description=
+<br>
+Secure Development Practices is a set of tools and resources developed by SAFECode to help organizations implement secure coding practices. The tools include a Secure Coding Standard, a Secure Coding Guidelines checklist, and a Secure Coding self-assessment tool. The resources also include a series of articles and presentations on secure coding practices.
+<br>
+=More Information=
+<br>
+https://safecode.org/category/resource-secure-development-practices/
+[[Category:All Businesses]]

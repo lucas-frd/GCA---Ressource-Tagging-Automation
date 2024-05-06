@@ -1,0 +1,20 @@
+=Description=
+<br>
+This resource, titled Supercharge Your Anti-Phishing Defense with PhishER Plus, aims to enhance your organization's protection against phishing attacks. It addresses the growing sophistication of email threats and the alarming number of attacks that bypass traditional security measures.
+ 
+ According to the 2023 Verizon Data Breach Investigations Report, email is identified as the primary cause of data breaches. Additionally, ArmorBlox researchers have found that 56% of attacks manage to evade legacy security filters. These statistics highlight the need for a more robust defense against phishing attacks.
+ 
+ PhishER Plus offers an automated solution to block phishing attacks that may have slipped through your mail filters. By leveraging advanced technology, it identifies and neutralizes these threats, reducing the risk of successful attacks. This tool is designed to complement your existing secure email gateway (SEG) and provide an additional layer of protection.
+ 
+ With the increasing focus on social engineering attacks targeting high-risk users, PhishER Plus helps organizations mitigate these risks. By empowering your security team with real-time threat intelligence and automated response capabilities, it enables swift action against potential phishing threats.
+ 
+ By utilizing PhishER Plus, organizations can enhance their anti-phishing defense and reduce the likelihood of falling victim to email-based attacks. This resource aims to address the evolving threat landscape and provide a proactive approach to safeguarding sensitive information.
+ 
+ Please note that this article does not endorse or promote any specific product or service. It provides a neutral overview of the resource's purpose and main features.
+<br>
+=More Information=
+<br>
+https://www.knowbe4.com/products/phisher-plus
+[[Category:Junk Mail]]
+[[Category:Scams]]
+[[Category:Phishing]]

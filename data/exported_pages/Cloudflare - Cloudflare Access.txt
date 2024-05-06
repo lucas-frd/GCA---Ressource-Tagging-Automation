@@ -1,0 +1,13 @@
+=Description=
+<br>
+Cloudflare Access is a zerotrust security product that authenticates and authorizes user access to applications deployed behind the Cloudflare network. It does this by enforcing authentication and authorization policies that are set by the application owner. Users are authenticated and authorized based on their identity, which is verified using industry-standard protocols such as SAML, OIDC, and LDAP. Cloudflare Access also provides a flexible rules engine that can be used to granularly control access
+<br>
+=More Information=
+<br>
+https://www.cloudflare.com/zero-trust/products/access/
+[[Category:Website]]
+[[Category:Risk-Based Authentication]]
+[[Category:VPN]]
+[[Category:Cloud Security]]
+[[Category:Zero Trust]]
+[[Category:Internet Connection]]

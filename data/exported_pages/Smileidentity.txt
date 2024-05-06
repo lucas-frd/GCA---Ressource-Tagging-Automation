@@ -1,0 +1,8 @@
+=Description=
+<br>
+Smileidentity is a facial recognition tool that can be used to identify people from a photograph. It uses an algorithm to detect facial features and compare them to a database of known faces. If a match is found, the tool will return the name and contact information of the person.
+<br>
+=More Information=
+<br>
+https://smileidentity.com/
+[[Category:Two-Factor & Multi-Factor Authentication]]

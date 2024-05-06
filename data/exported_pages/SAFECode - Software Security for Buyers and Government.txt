@@ -1,0 +1,8 @@
+=Description=
+<br>
+The Software Security for Buyers and Government tool from SAFECode is a set of resources designed to help government organizations and software buyers understand the importance of software security and how to incorporate security into their procurement processes. The tool includes a software security maturity model, a guide to developing security requirements, and a list of resources for further reading. The tool is intended to help government organizations and software buyers get the most value out of their software investments by incorporating security into their decision-making processes.
+<br>
+=More Information=
+<br>
+https://safecode.org/category/resource-buyers-and-government/
+[[Category:Developers and Development Organizations]]

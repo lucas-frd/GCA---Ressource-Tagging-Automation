@@ -1,0 +1,8 @@
+=Description=
+<br>
+The CIS Hardware and Software Asset Tracker is a spreadsheet-based tool designed to help organizations track and manage their hardware and software assets. The tool includes a variety of features, such as the ability to track asset purchase date and location, asset owner and contact information, and asset warranty information. Additionally, the tool allows users to track software license information, including the number of licenses held and the expiration date of each license. The tool also includes a variety of reports, which can be used to generate
+<br>
+=More Information=
+<br>
+https://www.cisecurity.org/insights/white-papers/cis-hardware-and-software-asset-tracking-spreadsheet
+[[Category:Know What You Have - Create an Inventory]]

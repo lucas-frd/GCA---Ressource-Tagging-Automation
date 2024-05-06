@@ -1,0 +1,15 @@
+=Description=
+<br>
+This resource provides a step-by-step guide on how to securely delete data on Linux operating systems. It is specifically designed for traditional disk drives and not applicable to Solid State Drives (SSDs). The guide is suitable for beginners and requires a major Linux distribution, with Ubuntu 184 used as a reference in the instructions.
+ 
+ The main purpose of this resource is to assist users in effectively deleting their data to ensure privacy and prevent unauthorized access. It emphasizes the importance of securely deleting files from disk drives, as simply deleting them through regular means may not completely remove the data.
+ 
+ The resource recommends using BleachBit 2, a software tool licensed under GPLv3, to securely delete files. It highlights that the time required for the process may vary depending on the size of the files or disks to be securely deleted, ranging from 10 minutes to several hours.
+ 
+ Overall, this resource provides a beginner-friendly guide for Linux users who want to ensure their data is securely deleted from traditional disk drives. It offers clear instructions and emphasizes the need for caution when handling sensitive information.
+<br>
+=More Information=
+<br>
+https://ssd.eff.org/module/how-delete-your-data-securely-linux
+[[Category:Protecting You & Your Childs Personal Information]]
+[[Category:Removing Your Data from the Internet or Devices]]

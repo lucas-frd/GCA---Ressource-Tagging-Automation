@@ -1,0 +1,8 @@
+=Description=
+<br>
+The Wyoming Division of Criminal Investigations is a state agency dedicated to investigating and prosecuting computer and high-tech crimes.
+<br>
+=More Information=
+<br>
+https://wyomingdci.wyo.gov/operations/computer-and-high-tech-crimes
+[[Category:Wyoming]]

@@ -1,0 +1,8 @@
+=Description=
+<br>
+The Spartanburg County Sheriff's Office is a law enforcement agency responsible for investigating and preventing crime in Spartanburg County, South Carolina.
+<br>
+=More Information=
+<br>
+http://www.spartanburgsheriff.org/criminal-investigations-division.php
+[[Category:South Carolina]]

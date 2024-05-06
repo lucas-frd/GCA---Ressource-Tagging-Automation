@@ -1,0 +1,9 @@
+=Description=
+<br>
+Demystifying Cybersecurity Compliance Requirements is a resource provided by Deltek, a leading provider of enterprise software and information solutions for government contractors. It is aimed at helping government contractors and other organizations understand and comply with the complex and ever-changing cybersecurity regulations and requirements.
+
+The organization offers a comprehensive guide and resources that explain the various cybersecurity compliance programs, including the Cybersecurity Maturity Model Certification (CMMC), Defense Contract Audit Agency (DCAA), and Federal Acquisition Regulation (FAR).
+<br>
+=More Information=
+<br>
+https://info.deltek.com/demystifying-cyber?sourceid=21&utm_source=google&utm_medium=ppc&utm_campaign=5NAG2CMMCCCG-GovConERP-NA-Content-CMMC-CybersecurityComplianceGuide&partnerref=ppc_google_5NAG2CMMCCCG-GovConERP-NA-Content-CMMC-CybersecurityComplianceGuide&gclid=EAIaIQobChMI8NWz6Z3tgQMVjkVyCh2-_wjtEAAYBCAAEgJnJfD_BwE

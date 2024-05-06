@@ -1,0 +1,8 @@
+=Description=
+<br>
+The Oklahoma State Bureau of Investigation - Computer Crimes Unit is a law enforcement organization dedicated to investigating and preventing computer-related crimes in the state of Oklahoma.
+<br>
+=More Information=
+<br>
+https://ok.gov/osbi/Investigative/Computer_Crime_Unit/index.html
+[[Category:Oklahoma]]

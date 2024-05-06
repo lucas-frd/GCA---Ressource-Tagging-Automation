@@ -1,0 +1,9 @@
+=Description=
+<br>
+Dependency-Track is an intelligent Component Analysis platform that allows organizations to identify and reduce risk in the software supply chain. Dependency-Track takes a unique and highly beneficial approach by leveraging the capabilities of Software Bi
+<br>
+=More Information=
+<br>
+https://owasp.org/www-project-dependency-track/
+[[Category:CIS - 7 - Continuous Vulnerability Management]]
+[[Category:Developers and Development Organizations]]

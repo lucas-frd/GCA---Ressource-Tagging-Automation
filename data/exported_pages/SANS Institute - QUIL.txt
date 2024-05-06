@@ -1,0 +1,8 @@
+=Description=
+<br>
+SANS Institute's QUIL is a tool that can be used to help assess an organization's compliance with the Payment Card Industry Data Security Standard (PCI DSS). The tool is designed to help organizations identify where they may have weaknesses in their PCI DSS controls and to provide recommendations on how to improve their compliance.
+<br>
+=More Information=
+<br>
+https://www.sans.org/tools/?per-page=100
+[[Category:Security Information & Event Management (SIEM)]]

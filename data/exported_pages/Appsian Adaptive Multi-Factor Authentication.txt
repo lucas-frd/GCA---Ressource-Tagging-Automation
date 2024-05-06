@@ -1,0 +1,8 @@
+=Description=
+<br>
+The Appsian Adaptive Multi-Factor Authentication is a tool that allows organizations to add an extra layer of security to their authentication process. By requiring multiple factors of authentication, it makes it more difficult for unauthorized users to access sensitive data. The tool can be customized to fit the specific needs of an organization, and it can be used with a variety of different authentication methods, such as biometrics, tokens, and SMS.
+<br>
+=More Information=
+<br>
+https://www.appsian.com/multi-factor-authentication/
+[[Category:Two-Factor & Multi-Factor Authentication]]

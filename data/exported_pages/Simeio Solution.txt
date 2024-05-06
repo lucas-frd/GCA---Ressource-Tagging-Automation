@@ -1,0 +1,9 @@
+=Description=
+<br>
+Simeio is a cloud-based software solution that helps businesses manage their customer data. It provides a central repository for customer data, which can be accessed and updated by authorized users. The software also includes tools for creating and managing customer profiles, as well as for tracking customer interactions.
+<br>
+=More Information=
+<br>
+https://www.simeiosolution.com/
+[[Category:Single Sign-On (SSO)]]
+[[Category:User Provisioning & Governance]]

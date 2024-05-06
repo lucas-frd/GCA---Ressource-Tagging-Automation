@@ -1,0 +1,10 @@
+=Description=
+<br>
+Secure Web Gateway (SWG) is an organization based in Cloudflare that offers a comprehensive and advanced web security solution to businesses and individuals. The primary goal of SWG is to provide an all-in-one platform for protecting against web-based threats, including malware, ransomware, phishing attacks, and other malicious activities.
+
+At its core, SWG acts as a proxy between its clients and the internet. It filters all the traffic coming from the web, blocks harmful and suspicious content, and only allows safe
+<br>
+=More Information=
+<br>
+https://www.cloudflare.com/
+[[Category:Websites & Applications]]

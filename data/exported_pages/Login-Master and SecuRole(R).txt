@@ -1,0 +1,8 @@
+=Description=
+<br>
+Login-Master and SecuRole are two tools that work together to provide a secure login process. Login-Master is responsible for providing the initial login page, where users enter their credentials. Once the user's credentials have been verified, SecuRole provides the user with a role-based access control system, which determines what actions the user is allowed to perform within the system. Together, these two tools provide a secure login process that controls what actions users can perform within the system.
+<br>
+=More Information=
+<br>
+https://www.login-master.com/
+[[Category:Identity & Access Management (IAM)]]

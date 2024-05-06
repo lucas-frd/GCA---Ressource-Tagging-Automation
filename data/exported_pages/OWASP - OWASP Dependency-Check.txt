@@ -1,0 +1,8 @@
+=Description=
+<br>
+The tool OWASP Dependency-Check is a command line tool that can be used to check dependencies for known vulnerabilities. The tool will look through all of the dependencies for a project and report any known vulnerabilities. The goal of the tool is to help developers identify and fix vulnerabilities in their dependencies. The tool is open source and is available for free.
+<br>
+=More Information=
+<br>
+https://owasp.org/www-project-dependency-check/
+[[Category:Developers and Development Organizations]]

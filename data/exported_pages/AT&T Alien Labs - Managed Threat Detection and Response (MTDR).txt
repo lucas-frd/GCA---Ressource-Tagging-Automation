@@ -1,0 +1,11 @@
+=Description=
+<br>
+Managed Threat Detection and Response (MTDR) is a comprehensive cybersecurity service provided by AT&T Alien Labs to help organizations detect, respond to, and remediate advanced cyber threats. It is a part of the larger AT&T Cybersecurity product portfolio, designed to protect businesses against a wide range of cyber threats, including ransomware, malware, phishing, and other advanced attacks.
+
+MTDR is a combination of advanced technology, threat intelligence, and expert analysts working together to provide 24/7 monitoring and
+<br>
+=More Information=
+<br>
+https://cybersecurity.att.com/products/managed-threat-detection-and-response
+[[Category:Managed Security Service Providers (MSSPs)]]
+[[Category:Threat & Vulnerability Management]]

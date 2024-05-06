@@ -1,0 +1,16 @@
+=Description=
+<br>
+This tool helps you protect your home security camera from being hacked. It provides four tips:
+
+1. Choose a strong password for your camera.
+
+2. Keep your camera software up to date.
+
+3. Use two-factor authentication for your camera account.
+
+4. Place your camera in a secure location.
+<br>
+=More Information=
+<br>
+https://securityplanner.consumerreports.org/tool/protect-your-home-security-camera
+[[Category:Child Monitors & Cameras]]

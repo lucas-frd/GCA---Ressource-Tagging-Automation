@@ -1,0 +1,8 @@
+=Description=
+<br>
+The OWASP SAMM tool is designed to help developers and organizations create and maintain secure software development processes. It provides a framework for creating security policies and procedures, and provides guidance on how to implement these policies and procedures effectively. SAMM is divided into four main phases: Assess, Plan, Implement, and Monitor. Each phase contains a set of activities that should be completed in order to effectively secure software development.
+<br>
+=More Information=
+<br>
+https://owasp.org/www-project-samm/
+[[Category:Cybersecurity Providers]]

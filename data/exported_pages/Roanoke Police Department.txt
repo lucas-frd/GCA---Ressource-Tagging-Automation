@@ -1,0 +1,8 @@
+=Description=
+<br>
+"The Roanoke Police Department is a law enforcement agency that serves to promote public safety and uphold the laws of Roanoke, Virginia."
+<br>
+=More Information=
+<br>
+https://www.roanokeva.gov/150/Police
+[[Category:Virginia]]

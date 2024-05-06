@@ -1,0 +1,10 @@
+=Description=
+<br>
+SandBlast Threat Emulation is an organization that provides advanced protection against cyber threats for businesses and organizations. It is part of the product suite offered by Check Point, a leading global provider of cybersecurity solutions.
+
+SandBlast Threat Emulation utilizes advanced technology and techniques to identify and prevent cyber attacks on organizations. Its main objective is to stop unknown or zero-day threats before they can cause harm to a company's network, data, and systems. This is achieved through the use of cutting-edge technologies such
+<br>
+=More Information=
+<br>
+https://www.checkpoint.com/products/
+[[Category:Firewalls]]

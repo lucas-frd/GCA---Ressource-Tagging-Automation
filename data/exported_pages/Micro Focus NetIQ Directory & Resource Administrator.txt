@@ -1,0 +1,8 @@
+=Description=
+<br>
+Micro Focus NetIQ Directory & Resource Administrator is a secure, web-based application that enables organizations to manage their user identities, access rights, and resources across the enterprise. It provides a centralized repository for user information, allowing administrators to easily create, modify, and delete user accounts and groups. It also includes powerful role-based access control features that allow administrators to granularly control user access to enterprise resources. Additionally, the Directory & Resource Administrator provides comprehensive auditing and reporting capabilities, making
+<br>
+=More Information=
+<br>
+https://www.microfocus.com/en-us/products/identity-and-access-management/netiq-directory-resource-administrator/
+[[Category:User Provisioning & Governance]]

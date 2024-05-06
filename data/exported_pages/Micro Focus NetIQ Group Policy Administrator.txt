@@ -1,0 +1,8 @@
+=Description=
+<br>
+Micro Focus NetIQ Group Policy Administrator is a tool that can be used to centrally manage and administer Group Policy Objects (GPOs) in a Microsoft Active Directory environment. The tool provides a graphical user interface (GUI) for managing GPOs, as well as a command-line interface (CLI) for advanced users. The tool can be used to create, edit, and delete GPOs, as well as to apply GPOs to objects in Active Directory. The tool also includes a
+<br>
+=More Information=
+<br>
+https://www.microfocus.com/en-us/products/identity-and-access-management/netiq-group-policy-administrator/
+[[Category:User Provisioning & Governance]]

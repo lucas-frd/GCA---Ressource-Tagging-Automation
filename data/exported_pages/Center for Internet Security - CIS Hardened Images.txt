@@ -1,0 +1,18 @@
+=Description=
+<br>
+This resource provides a comprehensive list of CIS Benchmarks, which are prescriptive configuration recommendations for over 25 vendor product families. The purpose of these benchmarks is to offer cybersecurity experts and system administrators globally a consensus-based approach to enhance system protection against potential threats.
+
+The CIS Benchmarks cover a wide range of technology categories, including operating systems, cloud providers, network devices, and more. Users can easily navigate through the resource to find the specific CIS Benchmark they are looking for by following two simple steps.
+
+Step 1 involves selecting the desired technology category from a variety of options available. This allows users to narrow down their search and focus on the specific area they are interested in.
+
+Step 2 involves selecting the specific CIS Benchmark within the chosen technology category. This step ensures that users can access the precise configuration recommendations relevant to their system or product.
+
+By following these steps, users can access the recommended configuration settings for their chosen technology, enabling them to implement best practices and enhance the security of their systems. The resource aims to empower users to protect their systems more confidently by leveraging the expertise and consensus of cybersecurity professionals worldwide.
+
+Overall, this tool serves as a valuable resource for individuals and organizations seeking to strengthen their cybersecurity posture by implementing industry-recognized best practices through the use of CIS Benchmarks.
+<br>
+=More Information=
+<br>
+https://www.cisecurity.org/cis-benchmarks/
+[[Category:All Businesses]]

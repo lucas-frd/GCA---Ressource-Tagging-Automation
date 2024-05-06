@@ -1,0 +1,8 @@
+=Description=
+<br>
+SafePaaS is a platform that enables organizations to securely store, share, and manage data in the cloud. It offers a variety of features that allow users to control access to data, set permissions, and audit activity. SafePaaS also provides a range of security and compliance features, such as encryption, two-factor authentication, and activity monitoring.
+<br>
+=More Information=
+<br>
+https://safepaas.com/
+[[Category:User Provisioning & Governance]]

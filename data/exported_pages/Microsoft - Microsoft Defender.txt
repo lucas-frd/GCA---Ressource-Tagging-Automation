@@ -1,0 +1,10 @@
+=Description=
+<br>
+Microsoft Defender is a security tool that helps protect your device from malware and other threats. It runs in the background and monitors your device for suspicious activity. If it finds something suspicious, it will alert you and give you the option to take action. Microsoft Defender is available for free for personal use.
+<br>
+=More Information=
+<br>
+https://www.microsoft.com/en-us/microsoft-365/microsoft-defender-for-individuals
+[[Category:Computers (Laptops & Desktops)]]
+[[Category:Recognising Untrustworthy or Inappropriate Applications]]
+[[Category:Anti-virus & Anti-malware Software]]

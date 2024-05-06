@@ -1,0 +1,8 @@
+=Description=
+<br>
+AllStar is a Open Source project that allows users to create and manage Asterisk PBX systems. It is written in PHP and offers a web-based interface for managing Asterisk systems. AllStar can also be used to manage VoIP systems and to create and manage Asterisk systems.
+<br>
+=More Information=
+<br>
+https://github.com/ossf/allstar
+[[Category:Configuration Management]]

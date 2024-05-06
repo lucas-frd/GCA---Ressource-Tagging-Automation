@@ -1,0 +1,8 @@
+=Description=
+<br>
+Establishing cyber readiness practices and policies helps to reduce risk, but it’s important to assume that our company is likely to have to deal with a security incident at some point that could impact business operations. Trying to determine how to re
+<br>
+=More Information=
+<br>
+https://cyberreadinessinstitute.org/
+[[Category:Small & Medium Sized Businesses]]

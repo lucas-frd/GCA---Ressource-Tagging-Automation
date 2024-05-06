@@ -1,0 +1,10 @@
+=Description=
+<br>
+Falcon Identity Threat Protection is a product offered by CrowdStrike, a leading cybersecurity company founded in 2011. CrowdStrike is headquartered in Sunnyvale, California and has offices all over the world, with a team of over 2,000 employees. The company is known for its innovative and cutting-edge approach to cybersecurity, leveraging advanced technology and intelligence to provide real-time protection against cyber threats.
+
+Falcon Identity Threat Protection is a cloud-based solution that is designed to protect organizations from identity-based attacks
+<br>
+=More Information=
+<br>
+https://www.crowdstrike.com/products/identity-protection/
+[[Category:Identity & Access Management (IAM)]]

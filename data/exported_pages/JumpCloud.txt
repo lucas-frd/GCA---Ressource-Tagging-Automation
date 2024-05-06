@@ -1,0 +1,9 @@
+=Description=
+<br>
+JumpCloud is a cloud-based directory services platform that helps organizations manage and connect their users to the resources they need. JumpCloud securely authenticates and authorizes users to systems, applications, and files, whether they are on-premises, in the cloud, or at the edge. With JumpCloud, users can access the resources they need from any device, anytime, anywhere.
+<br>
+=More Information=
+<br>
+https://jumpcloud.com/
+[[Category:Single Sign-On (SSO)]]
+[[Category:User Provisioning & Governance]]

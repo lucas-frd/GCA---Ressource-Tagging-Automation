@@ -1,0 +1,10 @@
+=Description=
+<br>
+CrowdStrike Identity Protection Services is a comprehensive suite of identity protection solutions offered by the cybersecurity company CrowdStrike. As a global leader in cloud-delivered endpoint and workload protection, CrowdStrike aims to provide organizations with advanced security measures to protect against cyberthreats, including identity theft and credential-based attacks. The Identity Protection Services function as an additional layer of security, improving an organization's overall cybersecurity posture and reducing risk.
+
+The Identity Protection Services offered by CrowdStrike include monitoring and real-time alerting for
+<br>
+=More Information=
+<br>
+https://www.crowdstrike.com/services/identity-protection/
+[[Category:Managed Security Service Providers (MSSPs)]]

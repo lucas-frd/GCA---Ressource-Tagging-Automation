@@ -1,0 +1,8 @@
+=Description=
+<br>
+The Veltec Networks IT & Cybersecurity Services For Nonprofit Organizations is a set of services designed to help nonprofit organizations keep their data and systems safe from attack. The services include incident response, threat intelligence, and vulnerability management. They can be customized to fit the needs of each organization, and the team at Veltec Networks has a deep understanding of the unique challenges that nonprofits face when it comes to cybersecurity.
+<br>
+=More Information=
+<br>
+https://www.veltecnetworks.com/it-cybersecurity-services-for-nonprofit-organizations/
+[[Category:Nonprofits & Charities]]

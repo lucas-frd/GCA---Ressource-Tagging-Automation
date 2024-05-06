@@ -1,0 +1,8 @@
+=Description=
+<br>
+Shadowserver collects over 40 million SSL certificates per day, enabling tracking of threat actors and their infra that use SSL certificates.
+<br>
+=More Information=
+<br>
+https://www.shadowserver.org/what-we-do/network-reporting/api-scan-ssl/
+[[Category:National CERTs]]

@@ -1,0 +1,8 @@
+=Description=
+<br>
+The Sandpoint Police Department is a law enforcement agency responsible for investigating crimes and ensuring public safety in Sandpoint, Idaho.
+<br>
+=More Information=
+<br>
+https://www.sandpointidaho.gov/your-government/departments/police/investigation
+[[Category:Idaho]]

@@ -1,0 +1,8 @@
+=Description=
+<br>
+Kantega Single Sign-On is a tool that allows you to easily add single sign-on capabilities to your web applications. It integrates with your existing authentication infrastructure and supports a wide range of features. Kantega Single Sign-On is easy to use and provides a high degree of flexibility. It is available as a standalone product or as part of the Kantega Security Suite.
+<br>
+=More Information=
+<br>
+https://www.kantegasoftware.com/single-sign-on/
+[[Category:Single Sign-On (SSO)]]

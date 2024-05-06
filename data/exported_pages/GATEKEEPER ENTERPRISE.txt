@@ -1,0 +1,8 @@
+=Description=
+<br>
+Gatekeeper Enterprise is a tool that helps organizations manage access to their data and systems. It provides a single point of control for all users, allowing administrators to easily see who has access to what, and to revoke or grant access as needed. It also helps to ensure that only authorized users can access sensitive data, and that all access is properly logged and audited.
+<br>
+=More Information=
+<br>
+https://www.gatekeeper-enterprise.com/
+[[Category:Password Managers]]

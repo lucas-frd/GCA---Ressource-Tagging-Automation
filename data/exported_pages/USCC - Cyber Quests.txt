@@ -1,0 +1,17 @@
+=Description=
+<br>
+This resource is the Cyber Quests portion of the US Cyber Challenge. It is an online competition designed to test participants' knowledge in various information security realms. The Cyber Quests consist of a series of challenging but enjoyable competitions that require participants to analyze artifacts and answer quiz questions.
+  
+  To participate, users need to click on the provided link and register for an account within the Question Engine. Once registered, participants can access the Cyber Quests and begin their journey.
+  
+  Each quest within the Cyber Quests focuses on a specific artifact, often a potentially vulnerable sample web server. Participants are required to analyze the given artifact and answer a series of quiz questions related to it. This process allows participants to demonstrate their understanding of information security concepts and their ability to apply that knowledge effectively.
+  
+  The Cyber Quests aim to provide an engaging platform for individuals interested in information security to test their skills and expand their knowledge. By participating in these quests, users can enhance their understanding of various aspects of cybersecurity and gain practical experience in analyzing artifacts and identifying vulnerabilities.
+  
+  Overall, the Cyber Quests offered by the US Cyber Challenge provide an opportunity for participants to showcase their expertise in information security through a series of challenging competitions. It is a valuable resource for individuals looking to enhance their skills and knowledge in the field of cybersecurity.
+<br>
+=More Information=
+<br>
+https://uscc.cyberquests.org/
+[[Category:Security Awareness & Training]]
+[[Category:Games & Activities]]

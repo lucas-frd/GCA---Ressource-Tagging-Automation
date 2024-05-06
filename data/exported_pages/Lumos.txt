@@ -1,0 +1,8 @@
+=Description=
+<br>
+Lumos is a tool that helps people with literacy and learning disabilities. It is a software program that can be used on a computer, tablet, or smartphone. It is designed to help people with dyslexia, ADD/ADHD, and other learning disabilities. Lumos makes it easier for people with these disabilities to read and write. It does this by providing a variety of tools and features that make it easier for people with these disabilities to use a computer or other device. For
+<br>
+=More Information=
+<br>
+https://www.lumos.com/
+[[Category:User Provisioning & Governance]]

@@ -1,0 +1,10 @@
+=Description=
+<br>
+Hotspot Shield is a virtual private network (VPN) provider that offers its services through a Google Chrome extension. It was created by the company AnchorFree in 2005 and is headquartered in California, USA.
+
+The purpose of Hotspot Shield is to provide users with a secure and private internet browsing experience. The extension encrypts all internet traffic to and from a user's device, making it nearly impossible for hackers to steal sensitive information like passwords, credit card numbers, and personal data.
+<br>
+=More Information=
+<br>
+https://chromewebstore.google.com/detail/hotspot-shield/nlbejmccbhkncgokjcmghpfloaajcffj?pli=1
+[[Category:VPN]]

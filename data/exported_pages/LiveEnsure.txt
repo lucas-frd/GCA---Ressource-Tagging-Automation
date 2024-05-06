@@ -1,0 +1,8 @@
+=Description=
+<br>
+LiveEnsure is an online security service that helps protect users from online threats such as phishing attacks and identity theft. The service provides a real-time link checker that scans websites for malicious links, and a password manager that stores and encrypts passwords for user accounts. LiveEnsure also offers a mobile app for iPhone and Android devices. The app provides a secure browser for surfing the web, and a secure storage for sensitive files.
+<br>
+=More Information=
+<br>
+https://www.liveensure.com/
+[[Category:Two-Factor & Multi-Factor Authentication]]

@@ -1,0 +1,10 @@
+=Description=
+<br>
+Check Point is a global provider of cybersecurity solutions for both businesses and consumers. The organization's main focus is to provide advanced technology and services to protect networks, data, and users from cyber threats.
+
+Founded in 1993, Check Point has grown to become a leading cybersecurity company with over 100,000 organizations worldwide using its products and services. The company is headquartered in Tel Aviv, Israel, with offices in over 100 countries, including the United States, United Kingdom, Germany, France,
+<br>
+=More Information=
+<br>
+https://www.checkpoint.com/products/
+[[Category:Developer Security]]

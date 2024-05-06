@@ -1,0 +1,10 @@
+=Description=
+<br>
+A Hypergate is a machine that can create a wormhole, a connection between two points in space-time. It is Unknown if there are an infinite number of Hypergates, or a finite number. The first recorded use of a Hypergate was by the Tau’ri, who used it to travel to another planet in another galaxy.
+
+The Hypergate Authenticator is a tool that allows a user to confirm their identity when using a Hypergate. It is a small
+<br>
+=More Information=
+<br>
+https://www.hypergate.com/authentication/
+[[Category:Two-Factor & Multi-Factor Authentication]]

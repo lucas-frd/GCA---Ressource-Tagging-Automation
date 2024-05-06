@@ -1,0 +1,123 @@
+=Description=
+<br>
+This resource is the APWG Malicious Domain Suspension Program, which provides a governed process for suspending maliciously registered domains securely, auditably, and with manageable scale. The program, known as AMDoS, allows Accredited Interveners to submit suspected malicious domain names for investigation by Sponsoring Registrars and Top-Level Domain Registries.
+
+The APWG, in collaboration with governance bodies and operational directorates focused on brand integrity, has developed a suspension protocol that addresses technical and policy challenges associated with domain suspensions. The aim is to create a scalable and efficient system for identifying and suspending malicious domains.
+
+The main features of the AMDoS program include a secure and auditable process for submitting suspected malicious domain names, ensuring that the suspension process is transparent and accountable. Accredited Interveners can provide information about potentially harmful domains, which are then investigated by Sponsoring Registrars and Top-Level Domain Registries.
+
+By streamlining the suspension process, the program aims to protect internet users from malicious activities associated with these domains. The AMDoS program provides a framework for collaboration between various stakeholders, including domain registrars and registries, to effectively combat cyber threats.
+
+Overall, the APWG Malicious Domain Suspension Program, or AMDoS, offers a governed and scalable approach to suspending maliciously registered domains. By facilitating collaboration and providing a secure process, the program aims to enhance brand integrity and protect internet users from potential harm.
+<br>
+=More Information=
+<br>
+https://ecrimeresearch.org/amdos/
+[[Category:All Businesses]]
+
+=Description=
+<br>
+This resource, the APWG CMU Phishing Education Landing Page, serves as a tool to replace phishing pages with redirect links that direct users to educational instruction instead of displaying a confusing 404 message. It was developed by the Anti-Phishing Working Group (APWG) in collaboration with the Carnegie Mellon CyLab Usable Privacy and Security Laboratory (CUPS) in 2008. 
+
+The purpose of this utility is to provide Internet Service Providers (ISPs) with a means to educate consumers about the dangers of phishing at the "most teachable moment" - right after they have clicked on a phishing link. By redirecting users to educational content, the resource aims to inform and raise awareness about phishing attacks, helping users to better understand how to avoid falling victim to such scams.
+
+The collaboration between APWG and CUPS brings together expertise in combating phishing and promoting usable privacy and security practices. By leveraging this knowledge, the resource offers a valuable opportunity to inform at-risk users about the theory and operation of phishing attacks.
+
+By replacing the traditional 404 error message with educational content, the APWG CMU Phishing Education Landing Page ensures that users are provided with relevant information to enhance their understanding of phishing threats. This approach helps to empower users to make informed decisions and take appropriate actions to protect themselves against phishing attacks.
+
+Overall, this resource serves as an effective tool to educate users about phishing and promote safer online practices, ultimately contributing to the prevention of phishing-related scams and the protection of user information.
+<br>
+=More Information=
+<br>
+https://ecrimeresearch.org/education-landing-page/
+[[Category:Researchers]]
+
+=Description=
+<br>
+This resource, the APWG eCrime Exchange (eCX), is a trusted repository designed to facilitate the exchange of machine-event and Internet-event data related to common cybercrimes, particularly phishing. Developed by the Anti-Phishing Working Group (APWG), the eCX serves as a platform where member organizations can contribute new data and extract information programmatically to enhance their own security applications and forensic routines.
+
+The eCX offers a RESTful API, allowing for seamless integration into programming environments, enabling fast and convenient access to the data. Additionally, it provides a user-friendly Web UI specifically designed for researchers and responders to navigate and analyze the available information.
+
+By leveraging the eCX, organizations can stay up-to-date with the latest trends and techniques employed by cybercriminals in phishing attacks. The repository serves as a valuable resource for enhancing security measures, developing effective countermeasures, and conducting in-depth research on cybercrime.
+
+With its long-standing reputation and extensive data collection, the APWG eCrime Exchange (eCX) is a reliable tool for organizations seeking to bolster their cybersecurity efforts. By utilizing the repository's API and Web UI, researchers and responders can access and analyze the data efficiently, enabling them to make informed decisions and take proactive measures against phishing threats.
+<br>
+=More Information=
+<br>
+https://apwg.org/ecx
+[[Category:Content Providers]]
+
+=Description=
+<br>
+This resource, the APWG Phishing Activity Trends Report, provides an analysis of phishing attacks reported to the Anti-Phishing Working Group (APWG) by its member companies and Global Research Partners. The report aims to track the evolution, proliferation, and propagation of crimeware by drawing from the research conducted by APWG's member companies.
+
+The report covers the summary of phishing activity trends for the 4th quarter of 2022. It highlights that 2022 witnessed a record-breaking year for phishing, with the APWG documenting over 4.7 million reported attacks. The report serves as a valuable resource for individuals and organizations interested in understanding the current landscape of phishing attacks and their impact.
+
+By analyzing the data collected from member companies and through e-mail submissions to reportphishing@antiphishing.org, the APWG provides insights into the latest trends and patterns in phishing attacks. This information can help individuals and organizations stay informed about the tactics employed by cybercriminals and take necessary precautions to protect themselves against phishing attempts.
+
+The APWG Phishing Activity Trends Report is a comprehensive resource that offers a concise summary of the phishing landscape, allowing readers to gain a better understanding of the scale and severity of phishing attacks. It serves as a valuable tool for researchers, cybersecurity professionals, and anyone interested in staying updated on the latest trends in phishing activity.
+
+Please note that this article does not include copyright information or contact details.
+<br>
+=More Information=
+<br>
+https://apwg.org/trendsreports
+[[Category:All Businesses]]
+[[Category:Governments and Intergovernmental Organizations]]
+[[Category:Individuals]]
+
+=Description=
+<br>
+This resource, known as the Messaging Convention, aims to promote unified cybersecurity awareness messaging for a safer online world. Established in 2010, it is powered by a collaborative effort of various cybersecurity organizations and experts.
+
+The primary purpose of the Messaging Convention is to provide a standardized framework for communicating cybersecurity awareness messages effectively. By establishing a common language and approach, it seeks to enhance the understanding and adoption of best practices among individuals, organizations, and communities.
+
+One of the main features of this resource is its comprehensive library of pre-approved cybersecurity messages. These messages cover a wide range of topics, including password security, phishing awareness, data protection, and safe online behavior. By utilizing these pre-approved messages, organizations can ensure consistency and accuracy in their cybersecurity awareness campaigns.
+
+Furthermore, the Messaging Convention offers guidelines and recommendations for tailoring these messages to specific audiences and contexts. It recognizes the importance of adapting messaging to resonate with different demographics, cultures, and industries. This flexibility allows organizations to effectively engage their target audience and maximize the impact of their cybersecurity awareness efforts.
+
+The Messaging Convention also provides resources for measuring the effectiveness of cybersecurity awareness campaigns. It offers guidance on conducting surveys, collecting feedback, and analyzing data to assess the impact of messaging initiatives. This data-driven approach enables organizations to continuously improve their cybersecurity awareness strategies and optimize their messaging for better outcomes.
+
+In summary, the Messaging Convention is a collaborative resource that promotes unified cybersecurity awareness messaging. With its standardized framework, comprehensive library of pre-approved messages, and guidance for customization and measurement, it equips organizations with the tools they need to effectively communicate cybersecurity best practices and foster a safer online world.
+<br>
+=More Information=
+<br>
+https://messagingconvention.org
+[[Category:All Businesses]]
+
+=Description=
+<br>
+This resource, the Symposium on Electronic Crime Research (eCrime 2022), is an annual event that aims to foster collaboration and knowledge exchange among academic researchers, industry security practitioners, and law enforcement in the field of cybercrime. The symposium spans three days and features a diverse program consisting of keynote presentations, technical and practical sessions, and interactive panels.
+
+The primary objective of eCrime 2022 is to provide a platform for experts to discuss and share their experiences, ideas, and lessons learned in combating various forms of electronic crime. The symposium covers a wide range of topics related to detecting and mitigating eCrime, including online fraud, malware, phishing, ransomware, and more.
+
+Academic researchers have the opportunity to submit their work for presentation at the symposium, allowing them to showcase their research findings and contribute to the collective understanding of electronic crime. The symposium also encourages industry security practitioners and law enforcement professionals to share their practical insights and strategies for combating cyber threats.
+
+By bringing together experts from different backgrounds, eCrime 2022 facilitates interdisciplinary collaboration and promotes the development of effective countermeasures against electronic crime. Attendees can expect to gain valuable knowledge, network with professionals in the field, and stay up-to-date with the latest advancements in cybercrime research and prevention.
+
+Overall, the Symposium on Electronic Crime Research (eCrime 2022) serves as a vital resource for those interested in understanding and addressing the challenges posed by electronic crime. It offers a platform for collaboration, knowledge sharing, and the exploration of innovative solutions to combat cyber threats.
+<br>
+=More Information=
+<br>
+https://ecrimeresearch.org/ecrime-symposium/
+[[Category:All Businesses]]
+[[Category:Governments and Intergovernmental Organizations]]
+[[Category:Individuals]]
+
+=Description=
+<br>
+This resource, provided by the Anti-Phishing Working Group (APWG), focuses on their eCrime Exchange (eCX) and its various features. The eCX is a data exchange platform specifically designed for cybercrime fighters. It offers a comprehensive data correspondence architecture and trust architecture to facilitate efficient collaboration among researchers, universities, and non-governmental organizations (NGOs) in combating cybercrime.
+
+One of the main features of the eCX is its role as a clearinghouse for cybercrime machine event data. It serves as a centralized hub where relevant data can be shared, analyzed, and utilized by authorized members. The platform also incorporates a legal framework, data conventions, and access controls to ensure the secure and responsible handling of sensitive information.
+
+Additionally, the APWG offers researcher grants to support academic institutions and researchers in their efforts to access and utilize the resources available within the eCX. These grants aim to foster collaboration and knowledge exchange among experts in the field of cybercrime.
+
+For those interested in becoming members or accessing the eCrime Exchange data modules, the APWG provides contact information for membership inquiries. By reaching out to membership@apwg.org, individuals and organizations can request new membership or seek assistance with their existing membership.
+
+Overall, the APWG's eCrime Exchange serves as a valuable resource for cybercrime fighters, offering a platform for data exchange, collaboration, and research grants to enhance the collective efforts in combating cyber threats.
+<br>
+=More Information=
+<br>
+https://apwg.org/membership/research/
+[[Category:Cybersecurity Providers]]
+[[Category:Law Enforcement]]

@@ -1,0 +1,12 @@
+=Description=
+<br>
+The tool Staying Safe Online is a Childline service that provides advice and information to children and young people about staying safe online and using mobile devices. The website includes advice on a range of topics, including online bullying, cyberbullying, sexting, and online grooming. It also provides information on how to report online abuse, and how to block and report users who are behaving inappropriately. The website also includes links to other resources about staying safe online.
+<br>
+=More Information=
+<br>
+https://www.childline.org.uk/info-advice/bullying-abuse-safety/online-mobile-safety/staying-safe-online/
+[[Category:Websites & Applications]]
+[[Category:Choosing a Secure Password]]
+[[Category:Browse the Web Securely]]
+[[Category:Protecting You & Your Childs Personal Information]]
+[[Category:Scams and Phishing]]

@@ -1,0 +1,10 @@
+=Description=
+<br>
+Cisco SecureX is the security-focused division of Cisco, a global technology company that provides various networking and cybersecurity solutions. Cisco SecureX offers a comprehensive range of security products and services designed to protect organizations from cyber threats and ensure the safety of their networks, devices, and data.
+
+The organization's website showcases a wide variety of security products and services for businesses of all sizes, from small startups to large enterprises. These include firewall and intrusion protection systems, secure email and web gateways, secure access and
+<br>
+=More Information=
+<br>
+https://www.cisco.com/site/us/en/products/security/all-products.html
+[[Category:Security Information & Event Management (SIEM)]]

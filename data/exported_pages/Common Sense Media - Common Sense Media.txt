@@ -1,0 +1,18 @@
+=Description=
+<br>
+This resource provides trusted ratings and reviews for various forms of entertainment, specifically targeting parents who want to make informed decisions about what their children watch or engage with. The ratings are categorized by age groups, ensuring that parents can easily find content suitable for their kids.
+ 
+ The resource offers a range of reviews for movies, TV shows, and more, with each review tailored to highlight the key aspects of the content. For example, a clever and colorful comedy with sophisticated themes is recommended for children aged 11 and above, while a tween-friendly animated reboot with action violence is suggested for kids aged 8 and above.
+ 
+ Additionally, the resource includes personalized recommendations based on the age of the child, allowing parents to receive tailored suggestions that align with their child's interests and maturity level. Users can create an account to access these personalized recommendations and save their preferences for future use.
+ 
+ The reviews provided are concise and informative, giving parents a clear understanding of the content's suitability for their children. For instance, a young adult romance-turned-show is described as sweet, summery, and relatable, suitable for viewers aged 15 and above. Similarly, a complex biopic with explicit content, including sex, swearing, and violence, is recommended for viewers aged 15 and above.
+ 
+ Overall, this resource aims to assist parents in making informed decisions about the entertainment their children consume, providing them with trusted ratings and reviews that are created with families in mind.
+<br>
+=More Information=
+<br>
+https://www.commonsensemedia.org/
+[[Category:Parents & Families]]
+[[Category:Exposure to Harmful Content]]
+[[Category:Websites & Applications]]

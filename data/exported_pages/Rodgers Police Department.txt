@@ -1,0 +1,8 @@
+=Description=
+<br>
+The Rodgers Police Department Organization is a division of the city's police force responsible for investigating and solving criminal cases.
+<br>
+=More Information=
+<br>
+https://www.rogersar.gov/334/Criminal-Investigation-Division
+[[Category:Arkansas]]

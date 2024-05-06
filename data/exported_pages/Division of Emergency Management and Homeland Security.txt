@@ -1,0 +1,8 @@
+=Description=
+<br>
+The Division of Emergency Management and Homeland Security is an organization that works to protect the state of Connecticut from cyber threats and crimes.
+<br>
+=More Information=
+<br>
+https://portal.ct.gov/DEMHS/Homeland-Security/Cybersecurity-and-Cybercrimes
+[[Category:Connecticut]]

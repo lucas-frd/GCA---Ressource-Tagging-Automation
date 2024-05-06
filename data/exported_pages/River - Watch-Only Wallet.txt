@@ -1,0 +1,10 @@
+=Description=
+<br>
+Watch-Only Wallet is the term used to describe a type of Bitcoin wallet offered by River, an online Bitcoin platform. Based in the United States, River prides itself on being a reliable and secure platform for buying, selling, and storing Bitcoin. 
+
+The Watch-Only Wallet offered by River is a non-custodial and multi-currency wallet, meaning that users have complete control over their funds and can store different types of cryptocurrencies in one place.
+<br>
+=More Information=
+<br>
+https://river.com/learn/terms/w/watch-only-bitcoin-wallet/
+[[Category:Watch-Only Wallet]]

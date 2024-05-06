@@ -1,0 +1,8 @@
+=Description=
+<br>
+The New Mexico State Police Technical Unit is a specialized division within the state police department responsible for providing technical support and expertise in investigations and law enforcement operations.
+<br>
+=More Information=
+<br>
+https://www.sp.nm.gov/
+[[Category:New Mexico]]

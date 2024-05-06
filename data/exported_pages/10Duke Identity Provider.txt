@@ -1,0 +1,8 @@
+=Description=
+<br>
+The 10Duke Identity Provider is a cloud-based identity management solution that enables businesses to securely manage and connect their employees, customers and partners. It provides a centralized platform for managing user identities and access to applications and data. The 10Duke Identity Provider is built on an enterprise-grade identity management system that supports Single Sign-On (SSO), multi-factor authentication, and user provisioning. It also features a flexible architecture that allows businesses to integrate it with their existing identity management
+<br>
+=More Information=
+<br>
+https://www.10duke.com/
+[[Category:Single Sign-On (SSO)]]

@@ -1,0 +1,8 @@
+=Description=
+<br>
+The Iowa Information Security Division is responsible for implementing and maintaining security protocols and procedures to protect the state's information systems and data.
+<br>
+=More Information=
+<br>
+https://docs.google.com/forms/d/e/1FAIpQLSeCzHS6PYLr883Tu9JAWAO16m3fJ6WGx1OJ5KKx0vWn2Opf4Q/viewform
+[[Category:Iowa]]

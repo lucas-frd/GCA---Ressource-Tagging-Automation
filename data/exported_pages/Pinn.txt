@@ -1,0 +1,8 @@
+=Description=
+<br>
+Pinn is a social networking website that allows users to share and discover new interests. It is a platform for people to connect with others who share similar interests and to explore new interests together. Pinn also provides a set of tools for users to manage their interests and to find and follow others with similar interests.
+<br>
+=More Information=
+<br>
+https://pinn.com/
+[[Category:Two-Factor & Multi-Factor Authentication]]

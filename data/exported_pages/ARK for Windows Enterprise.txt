@@ -1,0 +1,8 @@
+=Description=
+<br>
+The ARK for Windows Enterprise is a security tool that helps organizations secure their Windows-based systems by providing a central repository for security-related information. It includes a security dashboard that gives organizations an overview of their security posture, a library of security best practices, and a tool for managing security incidents. The ARK for Windows Enterprise is designed to help organizations improve their security posture by providing visibility into their security risks and providing guidance on how to remediate them. It is also intended to help
+<br>
+=More Information=
+<br>
+https://www.arksecurity.com/
+[[Category:User Provisioning & Governance]]

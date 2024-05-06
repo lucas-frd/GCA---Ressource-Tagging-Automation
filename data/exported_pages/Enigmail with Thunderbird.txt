@@ -1,0 +1,10 @@
+=Description=
+<br>
+Enigmail with Thunderbird is a plugin for the popular email client Thunderbird that provides users with end-to-end encryption and digital signature capabilities, making it easier for individuals and organizations to send and receive secure and private emails. Enigmail was initially developed by Patrick Brunschwig, and it was later acquired by the software company Deutsche Post in 2015.
+
+The Enigmail with Thunderbird organization is committed to providing a secure and user-friendly email encryption solution for all Thunderbird users.
+<br>
+=More Information=
+<br>
+https://www.enigmail.net/index.php/en/home
+[[Category:Email client]]

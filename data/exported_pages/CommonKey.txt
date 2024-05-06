@@ -1,0 +1,8 @@
+=Description=
+<br>
+CommonKey is a security tool that allows users to securely share passwords and other sensitive information. It is designed to make it easy to share passwords among team members, and to keep track of which passwords have been shared and which have not. CommonKey uses encryption to protect passwords and other sensitive information, and to prevent unauthorized access.
+<br>
+=More Information=
+<br>
+https://commonkey.com/
+[[Category:Password Managers]]

@@ -1,0 +1,10 @@
+=Description=
+<br>
+The organization Cryptocurrency Scams: How to Spot, Report, and Avoid Them is an informational article published on Investopedia, a leading financial education and news platform. The article focuses on educating readers about common scams in the cryptocurrency space and how to protect themselves from falling victim to these fraudulent activities.
+
+Investopedia is a trusted source for financial and investment-related information, with a mission to empower people to make smart financial decisions.
+<br>
+=More Information=
+<br>
+https://www.investopedia.com/articles/forex/042315/beware-these-five-bitcoin-scams.asp
+[[Category:Digital Currency Specific Scams and Attacks]]

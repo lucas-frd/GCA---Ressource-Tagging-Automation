@@ -1,0 +1,8 @@
+=Description=
+<br>
+A configuration assessment tool that checks conformance to the recommendations in the CIS Benchmarks. Leveraging the CIS-CAT Pro Dashboard component, users can view conformance to best practices and evaluate compliance scores over time.
+<br>
+=More Information=
+<br>
+https://www.cisecurity.org/
+[[Category:All Businesses]]

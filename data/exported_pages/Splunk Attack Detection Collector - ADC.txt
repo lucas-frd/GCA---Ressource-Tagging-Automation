@@ -1,0 +1,8 @@
+=Description=
+<br>
+Splunk ADC is a tool that helps detect and collect information about attacks on Splunk environments. It uses various data sources, such as Splunk's own logs, to create a comprehensive view of an attack. This allows administrators to quickly identify and respond to attacks.
+<br>
+=More Information=
+<br>
+https://github.com/splunk/attack-detections-collector
+[[Category:Security Information & Event Management (SIEM)]]

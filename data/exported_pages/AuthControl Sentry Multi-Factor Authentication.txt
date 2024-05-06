@@ -1,0 +1,9 @@
+=Description=
+<br>
+AuthControl Sentry is a multi-factor authentication solution that offers a variety of authentication methods to fit the needs of any organization. AuthControl Sentry can be deployed as a stand-alone solution or integrated with an existing authentication infrastructure. The solution supports a wide range of authentication devices, including biometric, OTP, and smart card readers. AuthControl Sentry is a highly scalable solution that can be deployed across a large number of users and systems. The solution offers a variety of features
+<br>
+=More Information=
+<br>
+https://www.axiom-systems.com/products/axiom-protect/
+[[Category:Identity & Access Management (IAM)]]
+[[Category:Two-Factor & Multi-Factor Authentication]]

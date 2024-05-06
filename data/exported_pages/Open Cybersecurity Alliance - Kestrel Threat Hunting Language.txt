@@ -1,0 +1,9 @@
+=Description=
+<br>
+The Kestrel Threat Hunting Language is a query language for searching and analyzing data to find potential security threats. It is designed to be simple and easy to use, and to be able to run on any platform that supports the language. The language has a number of capabilities including the ability to query data sources, analyze data, and to generate reports.
+<br>
+=More Information=
+<br>
+https://opencybersecurityalliance.org/
+[[Category:Developers and Development Organizations]]
+[[Category:Security Personnel]]

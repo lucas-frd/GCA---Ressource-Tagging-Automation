@@ -1,0 +1,11 @@
+=Description=
+<br>
+The EI-ISAC Operations tool is a Center for Internet Security resource that provides information and guidance on how to secure and operate critical infrastructure. The operations team works to identify, assess, and mitigate risks to essential services and functions. The team produces security guidance, tools, and information sharingproducts and services to support operations security. The EI-ISAC also engages with members on operations security matters through training and exercises.
+<br>
+=More Information=
+<br>
+https://www.cisecurity.org/isac
+[[Category:Critical Infrastructure Protection]]
+[[Category:Operational]]
+[[Category:Governments - US-State - Local - Tribal - Territorial (SLTT)]]
+[[Category:Election Officials-9.1]]

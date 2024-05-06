@@ -1,0 +1,9 @@
+=Description=
+<br>
+The Information Security Policy for Not-for-Profits is a guide that covers the basics of information security for organisations that are not-for-profit. The guide covers topics such as risk assessment, incident response, information security policies and procedures, and cyber security awareness. The guide is designed to help organisations to develop an information security policy that is appropriate for their size and purpose.
+<br>
+=More Information=
+<br>
+https://digitaltransformation.org.au/guides/cyber-security/information-security-policy-not-profits
+[[Category:Risks & Threats]]
+[[Category:Security Policies, Procedures, and Guidelines]]

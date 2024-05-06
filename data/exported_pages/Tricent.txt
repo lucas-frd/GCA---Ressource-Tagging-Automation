@@ -1,0 +1,8 @@
+=Description=
+<br>
+Tricent is an online tool that helps users manage their finances and track their spending. The app includes features such as budgeting, tracking investments, and setting financial goals. Tricent also offers a credit monitoring service to help users stay on top of their credit score.
+<br>
+=More Information=
+<br>
+https://www.tricent.com/
+[[Category:User Provisioning & Governance]]

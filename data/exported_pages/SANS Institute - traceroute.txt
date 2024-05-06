@@ -1,0 +1,8 @@
+=Description=
+<br>
+The Traceroute tool is a networking utility that helps administrators identify the path that data packets take as they travel from one computer to another. Traceroute can be used to troubleshoot network problems or to simply learn more about how data travels across the internet. The tool works by sending a series of "probes" to each node along the path from the source computer to the destination computer. Each probe is typically a small packet of data that is sent with a time-to-
+<br>
+=More Information=
+<br>
+https://www.sans.org/tools/?per-page=100
+[[Category:Security Information & Event Management (SIEM)]]

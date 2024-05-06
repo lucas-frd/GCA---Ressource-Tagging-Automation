@@ -1,0 +1,10 @@
+=Description=
+<br>
+This resource, SAFETAG, is a professional audit framework designed to address the digital security concerns of smaller non-profit organizations operating in the developing world. It adapts traditional penetration testing and risk assessment methodologies to be relevant and accessible to these organizations. SAFETAG aims to serve small-scale civil society organizations and independent media houses by working closely with them to identify the risks they face in terms of digital security. It provides a capacity-aware approach, taking into consideration the limited resources and technical expertise often found in these organizations. The goal is to empower them with practical and actionable steps to address their security concerns. Unlike traditional security audits, which may not be suitable for smaller organizations, SAFETAG offers a tailored approach that takes into account the unique challenges faced by non-profits in the developing world. By adapting established methodologies, SAFETAG ensures that the audit process is relevant and effective for these organizations. The framework emphasizes collaboration and knowledge sharing, working closely with the organizations to identify and understand their specific security needs. It provides a comprehensive evaluation template that guides the audit process, helping organizations assess their vulnerabilities and develop appropriate mitigation strategies. Overall, SAFETAG is a valuable resource for advocacy groups and non-profits in the developing world, offering a practical and accessible approach to digital security auditing. By addressing their unique challenges and providing capacity-aware recommendations, SAFETAG aims to enhance the overall security posture of these organizations.
+<br>
+=More Information=
+<br>
+https://safetag.org/
+[[Category:Risk Self-Assessment]]
+[[Category:Risks & Threats]]
+[[Category:Security Auditing]]

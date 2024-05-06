@@ -1,0 +1,10 @@
+=Description=
+<br>
+The Global Cyber Alliance's Phishing Overview tool is a resource designed to educate individuals about the dangers of phishing and how to protect themselves from it. The tool includes a video and accompanying information on what phishing is, how it works, and how to protect oneself from it. The video is approximately three minutes long and is presented in a clear and concise manner. It is accompanied by written information that further explains the concepts covered in the video. Overall, the tool provides a good overview of
+<br>
+=More Information=
+<br>
+https://vimeo.com/442163075
+[[Category:Scams and Phishing]]
+[[Category:Phishing]]
+[[Category:Videos]]

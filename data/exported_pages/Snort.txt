@@ -1,0 +1,10 @@
+=Description=
+<br>
+Snort, a free and open-source intrusion detection system (IDS), is the industry standard for detecting and preventing attacks on computer networks. The organization behind Snort is also called Snort, and is currently maintained by Cisco Systems.
+
+Snort was created in 1998 by Martin Roesch and was originally a personal project aimed at solving the security challenges faced by his employer. Over time, Snort received global recognition and became the most widely used IDS in the world. In 2001
+<br>
+=More Information=
+<br>
+https://www.snort.org/
+[[Category:Intrusion Detection & Prevention Systems (IDPS)]]

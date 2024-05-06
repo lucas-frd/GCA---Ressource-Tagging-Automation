@@ -1,0 +1,10 @@
+=Description=
+<br>
+Check Point is a global provider of cybersecurity solutions that help organizations protect their networks, data, and applications from cyber threats. The company was founded in 1993 and is based in Tel Aviv, Israel, with offices around the world.
+
+Harmony Browse is the company's next-generation secure web gateway, designed to provide organizations with complete visibility and control over their employees' web activity. It combines advanced threat prevention, user identification, policy enforcement, and reporting capabilities to create a comprehensive web security solution.
+<br>
+=More Information=
+<br>
+https://www.checkpoint.com/products/
+[[Category:Websites & Applications]]

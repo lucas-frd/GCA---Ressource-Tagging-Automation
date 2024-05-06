@@ -1,0 +1,8 @@
+=Description=
+<br>
+The Pearland Police Department's Criminal Investigations Division is responsible for conducting investigations and gathering evidence to solve and prevent criminal activities within the city.
+<br>
+=More Information=
+<br>
+https://www.pearlandtx.gov/departments/police/divisions/criminal-investigations-division
+[[Category:Texas]]

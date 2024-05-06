@@ -1,0 +1,12 @@
+=Description=
+<br>
+Falcon Endpoint Security and XDR (Extended Detection and Response) is a comprehensive organization that provides advanced cybersecurity solutions. It is developed and managed by CrowdStrike, a leading cybersecurity company founded in 2011.
+
+Falcon Endpoint Security offers a variety of features to secure endpoints and protect them against cyber threats. This includes next-generation antivirus, threat intelligence, and behavioral analysis, among others. These features work together to provide continuous monitoring and protection against malware, ransomware, and other malicious activities.
+
+The
+<br>
+=More Information=
+<br>
+https://www.crowdstrike.com/products/endpoint-security/
+[[Category:Endpoint Security]]

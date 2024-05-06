@@ -1,0 +1,9 @@
+=Description=
+<br>
+The Freedom of the Press Foundation's Online Account Security tool helps journalists and other users protect their online accounts from being compromised. The tool offers advice on choosing strong passwords, securing email accounts, and two-factor authentication. It also provides guidelines on how to create and use secure passwords, and how to keep them safe.
+<br>
+=More Information=
+<br>
+https://freedom.press/training/online-account-security/
+[[Category:Political and Social-8,4]]
+[[Category:Journalists-8,4]]

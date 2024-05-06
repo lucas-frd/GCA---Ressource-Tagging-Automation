@@ -1,0 +1,19 @@
+=Description=
+<br>
+This resource is a website that allows users to check the legitimacy of a website or link. Its main purpose is to help users determine if a website is a scam, phishing attempt, or legitimate. 
+  
+  The website provides a disclaimer, acknowledging that while they strive to provide accurate information, mistakes can occur. They encourage users to provide feedback to help improve the site. 
+  
+  The service offered by this resource is intended for general information purposes only. It is important to note that the website explicitly states that they are not responsible for any damages or negative consequences that may arise from using their service. 
+  
+  The resource is developed by a team in association with foundation partners, although specific details about these partners are not provided. 
+  
+  Overall, this tool aims to assist users in making informed decisions about the legitimacy of websites or links they encounter. It emphasizes the importance of user feedback and provides a disclaimer to manage expectations regarding the accuracy and potential consequences of using the service.
+<br>
+=More Information=
+<br>
+https://check.getsafeonline.org/
+[[Category:Secure Interactions]]
+[[Category:Scams]]
+[[Category:Phishing]]
+[[Category:Browse the Web Securely]]

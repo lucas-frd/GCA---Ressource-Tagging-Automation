@@ -1,0 +1,8 @@
+=Description=
+<br>
+The Social Engineering Toolkit (SET) is a SANS Institute approved open source penetration testing framework designed for conducting social engineering engagements. SET was created to help penetration testers and ethical hackers assess the security of an organization by simulating real-world attack scenarios. SET includes a number of features designed to make it easy to conduct social engineering attacks, such as seeding fake news stories, creating malicious websites, and sending phishing emails. SET can also be used to generate reports that can be used
+<br>
+=More Information=
+<br>
+https://www.trustedsec.com/social-engineer-toolkit/
+[[Category:Attack & Penetration Testing]]

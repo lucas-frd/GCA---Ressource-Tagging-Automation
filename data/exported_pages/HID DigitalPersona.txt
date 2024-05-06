@@ -1,0 +1,11 @@
+=Description=
+<br>
+HID DigitalPersona is a comprehensive biometric solution that offers a wide range of capabilities for authentication and identification. The solution provides a versatile platform that can be used for a variety of purposes, such as time and attendance, physical access control, and logical access control. The solution offers a variety of features, such as fingerprints, iris recognition, facial recognition, and more.
+<br>
+=More Information=
+<br>
+https://www.hidglobal.com/digitalpersona-products-and-services/
+[[Category:Identity & Access Management (IAM)]]
+[[Category:Single Sign-On (SSO)]]
+[[Category:Biometric]]
+[[Category:Two-Factor & Multi-Factor Authentication]]

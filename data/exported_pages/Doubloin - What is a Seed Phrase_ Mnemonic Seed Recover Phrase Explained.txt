@@ -1,0 +1,10 @@
+=Description=
+<br>
+Doubloin is a technology-focused organization that specializes in creating secure and user-friendly cryptocurrency wallets. The company was founded in 2017 by a team of experienced developers and security experts with a passion for blockchain technology.
+
+At its core, Doubloin aims to make the complicated world of cryptocurrency more accessible to the general public. The organization believes that the future of finance lies in decentralized currencies, and they want to empower individuals to take control of their own assets.
+<br>
+=More Information=
+<br>
+https://www.doubloin.com/learn/what-is-mnemonic-seed-phrase
+[[Category:Wallet Mnemonic Seed Phrase Protection (Storage, Retrieval, and Use)]]

@@ -1,0 +1,9 @@
+=Description=
+<br>
+Veridas Face Authentication is a biometric authentication tool that uses an individual's unique facial characteristics to verify their identity. The system captures an image of the user's face and compares it to a stored digital template to confirm their identity. Face authentication is a highly accurate way to verify someone's identity and can be used in a variety of security applications, such as access control, time and attendance tracking, and need-based customer service.
+<br>
+=More Information=
+<br>
+https://www.veridas.com/face-authentication/
+[[Category:Biometric]]
+[[Category:Two-Factor & Multi-Factor Authentication]]

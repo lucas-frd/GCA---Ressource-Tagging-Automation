@@ -1,0 +1,8 @@
+=Description=
+<br>
+The U.S. Federal Trade Commission's website for COPPA.
+<br>
+=More Information=
+<br>
+https://www.ftc.gov/terms/childrens-online-privacy-protection-act-coppa
+[[Category:Laws About Your Child's Personal Information]]

@@ -1,0 +1,8 @@
+=Description=
+<br>
+SecurID Access is an authentication and access management solution that delivers a consistent user experience across on-premises, cloud and mobile applications. It combines risk-based multi-factor authentication with identity intelligence and adaptive access controls to give users the right levels of access, while protecting against threats.
+<br>
+=More Information=
+<br>
+https://www.rsa.com/products/securid/
+[[Category:Biometric]]

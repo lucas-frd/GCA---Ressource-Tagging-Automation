@@ -1,0 +1,10 @@
+=Description=
+<br>
+Immunet® is a fast, light, and secure antivirus solution that uses the power of crowdsourcing to protect users from emerging threats. It is available as a free download for home users and is also included as a part of Cisco's AMP for Endpoints solution.
+
+Immunet takes a new approach to antivirus by leveraging the collective immunity of its users to protect everyone, rather than just those who have installed the software. Whenever a new threat is discovered, Immun
+<br>
+=More Information=
+<br>
+https://www.immunet.com/index
+[[Category:Anti-virus & Anti-malware Software]]

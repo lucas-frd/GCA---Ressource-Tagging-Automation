@@ -1,0 +1,10 @@
+=Description=
+<br>
+Symantec's Integrated Cyber Defense platform is a comprehensive security solution that helps organizations protect their data and infrastructure from cyber attacks. The platform includes a number of tools and features that work together to provide protection at every level of the organization, from the network perimeter to the endpoint.
+
+The platform includes a firewall, intrusion detection and prevention system, anti-malware and anti-virus protection, and a web filtering tool. It also includes a management console that gives administrators a single view
+<br>
+=More Information=
+<br>
+https://www.symantec.com/products/integrated-cyber-defense
+[[Category:Identity & Access Management (IAM)]]

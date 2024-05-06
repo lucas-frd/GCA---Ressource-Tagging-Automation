@@ -1,0 +1,10 @@
+=Description=
+<br>
+Cloudflare is a global organization that specializes in providing cloud-based security, content delivery, and DDoS mitigation services to businesses and websites. Founded in 2009 by Matthew Prince, Lee Holloway, and Michelle Zatlyn, Cloudflare is headquartered in San Francisco, California, and has offices in over 25 countries worldwide.
+
+One of the main services offered by Cloudflare is their content delivery network (CDN). Using their extensive network of over 200 data centers spread across the globe
+<br>
+=More Information=
+<br>
+https://www.cloudflare.com/
+[[Category:Cloud Security]]

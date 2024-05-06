@@ -1,0 +1,10 @@
+=Description=
+<br>
+Carbonite Information Archiving is a division within the global software company Opentext. It is a cloud-based information archiving solution designed to help organizations securely store, manage, and retrieve their data for compliance, legal, and productivity purposes.
+
+The division was formed in 2017 when Opentext acquired the company Carbonite, a leader in cloud-based backup and recovery solutions. This acquisition allowed Opentext to expand its portfolio of offerings and provide organizations with a comprehensive solution for information management and
+<br>
+=More Information=
+<br>
+https://www.opentext.com/products/security-cloud
+[[Category:Regulatory Compliance]]

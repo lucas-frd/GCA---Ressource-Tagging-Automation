@@ -1,0 +1,11 @@
+=Description=
+<br>
+Identity Guard is a tool that helps protect your identity. It does this by monitoring your personal information for changes, such as new addresses or phone numbers. If Identity Guard detects a change, it will send you an alert so you can take action to protect your identity. In addition, Identity Guard offers protection from fraud and identity theft. It has a database of known criminals and can help you stop them before they steal your identity. Identity Guard is a subscription service, so you will need to
+<br>
+=More Information=
+<br>
+https://www.identityguard.com/
+[[Category:The Dark Web]]
+[[Category:Leaked Personal Information]]
+[[Category:Scams]]
+[[Category:Phishing]]

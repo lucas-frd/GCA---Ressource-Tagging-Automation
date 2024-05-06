@@ -1,0 +1,8 @@
+=Description=
+<br>
+VeriDoc Smart Login is an online verification tool that allows users to securely login to websites and applications using their personal VeriDocs. By entering their personal information into the Smart Login system, users can verify their identity and login to their account without having to remember multiple usernames and passwords. The system is designed to work with any website or application that supports the VeriDoc standard, making it a convenient and secure login solution for users.
+<br>
+=More Information=
+<br>
+https://www.veridocglobal.com/smart-login/
+[[Category:Two-Factor & Multi-Factor Authentication]]

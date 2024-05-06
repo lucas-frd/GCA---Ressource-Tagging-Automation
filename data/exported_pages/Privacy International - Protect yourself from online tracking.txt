@@ -1,0 +1,8 @@
+=Description=
+<br>
+The Protect Yourself from Online Tracking tool is a Privacy International tool that helps users protect themselves from online tracking. The tool provides a list of tips and resources that users can use to prevent online tracking, including using a VPN, disabling cookies, and using private browsing modes. The tool also includes a list of resources for further reading on online tracking and privacy.
+<br>
+=More Information=
+<br>
+https://privacyinternational.org/act/protect-yourself-online-tracking
+[[Category:Location & Tracking]]

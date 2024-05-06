@@ -1,0 +1,8 @@
+=Description=
+<br>
+Alcatraz AI is a tool that allows users to create and train AI models without writing code. It provides a graphical interface that makes it easy to drag and drop components to build models. It also includes pre-built models that users can customize and fine-tune to their data.
+<br>
+=More Information=
+<br>
+https://www.alcatraz.ai/
+[[Category:Biometric]]

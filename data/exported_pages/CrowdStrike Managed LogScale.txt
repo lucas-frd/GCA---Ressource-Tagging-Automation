@@ -1,0 +1,10 @@
+=Description=
+<br>
+CrowdStrike Managed LogScale is a service offered by CrowdStrike, a leading cybersecurity company in the industry. It is designed to help organizations manage and analyze their log data in a secure and efficient manner. This service is a part of the larger Falcon Complete solution, which aims to provide comprehensive and proactive threat hunting, detection, and response services.
+
+CrowdStrike Managed LogScale offers a scalable, cloud-based platform that is capable of processing and storing large volumes of log data. This platform utilizes the
+<br>
+=More Information=
+<br>
+https://www.crowdstrike.com/services/managed-services/falcon-complete-logscale/
+[[Category:Managed Security Service Providers (MSSPs)]]

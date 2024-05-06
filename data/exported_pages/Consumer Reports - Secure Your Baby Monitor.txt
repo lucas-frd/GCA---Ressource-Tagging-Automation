@@ -1,0 +1,8 @@
+=Description=
+<br>
+Secure Your Baby Monitor is a tool from Consumer Reports that helps parents secure their baby monitors. The tool provides step-by-step instructions on how to choose and set up a baby monitor, how to choose a safe location for the monitor, and how to keep the monitor secure. The tool also includes a list of common security risks and how to avoid them.
+<br>
+=More Information=
+<br>
+https://securityplanner.consumerreports.org/tool/secure-your-baby-monitor
+[[Category:Child Monitors & Cameras]]

@@ -1,0 +1,9 @@
+=Description=
+<br>
+This resource provides information and guidance on cyber security, specifically focusing on keeping your information safe through thorough information security and device management systems and processes. It acknowledges that the organization is in the early stages of developing its capability and highlights areas for improvement. The resource emphasizes the importance of data security and mentions that the organization aims to keep data secure, although it currently has limited formal controls in place for people, processes, and technology. It also mentions the presence of a firewall, which is a common security measure. While the resource does not provide specific details about the information security systems and processes, it serves as a starting point for organizations looking to enhance their cyber security practices. It acknowledges the need for improvement and suggests that the organization is actively working towards strengthening its capabilities. Overall, this resource aims to raise awareness about cyber security and the importance of protecting sensitive information. It provides a basic understanding of the topic and encourages organizations to take steps towards improving their information security practices.
+<br>
+=More Information=
+<br>
+https://digitaltransformation.org.au/guides/cyber-security
+[[Category:Nonprofits & Charities]]
+[[Category:Small & Medium Sized Businesses]]

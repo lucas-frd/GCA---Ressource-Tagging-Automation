@@ -1,0 +1,8 @@
+=Description=
+<br>
+Akamai Enterprise Application Access is a cloud security solution that provides visibility and control over enterprise applications. It enables enterprises to secure their applications and data in the cloud, while reducing the risk of data breaches and malware attacks. Akamai Enterprise Application Access also provides a centralized view of all enterprise applications, so that enterprises can monitor and manage them more effectively.
+<br>
+=More Information=
+<br>
+https://www.akamai.com/en/products/security/enterprise-application-access
+[[Category:Single Sign-On (SSO)]]

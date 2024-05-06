@@ -1,0 +1,10 @@
+=Description=
+<br>
+MyShake is a mobile application and research project based at the University of California, Berkeley. The organization was founded in 2012 by a team of scientists and researchers with the goal of developing an early warning system for earthquakes.
+
+The main objective of MyShake is to utilize smartphones and the power of crowdsourcing to improve our understanding of earthquakes and ultimately, to save lives. The organization works towards achieving this goal by tapping into the sensors on smartphones to detect seismic activity.
+<br>
+=More Information=
+<br>
+https://myshake.berkeley.edu/
+[[Category:Disaster alert apps]]

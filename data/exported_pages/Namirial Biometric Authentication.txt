@@ -1,0 +1,10 @@
+=Description=
+<br>
+The Namirial Biometric Authentication is a system that utilizes biometric data to authenticate individuals. The system uses either a person’s fingerprint or iris scan to verify their identity. This verification process is completed by matching the biometric data to a record in the system’s database. Once the individual’s identity is confirmed, they are granted access to the desired service or resource.
+
+The Namirial Biometric Authentication system is designed to be highly secure
+<br>
+=More Information=
+<br>
+https://www.namirial.com/en/solutions/biometric-authentication/
+[[Category:Biometric]]

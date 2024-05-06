@@ -1,0 +1,14 @@
+=Description=
+<br>
+Avast Software s.r.o. is a Czech multinational cybersecurity software company headquartered in Prague, Czech Republic that researches and develops computer security software, machine learning and artificial intelligence.
+
+Avast has over 435 million monthly active users and the largest market share among anti-malware application providers. As of 2019, Avast and its subsidiary AVG Technologies are the global leaders in consumer cyber-security, protecting over 435 million people and devices.
+
+In October 2016, Avast
+<br>
+=More Information=
+<br>
+https://www.avast.com/en-us/index#mac
+[[Category:MacOS]]
+[[Category:Mobile Device Management]]
+[[Category:Anti-virus & Anti-malware Software]]

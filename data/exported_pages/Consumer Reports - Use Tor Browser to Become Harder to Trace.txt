@@ -1,0 +1,12 @@
+=Description=
+<br>
+The 'Use Tor Browser to Become Harder to Trace' is a resource created by Consumer Reports to assist individuals in browsing the internet privately and anonymously. Consumer Reports is a non-profit organization that is renowned for providing informative and objective information to consumers in order to help them make informed decisions regarding various products and services.
+<br>
+=More Information=
+<br>
+https://securityplanner.consumerreports.org/tool/browse-privately-with-tor
+[[Category:VPN]]
+[[Category:Location & Tracking]]
+[[Category:Location & Tracking]]
+[[Category:VPN]]
+[[Category:Browse the Web Securely]]

@@ -1,0 +1,14 @@
+=Description=
+<br>
+This resource provides a wide range of videos, infographics, and sharable content to assist individuals in maintaining their online safety. With a collection of 295 entries, users can easily search and filter the content based on their specific needs and interests.
+  
+  The resource covers various topics, including cyber security awareness, cyber threats, firewalls, gaming, holiday safety, home Wi-Fi, laptops and computers, malware, multi-factor authentication, online shopping, password managers, passwords, phishing, phones and tablets, public Wi-Fi, ransomware, social media, spoofing, storage and backups, taxes and finances, travel, and TVs.
+  
+  Users can select from different categories such as business, older adults, parents, partners, and youth to find content that is most relevant to their specific audience. Additionally, the resource offers information on Bluetooth, COVID-19, and Cyber Security Awareness Month, ensuring that users are up to date with the latest trends and challenges in the cyber security landscape.
+  
+  By providing a comprehensive collection of resources, this tool aims to educate and empower individuals to protect themselves and their digital assets from potential cyber threats. Whether users are looking for tips on securing their home Wi-Fi network or understanding the risks associated with online shopping, this resource offers valuable insights and practical advice to enhance online safety.
+<br>
+=More Information=
+<br>
+https://www.getcybersafe.gc.ca/en/resources?filter=335
+[[Category:Websites & Applications]]

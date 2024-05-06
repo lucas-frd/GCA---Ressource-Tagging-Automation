@@ -1,0 +1,8 @@
+=Description=
+<br>
+OneLogin is a cloud-based identity management and Single Sign-On (SSO) solution that simplifies identity management for employees, customers and partners across all device types and enterprise applications, both cloud and on-premises. With OneLogin's secure one-click access, users can quickly and easily access all their applications from one central location, with no need to remember multiple usernames and passwords. OneLogin's comprehensive platform also offers advanced features such as multi-factor authentication,
+<br>
+=More Information=
+<br>
+https://www.onelogin.com/
+[[Category:Identity & Access Management (IAM)]]

@@ -1,0 +1,12 @@
+=Description=
+<br>
+Open Source Vulnerabilities (OSV) is a free and open source tool that allows developers to find and fix potential security vulnerabilities in their code. The tool scans code for common security vulnerabilities and provides guidance on how to fix them. OSV is designed to be easy to use and integrates with existing development tools and processes.
+<br>
+=More Information=
+<br>
+https://osv.dev/
+[[Category:Threat & Vulnerability Management]]
+[[Category:Understanding Relevant Threats]]
+[[Category:Understanding Your Risks]]
+[[Category:Risk Self-Assessment]]
+[[Category:Risk Reduction]]

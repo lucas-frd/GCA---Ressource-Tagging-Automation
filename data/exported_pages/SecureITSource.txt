@@ -1,0 +1,8 @@
+=Description=
+<br>
+The tool SecureITSource is a platform that helps organisations to manage and secure their IT infrastructure. It provides a centralised view of all the IT assets and devices in an organisation, and allows organisations to track and manage their security posture. The tool also provides a range of features to help organisations to secure their IT infrastructure, including asset management, vulnerability management, incident response, and security analytics.
+<br>
+=More Information=
+<br>
+https://www.secureitsource.com/
+[[Category:Single Sign-On (SSO)]]

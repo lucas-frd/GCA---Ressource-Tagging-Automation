@@ -1,0 +1,10 @@
+=Description=
+<br>
+Checkpoint is a global cybersecurity company that provides a range of innovative technologies and solutions to protect organizations against cyber threats. Their flagship product is the Next Generation Firewall (NGFW), which is designed to provide advanced threat prevention, visibility, and control over network traffic.
+
+The Next Generation Firewall by Checkpoint boasts a unified security architecture that combines firewall, intrusion prevention system (IPS), and advanced threat prevention into a single platform. This ensures comprehensive protection against various types of cyber attacks, including malware, ransomware,
+<br>
+=More Information=
+<br>
+https://www.checkpoint.com/products/
+[[Category:Firewalls]]

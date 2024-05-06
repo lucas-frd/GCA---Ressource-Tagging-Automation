@@ -1,0 +1,8 @@
+=Description=
+<br>
+The Hamilton County Sheriff's Office is a law enforcement organization that provides specialized services and support to the county's residents.
+<br>
+=More Information=
+<br>
+http://www.hcsheriff.gov/cid/special_services.php
+[[Category:Tennessee]]

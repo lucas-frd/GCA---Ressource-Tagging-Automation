@@ -1,0 +1,14 @@
+=Description=
+<br>
+OllyDbg is a 32-bit assembler level analyzing debugger for Microsoft Windows. It is distributed as free software with full source code. It can be used to debug user mode applications and kernel-mode drivers, and to analyze malicious code.
+
+OllyDbg is a standalone debugger and does not require any installation. It can be run from a removable storage device such as a USB flash drive.
+
+OllyDbg has a user-friendly interface and includes a
+<br>
+=More Information=
+<br>
+https://www.sans.org/tools/?per-page=100
+[[Category:Security Testing & Auditing]]
+[[Category:Attack & Penetration Testing]]
+[[Category:Windows]]

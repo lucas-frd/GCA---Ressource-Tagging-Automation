@@ -1,0 +1,8 @@
+=Description=
+<br>
+Verifyoo is a tool that allows users to verify their identity using a fingerprint scanner. The tool is designed to work with a variety of different devices, including smartphones, tablets, and laptops. Once a user has been verified, they can access a variety of different services and applications. Verifyoo is a free service, and there is no limit to the number of times a user can be verified.
+<br>
+=More Information=
+<br>
+https://verifyoo.com/
+[[Category:Two-Factor & Multi-Factor Authentication]]

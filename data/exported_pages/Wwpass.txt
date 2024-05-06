@@ -1,0 +1,10 @@
+=Description=
+<br>
+WWPass provides a secure login service that can be used to access any website or online service. Once you have registered with WWPass, you can use your WWPass ID and password to login to any participating website or service.
+
+WWPass uses a strong encryption algorithm to protect your login information, so that it cannot be intercepted or decrypted by anyone else. Additionally, WWPass provides two-factor authentication, so that even if your WWPass ID and password are compromised, your account
+<br>
+=More Information=
+<br>
+https://wwpass.com/
+[[Category:Two-Factor & Multi-Factor Authentication]]

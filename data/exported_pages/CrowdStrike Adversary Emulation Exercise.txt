@@ -1,0 +1,10 @@
+=Description=
+<br>
+The CrowdStrike Adversary Emulation Exercise is a service offered by CrowdStrike, a cybersecurity company, designed to help organizations prepare for potential cyber attacks by simulating real-world adversary techniques. This service involves a series of simulated attacks, known as "emulations", that test an organization's defenses and allow them to identify and address any vulnerabilities in their systems.
+
+The exercise is carried out by a team of experienced CrowdStrike professionals, who will work closely with the client to create a customized plan based
+<br>
+=More Information=
+<br>
+https://www.crowdstrike.com/services/prepare/adversary-emulation-exercise/
+[[Category:Managed Security Service Providers (MSSPs)]]

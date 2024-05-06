@@ -1,0 +1,9 @@
+=Description=
+<br>
+MonoSign is a tool that allows you to digitally sign documents. It is a secure way to sign documents online, and it is easy to use. You can sign documents with your mouse or with your finger on a touch-screen device. MonoSign is a free service, and you can sign up for an account in minutes.
+<br>
+=More Information=
+<br>
+https://www.monosi.com/
+[[Category:Single Sign-On (SSO)]]
+[[Category:User Provisioning & Governance]]

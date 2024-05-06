@@ -1,0 +1,10 @@
+=Description=
+<br>
+Alert Ready is a Canadian organization that focuses on providing timely and effective emergency alerts to the public. It is a partnership between federal, provincial, and territorial emergency management organizations, as well as public broadcasters and telecommunication companies. The organization is based in Alert Ready, which is a national emergency alert system in Canada.
+
+The main goal of Alert Ready is to ensure that Canadians have access to critical and potentially life-saving information during an emergency situation.
+<br>
+=More Information=
+<br>
+https://www.alertready.ca/
+[[Category:Government emergency alert systems]]

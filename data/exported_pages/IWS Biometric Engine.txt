@@ -1,0 +1,8 @@
+=Description=
+<br>
+The IWS Biometric Engine is a lightweight, web-based tool that allows users to capture and enroll biometric data from various sources, including fingerprints, iris scans, and facial recognition. The tool can be used to 1) create templates of biometric data that can be used for identity verification and authentication; 2) manage and update biometric data records; and 3) perform biometric comparisons to verify the identity of individuals. The IWS Biometric Engine is designed to be
+<br>
+=More Information=
+<br>
+https://www.iwsinc.com/products/biometric-engine/
+[[Category:Biometric]]

@@ -1,0 +1,8 @@
+=Description=
+<br>
+Anonybit is an online tool that allows users to anonymously browse the web. It does this by encrypting the user's traffic and routing it through a series of servers that mask the user's IP address. Anonybit also blocks cookies and other tracking mechanisms that could be used to identify the user.
+<br>
+=More Information=
+<br>
+https://www.anonybit.com/
+[[Category:Biometric]]

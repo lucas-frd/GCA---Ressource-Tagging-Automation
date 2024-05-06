@@ -1,0 +1,8 @@
+=Description=
+<br>
+The Somerville Police Department's Detective Bureau is responsible for investigating and solving crimes in the city of Somerville.
+<br>
+=More Information=
+<br>
+https://www.somervillepd.com/divisions/detective-bureau
+[[Category:Massachusetts]]

@@ -1,0 +1,11 @@
+=Description=
+<br>
+The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. One of its projects is OWASP ZAP, a tool for finding vulnerabilities in web applications.
+
+OWASP ZAP is a free and open source tool that can be used to find security issues in web applications. It works by spidering the application to find all the links and forms, and then testing them for common vulnerabilities. OWASP ZAP
+<br>
+=More Information=
+<br>
+https://www.zaproxy.org/
+[[Category:Security Testing & Auditing]]
+[[Category:Attack & Penetration Testing]]

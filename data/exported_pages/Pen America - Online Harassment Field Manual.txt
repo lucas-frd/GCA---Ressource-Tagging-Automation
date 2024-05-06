@@ -1,0 +1,16 @@
+=Description=
+<br>
+This resource, the Online Harassment Field Manual, addresses the pressing issue of online abuse and its impact on free expression, equity, and inclusion. It aims to provide practical strategies for individuals who are experiencing or witnessing online abuse, with a particular focus on supporting writers, journalists, artists, and activists who identify as women, BIPOC, and/or LGBTQIA+.
+ 
+ The Field Manual offers concrete guidance on how to defend oneself and others against online abuse. It recognizes the disproportionate impact that online harassment has on marginalized communities and seeks to empower individuals from these communities with tools and resources to navigate such situations and enhance their digital safety.
+ 
+ Regardless of one's identity or profession, this resource is designed to be useful for anyone who is active online. It provides a range of strategies and resources that can be employed to address online abuse effectively. By offering practical advice and support, the Field Manual aims to equip individuals with the necessary tools to combat online harassment and create a safer online environment.
+ 
+ In summary, the Online Harassment Field Manual is a valuable resource that provides concrete strategies and resources for individuals facing online abuse. It aims to empower and support those disproportionately impacted by online harassment, while also offering useful tools for anyone navigating the challenges of online abuse and seeking to enhance their digital safety.
+<br>
+=More Information=
+<br>
+https://onlineharassmentfieldmanual.pen.org/
+[[Category:Cyberbullying]]
+[[Category:Harassment & Legal Considerations]]
+[[Category:Resources for Victims of Cybercrime & Malicious Activity]]

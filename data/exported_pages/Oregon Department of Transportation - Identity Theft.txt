@@ -1,0 +1,8 @@
+=Description=
+<br>
+The Oregon Department of Transportation - Identity Theft organization is dedicated to preventing and investigating cases of identity theft related to driver licenses and other transportation services.
+<br>
+=More Information=
+<br>
+http://oregon.gov/ODOT/DMV/pages/driverid/idtheft.aspx
+[[Category:Oregon]]

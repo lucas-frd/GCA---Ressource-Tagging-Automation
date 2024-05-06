@@ -1,0 +1,10 @@
+=Description=
+<br>
+A Digital Currency Wallet provides a digital storage system for cryptocurrencies such as Bitcoin, Ethereum, and Litecoin. It is a type of software program or application that securely stores private keys and public addresses, which are used to send, receive, and track cryptocurrency transactions. 
+
+The concept of a cryptocurrency wallet is similar to that of a physical wallet used to store cash and credit cards. However, instead of holding physical bills and cards, the cryptocurrency wallet stores the digital information needed to access and manage digital currencies.
+<br>
+=More Information=
+<br>
+https://www.investopedia.com/terms/b/bitcoin-wallet.asp
+[[Category:What are Digital Currency Wallets?]]

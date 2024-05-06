@@ -1,0 +1,8 @@
+=Description=
+<br>
+The Biometric Time Attendance System is a Cuckoo Tech product that is used to track employee attendance. The system uses fingerprint recognition to identify employees and record their attendance. The system can be used to track time off, sick days, vacation days, and other employee absences. The system can also be used to generate reports on employee attendance.
+<br>
+=More Information=
+<br>
+https://www.cuckootech.com/biometric_attendance_devices.php
+[[Category:Biometric]]

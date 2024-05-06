@@ -1,0 +1,10 @@
+=Description=
+<br>
+The MS-ISAC Endpoint Security Services is a cloud-based security platform that provides real-time detection and protection against malware and other threats. The platform uses machine learning and artificial intelligence to analyze traffic and identify threats, and then takes action to protect the endpoint. The service is available to all members of the MS-ISAC, and provides a comprehensive security solution for endpoint devices.
+<br>
+=More Information=
+<br>
+https://www.cisecurity.org/services/endpoint-security-services
+[[Category:Endpoint Detection and Response (EDR)]]
+[[Category:Anti-virus & Anti-malware Software]]
+[[Category:Managed Security Service Providers (MSSPs)]]

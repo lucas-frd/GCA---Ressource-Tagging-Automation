@@ -1,0 +1,10 @@
+=Description=
+<br>
+Falcon FileVantage is an exposure management solution created by CrowdStrike, a leading cybersecurity company that provides various security and threat intelligence services. Falcon FileVantage is a cloud-based platform that offers users the ability to identify, monitor, and remediate sensitive files and data across their entire organization. It is designed to help organizations of all sizes detect and manage potential data exposure risks.
+
+At its core, Falcon FileVantage is built on CrowdStrike's advanced technology and expertise in threat intelligence and endpoint
+<br>
+=More Information=
+<br>
+https://www.crowdstrike.com/products/exposure-management/
+[[Category:Data Loss Prevention (DLP)]]

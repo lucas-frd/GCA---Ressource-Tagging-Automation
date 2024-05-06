@@ -1,0 +1,8 @@
+=Description=
+<br>
+Subversion is a SANS Institute that helps manage software projects. It is a central repository where developers can track changes to files and share code changes with other developers. Subversion allows developers to revert back to previous versions of files, which is helpful when trying to debug code. It also allows for branching, which allows developers to create separate versions of code to work on without affecting the main codebase.
+<br>
+=More Information=
+<br>
+https://subversion.apache.org/
+[[Category:Configuration Management]]

@@ -1,0 +1,8 @@
+=Description=
+<br>
+A European Union directive that aims to improve cybersecurity across the EU.
+<br>
+=More Information=
+<br>
+https://www.enisa.europa.eu/topics/cybersecurity-policy/nis-directive-new
+[[Category:European Union]]

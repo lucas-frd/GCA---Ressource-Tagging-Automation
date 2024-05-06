@@ -1,0 +1,8 @@
+=Description=
+<br>
+24x7x365 managed and monitored Intrusion Detection System (IDS) built to detect SLTT-specific threats.
+<br>
+=More Information=
+<br>
+https://www.cisecurity.org/services/albert-network-monitoring
+[[Category:Governments - US State - Local - Tribal - Territorial (SLTT)]]

@@ -1,0 +1,10 @@
+=Description=
+<br>
+Check Point is a global cyber security company that provides a wide range of security solutions for both businesses and individuals. One of their major products is CloudGuard Workload, which is focused on providing comprehensive protection for workloads and cloud environments.
+
+CloudGuard Workload is an advanced security solution that helps organizations protect their critical workloads, applications, and data in a cloud environment. It is designed to address the unique challenges of securing modern cloud environments, such as dynamic workloads, virtual machines, and containers
+<br>
+=More Information=
+<br>
+https://www.checkpoint.com/products/
+[[Category:Cloud Security]]

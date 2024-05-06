@@ -1,0 +1,19 @@
+=Description=
+<br>
+This resource, FightCybercrime.org, aims to help individuals recognize, report, and recover from cybercrime, with a specific focus on romance scams. The website offers a Peer Support Program, provided by the Cybercrime Support Network, to assist survivors of romance imposter scams.
+  
+  Romance scams involve scammers creating fake profiles and messages on dating and social media platforms to establish trust and exploit victims for financial or legal gains. To support those affected by these scams, the Peer Support Program offers free and confidential counselor-led sessions.
+  
+  The program provides a safe virtual environment for individuals to work through the emotional and practical challenges they may face as survivors of romance scams. By connecting with trained counselors, participants can receive guidance, support, and resources to aid in their recovery process.
+  
+  FightCybercrime.org recognizes the importance of addressing the unique needs of romance scam survivors and offers this specialized program to assist them. The resource acknowledges the impact of these scams on individuals and aims to provide a supportive community where survivors can share their experiences and find solace.
+  
+  By offering a Peer Support Program, FightCybercrime.org aims to empower survivors of romance scams to regain control of their lives and move forward. The program's confidential nature ensures that participants can freely express their concerns and receive personalized assistance.
+  
+  Overall, FightCybercrime.org and its Peer Support Program serve as valuable resources for individuals affected by romance scams, providing them with the necessary support and tools to recognize, report, and recover from cybercrime.
+<br>
+=More Information=
+<br>
+https://fightcybercrime.org/programs/peer-support/
+[[Category:Hotlines & Services]]
+[[Category:Developers and Development Organizations]]

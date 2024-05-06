@@ -1,0 +1,8 @@
+=Description=
+<br>
+A UK law that regulates the collection, use, and disclosure of personal information.
+<br>
+=More Information=
+<br>
+https://ico.org.uk/for-organisations/
+[[Category:Laws About Your Child's Personal Information]]

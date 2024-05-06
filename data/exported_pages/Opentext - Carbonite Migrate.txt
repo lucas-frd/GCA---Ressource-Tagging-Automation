@@ -1,0 +1,10 @@
+=Description=
+<br>
+Carbonite Migrate is a cloud migration service offered by the organization Opentext. Opentext is a software company that provides enterprise information management solutions to businesses of all sizes. The organization was founded in 1991 and is headquartered in Waterloo, Canada.
+
+Carbonite Migrate is one of the cloud migration services offered by Opentext. This service is designed to help businesses easily and securely move their data and applications from on-premises systems to the cloud. The goal of Carbonite
+<br>
+=More Information=
+<br>
+https://www.opentext.com/products/security-cloud
+[[Category:Configuration Management]]

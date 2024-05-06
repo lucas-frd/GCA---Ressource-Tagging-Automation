@@ -1,0 +1,14 @@
+=Description=
+<br>
+The Global Resilience Federation (GRF) is a membership-based organization that promotes the sharing of information and resources among its members in order to improve resilience against systemic threats. Members of the GRF include corporations, governments, NGOs, and research institutions. The GRF operates an information sharing and analysis center (ISAC/ISAO) that serves as a hub for the exchange of intelligence on threats and vulnerabilities. The ISAC/ISAO also works to identify best practices for resilience
+<br>
+=More Information=
+<br>
+https://www.grf.org/
+[[Category:Carriers & Communications]]
+[[Category:Critical Infrastructure]]
+[[Category:Cybersecurity Providers]]
+[[Category:Information Sharing Organizations]]
+[[Category:National CERTs]]
+[[Category:Registrars and Registries]]
+[[Category:Security Operations Entities]]

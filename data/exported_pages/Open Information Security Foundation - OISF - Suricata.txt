@@ -1,0 +1,8 @@
+=Description=
+<br>
+Suricata is a open source tool used for Intrusion Detection and Prevention (IDS/IPS). It was created by the Open Information Security Foundation (OISF). It is used to detect and prevent various types of attacks, such as denial of service (DoS), malware, and zero-day attacks. Suricata can be used on various platforms, such as Linux, Windows, andmacOS. It is also capable of running on Raspberry Pi and other embedded devices. Sur
+<br>
+=More Information=
+<br>
+https://suricata.io/
+[[Category:Threat & Vulnerability Management]]

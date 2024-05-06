@@ -1,0 +1,17 @@
+=Description=
+<br>
+This resource provides an introduction to phone cyber security, highlighting the importance of protecting personal information stored on smartphones. It acknowledges the increasing reliance on phones for various activities and emphasizes the need to safeguard sensitive data.
+  
+  The article emphasizes that smartphones serve as a central hub for various functions, including communication, transportation, and entertainment. It acknowledges the convenience they offer but also highlights the potential risks associated with storing personal information on these devices.
+  
+  The resource emphasizes the significance of protecting personal data, such as photos and text message history, stored on smartphones. It aims to raise awareness about the potential vulnerabilities and threats that exist in the digital landscape.
+  
+  While the article does not delve into specific security measures or techniques, it serves as a starting point for individuals to understand the importance of phone cyber security. It encourages readers to be mindful of the information they store on their phones and to take necessary precautions to protect their data.
+  
+  Overall, this resource provides a brief introduction to phone cyber security, highlighting the need to safeguard personal information stored on smartphones. It serves as a reminder for individuals to be cautious and take appropriate measures to protect their data in an increasingly connected world.
+<br>
+=More Information=
+<br>
+https://www.getcybersafe.gc.ca/en/blogs/phone-cyber-security-introduction
+[[Category:Recognising Untrustworthy or Inappropriate Applications]]
+[[Category:Smart Phones]]

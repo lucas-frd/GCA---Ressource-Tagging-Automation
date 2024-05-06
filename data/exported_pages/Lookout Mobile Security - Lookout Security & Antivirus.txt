@@ -1,0 +1,8 @@
+=Description=
+<br>
+Lookout Security & Antivirus is a Lookout Mobile Security app that helps keep your Android device safe from viruses, malware, and other threats. It includes a virus scanner that can detect and remove malware, a malware removal tool that can help you remove malware from your device, and a phone locator that can help you find a lost or stolen device. Lookout Security & Antivirus is a free app, but it does include ads.
+<br>
+=More Information=
+<br>
+https://play.google.com/store/apps/details?id=com.lookout&hl=en_US&gl=US
+[[Category:Anti-virus & Anti-malware Software]]

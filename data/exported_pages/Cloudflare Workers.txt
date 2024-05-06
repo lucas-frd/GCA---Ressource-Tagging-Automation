@@ -1,0 +1,10 @@
+=Description=
+<br>
+Cloudflare is a company that provides content delivery network (CDN) services and cybersecurity solutions to its customers. It was founded by Matthew Prince, Lee Holloway, and Michelle Zatlyn in 2009 and is headquartered in San Francisco, California. The company's main goal is to make the Internet safer, faster, and more reliable for its users.
+
+Cloudflare has a vast network of over 200 cities in more than 100 countries, making it one of the largest content delivery networks
+<br>
+=More Information=
+<br>
+https://www.cloudflare.com/
+[[Category:Cloud Security]]

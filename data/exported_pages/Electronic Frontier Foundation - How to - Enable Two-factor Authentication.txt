@@ -1,0 +1,14 @@
+=Description=
+<br>
+This resource provides guidance on enabling two-factor authentication (2FA) as a self-defense measure for online security. Two-factor authentication is a method that requires users to provide two different authentication factors to verify their identity when accessing a service. These factors can include something the user knows (e.g., a password or PIN), something the user possesses (e.g., a hardware token or mobile phone), or something inseparable from the user (e.g., fingerprints).
+ 
+ The purpose of this resource is to educate users on the importance of implementing 2FA and to provide instructions on how to enable it. By enabling 2FA, users can add an extra layer of security to their online accounts, reducing the risk of unauthorized access and potential data breaches.
+ 
+ The resource emphasizes that many individuals are already familiar with 2FA in other aspects of their lives, such as using an ATM to withdraw cash. Enabling 2FA for online accounts follows a similar principle of requiring multiple factors for authentication.
+ 
+ While the specific instructions for enabling 2FA are not provided in this short description, the resource aims to empower users to take control of their online security by implementing this additional layer of protection. By following the guidelines outlined in the resource, users can enhance the security of their online accounts and mitigate the risk of unauthorized access.
+<br>
+=More Information=
+<br>
+https://ssd.eff.org/module/how-enable-two-factor-authentication
+[[Category:Two-Factor & Multi-Factor Authentication]]

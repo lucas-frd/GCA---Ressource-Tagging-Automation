@@ -1,0 +1,8 @@
+=Description=
+<br>
+The FortiToken Cloud is a cloud-based security solution that provides two-factor authentication for users of FortiGate and FortiMail Cloud security solutions. The FortiToken Cloud uses a USB token to generate a one-time password (OTP), which is then used to log into the security solution. The OTP is valid for a specific period of time, after which it expires and a new OTP must be generated. The FortiToken Cloud is a convenient and secure
+<br>
+=More Information=
+<br>
+https://www.fortitokencloud.com/
+[[Category:Two-Factor & Multi-Factor Authentication]]

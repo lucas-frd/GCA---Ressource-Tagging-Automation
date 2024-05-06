@@ -1,0 +1,9 @@
+=Description=
+<br>
+Arculix Intelligent MFA is a cloud-based multi-factor authentication tool that combines the power of biometrics, machine learning, and behavioral analytics to provide a more secure authentication experience for users. The tool uses a variety of data points to verify the user's identity, including their physical characteristics, the way they type, and their behavior patterns. This makes it more difficult for criminals to successfully impersonate a user and gain access to their account. Arculix Intelligent MFA also
+<br>
+=More Information=
+<br>
+https://arculix.com/
+[[Category:Biometric]]
+[[Category:Two-Factor & Multi-Factor Authentication]]

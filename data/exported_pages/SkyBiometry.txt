@@ -1,0 +1,8 @@
+=Description=
+<br>
+SkyBiometry is a cloud-based facial recognition tool that helps users to identify and recognize faces in digital images. It offers a number of features including face detection, recognition, and tagging. The tool can be used to identify people in photos, video, and live streams. It is also used for security purposes such as door access control and identifying known criminals. The tool is accurate and fast, and it can be used by businesses and individuals.
+<br>
+=More Information=
+<br>
+https://www.skybiometry.com/
+[[Category:Biometric]]

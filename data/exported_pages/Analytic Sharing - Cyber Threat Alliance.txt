@@ -1,0 +1,8 @@
+=Description=
+<br>
+CTA maintains several channels for members to share threat intelligence at human speed, including dedicated WebEx channels, regular virtual meetings among member representatives, and pre-publication sharing of embargoed blog posts, reports, and research p
+<br>
+=More Information=
+<br>
+https://cyberthreatalliance.org
+[[Category:Cybersecurity Providers]]

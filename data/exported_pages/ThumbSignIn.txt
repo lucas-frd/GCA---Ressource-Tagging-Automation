@@ -1,0 +1,8 @@
+=Description=
+<br>
+ThumbSignIn is a secure, two-factor authentication system that uses your fingerprint as a means of verifying your identity. When you want to log into a site or service that supports ThumbSignIn, you simply scan your fingerprint on the included hardware device and are then granted access. This makes it much more difficult for someone to gain access to your account, as they would need your fingerprint in addition to your username and password.
+<br>
+=More Information=
+<br>
+https://www.thumbsignin.com/
+[[Category:Biometric]]

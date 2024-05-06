@@ -1,0 +1,8 @@
+=Description=
+<br>
+The Cloud Security Alliance’s (CSA) Security, Trust, Assurance & Risk (STAR) Program is designed to help organizations securely and cost-effectively move to the cloud. The program provides a flexible, modular approach that can be customized to fit the specific needs of any organization. The program includes a self-assessment tool, which allows organizations to identify and track their progress in adopting best practices for cloud security. The program also provides guidance on how to select and implement
+<br>
+=More Information=
+<br>
+https://cloudsecurityalliance.org/star
+[[Category:Governments - US-State - Local - Tribal - Territorial (SLTT)]]

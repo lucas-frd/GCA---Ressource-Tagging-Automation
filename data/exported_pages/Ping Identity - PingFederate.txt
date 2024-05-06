@@ -1,0 +1,9 @@
+=Description=
+<br>
+Ping Federate is an access management and single sign-on server. It provides authentication, authorization, and single sign-on services. Ping Federate supports multiple protocols, including SAML, WS-Federation, and OAuth. It also integrates with PingOne, PingOne for Cloud, and PingFederate Cloud.
+<br>
+=More Information=
+<br>
+https://www.pingidentity.com/en/products/pingfederate.html
+[[Category:Single Sign-On (SSO)]]
+[[Category:User Provisioning & Governance]]

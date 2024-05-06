@@ -1,0 +1,8 @@
+=Description=
+<br>
+Elastic SIEM is a free and open tool from Elastic that provides users with an easy way to visualize and analyze data from multiple data sources. Elastic SIEM provides a simple, effective way to manage security data, and can be used to identify and investigate potential security threats.
+<br>
+=More Information=
+<br>
+https://www.elastic.co/blog/elastic-siem-free-open
+[[Category:Security Information & Event Management (SIEM)]]

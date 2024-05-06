@@ -1,0 +1,10 @@
+=Description=
+<br>
+InWebo's multifactor authentication tool helps organizations secure their online accounts and data by requiring users to provide more than one form of identification when logging in. This can include something the user knows (like a password), something the user has (like a phone or security token), or something the user is (like a fingerprint).
+
+InWebo's multifactor authentication can be used with any type of online account, and it provides an extra layer of security by making it more difficult for
+<br>
+=More Information=
+<br>
+https://inwebo.com/multifactor-authentication/
+[[Category:Two-Factor & Multi-Factor Authentication]]

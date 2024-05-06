@@ -1,0 +1,20 @@
+=Description=
+<br>
+This resource, AlienVault OSSIM, is an open-source security information and event management (SIEM) tool. It is widely used by security professionals worldwide. 
+ 
+ AlienVault OSSIM offers a range of features, including event collection, normalization, and correlation. It was developed by engineers who recognized the need for open-source products in the security industry. 
+ 
+ With AlienVault OSSIM, security professionals can effectively manage and monitor security events within their organization. The tool allows for the collection of security events from various sources, normalizes the data, and correlates events to identify potential threats or security incidents. 
+ 
+ By utilizing AlienVault OSSIM, organizations can enhance their security posture by gaining visibility into their network and systems. The tool provides real-time monitoring and analysis of security events, enabling proactive threat detection and response. 
+ 
+ One of the key advantages of AlienVault OSSIM is its open-source nature, which allows for customization and community-driven development. Users can leverage the expertise and contributions of a global community of security professionals to enhance the tool's capabilities and stay up-to-date with emerging threats. 
+ 
+ Overall, AlienVault OSSIM is a trusted and widely used open-source SIEM tool that provides security professionals with the necessary features to effectively manage and monitor security events. Its event collection, normalization, and correlation capabilities make it a valuable resource for organizations looking to enhance their security posture.
+<br>
+=More Information=
+<br>
+https://cybersecurity.att.com/products/ossim
+[[Category:Risks & Threats]]
+[[Category:Incident Reporting & Response]]
+[[Category:Security Information & Event Management (SIEM)]]

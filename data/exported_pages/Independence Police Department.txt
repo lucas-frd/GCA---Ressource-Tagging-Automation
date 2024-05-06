@@ -1,0 +1,8 @@
+=Description=
+<br>
+The Independence Police Department is a law enforcement agency responsible for protecting and serving the community of Independence, Missouri.
+<br>
+=More Information=
+<br>
+https://www.independencemo.gov/government/city-departments/police
+[[Category:Missouri]]

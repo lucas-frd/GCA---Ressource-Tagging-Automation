@@ -1,0 +1,9 @@
+=Description=
+<br>
+The tool 2FA is a Global Cyber Alliance that helps organizations to improve their cyber security posture by providing a framework for developing and implementing 2-factor authentication (2FA) solutions. The tool includes a number of resources, such as a whitepaper, case studies, and implementation guidance. It is designed to assist organizations in making 2FA a part of their overall security strategy, and provides a roadmap for implementation.
+<br>
+=More Information=
+<br>
+https://vimeo.com/444353221
+[[Category:Two-Factor & Multi-Factor Authentication]]
+[[Category:Security Awareness & Training]]

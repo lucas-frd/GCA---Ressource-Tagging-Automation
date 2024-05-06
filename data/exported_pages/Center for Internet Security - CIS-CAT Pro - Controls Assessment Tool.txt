@@ -1,0 +1,16 @@
+=Description=
+<br>
+This resource is a website that aims to make the connected world a safer place by harnessing the power of the global IT community to protect public and private organizations against cyber threats. The website offers various resources and tools to assist in navigating the cybersecurity audit cycle.
+
+One of the main features of this resource is a webinar titled How to Navigate the Cybersecurity Audit Cycle, which will be conducted by their Chief Information Security Officer (CISO) on August 29. This webinar provides an overview of how the CIS SecureSuite resources and tools can be utilized to navigate the cybersecurity audit process.
+
+Additionally, the website features a blog post titled 4 Reasons Why Assessments Are Key to Your Governance Audits. This blog post highlights the importance of assessments in conducting effective governance audits and provides insights into why they are crucial for organizations.
+
+By leveraging the expertise and knowledge of the global IT community, this resource aims to equip organizations with the necessary tools and information to enhance their cybersecurity measures. It emphasizes the significance of assessments and offers valuable insights through webinars and blog posts.
+
+Overall, this resource serves as a platform for organizations to access valuable resources, tools, and educational content to strengthen their cybersecurity practices and protect against cyber threats.
+<br>
+=More Information=
+<br>
+https://www.cisecurity.org/
+[[Category:All Businesses]]

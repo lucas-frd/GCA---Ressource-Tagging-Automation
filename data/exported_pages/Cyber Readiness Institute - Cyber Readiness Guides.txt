@@ -1,0 +1,8 @@
+=Description=
+<br>
+The Cyber Readiness Guides is a series of publications that provide guidance on how businesses and organizations can better prepare themselves for cybersecurity threats. The guides cover a variety of topics, ranging from incident response and recovery, to data security and risk management. While the guides are not exhaustive, they provide a good starting point for organizations looking to improve their cybersecurity posture.
+<br>
+=More Information=
+<br>
+https://cyberreadinessinstitute.org/
+[[Category:Small & Medium Sized Businesses]]

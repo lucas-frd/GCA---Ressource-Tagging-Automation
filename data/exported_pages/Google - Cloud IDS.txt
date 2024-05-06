@@ -1,0 +1,11 @@
+=Description=
+<br>
+Cloud IDS (Intrusion Detection System) is an organization based in Google that provides cutting-edge security solutions for businesses and organizations of all sizes. The aim of Cloud IDS is to protect its clients from advanced cyber threats and attacks by providing a comprehensive intrusion detection and prevention system.
+
+At its core, Cloud IDS leverages the power of Google's global infrastructure and advanced technologies to deliver a robust, scalable, and intelligent security solution. This allows businesses to focus on their core operations while leaving the security concerns
+<br>
+=More Information=
+<br>
+https://cloud.google.com/intrusion-detection-system
+[[Category:Intrusion Detection & Prevention Systems (IDPS)]]
+[[Category:Cloud Security]]

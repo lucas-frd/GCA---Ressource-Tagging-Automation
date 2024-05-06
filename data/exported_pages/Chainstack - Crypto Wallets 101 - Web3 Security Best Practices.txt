@@ -1,0 +1,8 @@
+=Description=
+<br>
+The tool Crypto Wallets 101: Web3 Security Best Practices is a Chainstack resource that provides best practices for securing crypto wallets. It covers topics such as creating strong passwords, backing up wallets, and preventing phishing attacks. The resource also includes a list of recommended wallet security tools.
+<br>
+=More Information=
+<br>
+https://chainstack.com/web3-security-best-practices/
+[[Category:Digital Currency Wallet Protection]]

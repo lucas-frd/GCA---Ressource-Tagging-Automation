@@ -1,0 +1,27 @@
+=Description=
+<br>
+This resource, called Zebra Crossing: an easy-to-use digital safety checklist, is a guide designed to assist individuals in enhancing their digital safety and privacy. It is aimed at those who use the internet regularly for various purposes such as work, social media, and financial transactions. The guide is particularly useful for individuals who want to take proactive measures to secure their digital safety but are not currently facing immediate threats.
+ 
+ The main feature of this resource is its user-friendly checklist format, which allows readers to easily navigate through the guide and follow the recommended steps. The checklist covers a range of topics related to digital safety, including securing online accounts, protecting personal information, and practicing safe browsing habits.
+ 
+ The guide is intended for individuals who are comfortable with technology and have a basic understanding of how to change settings on their devices. It provides practical advice and actionable steps that readers can implement to enhance their digital safety and privacy.
+ 
+ The information in this resource is based on the expertise and experience of the creators, who have helped individuals and groups improve their digital safety practices. It is important to note that this guide does not provide one-on-one consultations for immediate danger situations. Instead, it focuses on proactive measures that individuals can take to protect themselves online.
+ 
+ Overall, Zebra Crossing: an easy-to-use digital safety checklist is a valuable resource for individuals who want to enhance their digital safety and privacy. By following the checklist and implementing the recommended steps, readers can take proactive measures to protect themselves while using the internet.
+<br>
+=More Information=
+<br>
+https://zebracrossing.narwhalacademy.org/
+[[Category:General Device & Application Safety]]
+[[Category:Mobile Devices]]
+[[Category:Virtual Assistants & Smart Speakers]]
+[[Category:Smart TVs]]
+[[Category:Firewalls]]
+[[Category:Planning Your Security Together]]
+[[Category:Browse the Web Securely]]
+[[Category:Account Safety & Privacy]]
+[[Category:Protecting You & Your Childs Personal Information]]
+[[Category:Computers (Laptops & Desktops)]]
+[[Category:Authentication Approaches]]
+[[Category:Routers]]

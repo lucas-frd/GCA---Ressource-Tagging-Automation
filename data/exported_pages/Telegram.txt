@@ -1,0 +1,10 @@
+=Description=
+<br>
+Telegram is a cloud-based messaging and VoIP service founded by the Russian entrepreneur Pavel Durov in 2013. The organization is headquartered in Dubai, United Arab Emirates, with development centers in Germany and Russia. It boasts of over 400 million monthly active users and is available in more than 130 languages.
+
+The organization's mission is to provide a secure and reliable communication platform for people all over the world. Telegram offers its services on multiple devices, including smartphones, tablets, and desktop computers.
+<br>
+=More Information=
+<br>
+https://telegram.org/
+[[Category:Messaging apps]]

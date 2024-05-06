@@ -1,0 +1,8 @@
+=Description=
+<br>
+Zamna is a tool that allows you to find the best possible route between two locations, taking into account factors such as traffic and weather. It also allows you to share your route with others, and see how others have rated it.
+<br>
+=More Information=
+<br>
+https://www.zamna.com/
+[[Category:Biometric]]

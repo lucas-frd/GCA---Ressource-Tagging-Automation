@@ -1,0 +1,10 @@
+=Description=
+<br>
+Check Point is a global leader in providing web security solutions for remote users. Founded in 1993, Check Point has over 25 years of experience in the cybersecurity industry and serves clients in over 100 countries around the world. The company's mission is to provide organizations with comprehensive web security solutions to protect their networks, data, and end-user devices from evolving cyber threats.
+
+The company's web security solutions for remote users are designed to provide secure access to corporate networks and resources from any location.
+<br>
+=More Information=
+<br>
+https://www.checkpoint.com/products/
+[[Category:Remote Access]]

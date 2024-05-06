@@ -1,0 +1,9 @@
+=Description=
+<br>
+GCA assembled these resources about DMARC and a step-by-step DMARC Setup Guide, available in 18 languages, to help organizations of all sizes implement DMARC.
+<br>
+=More Information=
+<br>
+https://www.globalcyberalliance.org/dmarc/
+[[Category:CIS - 9 - Email and Web Browser Protections]]
+[[Category:All Businesses]]

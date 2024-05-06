@@ -1,0 +1,10 @@
+=Description=
+<br>
+Cloudflare is a cybersecurity company that provides a variety of services and solutions to protect websites and applications from online threats. The company was founded in 2009 and is headquartered in San Francisco, California. It operates as a global network of servers and data centers, providing its services to websites and applications all around the world.
+
+Cloudflare's main focus is on its web performance and security services, which are designed to help businesses of all sizes protect their online presence and improve the speed and reliability of their
+<br>
+=More Information=
+<br>
+https://www.cloudflare.com/
+[[Category:Websites & Applications]]

@@ -1,0 +1,8 @@
+=Description=
+<br>
+BioID is a iris-based biometric authentication Tool. It allows users to authenticate themselves using their irises, instead of their fingerprints. It is more accurate than fingerprint authentication, and it is also more secure because it is difficult to spoof an iris.
+<br>
+=More Information=
+<br>
+https://www.bioid.com/en/
+[[Category:Biometric]]

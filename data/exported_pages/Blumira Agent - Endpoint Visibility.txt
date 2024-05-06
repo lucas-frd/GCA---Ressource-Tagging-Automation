@@ -1,0 +1,12 @@
+=Description=
+<br>
+Blumira Agent is a security software developed by the cybersecurity organization, Blumira, based in Blumira. The product provides endpoint visibility and threat detection capabilities for businesses of all sizes, helping them stay protected against cyber threats.
+
+The Blumira Agent works by continuously monitoring endpoint devices such as laptops, desktops, servers, and mobile devices, for any suspicious activity. It collects and analyzes security data in real-time, providing users with a comprehensive view of their endpoint environment.
+
+One of
+<br>
+=More Information=
+<br>
+https://www.blumira.com/product/blumira-agent/
+[[Category:Endpoint Detection & Response (EDR)]]

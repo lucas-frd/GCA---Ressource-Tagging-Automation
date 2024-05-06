@@ -1,0 +1,9 @@
+=Description=
+<br>
+The tool Quad9 for Android is an open source tool that can be used to speed up your internet connection. It is available for free on Google Play. The main feature of this tool is that it can be used to improve your internet connection by optimizing your DNS settings. It is very easy to use and it can be used to improve your internet connection by up to 30%.
+<br>
+=More Information=
+<br>
+https://www.quad9.net/news/blog/quad9-connect-now-available-on-google-play/
+[[Category:Anti-virus & Anti-malware Software]]
+[[Category:Android]]

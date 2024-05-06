@@ -1,0 +1,10 @@
+=Description=
+<br>
+VMware ESXi Free is a bare-metal hypervisor that installs directly on to a server. It is a Type 1 hypervisor. Once installed, it can be used to create and run virtual machines on the same server.
+
+ESXi Free is a great choice for organizations that want to try out VMware virtualization or run a small virtualization environment. It is free to download and use, and does not require a license. However, it does have some limitations compared to the
+<br>
+=More Information=
+<br>
+https://www.vmware.com/products/esxi-and-esx.html
+[[Category:Anti-virus & Anti-malware Software]]

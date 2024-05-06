@@ -1,0 +1,8 @@
+=Description=
+<br>
+Innovatrics ABIS is an automated biometric identification system that uses fingerprint, iris, or face recognition to identify individuals. The system can be used for identity verification, background checks, or security purposes.
+<br>
+=More Information=
+<br>
+https://www.innovatrics.com/products/abis/
+[[Category:Biometric]]

@@ -1,0 +1,18 @@
+=Description=
+<br>
+1. Use a strong, unique password for each online account.
+
+2. Don’t use easily guessed words or personal information like your birthdate.
+
+3. Use a password manager to help you keep track of multiple passwords.
+
+4. Don’t click on links or open attachments in emails from people you don’t know.
+
+5. Be careful about what you share on social media.
+
+6. Use two-factor authentication
+<br>
+=More Information=
+<br>
+https://www.mcafee.com/learn/10-ways-to-protect-your-identity/
+[[Category:Online Identities]]

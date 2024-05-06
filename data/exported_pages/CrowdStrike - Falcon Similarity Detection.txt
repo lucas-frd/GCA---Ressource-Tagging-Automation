@@ -1,0 +1,10 @@
+=Description=
+<br>
+Falcon Similarity Detection is a product offered by CrowdStrike, a leading cybersecurity company based in Sunnyvale, California. The company provides a range of cybersecurity solutions designed to protect organizations from cyber threats, including data breaches, malware, and other cyber attacks.
+
+Falcon Similarity Detection is a part of the CrowdStrike Falcon platform, which is a cloud-based endpoint protection platform that combines next-generation antivirus, endpoint detection and response capabilities, and managed threat hunting in a single integrated solution. With Falcon Similar
+<br>
+=More Information=
+<br>
+https://www.crowdstrike.com/products/data-protection/
+[[Category:Data Loss Prevention (DLP)]]

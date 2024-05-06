@@ -1,0 +1,8 @@
+=Description=
+<br>
+The resource, 'What is a Centralized Exchange?' explores the buying and selling of various cryptocurrencies using commercially available cryptocurrency exchanges that maintain custody of your tokens while enabling you to trade, stake, and transfer them. This type of exchange uses a centralized platform, where all transactions and trades are processed through a single entity, rather than peer-to-peer transactions. This platform is owned and controlled by the exchange, rather than being decentralized and operated by individuals.
+<br>
+=More Information=
+<br>
+https://101blockchains.com/centralized-crypto-exchange/
+[[Category:Centralized Exchange (CEX) Account Protection]]

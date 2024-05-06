@@ -1,0 +1,12 @@
+=Description=
+<br>
+Posture Attribute Collection and Evaluation (PACE) is an Open Cybersecurity Alliance (OCA) project. Posture assessment generally consists of understanding, for a given computing resource (or set of computing resources), software load, composition of that
+<br>
+=More Information=
+<br>
+https://opencybersecurityalliance.org/
+[[Category:CIS - 10 - Malware Defenses]]
+[[Category:CIS - 13 - Network Monitoring and Defense]]
+[[Category:CIS - 17 - Incident Response Management]]
+[[Category:Developers and Development Organizations]]
+[[Category:Security Personnel]]

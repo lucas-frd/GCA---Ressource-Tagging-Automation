@@ -1,0 +1,10 @@
+=Description=
+<br>
+CloudGuard Posture Management is a cloud security solution offered by Check Point, a leading cybersecurity company founded in 1993 and headquartered in Israel. Check Point's primary focus is to provide comprehensive and innovative security solutions to protect organizations from cyber threats.
+
+CloudGuard Posture Management is designed to help organizations secure their cloud environments by providing real-time visibility, automated compliance checks, and threat prevention capabilities. The solution is specifically tailored to support various cloud providers such as Amazon Web Services (AWS), Microsoft Azure,
+<br>
+=More Information=
+<br>
+https://www.checkpoint.com/products/
+[[Category:Cloud Security]]

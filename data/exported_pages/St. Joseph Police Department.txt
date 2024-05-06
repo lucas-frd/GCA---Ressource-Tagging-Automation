@@ -1,0 +1,8 @@
+=Description=
+<br>
+The St. Joseph Police Department is a law enforcement agency in St. Joseph, Missouri responsible for investigating crimes and maintaining public safety.
+<br>
+=More Information=
+<br>
+https://www.stjosephmo.gov/607/Detectives
+[[Category:Missouri]]

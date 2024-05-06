@@ -1,0 +1,8 @@
+=Description=
+<br>
+IAM is a AWS tool that provides secure user management and access control for AWS resources. IAM users can be granted permissions to access AWS resources, such as EC2 instances, S3 buckets, and DynamoDB tables. IAM also allows for the creation of IAM roles, which can be used to delegate permissions to IAM users or to provide temporary access to AWS resources. IAM roles can be assigned to AWS resources, such as EC2 instances, to allow access to those
+<br>
+=More Information=
+<br>
+https://aws.amazon.com/iam/
+[[Category:Identity & Access Management (IAM)]]

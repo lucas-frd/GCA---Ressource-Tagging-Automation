@@ -1,0 +1,8 @@
+=Description=
+<br>
+WWPass Single Sign-on is a tool that allows users to login to websites and applications using their WWPass credentials. This eliminates the need for users to remember multiple usernames and passwords, and makes it easy for them to access the resources they need. Once users have logged in with their WWPass credentials, they can access any website or application that supports WWPass Single Sign-on. This tool is particularly useful for organizations that have multiple websites and applications that their employees need to access
+<br>
+=More Information=
+<br>
+https://www.wwpass.com/
+[[Category:Single Sign-On (SSO)]]

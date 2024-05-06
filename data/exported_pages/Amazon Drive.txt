@@ -1,0 +1,10 @@
+=Description=
+<br>
+Amazon Drive is an online cloud storage service provided by Amazon. It allows users to store their files, photos, and videos securely in the cloud, giving them easy access from any device with an internet connection.
+
+The organization is based in Amazon, a multinational technology company founded by Jeff Bezos in 1994. It is headquartered in Seattle, Washington, and has a global presence in over 17 countries.
+<br>
+=More Information=
+<br>
+https://www.amazon.com/clouddrive
+[[Category:Cloud storage]]

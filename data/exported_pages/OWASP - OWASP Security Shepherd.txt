@@ -1,0 +1,8 @@
+=Description=
+<br>
+Security Shepherd is an open-source web application security training platform. It is designed to provide a realistic hacking environment where users can test their hacking skills by trying to exploit various vulnerabilities in web applications. The platform contains a wide range of challenges, from basic to advanced, covering key web application security topics such as SQL injection, cross-site scripting, and session hijacking.
+<br>
+=More Information=
+<br>
+https://owasp.org/www-project-security-shepherd/
+[[Category:Developers and Development Organizations]]

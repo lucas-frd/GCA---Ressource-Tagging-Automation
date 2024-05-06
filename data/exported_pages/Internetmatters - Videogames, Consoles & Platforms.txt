@@ -1,0 +1,17 @@
+=Description=
+<br>
+This resource provides a list of step-by-step guides for setting up parental controls on various gaming consoles and platforms. Its purpose is to help parents ensure a safe and enjoyable gaming experience for their children. 
+  
+  The resource offers a range of how-to guides that cover popular devices, allowing parents to easily navigate and find instructions specific to their child's gaming setup. By following these guides, parents can set the appropriate level of protection to create a safe environment for their children while they play video games.
+  
+  The guides are designed to be user-friendly and provide clear instructions, making it easy for parents to understand and implement the necessary controls. Each guide focuses on a specific device, ensuring that parents can find the relevant information they need without any confusion.
+  
+  To access the guides, users can simply click on the desired device or platform, and they will be directed to a step-by-step guide that outlines the process of setting up parental controls. This resource aims to empower parents with the knowledge and tools they need to protect their children from potentially harmful content or excessive gaming.
+  
+  Overall, this resource serves as a valuable tool for parents who want to ensure a safe and responsible gaming experience for their children. By following the provided guides, parents can set up the appropriate controls on gaming consoles and platforms, allowing their children to enjoy video games while maintaining a safe environment.
+<br>
+=More Information=
+<br>
+https://www.internetmatters.org/parental-controls/gaming-consoles/
+[[Category:Gaming Consoles]]
+[[Category:Understanding Parental Controls]]

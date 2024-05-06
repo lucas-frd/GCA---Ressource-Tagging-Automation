@@ -1,0 +1,8 @@
+=Description=
+<br>
+The City of Alexandria organization is responsible for overseeing the Technical Investigations Section within the Police Department's Criminal Investigations Division.
+<br>
+=More Information=
+<br>
+https://www.alexandriava.gov/police-department/criminal-investigation-division#TechnicalInvestigationsSection
+[[Category:Virginia]]

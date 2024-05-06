@@ -1,0 +1,9 @@
+=Description=
+<br>
+The tool telnet is a network protocol that enables two computers to communicate with each other. It uses a virtual terminal interface to allow users to access remote computers. Telnet provides a means for users to remotely control another computer, typically a server. Telnet is also used to connect to systems on the Internet, such as email servers and website servers.
+<br>
+=More Information=
+<br>
+https://en.wikipedia.org/wiki/Telnet
+[[Category:Incident Reporting & Recovery]]
+[[Category:Configuration Management]]

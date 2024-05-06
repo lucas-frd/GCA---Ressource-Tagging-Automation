@@ -1,0 +1,12 @@
+=Description=
+<br>
+Account Protector is an innovative security solution offered by Akamai, a leading global content delivery network (CDN) and cloud services provider. It is designed to protect businesses and their customers from the increasing threat of account takeover attacks.
+
+Organizations are facing a growing number of account takeover attacks, where hackers use stolen credentials to gain unauthorized access to user accounts. This can lead to financial losses, damage to reputation, and loss of customer trust. Account Protector aims to prevent these attacks by providing robust security
+<br>
+=More Information=
+<br>
+https://www.akamai.com/products/account-protector
+[[Category:Account Takeover Protection]]
+[[Category:Behavioral Analytics]]
+[[Category:Risk Scoring & Monitoring]]

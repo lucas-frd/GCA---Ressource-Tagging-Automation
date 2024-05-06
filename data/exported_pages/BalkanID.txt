@@ -1,0 +1,8 @@
+=Description=
+<br>
+BalkanID is a tool that allows users to search for and identify Balkan dialects. Users can search for specific words or phrases, and the results are displayed on a map. The tool also includes a dictionary of Balkan words and phrases, as well as a forum for users to discuss Balkan language and culture.
+<br>
+=More Information=
+<br>
+https://www.balkanid.com/
+[[Category:User Provisioning & Governance]]

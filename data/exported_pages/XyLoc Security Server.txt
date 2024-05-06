@@ -1,0 +1,8 @@
+=Description=
+<br>
+XyLoc is a security server that helps protect your online accounts and sensitive information. It does this by allowing you to create strong, unique passwords for each of your accounts and then storing them in a secure, encrypted database. When you need to log into one of your accounts, XyLoc will automatically fill in the correct password for you. All you need to remember is your master password, which gives you access to all of your other passwords. XyLoc also includes a number of
+<br>
+=More Information=
+<br>
+https://www.xyloc.com/security-server/
+[[Category:Two-Factor & Multi-Factor Authentication]]

@@ -1,0 +1,8 @@
+=Description=
+<br>
+Optimal IdM is an Amazon Cognito user identity and data synchronization service that helps developers track and maintain user data across devices. It provides a consistent, user-centric experience by allowing developers to access and query user data from a central location. developers can use Optimal IdM to create and manage user identities, synchronize user data across devices, and track user activity.
+<br>
+=More Information=
+<br>
+https://aws.amazon.com/cognito/
+[[Category:Single Sign-On (SSO)]]

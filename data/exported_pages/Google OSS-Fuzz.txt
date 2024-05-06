@@ -1,0 +1,9 @@
+=Description=
+<br>
+Google OSS-Fuzz is a free and open-source fuzzing platform that can be used to find security vulnerabilities in software. Fuzzing is a type of testing that involves providing invalid or unexpected input to a program in order to find crashes or other bugs. Google OSS-Fuzz consists of a number of tools and libraries that can be used to create fuzzers, which are programs that generate random inputs for testing. The platform also includes a number of ready-made fuzz
+<br>
+=More Information=
+<br>
+https://google.github.io/oss-fuzz/
+[[Category:Security Testing & Auditing]]
+[[Category:Attack & Penetration Testing]]

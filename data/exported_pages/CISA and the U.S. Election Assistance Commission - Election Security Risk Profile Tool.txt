@@ -1,0 +1,14 @@
+=Description=
+<br>
+The Election Security Risk Profile Tool is an online questionnaire that election officials can use to assess the security risks associated with their election systems. The tool was developed by the Cybersecurity and Infrastructure Security Agency (CISA) and the U.S. Election Assistance Commission (EAC).
+
+The questionnaire is divided into three sections: election infrastructure, cyber security, and physical security. For each section, officials are asked to answer a series of questions about their practices and procedures. Based on their responses
+<br>
+=More Information=
+<br>
+https://www.eac.gov/app/esa/
+[[Category:Risk Reduction]]
+[[Category:Voters]]
+[[Category:Risks & Threats]]
+[[Category:Election Officials & Organizations]]
+[[Category:Risk Self-Assessment]]

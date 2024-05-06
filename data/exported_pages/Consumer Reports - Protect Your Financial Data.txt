@@ -1,0 +1,9 @@
+=Description=
+<br>
+This tool is designed to help users protect their financial data from being stolen. It provides tips on how to keep your information safe, how to spot signs that your information has been compromised, and what to do if your information is stolen. It also includes a checklist of steps to take to protect your financial data.
+<br>
+=More Information=
+<br>
+https://securityplanner.consumerreports.org/tool/protect-your-financial-data
+[[Category:Financial]]
+[[Category:Protecting You & Your Childs Personal Information]]

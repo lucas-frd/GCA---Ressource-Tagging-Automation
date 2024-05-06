@@ -1,0 +1,8 @@
+=Description=
+<br>
+The Sacramento Valley Hi-Tech Crimes Force is a specialized law enforcement unit that investigates and combats high-tech crimes in the Sacramento Valley area.
+<br>
+=More Information=
+<br>
+https://sacvalleyhitech.com/
+[[Category:California]]

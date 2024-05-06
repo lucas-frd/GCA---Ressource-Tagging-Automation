@@ -1,0 +1,10 @@
+=Description=
+<br>
+Broadcom BeyondTrust PowerBroker for Windows is a security software solution designed to protect corporate networks, servers, and desktops from cyber threats. It is part of Broadcom's wide range of cybersecurity products and services, which aim to provide comprehensive protection for organizations against cyber attacks.
+
+Based in Broadcom, a global technology company headquartered in San Jose, California, BeyondTrust PowerBroker has a strong reputation in the industry for its advanced security features and capabilities. Broadcom, through its acquisition of Symantec's Enterprise
+<br>
+=More Information=
+<br>
+https://www.broadcom.com/products#cybersecurity
+[[Category:Privileged Access Management (PAM)]]

@@ -1,0 +1,10 @@
+=Description=
+<br>
+CrowdStrike Managed Threat Hunting is a service offered by CrowdStrike, a leading provider of cloud-delivered endpoint protection. The organization is focused on proactively detecting and responding to advanced cyber threats, including persistent and emerging threats that traditional security solutions may miss.
+
+This service works in conjunction with the CrowdStrike Falcon platform, which leverages artificial intelligence and machine learning to continuously monitor and protect endpoints, both in the cloud and on-premises. The Managed Threat Hunting team is comprised of experienced security professionals
+<br>
+=More Information=
+<br>
+https://www.crowdstrike.com/services/managed-services/falcon-overwatch-threat-hunting/
+[[Category:Managed Security Service Providers (MSSPs)]]

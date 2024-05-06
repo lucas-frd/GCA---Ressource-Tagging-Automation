@@ -1,0 +1,10 @@
+=Description=
+<br>
+Lightspeed Systems is a comprehensive internet security and compliance solution for K-12 school districts. It provides filtering, monitoring, and reporting capabilities to keep students safe online and help districts comply with state and federal student data privacy laws. The solution includes a web-based console for administrators, a content filtering and security agent for district-owned devices, and a mobile app for student-owned devices. It also offers a wide range of customization and integration options to meet the unique needs of each district
+<br>
+=More Information=
+<br>
+https://www.lightspeedsystems.com/security-compliance/student-data-privacy/
+[[Category:Student Data Protection]]
+[[Category:Protecting Sensitive Sudent Information]]
+[[Category:Vulnerability Management]]

@@ -1,0 +1,9 @@
+=Description=
+<br>
+PortalGuard is a password management and authentication tool that helps organizations improve their security posture by protecting against password-related attacks. PortalGuard provides a central repository for storing and managing passwords, as well as a set of tools for authenticating users and granting them access to specific resources. It offers a variety of features, including the ability to set up strong password policies, enforce two-factor authentication, and monitor activity for suspicious behavior. PortalGuard also includes a self-service password reset function to
+<br>
+=More Information=
+<br>
+https://www.portalguard.com/
+[[Category:Single Sign-On (SSO)]]
+[[Category:Two-Factor & Multi-Factor Authentication]]

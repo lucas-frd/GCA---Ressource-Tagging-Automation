@@ -1,0 +1,8 @@
+=Description=
+<br>
+U.S. laws that regulate the collection, use, and disclosure of personal information by the federal government.
+<br>
+=More Information=
+<br>
+https://www.dol.gov/general/privacy
+[[Category:United States]]

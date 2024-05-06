@@ -1,0 +1,8 @@
+=Description=
+<br>
+GateKeeper Proximity Authentication is a tool that uses the GateKeeper Token to authenticate a user's identity. The user's identity is verified by the GateKeeper server and the user is granted access to the requested resource.
+<br>
+=More Information=
+<br>
+https://www.gatekeeper.com/
+[[Category:Two-Factor & Multi-Factor Authentication]]

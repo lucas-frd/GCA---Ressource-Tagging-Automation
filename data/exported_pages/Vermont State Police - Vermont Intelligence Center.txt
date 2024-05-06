@@ -1,0 +1,8 @@
+=Description=
+<br>
+The Vermont State Police - Vermont Intelligence Center is a law enforcement organization focused on collecting, analyzing, and disseminating intelligence to support the state's police agencies in their efforts to combat crime and keep the community safe.
+<br>
+=More Information=
+<br>
+http://vsp.vermont.gov/criminal/vic
+[[Category:Vermont]]

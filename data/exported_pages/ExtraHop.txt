@@ -1,0 +1,12 @@
+=Description=
+<br>
+ExtraHop is a Seattle-based technology company that specializes in network security and performance monitoring solutions. The company was founded in 2007 by Jesse Rothstein and Raja Mukerji, and has since grown into a leading provider of real-time analytics and visibility for enterprise networks.
+
+ExtraHop's main product is its cloud-native platform, which enables real-time monitoring and analysis of network data, providing organizations with valuable insights and actionable intelligence to improve network performance and security. The platform uses machine learning and artificial
+<br>
+=More Information=
+<br>
+https://www.extrahop.com/
+[[Category:Intrusion Detection & Prevention Systems (IDPS)]]
+[[Category:Zero Trust]]
+[[Category:Cloud Security]]

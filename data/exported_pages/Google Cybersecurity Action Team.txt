@@ -1,0 +1,10 @@
+=Description=
+<br>
+The Google Cybersecurity Action Team (G-CAT) is a division of Google that is responsible for finding and responding to security threats. The team uses a variety of tools to find and track security issues, including a database of known security vulnerabilities. The team also develops new tools and technologies to help protect Google users from security threats.
+<br>
+=More Information=
+<br>
+https://cloud.google.com/security/gcat
+[[Category:Understanding Your Risks]]
+[[Category:Understanding Relevant Threats]]
+[[Category:Security Policies, Procedures, and Guidelines]]

@@ -1,0 +1,8 @@
+=Description=
+<br>
+The Massachusetts Attorney General - Cyber Crime Division is a department dedicated to investigating, preventing, and prosecuting cyber crimes in the state.
+<br>
+=More Information=
+<br>
+http://mass.gov/ago/bureaus/criminal/emcc/the-cyber-crime-division/
+[[Category:Massachusetts]]

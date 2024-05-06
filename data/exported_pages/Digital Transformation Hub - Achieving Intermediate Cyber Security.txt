@@ -1,0 +1,9 @@
+=Description=
+<br>
+The Achieving Intermediate Cyber Security is a tool that was created by the Australian Government’s Digital Transformation Agency. The tool is designed to help organisations assess their current state of cybersecurity and identify gaps that need to be addressed in order to improve their cybersecurity posture. The tool contains a range of resources, including a cybersecurity self-assessment checklist, guidance on how to develop a cybersecurity strategy, and information on how to implement cybersecurity controls. The Achieving Intermediate Cyber Security tool is a
+<br>
+=More Information=
+<br>
+https://digitaltransformation.org.au/guides/cyber-security/achieving-intermediate-cyber-security
+[[Category:Nonprofits & Charities]]
+[[Category:Small & Medium Sized Businesses]]

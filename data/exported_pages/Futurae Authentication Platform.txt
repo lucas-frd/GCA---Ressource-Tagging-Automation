@@ -1,0 +1,8 @@
+=Description=
+<br>
+The Futurae Authentication Platform is a tool that uses a combination of hardware and software to provide a secure way to authenticate users. The hardware includes a fingerprint reader and a camera, while the software uses a variety of algorithms to identify the user. The platform is designed to be used by businesses that want to provide a secure authentication system for their employees.
+<br>
+=More Information=
+<br>
+https://www.futurae.com/
+[[Category:Two-Factor & Multi-Factor Authentication]]

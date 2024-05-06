@@ -1,0 +1,9 @@
+=Description=
+<br>
+Workspace ONE is a tool that helps manage and monitor virtual desktop and mobile devices. It provides a central location to view device information, monitor performance and usage, and manage settings and applications. Additionally, it can help troubleshoot issues and track changes over time.
+<br>
+=More Information=
+<br>
+https://www.vmware.com/products/workspace-one.html
+[[Category:Single Sign-On (SSO)]]
+[[Category:Two-Factor & Multi-Factor Authentication]]

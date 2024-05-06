@@ -1,0 +1,8 @@
+=Description=
+<br>
+USAID (United States Agency for International Development) is an independent agency of the United States government responsible for providing economic and humanitarian assistance to countries around the world. As part of its efforts to promote digital development, USAID has a dedicated Cybersecurity Team focused on addressing cyber threats and promoting a secure and resilient digital environment.
+<br>
+=More Information=
+<br>
+https://www.usaid.gov/digital-development/cybersecurity
+[[Category:Risks & Threats]]

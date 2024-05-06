@@ -1,0 +1,8 @@
+=Description=
+<br>
+How to prepare for, respond to, and recover from a ransomware attack
+<br>
+=More Information=
+<br>
+https://cyberreadinessinstitute.org/resource/ransomware-playbook/
+[[Category:Small & Medium Sized Businesses]]

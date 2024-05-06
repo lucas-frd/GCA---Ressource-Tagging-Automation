@@ -1,0 +1,8 @@
+=Description=
+<br>
+Boku is a 3D printing company that uses a proprietary process to create objects from a digital design. The company offers a range of services, including 3D printing, finishing, and shipping. Boku also provides an online marketplace where users can buy and sell 3D-printed objects. Boku Authenticate is a tool that allows users to verify the authenticity of a 3D-printed object. The tool uses a combination of physical and digital authentication methods to verify the object's authenticity.
+<br>
+=More Information=
+<br>
+https://www.boku.com/authenticate/
+[[Category:Two-Factor & Multi-Factor Authentication]]

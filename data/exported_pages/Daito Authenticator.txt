@@ -1,0 +1,8 @@
+=Description=
+<br>
+Daito is a two-factor authentication app that offers a variety of features to keep your account safe. It generates a unique code every 30 seconds, so even if someone steals your password, they will not be able to access your account. You can also set up a fingerprint or Face ID for additional security. In addition, Daito offers a lost phone feature, which allows you to remotely disable access to your account if your phone is lost or stolen.
+<br>
+=More Information=
+<br>
+https://www.daito-digital.com/authenticator/
+[[Category:Two-Factor & Multi-Factor Authentication]]

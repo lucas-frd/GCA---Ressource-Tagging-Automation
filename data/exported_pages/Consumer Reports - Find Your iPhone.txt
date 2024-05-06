@@ -1,0 +1,13 @@
+=Description=
+<br>
+Most people are aware of the “Find My iPhone” feature on their iPhones, which allows them to track their device if it is lost or stolen. However, not everyone knows that there is also a “Find My iPhone” website that can be used to locate a lost or stolen device. The “Find Your iPhone” tool on the Consumer Reports website can be used to find a lost or stolen iPhone. The tool uses the iPhone’s GPS to
+<br>
+=More Information=
+<br>
+https://securityplanner.consumerreports.org/tool/find-your-iphone
+[[Category:Know What You Have - Create an Inventory]]
+[[Category:Incident Reporting & Response]]
+[[Category:Emergency Response and Planning]]
+[[Category:Smart Phones]]
+[[Category:iOS Devices]]
+[[Category:Making an Incident Response Plan]]

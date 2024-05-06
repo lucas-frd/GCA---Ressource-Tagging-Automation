@@ -1,0 +1,9 @@
+=Description=
+<br>
+The Phishing Education Landing Page replaces phishing pages with a redirect that sends users to a page of online safety and security instructions when they click on phishing URLs – instead of a confusing 404 message. The APWG launched the program in 200
+<br>
+=More Information=
+<br>
+https://ecrimeresearch.org/education-landing-page/
+[[Category:CIS - 14 - Security Awareness and Skills Training]]
+[[Category:Content Providers]]

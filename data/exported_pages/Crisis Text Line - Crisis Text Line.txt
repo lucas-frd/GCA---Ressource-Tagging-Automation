@@ -1,0 +1,14 @@
+=Description=
+<br>
+This resource offers a crisis support service that can be accessed by texting the word HOME to a designated number. The purpose of this service is to provide free, 24/7 support to individuals in need. The main feature of this resource is the ability to connect with a volunteer Crisis Counselor who can offer assistance and guidance during difficult times.
+ 
+ The service is available internationally, with additional support options provided for those outside the country. The resource provides an example exchange between a texter and a Crisis Counselor to illustrate the type of assistance that can be expected.
+ 
+ In the example exchange, the Crisis Counselor acknowledges the texter's feelings of depression and offers to help them develop strategies to manage their negative thoughts. The texter expresses the benefit of talking about their feelings and finding ways to think more positively. The Crisis Counselor empathizes with the texter's situation, recognizing that they have been dealing with depression for some time.
+ 
+ Overall, this resource aims to provide accessible and immediate support to individuals in crisis. By utilizing text messaging, it offers a convenient and discreet way for individuals to reach out for help. The service connects individuals with trained volunteers who can provide emotional support and assist in developing coping mechanisms.
+<br>
+=More Information=
+<br>
+https://www.crisistextline.org/
+[[Category:Hotlines & Services]]

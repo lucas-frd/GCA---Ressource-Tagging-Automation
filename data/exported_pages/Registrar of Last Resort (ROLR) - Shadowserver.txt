@@ -1,0 +1,9 @@
+=Description=
+<br>
+Shadowserver operates ROLR, a registrar of malicious domains - enabling registration of malicious domains that need to be blocked or sinkholed, thus ensuring protection of users (Public)
+<br>
+=More Information=
+<br>
+https://www.rolr.eu/
+[[Category:Law Enforcement]]
+[[Category:National CERTs]]

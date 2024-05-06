@@ -1,0 +1,8 @@
+=Description=
+<br>
+The MULTIVERSA Protocol facilitates the creation of a new, decentralized economy by providing a platform for businesses and individuals to transact without the need for intermediaries. The protocol does this by creating a token that can be used to purchase goods and services from participating businesses. The MULTIVERSA Protocol is designed to be used by businesses of all sizes, from small businesses to large enterprise. The protocol is based on the ERC20 standard and is compatible with existing Ethereum wallets. The MULT
+<br>
+=More Information=
+<br>
+https://multiversaprotocol.com/
+[[Category:Two-Factor & Multi-Factor Authentication]]

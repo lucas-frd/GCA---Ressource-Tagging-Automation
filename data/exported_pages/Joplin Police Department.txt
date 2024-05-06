@@ -1,0 +1,8 @@
+=Description=
+<br>
+The Joplin Police Department is a law enforcement organization that works to investigate and combat cyber crimes in the city of Joplin, Missouri.
+<br>
+=More Information=
+<br>
+https://joplinmo.org/657/Cyber-Crimes-Task-Force
+[[Category:Missouri]]

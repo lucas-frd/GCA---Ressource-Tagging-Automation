@@ -1,0 +1,8 @@
+=Description=
+<br>
+The Seattle Police Department is a law enforcement agency dedicated to protecting the community and combating internet crimes against children.
+<br>
+=More Information=
+<br>
+https://www.seattle.gov/police/about-us/about-policing/icac
+[[Category:Washington]]

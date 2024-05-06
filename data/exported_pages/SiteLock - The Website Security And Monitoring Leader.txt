@@ -1,0 +1,8 @@
+=Description=
+<br>
+This resource is a website security solution that aims to automatically detect and resolve security threats for your website. Its main purpose is to protect your website, reputation, and visitors from cyber threats. The tool offers different plans to prevent cyber attacks, with options to pay monthly or annually. If you choose to pay annually, you will receive two months free. The Basic plan is designed for budget-conscious websites that require basic scanning and backup features. It requires a minimum 12-month commitment and costs $0 per month. Additionally, if you opt for the annual payment, you will receive two months free. The tool offers a risk-free trial period of 30 days for this plan. The Pro plan is recommended for websites with a high volume of traffic that need an extra layer of protection. Similar to the Basic plan, it requires a minimum 12-month commitment. However, the Pro plan's pricing and specific features are not mentioned in the provided information. Overall, this resource provides website owners with an automated security solution to safeguard their websites against cyber threats. It offers different plans tailored to the specific needs and budget of the website, with options for basic scanning and backup or enhanced protection for high-traffic sites.
+<br>
+=More Information=
+<br>
+https://www.sitelock.com/
+[[Category:Website]]

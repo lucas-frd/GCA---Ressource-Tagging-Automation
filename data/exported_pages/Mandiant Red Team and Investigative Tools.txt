@@ -1,0 +1,9 @@
+=Description=
+<br>
+Mandiant's Red Team and Investigative Tools is a GitHub repository that hosts a collection of open source tools developed by Mandiant for investigations and red teaming exercises. The tools are designed to help investigators gather data, perform analysis, and conduct reporting. The repository includes tools for data collection, analysis, and reporting; for host and network analysis; and for malware analysis.
+<br>
+=More Information=
+<br>
+https://github.com/Mandiant
+[[Category:Threat & Vulnerability Management]]
+[[Category:Incident Reporting & Recovery]]

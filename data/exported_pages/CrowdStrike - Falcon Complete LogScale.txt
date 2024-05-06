@@ -1,0 +1,10 @@
+=Description=
+<br>
+Falcon Complete LogScale is a product offered by CrowdStrike, a leading provider of cloud-delivered endpoint and workload protection. Based in Sunnyvale, California, CrowdStrike was founded in 2011 by George Kurtz and Dmitri Alperovitch.
+
+CrowdStrike's platform is built on the belief that the traditional approach to cybersecurity is no longer effective against the rapidly evolving threat landscape. Their cloud-native solution combines advanced endpoint protection, threat intelligence, and 24/7 managed hunting to
+<br>
+=More Information=
+<br>
+https://www.crowdstrike.com/products/next-gen-siem/
+[[Category:Security Information & Event Management (SIEM)]]

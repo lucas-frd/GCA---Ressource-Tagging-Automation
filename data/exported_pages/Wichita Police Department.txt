@@ -1,0 +1,8 @@
+=Description=
+<br>
+The Wichita Police Department is responsible for investigating and preventing burglary and financial crimes within the city of Wichita.
+<br>
+=More Information=
+<br>
+https://www.wichita.gov/913/Burglary-Financial-Crimes
+[[Category:Kansas]]

@@ -1,0 +1,8 @@
+=Description=
+<br>
+Action against Cybercrime (A-Cy) is a project launched by the Council of Europe in September 2020, with the aim of developing and implementing strategies to combat cybercrime and protect human rights in the digital environment. It is part of the wider Cybercrime Programme of the Council of Europe, which has been in operation since 2001 and is internationally recognized as a leading authority on cybercrime.
+<br>
+=More Information=
+<br>
+https://www.coe.int/en/web/cybercrime/resources
+[[Category:Legal Considerations]]

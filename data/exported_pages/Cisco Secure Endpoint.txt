@@ -1,0 +1,10 @@
+=Description=
+<br>
+Cisco Secure Endpoint is an organization within Cisco, a multinational technology conglomerate based in Silicon Valley, California. Cisco is a global leader in networking and IT infrastructure, providing expertise to companies and organizations around the world. With a comprehensive portfolio of security solutions, Cisco is committed to providing reliable and advanced security technology to help organizations protect their digital assets.
+
+Cisco Secure Endpoint offers advanced endpoint protection solutions to protect devices and endpoints across an organization's network. Its primary goal is to safeguard endpoints against cyberattacks and data
+<br>
+=More Information=
+<br>
+https://www.cisco.com/site/us/en/products/security/all-products.html
+[[Category:Endpoint Detection & Response (EDR)]]

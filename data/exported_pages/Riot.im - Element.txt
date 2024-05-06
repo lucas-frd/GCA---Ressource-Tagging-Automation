@@ -1,0 +1,10 @@
+=Description=
+<br>
+Riot.im is an open-source, privacy-focused communication platform that provides secure messaging, audio and video calls, and file sharing capabilities. It is the flagship product of the Matrix.org Foundation, a non-profit organization that supports the development and adoption of decentralized communication protocols.
+
+At its core, Riot.im is designed to facilitate collaboration and communication between individuals and teams, with a heavy emphasis on security and privacy. This is achieved through the use of end-to-end encryption, allowing parties to communicate without compromising their privacy.
+<br>
+=More Information=
+<br>
+https://riot.im/app/
+[[Category:Messaging apps]]

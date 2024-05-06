@@ -1,0 +1,8 @@
+=Description=
+<br>
+Authentiq is a tool that allows users to authenticate themselves and access online services in a secure and convenient way. It uses a unique ID number that is assigned to each user, and a password that is known only to the user. This allows users to access their account from any computer or mobile device, without having to remember multiple passwords. Authentiq is a free service, and it is available to anyone who wishes to use it.
+<br>
+=More Information=
+<br>
+https://www.authentiq.com/
+[[Category:Two-Factor & Multi-Factor Authentication]]

@@ -1,0 +1,8 @@
+=Description=
+<br>
+The Maine State Policy organization is a unit within the Department of Public Safety responsible for investigating computer crimes in the state of Maine.
+<br>
+=More Information=
+<br>
+https://www.maine.gov/dps/msp/investigation-traffic/computer-crimes-unit
+[[Category:Maine]]

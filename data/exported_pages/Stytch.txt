@@ -1,0 +1,9 @@
+=Description=
+<br>
+The Stytch is a tool designed to help people improve their style and choices in clothing. It allows users to select from a range of different styles and then see how these styles would look on them. The Stytch also provides advice on how to improve one's style, including what colors and shapes look best on different body types.
+<br>
+=More Information=
+<br>
+https://stytch.com/
+[[Category:Single Sign-On (SSO)]]
+[[Category:Two-Factor & Multi-Factor Authentication]]

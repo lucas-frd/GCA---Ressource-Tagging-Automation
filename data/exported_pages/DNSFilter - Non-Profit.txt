@@ -1,0 +1,14 @@
+=Description=
+<br>
+This resource is a powerful DNS filter designed specifically for 501c3 or publicly funded organizations. Its main purpose is to protect employees from malicious internet attacks and filter content viewed on the network. 
+ 
+One of the key features of this tool is its ability to protect every device, anywhere. Whether employees are working in the office or remotely, this DNS filter ensures that all devices are safeguarded. It offers off-network protection, meaning that even when employees are using company-issued devices at home or outside the office, they can still benefit from the security measures provided by the filter. 
+ 
+The tool is user-friendly and can be easily installed either manually or via Mobile Device Management (MDM). It does not require a VPN connection, making it convenient for employees to use without any additional setup. 
+ 
+By implementing this DNS filter, organizations can enhance their cybersecurity measures and create a safer browsing environment for their employees. It helps to mitigate the risk of malicious attacks and ensures that inappropriate or harmful content is filtered out, promoting a more secure and productive work environment.
+<br>
+=More Information=
+<br>
+https://www.dnsfilter.com/industry/non-profit
+[[Category:DNS]]

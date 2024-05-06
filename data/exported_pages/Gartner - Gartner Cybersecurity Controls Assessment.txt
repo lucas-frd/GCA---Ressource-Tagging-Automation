@@ -1,0 +1,19 @@
+=Description=
+<br>
+This resource, the Gartner Cybersecurity Controls Assessment (CCA), provides cybersecurity leaders with a tool to measure the maturity of controls implementation in their organizations. The CCA allows users to assess their cybersecurity program against industry-recognized frameworks and standards, helping them evaluate the defensibility of their program.
+ 
+ With the CCA, users can benchmark their organization's performance and access benchmarks specific to their industry and risk exposure. This allows them to gain insights into how their controls implementation maturity compares to their peers. Armed with this information, cybersecurity leaders can effectively defend their program's performance to stakeholders, highlighting areas of strength and identifying opportunities for improvement.
+ 
+ One notable feature of the CCA is that it is available to Gartner clients at no additional cost. This makes it a valuable resource for organizations looking to enhance their cybersecurity posture without incurring extra expenses. By leveraging recognized frameworks and standards, the CCA provides a comprehensive assessment that can help organizations identify gaps in their controls implementation and prioritize their cybersecurity efforts.
+ 
+ In summary, the Gartner Cybersecurity Controls Assessment is a tool that enables cybersecurity leaders to evaluate the maturity of controls implementation in their organizations. By benchmarking their performance, understanding their peers' maturity levels, and defending their program's performance to stakeholders, users can enhance their cybersecurity program and better protect their organization's assets.
+<br>
+=More Information=
+<br>
+https://www.gartner.com/en/cybersecurity/research/cybersecurity-controls-assessment
+[[Category:Risk Reduction]]
+[[Category:Risks & Threats]]
+[[Category:Security Testing & Auditing]]
+[[Category:Risk Self-Assessment]]
+[[Category:Systems, Devices, Applications, and Services]]
+[[Category:Understanding Relevant Threats]]

@@ -1,0 +1,18 @@
+=Description=
+<br>
+This resource provides instructions on how to update macOS on a Mac computer. The main feature of this resource is the use of Software Update to install updates and upgrades for macOS and its built-in apps, including Safari. 
+  
+  To begin, it is recommended to back up your Mac before installing new software. If you have an external storage device, you can use it for this purpose. 
+  
+  To check for new software updates, you can open Software Update. This can be done by accessing System Settings (or System Preferences) from the Apple menu Ã¯Â£Â¿ in the corner of your screen. Once in System Settings, click on General on the left-hand side of the window, and then click on Software Update on the right. 
+  
+  By following these steps, users can ensure that their Mac is up to date with the latest software and security enhancements. Regularly updating macOS and its built-in apps is important for maintaining system performance, compatibility, and security. 
+  
+  Overall, this resource provides a straightforward guide on how to update macOS using Software Update, emphasizing the importance of backing up data before installing new software.
+<br>
+=More Information=
+<br>
+https://support.apple.com/en-gb/HT201541
+[[Category:MacOS]]
+[[Category:Device & Operating System Updates]]
+[[Category:Computers (Laptops & Desktops)]]

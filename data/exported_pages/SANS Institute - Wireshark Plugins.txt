@@ -1,0 +1,9 @@
+=Description=
+<br>
+The Wireshark Plugins site is a SANS Institute tool for capturing and analyzing packets. It can be used to troubleshoot network problems, assess network security, and much more. The site offers a variety of plugins to extend the functionality of Wireshark, as well as a user forum and other resources.
+<br>
+=More Information=
+<br>
+https://www.wireshark.org/
+[[Category:Threat & Vulnerability Management]]
+[[Category:Security Information & Event Management (SIEM)]]

@@ -1,0 +1,8 @@
+=Description=
+<br>
+This tool, Nagios Network Analyzer, is designed to provide comprehensive network analysis and monitoring for IT infrastructure. It offers features such as netflow analysis, monitoring, and bandwidth utilization software. The main purpose of Network Analyzer is to give system administrators a detailed understanding of network traffic sources and potential security threats. It allows them to gather both high-level information about the overall health of the network and highly granular data for thorough analysis. One of the key features of Network Analyzer is its intuitive design. It offers a powerful web interface that is easy to navigate and use. This ensures that users can quickly access the information they need without any unnecessary complexity. Additionally, Network Analyzer is known for its optimal performance. It is designed to deliver efficient and reliable network analysis, ensuring that system administrators can effectively monitor and manage their IT infrastructure. Overall, Nagios Network Analyzer serves as a reliable and comprehensive tool for network analysis and monitoring. Its netflow analysis capabilities, intuitive design, and optimal performance make it a valuable resource for system administrators seeking to gain insights into their network's health and security.
+<br>
+=More Information=
+<br>
+https://www.nagios.com/products/nagios-network-analyzer/
+[[Category:Controlling Access & Authentication]]

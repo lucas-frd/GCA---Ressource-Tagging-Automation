@@ -1,0 +1,8 @@
+=Description=
+<br>
+The Las Vegas Metropolitan Police Department is a law enforcement agency serving the city of Las Vegas and surrounding areas, committed to protecting and serving the community through collaborative partnerships and innovative policing methods.
+<br>
+=More Information=
+<br>
+https://www.lvmpd.com/
+[[Category:Nevada]]

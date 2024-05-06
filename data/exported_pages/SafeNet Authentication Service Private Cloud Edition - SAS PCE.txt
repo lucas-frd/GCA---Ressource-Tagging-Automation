@@ -1,0 +1,8 @@
+=Description=
+<br>
+SafeNet Authentication Service Private Cloud Edition - SAS PCE is a SafeNet virtual private cloud-based authentication solution that simplifies and secures user access to applications and resources. It is a cost-effective, flexible, and scalable solution that supports multiple authentication factors, including strong two-factor and multi-factor authentication. With SAS PCE, organizations can quickly and easily deploy SafeNet authentication solutions in their private cloud environments.
+<br>
+=More Information=
+<br>
+https://www.safenet.com/en/authentication-service/
+[[Category:Two-Factor & Multi-Factor Authentication]]

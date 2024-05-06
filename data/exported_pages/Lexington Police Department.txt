@@ -1,0 +1,8 @@
+=Description=
+<br>
+The Lexington Police Department is a law enforcement agency that tackles financial crimes within the city of Lexington, Kentucky.
+<br>
+=More Information=
+<br>
+https://www.lexingtonky.gov/financial-crimes
+[[Category:Kentucky]]

@@ -1,0 +1,8 @@
+=Description=
+<br>
+The Circleville Police Department is a law enforcement agency dedicated to protecting and serving the community of Circleville, Ohio through proactive policing, crime prevention, and community engagement.
+<br>
+=More Information=
+<br>
+https://circlevilleoh.gov/police-site/
+[[Category:Ohio]]

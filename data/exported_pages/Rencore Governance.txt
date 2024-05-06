@@ -1,0 +1,8 @@
+=Description=
+<br>
+Rencore Governance is a tool that helps teams manage and control access to their Azure resources. Rencore Governance provides a central point of control for granting and revoking access to Azure resources, as well as for tracking activity and auditing changes. Rencore Governance also simplifies the process of onboarding new team members by providing a self-service portal for requesting access to Azure resources.
+<br>
+=More Information=
+<br>
+https://rencore.io/
+[[Category:User Provisioning & Governance]]

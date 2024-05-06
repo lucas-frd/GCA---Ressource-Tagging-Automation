@@ -1,0 +1,8 @@
+=Description=
+<br>
+PingOne can be used to help manage and protect digital identities. It can help organisations to securely connect people, devices and applications. PingOne can also be used to help organisations to comply with regulations such as GDPR.
+<br>
+=More Information=
+<br>
+https://www.bluedogsecurity.com/
+[[Category:Single Sign-On (SSO)]]

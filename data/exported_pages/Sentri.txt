@@ -1,0 +1,8 @@
+=Description=
+<br>
+Sentri is a security system that uses sensors to detect and track intruders. It is designed for both residential and commercial use. The system includes a control panel, door and window sensors, motion detectors, and camera. The control panel is used to monitor and control the system, and the sensors and camera are used to detect and track intruders. The system can be programmed to send alerts to your phone or other device, and it can also be set to automatically call the police or other
+<br>
+=More Information=
+<br>
+https://www.sentri.com/
+[[Category:User Provisioning & Governance]]

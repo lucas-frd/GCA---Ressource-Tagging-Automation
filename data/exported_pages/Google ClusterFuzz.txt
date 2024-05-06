@@ -1,0 +1,9 @@
+=Description=
+<br>
+Google ClusterFuzz is a tool that helps find bugs in software programs. It does this by running the program many times with different inputs. If the program crashes, ClusterFuzz will try to find out why. This information can then be used to fix the bug.
+<br>
+=More Information=
+<br>
+https://google.github.io/clusterfuzz/
+[[Category:Security Testing & Auditing]]
+[[Category:Attack & Penetration Testing]]

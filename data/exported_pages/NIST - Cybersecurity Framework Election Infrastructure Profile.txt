@@ -1,0 +1,9 @@
+=Description=
+<br>
+The Cybersecurity Framework Election Infrastructure Profile provides guidance for election infrastructure stakeholders on how to implement the Cybersecurity Framework in their organizations. The Profile is based on the understanding that election infrastructure is critical national infrastructure and that cybersecurity risks to election infrastructure can have national implications. The Profile is organized around the Framework’s Core and Profiles and Tiers, and includes mapped guidance from NIST’s Cybersecurity Framework for Elections, NISTIR 8261. The Profile is intended to help election
+<br>
+=More Information=
+<br>
+https://csrc.nist.gov/pubs/ir/8310/ipd
+[[Category:Voters]]
+[[Category:Election Officials & Organzations]]

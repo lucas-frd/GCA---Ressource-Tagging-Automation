@@ -1,0 +1,10 @@
+=Description=
+<br>
+Effective technology practices are the foundation of any secure development process. From threat modeling to fuzzing, SAFECode members share their insights and experiences around implementing security practices across all stages of the software developmen
+<br>
+=More Information=
+<br>
+https://safecode.org/category/resource-secure-development-practices/
+[[Category:CIS - 16 - Application Software Security]]
+[[Category:Developers and Development Organizations]]
+[[Category:Web Developers]]

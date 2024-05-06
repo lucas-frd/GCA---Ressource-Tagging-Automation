@@ -1,0 +1,10 @@
+=Description=
+<br>
+Rocket MFA is a multi-factor authentication tool that can be used to secure accounts and sensitive data. It uses a variety of factors to authenticate users, including something they know (like a password), something they have (like a hardware token), and something they are (like a fingerprint).
+
+Rocket MFA is designed to be easy to use and implement, and it integrates with a variety of popular software applications. It can be used to protect online accounts, email accounts, and
+<br>
+=More Information=
+<br>
+https://rocketmfa.com/
+[[Category:Two-Factor & Multi-Factor Authentication]]

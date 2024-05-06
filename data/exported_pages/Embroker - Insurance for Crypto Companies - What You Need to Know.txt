@@ -1,0 +1,10 @@
+=Description=
+<br>
+Embroker is an insurance company that specializes in providing coverage for cryptocurrency companies. The company is headquartered in San Francisco, California and was founded in 2015. It aims to provide insurance solutions for emerging industries such as cryptocurrency, which are often overlooked by traditional insurance providers.
+
+Embroker offers a wide range of coverage options for cryptocurrency companies, including cyber liability insurance, professional liability insurance, directors and officers liability insurance, and crime insurance.
+<br>
+=More Information=
+<br>
+https://www.embroker.com/blog/insurance-for-cryptocurrency-companies/
+[[Category:Cryptocurrency Insurance]]

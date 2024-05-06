@@ -1,0 +1,10 @@
+=Description=
+<br>
+Cisco Secure DDoS Protection is a security organization based in Cisco, the world's leading technology company known for its networking equipment and services. The organization aims to provide comprehensive protection against distributed denial of service (DDoS) attacks, which are malicious attempts to disrupt the availability of online services. These attacks can cause major disruptions to businesses, leading to financial losses and damage to their reputation.
+
+Cisco Secure DDoS Protection offers a range of products and services designed to protect organizations of all sizes against D
+<br>
+=More Information=
+<br>
+https://www.cisco.com/site/us/en/products/security/all-products.html
+[[Category:DDoS Protection]]

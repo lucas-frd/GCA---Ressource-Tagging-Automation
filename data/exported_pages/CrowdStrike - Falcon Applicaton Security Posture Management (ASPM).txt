@@ -1,0 +1,10 @@
+=Description=
+<br>
+Falcon Application Security Posture Management (ASPM) is an advanced cloud-native security solution provided by CrowdStrike, a leading cybersecurity company. This organization focuses on helping businesses secure their applications, data, and infrastructure against modern threats.
+
+Falcon ASPM is a comprehensive security platform that offers continuous posture management for cloud workloads, on-premise applications, and containers. It uses machine learning and artificial intelligence (AI) to provide real-time insights and visibility into an organization's security posture. This enables
+<br>
+=More Information=
+<br>
+https://www.crowdstrike.com/products/cloud-security/
+[[Category:Cloud Security]]

@@ -1,0 +1,10 @@
+=Description=
+<br>
+The tool Harnessing The Power Of Microsoft Office 365 Advanced Threat Protection For Email Security is a Veltec Networks which provides a comprehensive and unified platform for all email security needs. It offers protection against spam, phishing, and other email-borne threats. It also provides a set of tools for managing and reporting on email security threats. The tool is designed to work with Microsoft Office 365 and Exchange Online Protection.
+<br>
+=More Information=
+<br>
+https://www.veltecnetworks.com/harnessing-the-power-of-microsoft-office-365-advanced-threat-protection-for-email-security/
+[[Category:Email & Other Communications]]
+[[Category:Threat & Vulnerability Management]]
+[[Category:Encryption]]

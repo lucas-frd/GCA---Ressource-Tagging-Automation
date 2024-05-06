@@ -1,0 +1,10 @@
+=Description=
+<br>
+Login.gov is a government-operated online platform that provides individuals with a secure and easy way to access a variety of government services and websites. This innovative platform was established in 2017 as part of the Federal Digital Government Strategy, with the goal of simplifying the process of accessing government services and eliminating the need for multiple accounts and passwords.
+
+The vision of Login.gov is to serve as the central hub for the public's interactions with the federal government, making it easier for individuals to access government services.
+<br>
+=More Information=
+<br>
+https://www.login.gov/?dg
+[[Category:Strong Passwords]]

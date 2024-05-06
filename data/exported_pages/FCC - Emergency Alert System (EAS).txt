@@ -1,0 +1,8 @@
+=Description=
+<br>
+The Emergency Alert System (EAS) is a national public warning system that provides the President with the ability to address the nation during a national emergency. It is accessible to all emergency management agencies, state and local governments, broadcasters, cable television operators, satellite radio and television providers, and video service providers who participate in the system. The EAS is currently managed by the Federal Communications Commission (FCC), an independent agency of the United States government that is responsible for regulating interstate and international communications.
+<br>
+=More Information=
+<br>
+https://www.fcc.gov/emergency-alert-system
+[[Category:Government emergency alert systems]]

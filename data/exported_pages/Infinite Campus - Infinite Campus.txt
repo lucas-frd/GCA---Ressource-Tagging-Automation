@@ -1,0 +1,8 @@
+=Description=
+<br>
+Infinite Campus is a data management system used by schools to track student information. The system includes a wide range of features that allow schools to manage everything from attendance and grades to health and discipline records. Infinite Campus is used by over 7,000 schools in the United States and Canada, making it one of the most popular student data management systems available.
+<br>
+=More Information=
+<br>
+https://www.infinitecampus.com/
+[[Category:Sensitive Data]]

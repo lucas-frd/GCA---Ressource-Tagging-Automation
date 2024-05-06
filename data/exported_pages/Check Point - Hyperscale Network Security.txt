@@ -1,0 +1,10 @@
+=Description=
+<br>
+Hyperscale Network Security is a division of Check Point Software Technologies Ltd., a global provider of cybersecurity solutions. The division is focused on providing network security solutions for large-scale and complex environments, hence the name "Hyperscale." Check Point was founded in 1993 and is headquartered in Tel Aviv, Israel.
+
+The mission of Hyperscale Network Security is to protect organizations' networks and data from cyber threats at a massive scale. This includes protecting against advanced cyber attacks, ensuring network
+<br>
+=More Information=
+<br>
+https://www.checkpoint.com/products/
+[[Category:Network Security]]

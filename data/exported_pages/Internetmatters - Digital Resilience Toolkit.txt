@@ -1,0 +1,18 @@
+=Description=
+<br>
+This resource, called the Digital Resilience Toolkit, provides advice and resources to help children become more resilient online. The main purpose of this toolkit is to assist parents and caregivers in teaching children how to navigate the online world and cope with its challenges.
+  
+  Developed in collaboration with expert ambassador Dr. Linda Papadopoulos, the toolkit offers age-specific resources for children between the ages of 6 and 10. It aims to provide a guiding hand for parents as their children embark on their digital journey.
+  
+  The toolkit includes a range of materials designed to support children in developing digital resilience. These resources may include practical tips, interactive activities, and educational materials that address various aspects of online safety and well-being. By utilizing these resources, parents can help their children build the necessary skills and knowledge to navigate the online world confidently and responsibly.
+  
+  The Digital Resilience Toolkit recognizes that just as children need guidance when learning to ride a bike or cross the road, they also require support in understanding and managing the challenges they may encounter online. By equipping parents with the necessary tools and information, this resource aims to empower them to foster their child's digital resilience.
+  
+  Overall, the Digital Resilience Toolkit serves as a valuable resource for parents and caregivers seeking to promote their child's online well-being and resilience. It offers age-appropriate guidance and resources to help children navigate the digital landscape safely and confidently.
+<br>
+=More Information=
+<br>
+https://www.internetmatters.org/resources/digital-resilience-toolkit/
+[[Category:Planning Your Security Together]]
+[[Category:Videos]]
+[[Category:Websites & Applications]]

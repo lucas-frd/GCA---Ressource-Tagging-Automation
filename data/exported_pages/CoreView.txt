@@ -1,0 +1,8 @@
+=Description=
+<br>
+CoreView is a tool that allows administrators to view and manage Office 365 tenants. It provides detailed reports on usage, compliance, and security, and can be used to manage user accounts, licenses, and groups. CoreView also has a comprehensive API that can be used to automate tasks and integrations with third-party tools.
+<br>
+=More Information=
+<br>
+https://www.coreview.com/
+[[Category:User Provisioning & Governance]]

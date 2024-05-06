@@ -1,0 +1,8 @@
+=Description=
+<br>
+Akkadian Provisioning Manager is software that automates the process of provisioning and managing Akka clusters. It provides a web-based UI and CLI for managing Akka clusters, and automates the process of deploying and scaling Akka applications. It also offers integration with other tools such as Mesos and Kubernetes for managing Akka applications in a distributed environment.
+<br>
+=More Information=
+<br>
+https://www.akkasoftware.com/products/akkaserver/
+[[Category:User Provisioning & Governance]]

@@ -1,0 +1,9 @@
+=Description=
+<br>
+The CyberPeace Institute's CyberPeace Builders tool is designed to help internet users protect themselves from online threats. The tool provides a step-by-step guide to building a secure online presence, including tips on how to create strong passwords, how to avoid phishing scams, and how to protect personal information. The CyberPeace Builders tool is available in English, Spanish, French, and German.
+<br>
+=More Information=
+<br>
+https://cyberpeaceinstitute.org/cyberpeacebuilders
+[[Category:Professional Risk Assessment]]
+[[Category:Managed Security Service Providers (MSSPs)]]

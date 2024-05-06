@@ -1,0 +1,8 @@
+=Description=
+<br>
+OpenDNS Home is a tool that allows users to easily set up and manage their home DNS servers. It provides a web interface for managing DNS settings, and allows users to add and remove DNS servers as needed. It also allows users to monitor their DNS usage and activity, and provides a number of security features to protect their home network from unwanted access and malicious activity. Overall, OpenDNS Home is a simple and easy-to-use tool that can be used to improve the security
+<br>
+=More Information=
+<br>
+https://signup.opendns.com/homefree/
+[[Category:DNS]]

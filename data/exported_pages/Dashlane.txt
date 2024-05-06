@@ -1,0 +1,9 @@
+=Description=
+<br>
+Dashlane is a password management tool that allows users to efficiently and securely manage their passwords. The tool uses a variety of features to ensure that passwords are stored securely and can be accessed easily when needed. Dashlane also offers a variety of other features, such as the ability to generate strong passwords and to share passwords with other users.
+<br>
+=More Information=
+<br>
+https://www.dashlane.com/
+[[Category:Password Managers]]
+[[Category:Single Sign-On (SSO)]]

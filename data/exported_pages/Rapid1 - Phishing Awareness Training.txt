@@ -1,0 +1,10 @@
+=Description=
+<br>
+Phishing Awareness Training is offering by Rapid7, a leading cybersecurity company based in Boston, Massachusetts. The organization offers comprehensive training programs designed to educate individuals and organizations on how to identify and defend against phishing attacks.
+
+The main goal of Phishing Awareness Training is to increase awareness and knowledge surrounding the dangers of phishing attacks and the impact they can have on businesses. This is achieved through a variety of training methods including hands-on exercises, interactive games, and simulations.
+<br>
+=More Information=
+<br>
+https://www.rapid7.com/solutions/phishing-awareness-training/
+[[Category:Phishing Awareness]]

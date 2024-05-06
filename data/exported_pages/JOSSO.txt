@@ -1,0 +1,8 @@
+=Description=
+<br>
+JOSSO is a system that allows single sign-on (SSO) to be implemented across a wide range of applications and websites. It is a Java-based system that uses the OpenID standard to authenticate users. JOSSO is modular and scalable, and can be easily integrated into existing systems. It provides a number of features that make it an attractive solution for implementing SSO, including support for multiple identity providers, the ability to map multiple user accounts to a single identity
+<br>
+=More Information=
+<br>
+https://josso.org/
+[[Category:Single Sign-On (SSO)]]

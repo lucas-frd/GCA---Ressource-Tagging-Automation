@@ -1,0 +1,8 @@
+=Description=
+<br>
+RoboForm is a secure password manager and form filler that makes online shopping and banking faster and easier by eliminating the need to remember multiple user IDs and passwords. With RoboForm, you can save time and frustration by automatically logging in to your favorite online accounts with a single click. RoboForm also makes it easy to fill out online forms with your personal information, so you don't have to type it out each time. Plus, RoboForm's strong encryption keeps your sensitive data safe from identity
+<br>
+=More Information=
+<br>
+https://www.roboform.com/
+[[Category:Password Managers]]

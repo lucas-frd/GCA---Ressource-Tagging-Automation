@@ -1,0 +1,20 @@
+=Description=
+<br>
+This resource provides a collection of educational cybersecurity resources specifically designed for kids. With the increasing amount of time children spend online, especially in the current virtual school environment, it is important to ensure their safety and understanding of cybersecurity. 
+  
+  The curated selection of resources aims to keep kids entertained, educated, and safe while they navigate the internet. It acknowledges that while the initial excitement of online learning may fade, students may still spend a significant amount of their free time browsing the internet. 
+  
+  The resource offers a variety of age-appropriate materials to cater to kids of every age. By engaging with these resources, children can learn about the importance of cybersecurity and develop the necessary skills to protect themselves online. 
+  
+  The main objective of this collection is to provide a fun and interactive learning experience for kids, while also promoting awareness of potential online risks. By utilizing these resources, parents and educators can help children understand the importance of online safety and equip them with the knowledge to make informed decisions while using the internet. 
+  
+  Overall, this resource serves as a valuable tool for parents, educators, and children alike, offering a range of educational cybersecurity materials to ensure a safe and enjoyable online experience for kids.
+<br>
+=More Information=
+<br>
+https://www.cisecurity.org/insights/blog/6-educational-cybersecurity-resources-for-kids
+[[Category:Websites & Applications]]
+[[Category:Games & Activities]]
+[[Category:Explaining the Risks]]
+[[Category:Planning Your Security Together]]
+[[Category:Videos]]

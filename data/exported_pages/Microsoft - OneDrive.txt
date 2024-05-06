@@ -1,0 +1,10 @@
+=Description=
+<br>
+OneDrive is a cloud storage service offered by Microsoft, which allows users to store and access files and documents online. It was launched in 2007 and has since become one of the leading cloud storage providers in the market.
+
+OneDrive is integrated into Microsoft's suite of productivity tools, including Microsoft 365 and Windows 10, making it easily accessible to users across various devices. It offers both personal and business plans, catering to the needs of individuals, small businesses, and large enterprises.
+<br>
+=More Information=
+<br>
+https://www.microsoft.com/en-us/microsoft-365/onedrive/online-cloud-storage
+[[Category:Cloud storage]]

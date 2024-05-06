@@ -1,0 +1,20 @@
+=Description=
+<br>
+This resource is a DLP (Data Loss Prevention) Software-as-a-Service (SaaS) offered by Forcepoint. Its main purpose is to prevent sensitive data exfiltration across cloud, web, and private applications. 
+
+The DLP SaaS provided by Forcepoint is considered best-in-class and offers comprehensive protection against data breaches. It covers a wide range of devices and channels, ensuring real-time prevention of data exfiltration. 
+
+With this tool, organizations can safeguard their sensitive data from unauthorized access and leakage. It offers protection across various platforms, including cloud services, web applications, and private networks. 
+
+The DLP SaaS solution provided by Forcepoint is designed to address the evolving challenges of data security in today's digital landscape. By implementing this tool, organizations can proactively detect and prevent data breaches, ensuring compliance with data protection regulations and maintaining the trust of their customers. 
+
+Overall, this resource offers a robust and scalable solution for organizations looking to protect their sensitive data from unauthorized access and leakage. With its comprehensive coverage and real-time prevention capabilities, it provides a reliable option for businesses seeking to enhance their data security measures.
+<br>
+=More Information=
+<br>
+https://www.forcepoint.com/product/forcepoint-one-dlp
+[[Category:Sensitive Data]]
+[[Category:Cloud Security]]
+[[Category:Containers as a Service (CaaS)]]
+[[Category:Data Loss Prevention (DLP)]]
+[[Category:Loss or Exposure of Sensitive Data]]

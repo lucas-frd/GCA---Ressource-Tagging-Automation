@@ -1,0 +1,11 @@
+=Description=
+<br>
+Security Planner is an online tool developed by Consumer Reports, a non-profit organization that has been providing unbiased product reviews and ratings since 1936. The tool is designed to help individuals and organizations assess and improve their digital security practices through personalized recommendations based on their specific needs and level of expertise.
+
+The organization's mission is to empower consumers to make informed decisions about their online security by providing them with a comprehensive and user-friendly tool.
+<br>
+=More Information=
+<br>
+https://securityplanner.consumerreports.org/
+[[Category:Online Presence Audit]]
+[[Category:Understanding Your Risks]]

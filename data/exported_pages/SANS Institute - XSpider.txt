@@ -1,0 +1,10 @@
+=Description=
+<br>
+The SANS Institute's XSpider is a tool for web application security testing. It automates the spidering and scanning of web applications, and can be used to find vulnerabilities such as SQL injection and cross-site scripting. XSpider is written in Java and runs on Windows, Linux, and OS X.
+<br>
+=More Information=
+<br>
+https://www.sans.org/tools/?per-page=100
+[[Category:Threat & Vulnerability Management]]
+[[Category:Security Testing & Auditing]]
+[[Category:Attack & Penetration Testing]]

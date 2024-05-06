@@ -1,0 +1,10 @@
+=Description=
+<br>
+TokenPocket is a cryptocurrency wallet organization that provides users with a secure and convenient way to store, manage, and transfer their digital assets. It is available on multiple platforms including iOS, Android, and Desktop, making it accessible to a wide range of users.
+
+The organization's main goal is to offer a seamless experience for users to manage their cryptocurrencies, which is why it has implemented a feature called 'Wallet Sync.'
+<br>
+=More Information=
+<br>
+https://help.tokenpocket.pro/en/wallet-management/wallet-management/how-to-sync-a-wallet
+[[Category:Resynchronizing Wallets]]

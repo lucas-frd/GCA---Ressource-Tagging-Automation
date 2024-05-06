@@ -1,0 +1,13 @@
+=Description=
+<br>
+AT&T Alien Labs is an organization focused on providing threat intelligence solutions for businesses and organizations. It is a part of the AT&T Cybersecurity division and is based in Austin, Texas.
+
+The primary goal of Alien Labs is to help organizations proactively identify and mitigate potential cybersecurity threats. They do this by continuously monitoring global threat intelligence sources and analyzing data to identify emerging threats and attack patterns.
+
+The organization has a team of highly skilled security experts, threat researchers, and data scientists who work together to provide
+<br>
+=More Information=
+<br>
+https://cybersecurity.att.com/solutions/threat-intelligence
+[[Category:Threat Hunting]]
+[[Category:Threat & Vulnerability Management]]

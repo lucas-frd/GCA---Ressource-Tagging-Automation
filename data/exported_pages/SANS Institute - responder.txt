@@ -1,0 +1,9 @@
+=Description=
+<br>
+The SANS Institute is a tool responder found at https://www.sans.org/tools/?per-page=100. The site provides a variety of tools for security professionals, including a tool for searching the web for security information, a tool for managing passwords, and a tool for encrypting files. The site also provides a forum for discussion and an online store for purchasing security products.
+<br>
+=More Information=
+<br>
+https://www.sans.org/tools/?per-page=100
+[[Category:Security Testing & Auditing]]
+[[Category:Attack & Penetration Testing]]

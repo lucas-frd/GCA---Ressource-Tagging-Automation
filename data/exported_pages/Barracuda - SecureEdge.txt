@@ -1,0 +1,10 @@
+=Description=
+<br>
+SecureEdge is a global organization based in Barracuda that specializes in providing secure and efficient network and data protection solutions. The company was founded in 2003 and has since then established a strong reputation in the cyber security industry. They offer a wide range of products and services that cater to businesses of all sizes, from small startups to large enterprises.
+
+One of the main focuses of SecureEdge is to provide cloud-based security solutions. Their cloud-based platform enables customers to easily manage and monitor their network
+<br>
+=More Information=
+<br>
+https://www.barracuda.com/products
+[[Category:Zero Trust]]

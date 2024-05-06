@@ -1,0 +1,8 @@
+=Description=
+<br>
+The Cyber Readiness Program is a simple, practical way for organizations to provide security awareness training to employees and establish sustainable, effective cyber readiness practices. Specifically designed for small and medium-sized enterprises, this
+<br>
+=More Information=
+<br>
+https://cyberreadinessinstitute.org/
+[[Category:Small & Medium Sized Businesses]]

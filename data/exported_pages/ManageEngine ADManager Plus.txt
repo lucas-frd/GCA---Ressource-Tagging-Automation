@@ -1,0 +1,8 @@
+=Description=
+<br>
+ADManager Plus is a tool that helps organizations manage and monitor their Active Directory (AD) environment. It provides a web-based interface for administrators to perform various tasks such as creating and managing user accounts, configuring Group Policy Objects (GPOs), delegating permissions, and auditing AD changes. In addition, ADManager Plus provides a range of features for automating AD tasks, such as password resets, user provisioning, and disabling inactive user accounts. These features can save
+<br>
+=More Information=
+<br>
+https://www.manageengine.com/admanager-plus/
+[[Category:User Provisioning & Governance]]

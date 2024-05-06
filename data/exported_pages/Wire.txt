@@ -1,0 +1,8 @@
+=Description=
+<br>
+Wire is a secure communication and collaboration platform. The organization was founded in Switzerland during 2014 by Alan Duric, Jonathan Christensen, and Priidu Zilmer, with a vision to create a secure messaging platform that would prioritize user privacy and security. Since then, the organization has gained recognition for its innovative approach to encrypted communication and has become a popular tool for businesses and individuals alike.
+<br>
+=More Information=
+<br>
+https://wire.com/en
+[[Category:Messaging apps]]

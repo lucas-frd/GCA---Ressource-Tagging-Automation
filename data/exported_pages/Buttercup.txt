@@ -1,0 +1,8 @@
+=Description=
+<br>
+Buttercup is a set of tools designed to help web developers work with web standards. These tools include a CSS preprocessor, a JavaScript minifier, and a HTML5 validator. Buttercup is available as a command line tool and a web-based application.
+<br>
+=More Information=
+<br>
+https://www.buttercup.pw/
+[[Category:Password Managers]]

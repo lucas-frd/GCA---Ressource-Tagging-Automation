@@ -1,0 +1,12 @@
+=Description=
+<br>
+Falcon Protection is an offering from CrowdStrike, a leading cybersecurity organization that specializes in endpoint and cloud security solutions. Its main focus is on data protection, helping organizations secure their sensitive data from potential cyber threats.
+
+The organization offers a comprehensive approach to data protection, employing cutting-edge technology and expertise to safeguard valuable data. The Falcon Protection product is designed to seamlessly integrate with existing IT infrastructure and provide a comprehensive security solution that protects data at all stages - from creation to storage to transfer.
+
+Falcon Protection
+<br>
+=More Information=
+<br>
+https://www.crowdstrike.com/products/data-protection/
+[[Category:Data Loss Prevention (DLP)]]

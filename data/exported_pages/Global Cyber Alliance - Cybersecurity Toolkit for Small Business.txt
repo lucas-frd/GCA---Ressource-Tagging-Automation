@@ -1,0 +1,16 @@
+=Description=
+<br>
+This resource, the GCA Cybersecurity Toolkit for Small Business, offers a collection of free and effective tools to help small businesses reduce their cyber risk. The toolkit is designed to be completed in six steps, providing a structured approach to improving cybersecurity measures. 
+
+To begin using the toolkit, users can access Step One, which serves as a starting point for implementing immediate actions to mitigate cyber risks. The toolkit aims to empower small businesses by providing practical solutions that can be implemented without extensive technical expertise.
+
+For those seeking more comprehensive training and resources, the toolkit also offers a learning portal. This online platform provides detailed training courses and additional guided experiences to enhance cybersecurity knowledge and skills.
+
+The importance of utilizing this toolkit is underscored by the fact that small businesses are increasingly targeted by cyber attacks, with over 43% of such attacks directed towards them. By taking advantage of the resources provided, small businesses can strengthen their defenses and protect their sensitive information from potential threats.
+
+Overall, the GCA Cybersecurity Toolkit for Small Business offers a valuable resource for small business owners and operators who are looking to enhance their cybersecurity measures. With its user-friendly approach and practical tools, this toolkit enables businesses to take immediate action in reducing their cyber risk.
+<br>
+=More Information=
+<br>
+https://gcatoolkit.org/smallbusiness/
+[[Category:Small & Medium Sized Businesses]]

@@ -1,0 +1,11 @@
+=Description=
+<br>
+BrightCloud Threat Intelligence is an organization that provides advanced threat intelligence services to businesses and organizations. It is a part of the security cloud division of Opentext, a multinational software company based in Canada. BrightCloud Threat Intelligence helps organizations stay ahead of potential cyber threats by providing real-time information about known malicious IP addresses, domains, and URLs.
+
+Opentext's security cloud division offers a wide range of cybersecurity solutions, including data encryption, endpoint security, and cloud security. However, BrightCloud Threat
+<br>
+=More Information=
+<br>
+https://www.opentext.com/products/security-cloud
+[[Category:Threat Hunting]]
+[[Category:Threat & Vulnerability Management]]

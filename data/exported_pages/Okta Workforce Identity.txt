@@ -1,0 +1,10 @@
+=Description=
+<br>
+Okta Workforce Identity is a cloud-based solution that allows organizations to manage and secure their employee identities. It includes features such as user provisioning, identity management, and Single Sign-On (SSO). Workforce Identity is designed to work with Okta's other products, such as Okta Identity Cloud and Okta Access Gateway, to provide a complete identity and access management solution.
+<br>
+=More Information=
+<br>
+https://www.okta.com/workforce-identity/
+[[Category:Single Sign-On (SSO)]]
+[[Category:User Provisioning & Governance]]
+[[Category:Identity & Access Management (IAM)]]

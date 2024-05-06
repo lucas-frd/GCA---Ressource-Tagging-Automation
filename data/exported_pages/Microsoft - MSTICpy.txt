@@ -1,0 +1,11 @@
+=Description=
+<br>
+MSTICPy is a security analysis toolkit built on top of the Jupyter Notebook and Python. The toolkit includes a collection of security-related Python packages, Jupyter notebooks for data analysis and visualization, and utilities to improve productivity and workflow.
+
+The toolkit is designed to help analysts quickly and efficiently analyze data, visualize relationships and patterns, and build and share reproducible analysis. The notebooks included in the toolkit can be used to perform a
+<br>
+=More Information=
+<br>
+https://msticpy.readthedocs.io/en/latest/
+[[Category:Threat & Vulnerability Management]]
+[[Category:Security Information & Event Management (SIEM)]]

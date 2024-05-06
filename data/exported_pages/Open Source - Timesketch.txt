@@ -1,0 +1,14 @@
+=Description=
+<br>
+Timesketch is an open source tool for collaboration and aggregation of data for digital forensics. It helps analysts to work together on forensic investigations, sharing knowledge and expertise.
+
+Timesketch allows analysts to upload data into sketches, which are like case files. The sketches are then stored in a central repository, where they can be searched and shared.
+
+The sketches can be used to visualize data, such as timelines of events, and to generate reports.
+
+Timesketch
+<br>
+=More Information=
+<br>
+https://timesketch.org/
+[[Category:Incident Reporting & Recovery]]

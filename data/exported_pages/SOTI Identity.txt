@@ -1,0 +1,8 @@
+=Description=
+<br>
+SOTI Identity is an enterprise-grade mobile identity management solution that helps organizations securely manage and provision mobile devices and apps. It provides a centralized management console for provisioning, managing, and monitoring devices and apps. It also offers a variety of features to help organizations keep their data secure, including data encryption, remote wiping, and device and app blacklisting. SOTI Identity is available as a cloud-based or on-premises solution.
+<br>
+=More Information=
+<br>
+https://www.soti.net/products/identity/
+[[Category:Two-Factor & Multi-Factor Authentication]]

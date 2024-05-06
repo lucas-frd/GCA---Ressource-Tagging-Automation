@@ -1,0 +1,8 @@
+=Description=
+<br>
+GRR Rapid Response is a free and open source incident response tool that can be used to rapidly triage and investigate incidents. It is designed to be run on a live system, and can be used to collect data for forensic analysis. GRR Rapid Response is scriptable, and can be used to automatically respond to incidents.
+<br>
+=More Information=
+<br>
+https://grr-doc.readthedocs.io/en/latest/
+[[Category:Incident Reporting & Recovery]]

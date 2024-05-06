@@ -1,0 +1,15 @@
+=Description=
+<br>
+This resource provides an introduction to video game cyber security, highlighting the shift in concerns from the past to the present. In the past, gamers could play video games without connecting to the internet, eliminating the risks associated with cyber criminals. However, with the increasing need to connect to the internet for gaming purposes, gamers have become more vulnerable to cyber attacks. 
+  
+  The resource emphasizes the importance of gaming cyber security and aims to raise awareness among gamers. It acknowledges that most people do not want to think about the potential risks and threats they may face while gaming, but it emphasizes the necessity of understanding and implementing security measures to protect against cyber criminals.
+  
+  While the resource does not provide specific features or tools, it serves as a guide to help gamers understand the significance of gaming cyber security. It likely includes information on common cyber threats in the gaming world, such as hacking, phishing, and identity theft, and may offer general tips and best practices to enhance security while gaming.
+  
+  Overall, this resource aims to educate gamers about the evolving landscape of video game cyber security and the need to prioritize protection against cyber threats. By raising awareness and providing guidance, it encourages gamers to take proactive measures to safeguard their gaming experiences.
+<br>
+=More Information=
+<br>
+https://www.getcybersafe.gc.ca/en/blogs/video-game-cyber-security-introduction
+[[Category:Gaming Consoles]]
+[[Category:Online Gaming]]

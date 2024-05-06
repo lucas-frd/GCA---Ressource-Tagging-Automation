@@ -1,0 +1,8 @@
+=Description=
+<br>
+Elliptic Wallet Screening is a service that helps cryptocurrency businesses comply with anti-money laundering (AML) regulations. The service screens transactions in real-time to identify suspicious activity and Flag high-risk addresses. Elliptic also provides a risk management platform that enables businesses to track their exposure to cryptocurrency risk and make informed decisions about which coins to accept.
+<br>
+=More Information=
+<br>
+https://www.elliptic.co/solutions/crypto-wallet-screening
+[[Category:Cryptocurrency Wallet Risk Intelligence and Management]]

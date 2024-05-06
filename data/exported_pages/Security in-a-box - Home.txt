@@ -1,0 +1,8 @@
+=Description=
+<br>
+Security in-a-box is a non-profit organization committed to promoting digital security and privacy for individuals and organizations. The organization's website, https://securityinabox.org/en/, is a comprehensive resource for learning about and implementing digital security measures.
+<br>
+=More Information=
+<br>
+https://securityinabox.org/en/
+[[Category:Security Awareness]]

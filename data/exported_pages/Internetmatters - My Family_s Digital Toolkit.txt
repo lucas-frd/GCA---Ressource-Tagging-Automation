@@ -1,0 +1,9 @@
+=Description=
+<br>
+The My Family's Digital Toolkit is a set of online resources that helps families manage their digital life. The toolkit includes a set of tools that families can use to manage their online activity, including a family calendar, a household chore tracker, and a family budgeting tool. The toolkit also includes a set of resources that families can use to educate themselves about the responsible use of the internet. The My Family's Digital Toolkit is a helpful resource for families who want to make the
+<br>
+=More Information=
+<br>
+https://www.internetmatters.org/digital-family-toolkit/
+[[Category:Security Awareness & Training]]
+[[Category:Planning Your Security Together]]

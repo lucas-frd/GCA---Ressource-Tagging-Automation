@@ -1,0 +1,12 @@
+=Description=
+<br>
+ExchangeDefender is a tool that helps organizations secure their email exchange servers. It provides a set of features that help to blocksafe attacks and protect data. These features include:
+
+1. Automatic patching of Exchange servers: ExchangeDefender automatically installs security patches on Exchange servers, keeping them up to date with the latest security fixes.
+
+2. intrusion detection and prevention: ExchangeDefender includes intrusion detection and prevention capabilities, which help to identify and block attempts to compromise Exchange
+<br>
+=More Information=
+<br>
+https://blocksafetech.com/products/exchangedefender/
+[[Category:Centralized Exchange (CEX) Risk Intelligence and Management]]

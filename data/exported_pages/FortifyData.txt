@@ -1,0 +1,9 @@
+=Description=
+<br>
+CISA's FortifyData is a tool that helps users understand their organization's threat exposure rating. The tool produces a report that visualizes an organization's current rating and how it compares to other organizations. The report also includes recommendations on how to improve the rating.
+<br>
+=More Information=
+<br>
+https://fortifydata.com/cisa-free-tools-threat-exposure-ratings/
+[[Category:Professional Risk Assessment]]
+[[Category:Risk Reduction]]

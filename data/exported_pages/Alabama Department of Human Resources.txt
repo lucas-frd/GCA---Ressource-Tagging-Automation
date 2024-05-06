@@ -1,0 +1,8 @@
+=Description=
+<br>
+The Alabama Department of Human Resources is a government organization responsible for protecting vulnerable adults and promoting their well-being.
+<br>
+=More Information=
+<br>
+https://dhr.alabama.gov/adult-protective-services/
+[[Category:Alabama]]

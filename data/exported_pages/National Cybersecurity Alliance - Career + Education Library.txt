@@ -1,0 +1,55 @@
+=Description=
+<br>
+The National Cybersecurity Alliance’s Career + Education Library offers a variety of resources for those interested in pursuing a career in cybersecurity. The website provides an overview of the various types of careers available in the field, as well as the education and training necessary to pursue them. There is also a section on job resources, which includes links to job boards, professional associations, and other helpful websites. In addition, the website provides a list of scholarships and other financial aid opportunities for those interested in
+<br>
+=More Information=
+<br>
+https://staysafeonline.org/resources/career-education/
+[[Category:All Businesses]]
+[[Category:Law Enforcement]]
+
+=Description=
+<br>
+The National Cybersecurity Alliance's Convene Regional Conferences tool helps event planners connect with cybersecurity experts in their region. The tool includes a database of experts, a list of upcoming conferences, and resources for planning and hosting events. The goal of the tool is to help event planners create events that are educational and informative, and that build awareness and understanding of cybersecurity issues.
+<br>
+=More Information=
+<br>
+https://staysafeonline.org/programs/events/regional-conferences/
+[[Category:All Businesses]]
+[[Category:Governments and Intergovernmental Organizations]]
+[[Category:Individuals]]
+
+=Description=
+<br>
+The National Cybersecurity Alliance's CyberSecure My Business program helps businesses of all sizes assess their cybersecurity risks and implement best practices to stay safe online. The program offers a self-guided assessment tool that businesses can use to identify areas of improvement, as well as resources and tips on how to implement stronger cybersecurity measures. The program also provides educational resources on topics such as phishing, ransomware, and how to create a cybersecurity incident response plan. By taking advantage of the resources offered by CyberSecure My
+<br>
+=More Information=
+<br>
+https://staysafeonline.org/programs/cybersecure-my-business/
+[[Category:Security Personnel]]
+
+=Description=
+<br>
+Cybersecurity Awareness Month is an annual event that is designed to raise awareness about the importance of cybersecurity and to provide resources to help individuals and organizations stay safe online. The event is organized by the National Cybersecurity Alliance, a nonprofit, public-private partnership that is dedicated to promoting cybersecurity awareness and education. Each year, the event focuses on a different theme, and this year's theme is "Own Your Cybersecurity". The event includes a variety of resources, such as blog posts,
+<br>
+=More Information=
+<br>
+https://staysafeonline.org/programs/cybersecurity-awareness-month/
+[[Category:Individuals]]
+
+=Description=
+<br>
+This resource provides information and guidance on online safety and privacy basics. It aims to help individuals stay safe while using the internet. The main features of this resource include educational content, event updates, and a newsletter subscription.
+  
+  The resource emphasizes the importance of online safety and privacy in today's digital world. It encourages users to sign up for updates on the latest events and programs organized by the NCA (National Cybersecurity Alliance). By staying connected, individuals can stay informed about new developments and initiatives in the field of online safety.
+  
+  The resource also offers a newsletter subscription option, allowing users to receive regular updates directly in their inbox. This ensures that individuals are among the first to know about the latest updates and resources related to online safety.
+  
+  Additionally, the website acknowledges the use of cookies and provides a link to its privacy and cookies policy. This demonstrates a commitment to transparency and informs users about the website's data collection practices.
+  
+  Overall, this resource serves as a valuable tool for individuals seeking to enhance their knowledge of online safety and privacy. By providing educational content, event updates, and a newsletter subscription, it enables users to stay informed and take proactive steps to protect their online security.
+<br>
+=More Information=
+<br>
+https://staysafeonline.org/category/online-safety-privacy-basics/
+[[Category:Security Awareness & Training]]

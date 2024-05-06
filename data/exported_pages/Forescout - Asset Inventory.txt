@@ -1,0 +1,18 @@
+=Description=
+<br>
+This resource is a Cyber Asset Inventory tool that aims to provide complete visibility of assets across an organization's attack surface. It addresses the challenge of the rapid growth of attack surfaces, which often surpasses the security team's ability to identify, quantify, and prioritize risks and exposures. 
+
+The main feature of this tool is the ability to maintain an accurate and real-time asset inventory. It achieves this by offering continuous, automated discovery, classification, and assessment of every device, both managed and unmanaged. By automating these processes, it eliminates the need for error-prone manual methods.
+
+The tool promises to provide 100% asset visibility by offering a normalized view of all IP-connected assets. This means that organizations can have a comprehensive understanding of their assets, including in-depth device context. 
+
+While the specific details of this resource are not provided, it is mentioned that an energy company used it as a baseline to improve their asset visibility. This suggests that the tool has been successfully implemented in real-world scenarios.
+
+Overall, this Cyber Asset Inventory tool offers organizations a solution to the challenge of maintaining an accurate and up-to-date asset inventory. By automating the discovery and assessment processes, it aims to provide complete visibility of assets across an organization's attack surface.
+<br>
+=More Information=
+<br>
+https://www.forescout.com/solutions/asset-inventory/
+[[Category:Know What You Have - Create an Inventory]]
+[[Category:Nonprofits & Charities]]
+[[Category:Small & Medium Sized Businesses]]

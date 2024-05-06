@@ -1,0 +1,10 @@
+=Description=
+<br>
+The organization discussed in the article is Crypto News, a reputable cryptocurrency news platform that provides information and analysis on various aspects of the crypto industry. The platform aims to educate its audience and provide reliable insights into the ever-changing world of cryptocurrencies.
+
+The main focus of the article is on evaluating NFT (non-fungible token) projects and determining their legitimacy. NFTs have gained popularity in recent years as a way to digitally represent ownership of unique assets, such as artwork or virtual items.
+<br>
+=More Information=
+<br>
+https://cryptonews.com/exclusives/evaluating-nfts-how-know-whether-an-nft-project-legit.htm
+[[Category:How to Spot Non-Reputable NFT Projects]]

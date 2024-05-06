@@ -1,0 +1,9 @@
+=Description=
+<br>
+The RITA tool is found at https://www.activecountermeasures.com/free-tools/rita/, and it is a Open Source tool that can be used to infuse network traffic analysis into your security monitoring program. RITA allows you to monitor all traffic on your network, identify unusual or suspicious activity, and investigate further as needed. Additionally, RITA can be used to generate reports on network traffic patterns and activity, which can be helpful in troubleshooting
+<br>
+=More Information=
+<br>
+https://www.activecountermeasures.com/free-tools/rita/
+[[Category:Threat & Vulnerability Management]]
+[[Category:Security Information & Event Management (SIEM)]]

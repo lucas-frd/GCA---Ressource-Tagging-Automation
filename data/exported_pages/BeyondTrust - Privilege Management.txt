@@ -1,0 +1,9 @@
+=Description=
+<br>
+The Privilege Management tool from BeyondTrust gives organizations the ability to control user privileges and access to sensitive data and systems. With this tool, organizations can restrict access to only those users who need it, and can also monitor and audit user activity to ensure that privileges are being used appropriately. This tool can help to improve security and compliance, and can also help to reduce the risk of data breaches and other security incidents.
+<br>
+=More Information=
+<br>
+https://www.beyondtrust.com/privilege-management?utm_source=google&utm_medium=cpc&utm_campaign=8657626944&utm_content=486781450708&utm_term=beyondtrust%20privilege%20management&gclid=CjwKCAjwlJimBhAsEiwA1hrp5p0_DZ9IReQY3fnH2qjPvVcSe-EkuxFjZ8DLHnQfMUjXuRbyZ5EsjxoCPxgQAvD_BwE
+[[Category:Know Your Users - Active User List Showing Needs]]
+[[Category:Periodic Know Your Users Reviews]]

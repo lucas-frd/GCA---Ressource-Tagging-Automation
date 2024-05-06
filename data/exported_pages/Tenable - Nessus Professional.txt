@@ -1,0 +1,10 @@
+=Description=
+<br>
+Nessus Professional is a network security analysis tool that can be used to identify vulnerable systems and applications. It can be used to scan for known vulnerabilities, such as those listed in the National Vulnerability Database (NVD), as well as for custom risks specific to your organization. Nessus Professional can be run locally or remotely, and can be configured to scan regularly for new vulnerabilities.
+<br>
+=More Information=
+<br>
+https://www.tenable.com/downloads/nessus?loginAttempted=true
+[[Category:Threat & Vulnerability Management]]
+[[Category:Attack & Penetration Testing]]
+[[Category:Security Testing & Auditing]]

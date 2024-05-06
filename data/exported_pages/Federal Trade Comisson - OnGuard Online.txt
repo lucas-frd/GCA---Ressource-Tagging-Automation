@@ -1,0 +1,19 @@
+=Description=
+<br>
+The Federal Trade Commission’s (FTC) OnGuard Online is a website that provides tips and resources on how to protect your computer, mobile device, and personal information online. The website also has a section where you can report online scams and fraud.
+
+OnGuard Online provides tips on a variety of topics including creating strong passwords, avoiding phishing scams, and protecting your personal information. The website also has a section devoted to helping businesses stay safe online. This section includes tips
+<br>
+=More Information=
+<br>
+https://www.ftc.gov/consumers/onguard-online
+[[Category:Sensitive Data]]
+[[Category:Mobile Devices]]
+[[Category:Recognising Untrustworthy or Inappropriate Applications]]
+[[Category:Exposure to Harmful Content]]
+[[Category:Sending Explicit Images]]
+[[Category:Cyberbullying]]
+[[Category:Scams]]
+[[Category:Phishing]]
+[[Category:Computers (Laptops & Desktops)]]
+[[Category:Privacy Settings]]

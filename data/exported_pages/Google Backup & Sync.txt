@@ -1,0 +1,8 @@
+=Description=
+<br>
+Google Backup & Sync is a tool that helps you backup and sync your files on your computer with your Google Drive account. It makes it easy to access and share your files from anywhere, and keep your files safe and secure.
+<br>
+=More Information=
+<br>
+https://support.google.com/drive/answer/10838124?visit_id=638144100805337508-1078216218&rd=1
+[[Category:Backup & Restoration of Data]]

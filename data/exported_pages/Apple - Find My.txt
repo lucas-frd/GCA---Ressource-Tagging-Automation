@@ -1,0 +1,8 @@
+=Description=
+<br>
+Find My is an organization based in Apple that provides a service aimed at helping users locate their lost or stolen electronic devices. The service was first introduced in 2010 as 'Find My iPhone' and has since expanded to include other Apple products such as iPads, MacBooks, and AirPods. It also offers support for non-Apple devices through its Find My network.
+<br>
+=More Information=
+<br>
+https://support.apple.com/find-my
+[[Category:Location sharing]]

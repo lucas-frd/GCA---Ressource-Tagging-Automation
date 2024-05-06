@@ -1,0 +1,8 @@
+=Description=
+<br>
+InstaSafe ZTAA is a security tool that helps organisations keep their data safe and secure. It provides a secure environment for organisations to store and share data, as well as manage and control access to it. It offers a variety of features to organisations, including data encryption, user authentication, and activity logging. It also provides a self- service portal for organisations to manage their account and settings.
+<br>
+=More Information=
+<br>
+https://www.instasafe.com/ztaa/
+[[Category:Identity & Access Management (IAM)]]

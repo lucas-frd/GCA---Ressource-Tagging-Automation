@@ -1,0 +1,12 @@
+=Description=
+<br>
+Falcon Simulation is a specialized product offered by the cybersecurity company CrowdStrike. It is designed to provide advanced data protection capabilities to organizations of all sizes.
+
+CrowdStrike was founded in 2011 and has since become a leading provider of cloud-delivered endpoint protection solutions. Their products and services are used by organizations worldwide to protect against cyber threats, with a particular focus on endpoint security.
+
+The Falcon Simulation product is an add-on to CrowdStrike's flagship Falcon platform, which provides comprehensive endpoint protection and
+<br>
+=More Information=
+<br>
+https://www.crowdstrike.com/products/data-protection/
+[[Category:Data Loss Prevention (DLP)]]

@@ -1,0 +1,17 @@
+=Description=
+<br>
+This resource provides instructions on how to update apps manually on Apple devices. By default, apps downloaded from the App Store on iPhones and iPads are updated automatically. However, if there is a specific issue or if users prefer to update apps manually, this guide explains the process.
+  
+  To update apps manually, users need to open the App Store and tap on their profile icon at the top of the screen. From there, they can scroll to view pending updates and release notes. By tapping on the Update button next to a specific app, users can update that app individually.
+  
+  This tool allows users to have more control over the app update process on their Apple devices. By manually updating apps, users can choose which apps to update and when to do so. This can be particularly useful if users want to prioritize certain apps or if they prefer to review release notes before updating.
+  
+  Whether users want to turn off automatic updates and update apps manually or simply want to update specific apps individually, this resource provides clear instructions to help them achieve their desired app update preferences.
+<br>
+=More Information=
+<br>
+https://support.apple.com/en-gb/HT202180
+[[Category:Device & Operating System Updates]]
+[[Category:Smart Phones]]
+[[Category:Tablets]]
+[[Category:iOS Devices]]

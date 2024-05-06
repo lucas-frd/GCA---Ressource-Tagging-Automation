@@ -1,0 +1,9 @@
+=Description=
+<br>
+Evidian Enterprise SSO is a centralized authentication solution that allows users to access multiple applications with a single set of credentials. The software provides a secure way to manage passwords and other sensitive information, and includes features such as password recovery, two-factor authentication, and Active Directory integration. Evidian Enterprise SSO is designed to simplify password management for end users, and reduce the risk of unauthorized access to corporate data.
+<br>
+=More Information=
+<br>
+https://www.evidian.com/enterprise-single-sign-on/
+[[Category:Single Sign-On (SSO)]]
+[[Category:User Provisioning & Governance]]

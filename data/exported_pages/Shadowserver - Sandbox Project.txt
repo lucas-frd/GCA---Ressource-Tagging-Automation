@@ -1,0 +1,9 @@
+=Description=
+<br>
+Shadowserver is a nonprofit organization that collects and analyzes data on cybersecurity threats. Its Sandbox Project is a tool that analyzes files submitted by users to identify malware. The tool is available free of charge to anyone who wants to use it.
+<br>
+=More Information=
+<br>
+https://www.shadowserver.org/what-we-do/network-reporting/get-reports
+[[Category:All Businesses]]
+[[Category:National CERTs]]

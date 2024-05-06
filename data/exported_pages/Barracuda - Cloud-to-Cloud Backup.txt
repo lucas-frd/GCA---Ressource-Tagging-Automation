@@ -1,0 +1,12 @@
+=Description=
+<br>
+Barracuda is a leading organization in the field of cloud-to-cloud backup solutions. With headquarters in Campbell, California, the company was founded in 2003 and has since expanded globally, with offices in over 20 countries. Its primary focus is on providing innovative and secure backup solutions for businesses of all sizes, from small startups to large enterprises.
+
+The main product offered by Barracuda in the cloud-to-cloud backup space is the Barracuda Backup Service, which is designed to protect
+<br>
+=More Information=
+<br>
+https://www.barracuda.com/products
+[[Category:Backup & Restoration of Data]]
+[[Category:Data Loss Prevention (DLP)]]
+[[Category:Cloud Security]]

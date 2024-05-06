@@ -1,0 +1,8 @@
+=Description=
+<br>
+RSA Identity Governance and Lifecycle (RSA IGL) is an identity and access management (IAM) solution that enables enterprises to manage user identities, access privileges, and compliance across heterogeneous IT environments. RSA IGL provides a centralized platform for identity management and governance that supports multiple use cases such as user provisioning, access certification, compliance reporting, and privileged user management. RSA IGL includes built-in connectors to leading on-premises and cloud-based identity stores
+<br>
+=More Information=
+<br>
+https://www.rsa.com/en-us/products-services/identity-governance-and-lifecycle
+[[Category:User Provisioning & Governance]]

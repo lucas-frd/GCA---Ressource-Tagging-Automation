@@ -1,0 +1,8 @@
+=Description=
+<br>
+The East Baton Rouge Sheriffs Office is a law enforcement organization that is responsible for investigating and solving criminal cases in East Baton Rouge Parish, Louisiana.
+<br>
+=More Information=
+<br>
+https://www.ebrso.org/WHO-WE-ARE/Divisions/Detectives
+[[Category:Louisiana]]

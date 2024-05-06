@@ -1,0 +1,9 @@
+=Description=
+<br>
+The Open Cybersecurity Alliance (OCSA) is a consortium of technology companies that have committed to working together to advance security technologies and practices. One of the projects they are working on is called the Posture Attribute Collection and Evaluation (PACE) tool. This tool is designed to help organizations assess and improve their cybersecurity posture. It does this by collecting data about an organization's security practices and procedures, and then providing recommendations on how to improve them. PACE is intended to be used
+<br>
+=More Information=
+<br>
+https://opencybersecurityalliance.org/
+[[Category:Developers and Development Organizations]]
+[[Category:Security Personnel]]

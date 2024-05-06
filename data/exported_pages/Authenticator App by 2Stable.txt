@@ -1,0 +1,8 @@
+=Description=
+<br>
+Authenticator App is a 2Stable application that allows users to generate and manage two-factor authentication (2FA) codes for their accounts on websites and applications that support 2FA. The app supports multiple 2FA methods, including time-based one-time password (TOTP) codes, push notifications, and one-time codes. Authenticator App can be used to add an additional layer of security to user accounts on online services, such as email providers, online banking services,
+<br>
+=More Information=
+<br>
+https://2stable.com/
+[[Category:Two-Factor & Multi-Factor Authentication]]

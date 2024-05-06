@@ -1,0 +1,8 @@
+=Description=
+<br>
+The Incident Response Plan Basics resource, found on the website of the Cybersecurity and Infrastructure Security Agency (CISA), is a comprehensive guide for organizations to develop and implement effective incident response plans for handling cybersecurity incidents. This plan is based on the recognition that it is not a matter of if, but when, an organization will face a security incident. A well-designed incident response plan can help an organization minimize the impact of such an incident and quickly resume normal operations.
+<br>
+=More Information=
+<br>
+https://www.cisa.gov/sites/default/files/publications/Incident-Response-Plan-Basics_508c.pdf
+[[Category:Response Plan]]

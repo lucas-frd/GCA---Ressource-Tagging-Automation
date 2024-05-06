@@ -1,0 +1,8 @@
+=Description=
+<br>
+Reconi is a data analysis tool that helps organizations make sense of their data. It uses predictive analytics to identify patterns and relationships in data, and then provides recommendations on how to best use that data. Reconi also includes a visualization tool that allows users to see how their data is related, and how it can be used to improve their business.
+<br>
+=More Information=
+<br>
+https://www.reconi.com/
+[[Category:Two-Factor & Multi-Factor Authentication]]

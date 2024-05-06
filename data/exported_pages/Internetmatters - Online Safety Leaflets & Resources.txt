@@ -1,0 +1,16 @@
+=Description=
+<br>
+This resource offers a collection of free printable e-safety leaflets and resources to promote online safety both in the classroom and at home. The main purpose is to provide parents and educators with tools to help children stay safe while using the internet. 
+  
+  The resource includes age guide leaflets that provide checklists for parents, offering top tips on how to help children stay safe online. These checklists are tailored to different age groups, recognizing that children use the internet in different ways depending on their age.
+  
+  Additionally, the resource offers online issues guides, which provide advice on a range of online issues that children may face. These guides aim to equip parents and educators with the knowledge and understanding to help children navigate the digital world safely.
+  
+  The materials provided can be downloaded or printed, making it easy to share with other parents or colleagues. By distributing these resources, parents and educators can work together to create a safer online environment for children.
+  
+  Overall, this resource serves as a valuable tool for promoting online safety by providing practical information and guidance to parents and educators. It empowers them to support children in making responsible choices and staying safe while using the internet.
+<br>
+=More Information=
+<br>
+https://www.internetmatters.org/resources/esafety-leaflets-resources/
+[[Category:Security Awareness & Training]]

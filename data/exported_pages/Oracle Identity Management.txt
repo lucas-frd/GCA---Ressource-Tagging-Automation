@@ -1,0 +1,9 @@
+=Description=
+<br>
+The Oracle Identity Management tool is a centralized, comprehensive solution for managing users' identities, access, and compliance across an organization. It provides a single location to manage all identity and access related activity, and includes a wide range of features such as user provisioning, role-based access control, identity governance, and auditing. The tool is designed to work with a variety of enterprise applications and systems, and can be deployed on-premises or in the cloud.
+<br>
+=More Information=
+<br>
+https://www.oracle.com/identity-management/
+[[Category:User Provisioning & Governance]]
+[[Category:Identity & Access Management (IAM)]]

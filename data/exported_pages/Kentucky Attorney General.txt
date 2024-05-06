@@ -1,0 +1,8 @@
+=Description=
+<br>
+The Kentucky Attorney General organization is dedicated to investigating and prosecuting cases of cyber crime and providing resources and support for victims of human trafficking.
+<br>
+=More Information=
+<br>
+https://www.ag.ky.gov/Resources/Human-Trafficking/Pages/cyber-safety.aspx#:~:text=Reporting%20Cyber%20Crime,Information%20may%20be%20shared%20anonymously.
+[[Category:Kentucky]]

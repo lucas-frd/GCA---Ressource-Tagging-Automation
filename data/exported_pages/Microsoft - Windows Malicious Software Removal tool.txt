@@ -1,0 +1,9 @@
+=Description=
+<br>
+The Windows Malicious Software Removal tool is a free Microsoft tool that is used to scan and remove specific prevalent malware from Windows computers. The tool is updated regularly with new definitions for new malware, and can be run manually or scheduled to run automatically. The tool is designed to supplement other anti-malware solutions, and is not a replacement for them.
+<br>
+=More Information=
+<br>
+https://support.microsoft.com/en-us/topic/remove-specific-prevalent-malware-with-windows-malicious-software-removal-tool-kb890830-ba51b71f-39cd-cdec-73eb-61979b0661e0
+[[Category:Anti-virus & Anti-malware Software]]
+[[Category:Windows]]

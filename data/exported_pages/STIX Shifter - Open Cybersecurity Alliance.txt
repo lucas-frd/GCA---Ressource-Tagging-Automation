@@ -1,0 +1,10 @@
+=Description=
+<br>
+Structured Threat Information eXpression (STIX™) is a software library and toolchain that allow SOC personnel and threat hunters to query data across many different security tools and have that data all be normalized to a common data format (the OASIS S
+<br>
+=More Information=
+<br>
+https://opencybersecurityalliance.org/
+[[Category:CIS - 14 - Security Awareness and Skills Training]]
+[[Category:Developers and Development Organizations]]
+[[Category:Security Personnel]]

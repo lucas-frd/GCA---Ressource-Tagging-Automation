@@ -1,0 +1,8 @@
+=Description=
+<br>
+The Hideez Authentication Service offers a secure way to manage and store your passwords and sensitive data. It uses a secure server to keep your data safe and encrypted, and you can access it from anywhere with an internet connection. The service offers a variety of features to help you manage your passwords and keep your account safe, including a password generator, password recovery, and two-factor authentication.
+<br>
+=More Information=
+<br>
+https://www.hideez.com/authentication-service/
+[[Category:Identity & Access Management (IAM)]]

@@ -1,0 +1,8 @@
+=Description=
+<br>
+The Wisconsin Department of Justice organization is responsible for overseeing and conducting criminal investigations within the state.
+<br>
+=More Information=
+<br>
+https://www.doj.state.wi.us/dci/division-criminal-investigation-dci
+[[Category:Wisconsin]]

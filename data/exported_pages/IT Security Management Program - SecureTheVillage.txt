@@ -1,0 +1,8 @@
+=Description=
+<br>
+Through a systemically-integrated series of information security and privacy programs, SecureTheVillage provides education, support, and advocacy to the bottom half of the cybersecurity divide - mid-size & smaller organizations, and families & individuals.
+<br>
+=More Information=
+<br>
+https://securethevillage.org/
+[[Category:MSPs and MSSPs]]

@@ -1,0 +1,12 @@
+=Description=
+<br>
+The Election Security tool was created by the Department of Homeland Security (DHS) to help states and localities secure their elections. The tool provides information on the latest threats to elections, as well as resources and guidance on how to protect against those threats. The tool also includes a self-assessment tool that states and localities can use to evaluate their own election security practices.
+<br>
+=More Information=
+<br>
+https://www.dhs.gov/topics/election-security
+[[Category:Risk Reduction]]
+[[Category:Voters]]
+[[Category:Risks & Threats]]
+[[Category:Election Officials & Organizations]]
+[[Category:Risk Self-Assessment]]

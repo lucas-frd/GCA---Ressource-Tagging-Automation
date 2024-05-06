@@ -1,0 +1,8 @@
+=Description=
+<br>
+Omada Identity is an enterprise identity management solution that enables organizations to centrally manage and control user access to applications and resources. It provides a single, unified platform for managing identities, roles, and permissions across an organization's entire IT infrastructure. Omada Identity also offers advanced features such as identity federation, single sign-on, and multi-factor authentication.
+<br>
+=More Information=
+<br>
+https://www.omada.com/products/identity-management/
+[[Category:User Provisioning & Governance]]

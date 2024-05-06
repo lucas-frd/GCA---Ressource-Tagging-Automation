@@ -1,0 +1,12 @@
+=Description=
+<br>
+Kestrel is a threat hunting language aiming to make cyber threat hunting fast by providing a layer of abstraction to build reusable, composable, and shareable hunt-flow. Kestrel sits on top of STIX Shifter and uses it to provide a full universal threat hu
+<br>
+=More Information=
+<br>
+https://opencybersecurityalliance.org/
+[[Category:CIS - 10 - Malware Defenses]]
+[[Category:CIS - 13 - Network Monitoring and Defense]]
+[[Category:CIS - 17 - Incident Response Management]]
+[[Category:Developers and Development Organizations]]
+[[Category:Security Personnel]]

@@ -1,0 +1,8 @@
+=Description=
+<br>
+The resource, 'What is Blockchain Security?' explores what it means to operate secure blockchain networks. It is produced by IBM, a multinational technology company that provides a range of cloud computing, cybersecurity, and blockchain services to businesses and organizations worldwide.
+<br>
+=More Information=
+<br>
+https://www.ibm.com/topics/blockchain-security
+[[Category:Cryptocurrency and Blockchain Security Awareness Education]]

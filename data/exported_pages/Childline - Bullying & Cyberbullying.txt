@@ -1,0 +1,9 @@
+=Description=
+<br>
+Bullying & Cyberbullying is a website created by Childline, an organization that provides support and advice to children in the United Kingdom. The website provides information on what bullying and cyberbullying are, how to spot the signs, and how to get help. It also includes a section for parents and carers, with advice on how to support a child who is being bullied.
+<br>
+=More Information=
+<br>
+https://www.childline.org.uk/info-advice/bullying-abuse-safety/types-bullying/bullying-cyberbullying/
+[[Category:Cyberbullying]]
+[[Category:Hotlines & Services]]

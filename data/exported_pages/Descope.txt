@@ -1,0 +1,10 @@
+=Description=
+<br>
+Descope is a tool that allows users to manage their online identities. It allows users to create and manage their own profiles, as well as connect with other users. Descope also provides tools for managing privacy settings and sharing information with others.
+<br>
+=More Information=
+<br>
+https://descope.com/identity/
+[[Category:Single Sign-On (SSO)]]
+[[Category:Identity & Access Management (IAM)]]
+[[Category:Two-Factor & Multi-Factor Authentication]]

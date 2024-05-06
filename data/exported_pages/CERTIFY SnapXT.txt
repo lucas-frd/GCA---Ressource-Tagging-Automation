@@ -1,0 +1,8 @@
+=Description=
+<br>
+CERTIFY SnapXT is a tool that allows you to take screenshots of your screen and then annotate them. This can be useful for documenting errors, sharing information with others, or just for taking personal notes. The tool is very simple to use – just drag the mouse to select the area you want to capture and then click the “Snap” button. From there, you can add text, arrows, and other annotations to your screenshot. When you’re finished
+<br>
+=More Information=
+<br>
+https://www.certify.com/snapxt/
+[[Category:Two-Factor & Multi-Factor Authentication]]

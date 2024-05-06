@@ -1,0 +1,8 @@
+=Description=
+<br>
+EZGIT is a git repository management tool that aims to make working with git repositories easier. It provides a web-based interface for managing git repositories, as well as a command-line interface for managing repositories from the command line. EZGIT also provides a number of features that aim to make working with git repositories easier, such as the ability to easily create and manage branches, and to easily view the history of a repository.
+<br>
+=More Information=
+<br>
+https://www.ezgit.com/
+[[Category:Single Sign-On (SSO)]]

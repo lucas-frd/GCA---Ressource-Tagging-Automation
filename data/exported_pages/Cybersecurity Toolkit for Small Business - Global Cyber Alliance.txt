@@ -1,0 +1,14 @@
+=Description=
+<br>
+The GCA Cybersecurity Toolkit for Small Business provides free and effective tools to reduce cyber risk. The tools are carefully selected and organized to make it easy to find and implement cybersecurity controls that will help organizations defend themse
+<br>
+=More Information=
+<br>
+https://gcatoolkit.org/smallbusiness/
+[[Category:CIS - 1 - Inventory and Control of Enterprise Assets]]
+[[Category:CIS - 2 - Inventory and Control of Software Assets]]
+[[Category:CIS - 4 - Secure Configuration of Enterprise Assets and Software]]
+[[Category:CIS - 6 - Access Control Management]]
+[[Category:CIS - 9 - Email and Web Browser Protections]]
+[[Category:CIS - 10 - Malware Defenses]]
+[[Category:Small & Medium Sized Businesses]]

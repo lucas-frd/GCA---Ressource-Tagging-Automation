@@ -1,0 +1,8 @@
+=Description=
+<br>
+The Chicago Police Department is a law enforcement agency responsible for maintaining public safety and preventing cybercrime in the city of Chicago.
+<br>
+=More Information=
+<br>
+https://www.chicago.gov/city/en/sites/gearupgetready/home/cybercrime-and-cyber-terrorism.html
+[[Category:Illinois]]

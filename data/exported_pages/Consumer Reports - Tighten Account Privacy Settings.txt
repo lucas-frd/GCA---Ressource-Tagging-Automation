@@ -1,0 +1,12 @@
+=Description=
+<br>
+Tighten Account Privacy Settings is a guide that helps individuals and businesses protect their online privacy by providing guidance on how to adjust and improve various privacy settings. This organization is based on the website consumerreports.org and is part of the Consumer Reports organization.
+
+Consumer Reports is a non-profit organization that has been around for more than 80 years, dedicated to offering unbiased product testing and reporting to help consumers make informed decisions.
+<br>
+=More Information=
+<br>
+https://securityplanner.consumerreports.org/tool/change-your-privacy-settings
+[[Category:Account Protection]]
+[[Category:Data Minimization]]
+[[Category:Data Minimization]]

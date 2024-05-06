@@ -1,0 +1,10 @@
+=Description=
+<br>
+The tool Back Up Your Windows Computer is found at https://securityplanner.consumerreports.org/tool/back-up-your-windows-pc. This is a Consumer Reports tool that helps you create a backup of your Windows PC. The tool will guide you through the process of backing up your files, settings, and applications. It is important to create a backup of your Windows PC in case your computer crashes or you need to reinstall Windows. The tool will help you
+<br>
+=More Information=
+<br>
+https://securityplanner.consumerreports.org/tool/back-up-your-windows-pc
+[[Category:Data Loss Prevention (DLP)]]
+[[Category:Computers (Laptops & Desktops)]]
+[[Category:Backup & Restoration of Data]]

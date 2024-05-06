@@ -1,0 +1,9 @@
+=Description=
+<br>
+AuthX is a authentication tool that allows users to securely login to websites and applications. It uses a variety of factors to verify the identity of the user, including password, username, and email address. AuthX also offers two-factor authentication and integration with popular identity providers such as Google and Facebook.
+<br>
+=More Information=
+<br>
+https://authentx.com/
+[[Category:Biometric]]
+[[Category:Two-Factor & Multi-Factor Authentication]]

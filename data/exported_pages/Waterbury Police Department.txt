@@ -1,0 +1,8 @@
+=Description=
+<br>
+The Waterbury Police Department is an organization with various divisions, including a Detective Division dedicated to investigating and solving criminal cases.
+<br>
+=More Information=
+<br>
+https://www.wtbypd.org/divisions/detective-divisions
+[[Category:Connecticut]]

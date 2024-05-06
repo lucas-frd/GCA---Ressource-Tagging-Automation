@@ -1,0 +1,18 @@
+=Description=
+<br>
+This resource focuses on the topic of cyber security for kids and provides guidance for parents on how to talk to their children about this important issue. It emphasizes the potential risks children face in the digital world and the importance of educating them about cyber security to protect their personal information, identity, and finances.
+  
+  The main purpose of this resource is to equip parents with the knowledge and tools to have effective conversations with their children about cyber security. It recognizes that children may lack awareness or have incorrect information about online safety, making them vulnerable to various threats.
+  
+  The resource highlights the role of parents as the primary educators and provides them with practical advice on how to approach the topic. It emphasizes the significance of teaching children about cyber security as part of their overall education about real-world issues.
+  
+  While the specific features of this resource are not mentioned, it can be inferred that it offers strategies, tips, and talking points for parents to engage their children in discussions about cyber security. It likely provides insights into age-appropriate ways to convey the importance of online safety and may include examples or scenarios to facilitate understanding.
+  
+  Overall, this resource aims to empower parents to address the topic of cyber security with their children, helping them navigate the digital world safely and responsibly.
+<br>
+=More Information=
+<br>
+https://www.getcybersafe.gc.ca/en/blogs/cyber-security-kids-how-parents-can-talk-their-children
+[[Category:Security Awareness & Training]]
+[[Category:Explaining the Risks]]
+[[Category:Planning Your Security Together]]

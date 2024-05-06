@@ -1,0 +1,8 @@
+=Description=
+<br>
+The Certify Authenticator is a security tool that helps organizations to authenticate users and devices. It uses a combination of hardware and software to provide a high level of security. The hardware is used to store the cryptographic keys and to perform the cryptographic operations. The software is used to manage the keys and to provide the interface to the user. The Certify Authenticator is designed to work with a variety of different types of devices, including laptops, smartphones, and tablets. It supports a wide
+<br>
+=More Information=
+<br>
+https://www.certifyauthenticator.com/
+[[Category:Biometric]]

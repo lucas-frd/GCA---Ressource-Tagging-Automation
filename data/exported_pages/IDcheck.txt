@@ -1,0 +1,8 @@
+=Description=
+<br>
+IDcheck is an online service that helps organizations verify the identities of their employees, customers, and partners. The service is used by companies in a variety of industries, including banking, healthcare, government, and e-commerce. IDcheck provides a simple, quick, and effective way to verify identities and prevent fraud. The service is available in over 30 countries and supports a variety of languages.
+<br>
+=More Information=
+<br>
+https://www.idcheck.com/
+[[Category:Biometric]]

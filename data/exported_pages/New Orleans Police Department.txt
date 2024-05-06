@@ -1,0 +1,8 @@
+=Description=
+<br>
+The New Orleans Police Department organization is responsible for investigating and solving criminal cases within the city.
+<br>
+=More Information=
+<br>
+https://nola.gov/nopd/about-us/bureaus/investigation-and-support/criminal-investigative-division/
+[[Category:Louisiana]]

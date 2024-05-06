@@ -1,0 +1,8 @@
+=Description=
+<br>
+Mobile Authenticator is a mobile app that allows users to securely login to their OneSpan account using their fingerprint, face, or a passcode. OneSpan Mobile Authenticator also allows users to generate one-time passcodes for Two-Factor Authentication (2FA), and to securely store their OneSpan login credentials.
+<br>
+=More Information=
+<br>
+https://onespan.com/products/mobile-authenticator/
+[[Category:Two-Factor & Multi-Factor Authentication]]

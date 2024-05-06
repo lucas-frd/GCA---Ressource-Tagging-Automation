@@ -1,0 +1,8 @@
+=Description=
+<br>
+Monitor SLTT devices for signs of malicious or anomalous activity, eliminate false positives, and escalate only actionable items as an alert.
+<br>
+=More Information=
+<br>
+https://www.cisecurity.org/services/managed-security-services-mss
+[[Category:Governments - US State - Local - Tribal - Territorial (SLTT)]]

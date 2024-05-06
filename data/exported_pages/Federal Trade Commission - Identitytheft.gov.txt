@@ -1,0 +1,8 @@
+=Description=
+<br>
+The Federal Trade Commission's Identitytheft.gov is a resource and reporting platform for individuals to report and access information about identity theft.
+<br>
+=More Information=
+<br>
+https://identitytheft.gov/
+[[Category:Federal]]

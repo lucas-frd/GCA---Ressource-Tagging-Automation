@@ -1,0 +1,16 @@
+=Description=
+<br>
+Security Planner is an easy personal security assistant that helps people stay safer online. It provides personalized recommendations and expert advice on topics such as keeping social media accounts from being hacked, locking down devices ranging from sm
+<br>
+=More Information=
+<br>
+https://securityplanner.org,https://securityplanner.consumerreports.org/
+[[Category:CIS - 3 - Data Protection]]
+[[Category:CIS - 5 - Account Management]]
+[[Category:CIS - 6 - Access Control Management]]
+[[Category:CIS - 7 - Continuous Vulnerability Management]]
+[[Category:CIS - 9 - Email and Web Browser Protections]]
+[[Category:CIS - 10 - Malware Defenses]]
+[[Category:CIS - 14 - Security Awareness and Skills Training]]
+[[Category:CIS - 16 - Application Software Security]]
+[[Category:Individuals]]

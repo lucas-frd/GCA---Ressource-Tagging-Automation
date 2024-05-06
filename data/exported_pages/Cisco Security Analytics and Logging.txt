@@ -1,0 +1,10 @@
+=Description=
+<br>
+Cisco Security Analytics and Logging is an organization based in Cisco, a multinational technology company that specializes in networking, security, and collaboration solutions. Cisco Security Analytics and Logging is a branch of Cisco's security division that focuses on providing comprehensive security analytics and logging services to its clients.
+
+One of the key products offered by Cisco Security Analytics and Logging is the Cisco Security Monitoring, Analysis, and Response System (SMARS). This system is designed to provide real-time threat detection, investigation, and remediation capabilities to
+<br>
+=More Information=
+<br>
+https://www.cisco.com/site/us/en/products/security/all-products.html
+[[Category:Logging]]

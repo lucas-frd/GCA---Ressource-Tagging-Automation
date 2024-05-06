@@ -1,0 +1,10 @@
+=Description=
+<br>
+Cloudflare is a global organization that was founded in 2009, with its main headquarters located in San Francisco, California. The company's main goal is to make websites, applications, and APIs fast, reliable, and secure for its customers. Cloudflare has a network of data centers located in over 200 cities around the world, making it one of the largest content delivery networks. 
+
+One of the main products offered by Cloudflare is the Turnstile service, which is designed to protect websites
+<br>
+=More Information=
+<br>
+https://www.cloudflare.com/
+[[Category:Websites & Applications]]

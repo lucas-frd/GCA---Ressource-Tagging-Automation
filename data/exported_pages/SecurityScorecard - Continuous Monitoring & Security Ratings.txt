@@ -1,0 +1,9 @@
+=Description=
+<br>
+The tool Continuous Monitoring & Security Ratings is a web-based tool that allows users to check the security status of their websites and track their progress over time. The tool provides a report card for each site, detailing its Overall Security Score, as well as scores for each of the five Security Factors: Web Application Security, DNS Security, Email Security, Network Security, and Endpoint Security. The tool also offers a risk mitigation report, which provides guidance on how to improve the security of a website
+<br>
+=More Information=
+<br>
+https://securityscorecard.com/instant-security-scorecard/?_bt=543185429756
+[[Category:Professional Risk Assessment]]
+[[Category:Risk Reduction]]

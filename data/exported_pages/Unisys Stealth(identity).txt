@@ -1,0 +1,8 @@
+=Description=
+<br>
+The Unisys Stealth(identity) tool is a cloud-based identity and access management solution that helps organizations to securely manage and share data and resources. The tool provides a centralized platform for managing user identities, roles, and permissions. It enables organizations to granularly control access to data and resources, and to monitor and audit user activity. The tool also provides a self-service portal for users to manage their own accounts and access permissions.
+<br>
+=More Information=
+<br>
+https://www.unisys.com/security/identity-and-access-management/stealth/identity/
+[[Category:Biometric]]

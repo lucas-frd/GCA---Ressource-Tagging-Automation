@@ -1,0 +1,13 @@
+=Description=
+<br>
+The Digital Transformation Hub is an organization dedicated to helping individuals and businesses navigate and succeed in the rapidly-changing digital landscape. It provides resources, guidance, and expertise in areas such as cyber security, data management, and emerging technologies.
+
+Within the Digital Transformation Hub, the importance of cyber security is given significant emphasis. The organization recognizes that with the increasing reliance on technology, the threat of cyber attacks and breaches has also become more prevalent.
+<br>
+=More Information=
+<br>
+https://digitaltransformation.org.au/guides/cyber-security/why-cyber-security-so-important
+[[Category:Digital Literacy Programs]]
+[[Category:Digital Literacy Programs]]
+[[Category:Digital Literacy Programs]]
+[[Category:Security Awareness & Training]]

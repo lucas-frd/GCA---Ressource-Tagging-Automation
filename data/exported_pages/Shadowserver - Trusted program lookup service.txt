@@ -1,0 +1,8 @@
+=Description=
+<br>
+The Trusted program lookup service is a shadowserver that lets users query its database of trusted programs. This can be useful for verifying the legitimacy of a program before running it, or for finding programs that may be malicious. The service provides an API that can be used to query the database. The database is updated periodically, and the service is free to use.
+<br>
+=More Information=
+<br>
+https://www.shadowserver.org/what-we-do/network-reporting/api-trusted-programs-query/
+[[Category:National CERTs]]

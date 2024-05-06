@@ -1,0 +1,9 @@
+=Description=
+<br>
+NordPass Business is a tool designed to help businesses keep their passwords and other sensitive information safe. It provides a secure vault for storing passwords, as well as a password generator to create strong passwords. NordPass also offers a sharing feature, so businesses can share passwords with team members without having to share the master password. NordPass Business is a subscription-based service, with plans starting at $4 per month per user.
+<br>
+=More Information=
+<br>
+https://nordpass.com/business/
+[[Category:Password Managers]]
+[[Category:User Provisioning & Governance]]

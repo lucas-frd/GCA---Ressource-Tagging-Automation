@@ -1,0 +1,10 @@
+=Description=
+<br>
+The Security Management Portal (SMP) is an advanced security management platform offered by Check Point, a leading provider of cyber security solutions and technologies. The portal is designed to provide comprehensive security management and monitoring capabilities for enterprises of all sizes, from small businesses to large corporations.
+
+The main goal of the Security Management Portal is to manage all aspects of an organization's security infrastructure in a simple and effective manner. This includes managing network security policies, tracking security events, monitoring traffic and threats, and responding to
+<br>
+=More Information=
+<br>
+https://www.checkpoint.com/products/
+[[Category:Security Information & Event Management (SIEM)]]

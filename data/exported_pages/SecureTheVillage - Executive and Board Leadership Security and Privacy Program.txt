@@ -1,0 +1,9 @@
+=Description=
+<br>
+The Executive and Board Leadership Security and Privacy Program is a set of tools and resources designed to help organizations improve their security and privacy posture. The program includes a self-assessment tool, educational resources, and a set of best practices for security and privacy. The self-assessment tool helps organizations identify gaps in their security and privacy program, and the educational resources provide guidance on how to address those gaps. The program also includes a set of best practices for security and privacy, which organizations can
+<br>
+=More Information=
+<br>
+https://securethevillage.org/
+[[Category:Developers and Development Organizations]]
+[[Category:Web Developers]]

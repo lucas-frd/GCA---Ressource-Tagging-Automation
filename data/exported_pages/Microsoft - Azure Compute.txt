@@ -1,0 +1,10 @@
+=Description=
+<br>
+Azure Compute is a cloud computing service from Microsoft. It provides a platform for users to create and manage virtual machines (VMs) in the cloud. Azure Compute also offers a wide range of services and features to help users get the most out of their VMs, including monitoring, autoscaling, and load balancing. Azure Compute is a highly scalable and reliable platform that can handle high workloads.
+<br>
+=More Information=
+<br>
+https://azure.microsoft.com/en-us/services/compute/
+[[Category:Single Sign-On (SSO)]]
+[[Category:User Provisioning & Governance]]
+[[Category:Identity & Access Management (IAM)]]

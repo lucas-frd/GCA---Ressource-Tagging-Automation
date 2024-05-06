@@ -1,0 +1,9 @@
+=Description=
+<br>
+The OWASP Top 10 is primarily an awareness document. However, this has not stopped organizations using it as a de facto industry AppSec standard since its inception in 2003. If you want to use the OWASP Top 10 as a coding or testing standard, know that it
+<br>
+=More Information=
+<br>
+https://owasp.org/Top10/A00_2021_Introduction/
+[[Category:CIS - 14 - Security Awareness and Skills Training]]
+[[Category:Web Developers]]

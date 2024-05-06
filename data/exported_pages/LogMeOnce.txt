@@ -1,0 +1,11 @@
+=Description=
+<br>
+LogMeOnce is a password management and authentication platform that provides users with a secure way to login to their accounts and access their data. The platform uses a variety of security measures to protect user data, including two-factor authentication, biometric authentication, and AES-256 bit encryption. LogMeOnce also offers a variety of features to make it easy for users to manage their passwords and authenticate their devices, including a password generator, password strength meter, and the ability to login with a
+<br>
+=More Information=
+<br>
+https://www.logmeonce.com/
+[[Category:Single Sign-On (SSO)]]
+[[Category:User Provisioning & Governance]]
+[[Category:Identity & Access Management (IAM)]]
+[[Category:Two-Factor & Multi-Factor Authentication]]

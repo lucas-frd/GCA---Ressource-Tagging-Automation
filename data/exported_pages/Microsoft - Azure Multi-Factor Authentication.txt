@@ -1,0 +1,8 @@
+=Description=
+<br>
+Azure Multi-Factor Authentication is a cloud-based authentication service that provides an extra layer of security for user sign-ins and transactions. It works by requiring users to provide more than one form of identity verification, such as a password and a phone number. This makes it more difficult for attackers to gain access to accounts, as they would need to have not only the user's password, but also their phone. Azure Multi-Factor Authentication can be used with any type of account, including
+<br>
+=More Information=
+<br>
+https://azure.microsoft.com/en-us/services/active-directory/active-directory-multi-factor-authentication/
+[[Category:Two-Factor & Multi-Factor Authentication]]

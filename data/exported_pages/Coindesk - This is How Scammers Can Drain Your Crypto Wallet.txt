@@ -1,0 +1,8 @@
+=Description=
+<br>
+Coindesk is a global media platform that focuses on the latest news and analysis in the world of cryptocurrency and blockchain technology. The organization was founded in 2013 and is headquartered in New York City. Coindesk provides daily coverage of the most important events and developments in the cryptocurrency space, and also offers in-depth research and analysis on industry trends and market movements.
+<br>
+=More Information=
+<br>
+https://www.coindesk.com/consensus-magazine/2023/06/22/social-engineering-ice-phishing-and-more-how-scammers-can-drain-your-crypto-wallet/
+[[Category:Wallet Transaction Approval Risk Management]]

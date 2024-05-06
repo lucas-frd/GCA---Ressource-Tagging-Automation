@@ -1,0 +1,8 @@
+=Description=
+<br>
+This tool allows you to opt out of data brokers. Data brokers are companies that collect, sell, and/or trade personal information about consumers. This tool provides a list of data brokers and how to opt out of them.
+<br>
+=More Information=
+<br>
+https://github.com/yaelwrites/Big-Ass-Data-Broker-Opt-Out-List
+[[Category:Removing Your Data from the Internet or Devices]]

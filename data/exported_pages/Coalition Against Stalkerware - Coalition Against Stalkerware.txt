@@ -1,0 +1,10 @@
+=Description=
+<br>
+This resource provides information about stalkerware, which refers to software programs, apps, and devices that allow individuals to secretly spy on someone else's private life through their mobile device. Stalkerware enables abusers to remotely monitor various aspects of the targeted person's device, including web searches, geolocation, text messages, photos, and voice calls, among other things. The resource highlights that these programs are readily available for purchase and installation, operating discreetly in the background without the victim's knowledge or consent. It emphasizes that regardless of the accessibility of stalkerware, the abuser remains responsible for their actions.
+ 
+ Please note that the provided description is a concise summary of the resource's main features and purpose.
+<br>
+=More Information=
+<br>
+https://stopstalkerware.org/
+[[Category:Protecting You & Your Childs Personal Information]]

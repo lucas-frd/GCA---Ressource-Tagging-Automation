@@ -1,0 +1,11 @@
+=Description=
+<br>
+The No More Ransom project is a joint initiative by Europol, the Netherlands’ National High Tech Crime Unit, and security companies including Kaspersky, McAfee, Microsoft, and Symantec. The project provides free decryption tools to victims of ransomware, as well as educational resources to help prevent infections. The website also includes a list of known ransomware families and links to related news stories.
+
+The No More Ransom project was launched in July 2016 in response to the
+<br>
+=More Information=
+<br>
+https://www.nomoreransom.org/en/index.html
+[[Category:Hotlines & Services]]
+[[Category:Computer Viruses & Malware]]

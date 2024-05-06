@@ -1,0 +1,8 @@
+=Description=
+<br>
+Cybersecurity Offers is a TechSoup tool that helps organizations find and compare cybersecurity products and services. It offers a searchable database of over 200 vendors, a filtering tool to help identify the right products and services for an organization, and a comparison tool to help organizations compare features and pricing.
+<br>
+=More Information=
+<br>
+https://meet.techsoup.org/what-we-offer/
+[[Category:Nonprofits & Charities]]

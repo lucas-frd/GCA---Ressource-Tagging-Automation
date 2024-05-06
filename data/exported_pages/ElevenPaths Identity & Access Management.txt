@@ -1,0 +1,8 @@
+=Description=
+<br>
+The ElevenPaths Identity & Access Management tool is a complete solution for managing and protecting user identities and data. It offers a centralized platform for managing users, passwords, and permissions, as well as providing advanced features such as two-factor authentication and single sign-on. The tool is designed to work with a variety of applications and systems, making it a versatile solution for managing access to corporate resources.
+<br>
+=More Information=
+<br>
+https://www.elevenpaths.com/identity-access-management/
+[[Category:Identity & Access Management (IAM)]]

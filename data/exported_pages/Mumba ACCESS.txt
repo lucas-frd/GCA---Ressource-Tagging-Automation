@@ -1,0 +1,8 @@
+=Description=
+<br>
+Mumba ACCESS is a first-of-its-kind digital inclusion tool that provides internet access to people who cannot afford it. The tool is currently being piloted in Mumbai, India, and is available in English and Hindi. Mumbai has a population of over 12 million people, with a estimated 70% living in slums. Many of these people do not have access to the internet, which hinders their ability to find jobs, connect with family and friends, and access important
+<br>
+=More Information=
+<br>
+https://www.mumba.com/access/
+[[Category:Single Sign-On (SSO)]]

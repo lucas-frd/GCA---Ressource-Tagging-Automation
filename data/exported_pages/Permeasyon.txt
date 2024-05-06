@@ -1,0 +1,8 @@
+=Description=
+<br>
+Permeasyon is a tool that helps to create and manage permissions for different users in a centralized manner. It allows administrators to control what users can access and what they cannot. It also provides an audit trail so that administrators can track and monitor the activity of users.
+<br>
+=More Information=
+<br>
+https://www.permeasyon.com/
+[[Category:User Provisioning & Governance]]

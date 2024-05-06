@@ -1,0 +1,10 @@
+=Description=
+<br>
+The Patch Management in CloudCare tool is a cloud-based solution that enables organisations to manage and monitor patching activities across their entire IT infrastructure. The tool provides a centralised view of patching activities, enabling organisations to identify and resolve patching issues quickly and efficiently. The tool also includes a patch management workflow, which helps organisations to plan and execute patching activities in a consistent and controlled manner.
+<br>
+=More Information=
+<br>
+https://www.charitydigitalexchange.org/content/patch-management-cloudcare
+[[Category:Patch Management]]
+[[Category:Cloud Security]]
+[[Category:Vulnerability Management]]

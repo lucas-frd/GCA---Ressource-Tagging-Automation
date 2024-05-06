@@ -1,0 +1,12 @@
+=Description=
+<br>
+This resource provides a guide on how to use Tor on macOS, specifically targeting users with beginner to intermediate levels of experience. Tor is a volunteer-run service that aims to enhance privacy and anonymity online by concealing the user's identity and location. The guide outlines the computer requirements, which include an internet connection and a computer running a recent version of macOS (specifically macOS Ventura 13.4). The version of Tor Browser used in this guide is 12.5.
+ 
+ The guide is designed to be completed within a time frame of 15 to 30 minutes. It covers the basics of Tor and its functionality, emphasizing its role in protecting users from surveillance and ensuring online self-defense. The resource does not specify any licensing information but mentions a mix of Free Software licenses.
+ 
+ Overall, this tool serves as a step-by-step tutorial for macOS users who wish to utilize Tor for enhanced privacy and anonymity while browsing the internet. It provides a concise and accessible guide, making it suitable for individuals with varying levels of technical expertise.
+<br>
+=More Information=
+<br>
+https://ssd.eff.org/module/how-use-tor-macos
+[[Category:Browse the Web Securely]]

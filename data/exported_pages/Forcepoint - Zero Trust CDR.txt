@@ -1,0 +1,18 @@
+=Description=
+<br>
+This resource, called Zero Trust CDR by Forcepoint, is a tool designed to address the evolving threat landscape of malware and cyber attacks. The main purpose of Zero Trust CDR is to stop both known and unknown threats, including zero-day attacks, by disarming and reconstructing content.
+
+Zero Trust CDR ensures that files and data delivered to users are threat-free, pixel perfect, fully revisable, and usable in near real-time. It focuses on protecting various aspects of digital communication, including email, cloud environments, file sharing, and web interactions.
+
+By employing a zero-trust approach, this tool aims to provide comprehensive security measures that adapt to the constantly evolving nature of malware. It emphasizes the need for continuous vigilance and proactive defense against cyber threats.
+
+With Zero Trust CDR, users can have confidence in the safety and integrity of the files and data they receive, minimizing the risk of malware infections and unauthorized access. By neutralizing potential threats, this tool helps organizations maintain a secure digital environment and safeguard sensitive information.
+
+Overall, Zero Trust CDR by Forcepoint offers a solution to combat the ever-changing landscape of cyber threats, providing users with a reliable and secure platform for their digital interactions.
+<br>
+=More Information=
+<br>
+https://www.forcepoint.com/product/zero-trust-cdr
+[[Category:Anti-virus & Anti-malware Software]]
+[[Category:Nonprofits & Charities]]
+[[Category:Small & Medium Sized Businesses]]

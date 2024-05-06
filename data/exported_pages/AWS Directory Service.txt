@@ -1,0 +1,8 @@
+=Description=
+<br>
+AWS Directory Service is a service that makes it easy to set up and use a highly available, managed Active Directory (AD) in the AWS cloud. With AWS Directory Service, customers can use AD to manage and authenticate their users, applications, and resources, both on-premises and in the AWS cloud. AWS Directory Service offers two capabilities: Simple AD and Microsoft AD. Simple AD is a standalone managed directory that is ideal for small organizations or organizations that require only basic directory capabilities
+<br>
+=More Information=
+<br>
+https://aws.amazon.com/directoryservice/
+[[Category:User Provisioning & Governance]]

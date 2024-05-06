@@ -1,0 +1,8 @@
+=Description=
+<br>
+SmartSignin is a secure login and password manager that makes it easy to sign in to your online accounts. With SmartSignin, you can easily manage your login information for multiple online accounts in one place. SmartSignin also offers a variety of features to keep your account information safe, including two-factor authentication and password recovery.
+<br>
+=More Information=
+<br>
+https://www.smartsingin.com/
+[[Category:Single Sign-On (SSO)]]

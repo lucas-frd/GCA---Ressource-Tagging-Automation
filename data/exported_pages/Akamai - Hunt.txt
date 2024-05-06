@@ -1,0 +1,12 @@
+=Description=
+<br>
+Hunt is an organization based in Akamai that offers a comprehensive cybersecurity solution for businesses. It was founded in 2017 with the goal of empowering organizations to proactively defend against emerging cyber threats.
+
+Some of the key features of Hunt include real-time monitoring, threat intelligence, and advanced analytics. Hunt leverages Akamai's globally distributed Intelligent Edge platform to collect vast amounts of data from billions of devices and digital interactions. This data is then analyzed using advanced algorithms and machine learning techniques to
+<br>
+=More Information=
+<br>
+https://www.akamai.com/products/hunt
+[[Category:Threat Hunting]]
+[[Category:Threat & Vulnerability Management]]
+[[Category:Patch Management]]

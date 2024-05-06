@@ -1,0 +1,9 @@
+=Description=
+<br>
+OptimalCloud is a cloud-based identity and access management tool. It allows organizations to securely manage user identities, control access to resources, and simplify compliance. OptimalCloud makes it easy to centrally manage users, identities, and access across multiple cloud and on-premises applications. The tool provides a unified view of all users and their access permissions, making it easy to see who has access to what. OptimalCloud also includes powerful features for controlling access, such as user provisioning
+<br>
+=More Information=
+<br>
+https://optimalcloud.com/identity-access-management/
+[[Category:Identity & Access Management (IAM)]]
+[[Category:Two-Factor & Multi-Factor Authentication]]

@@ -1,0 +1,14 @@
+=Description=
+<br>
+This resource, called Umbrella, is a free and open-source app designed to provide users with a comprehensive security handbook. It aims to equip individuals with up-to-date and trustworthy information to enhance their security measures. With Umbrella, users can conveniently access this valuable resource directly from their pocket.
+  
+  Umbrella offers practical steps that users can take to ensure their security while working, traveling, and communicating. It includes guides tailored to different levels of expertise, ranging from beginner to advanced, along with recommendations for security tools and instructions.
+  
+  One of the key features of Umbrella is its ability to keep users informed about the latest security risks in their area. By providing timely updates, Umbrella saves users time and helps them stay vigilant in the field. It's worth noting that the app respects user privacy, as location information remains solely on the user's device, ensuring that tracking is not possible.
+  
+  In summary, Umbrella serves as a comprehensive security resource, providing users with practical steps, recommended tools, and up-to-date information. Its user-friendly interface and accessibility make it a valuable tool for individuals seeking to enhance their security measures.
+<br>
+=More Information=
+<br>
+https://secfirst.org/umbrella/
+[[Category:Security Awareness & Training]]

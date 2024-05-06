@@ -1,0 +1,8 @@
+=Description=
+<br>
+The Wisconsin Department of Justice - Special Operations Bureau is a law enforcement organization focused on investigating complex and high-profile crimes in the state.
+<br>
+=More Information=
+<br>
+https://www.doj.state.wi.us/dci/special-operations-bureau
+[[Category:Wisconsin]]

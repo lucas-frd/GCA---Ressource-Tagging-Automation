@@ -1,0 +1,8 @@
+=Description=
+<br>
+Fujitsu Biometrics-as-a-Service is a cloud-based biometric authentication service that uses fingerprint, iris, and/or facial recognition to verify the identity of users. The service is designed to provide a high level of security for online services, while also being easy to use. It can be used with a variety of devices, including smartphones, laptops, and desktop computers.
+<br>
+=More Information=
+<br>
+https://www.fujitsu.com/global/solutions/security/biometrics-as-a-service/
+[[Category:Biometric]]

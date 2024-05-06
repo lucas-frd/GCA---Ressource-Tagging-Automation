@@ -1,0 +1,8 @@
+=Description=
+<br>
+GRC is a cloud-based solution that enables organizations to automate and simplify their compliance management processes. It provides a central repository for compliance-related information and documentation, and features a workflow management tool to track and assign tasks to specific users. The solution also includes a reporting tool to generate compliance reports on demand.
+<br>
+=More Information=
+<br>
+https://www.profiletailor.com/
+[[Category:User Provisioning & Governance]]

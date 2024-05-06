@@ -1,0 +1,8 @@
+=Description=
+<br>
+ORY is a tool that helps manage identities and authenticate users. It allows businesses to securely store and manage user identity information, as well as provides authentication services to protect user accounts. ORY also provides a self-service portal for users to manage their own account settings and preferences.
+<br>
+=More Information=
+<br>
+https://ory.sh/
+[[Category:User Provisioning & Governance]]

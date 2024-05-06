@@ -1,0 +1,8 @@
+=Description=
+<br>
+ClamAV is an open-source antivirus engine developed by Cisco for the detection of malware, viruses, and malicious software. It is available for Linux, Windows, and MacOS. ClamAV provides a command-line interface as well as a graphical user interface. It can scan files, directories, emails, and web traffic in real-time. ClamAV is used by many organizations, including government agencies, schools, and businesses.
+<br>
+=More Information=
+<br>
+http://www.clamav.net/
+[[Category:Anti-virus & Anti-malware Software]]

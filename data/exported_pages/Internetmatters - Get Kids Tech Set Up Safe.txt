@@ -1,0 +1,13 @@
+=Description=
+<br>
+This resource provides step-by-step controls and privacy guides to help parents set up safe technology for their children. It aims to empower children to create, connect, and share online in a secure manner. The Digital Resilience Toolkit is also available to assist children in developing resilience and safe online practices as they grow. Additionally, the resource offers tips and guides for parents on how to set up smart speakers safely, ensuring a secure digital environment for their children. 
+  
+  The Top 10 Smart Tech 2019 Edition features a selection of smart tech toys and gadgets specifically chosen for kids, prioritizing their safety in the digital realm. Furthermore, the resource provides advice from Dr. Linda, an expert in the field, to help children navigate the online world with confidence and caution. 
+  
+  Overall, this resource aims to equip parents with the necessary tools and knowledge to ensure their children's safety while using technology. By following the step-by-step controls, privacy guides, and utilizing the Digital Resilience Toolkit, parents can create a secure online environment for their children to explore, learn, and connect.
+<br>
+=More Information=
+<br>
+https://www.internetmatters.org/setupsafe/
+[[Category:Understanding Parental Controls]]
+[[Category:Planning Your Security Together]]

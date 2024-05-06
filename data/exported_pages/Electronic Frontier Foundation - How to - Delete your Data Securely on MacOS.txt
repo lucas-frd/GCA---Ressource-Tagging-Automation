@@ -1,0 +1,15 @@
+=Description=
+<br>
+This resource provides instructions on how to securely delete data on macOS. It emphasizes the importance of using FileVault 2 to encrypt the entire drive, which helps protect sensitive information. By encrypting the drive, users can control access to the master encryption key, making it easier to ensure data is irretrievable.
+ 
+ The article advises that the instructions provided are specifically for securely deleting data from individual files or folders, rather than the entire drive. It is recommended to use FileVault 2 for comprehensive data protection.
+ 
+ The resource acknowledges that modern versions of macOS prompt users to enable FileVault 2, and strongly recommends taking this step to safeguard data. By encrypting the entire drive, users can minimize the need for secure deletion methods, as the master encryption key provides an additional layer of security.
+ 
+ Overall, this resource aims to guide macOS users on how to securely delete data from specific files or folders. It highlights the importance of encrypting the entire drive using FileVault 2 to enhance data protection.
+<br>
+=More Information=
+<br>
+https://ssd.eff.org/module/how-delete-your-data-securely-macos
+[[Category:Protecting You & Your Childs Personal Information]]
+[[Category:Removing Your Data from the Internet or Devices]]

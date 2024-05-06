@@ -1,0 +1,10 @@
+=Description=
+<br>
+Broadcom Symantec Identity Manager is a leading organization in the field of cybersecurity, providing comprehensive solutions for identity and access management. Based in Broadcom, the company serves clients globally with their innovative and advanced software solutions.
+
+The organization's main focus is on helping businesses secure their digital assets and protect against cyber threats. With the ever-increasing volume and complexity of data, identity management has become a critical aspect of cybersecurity, and Broadcom Symantec Identity Manager is at the forefront of providing cutting-edge solutions
+<br>
+=More Information=
+<br>
+https://www.broadcom.com/products#cybersecurity
+[[Category:Identity & Access Management (IAM)]]

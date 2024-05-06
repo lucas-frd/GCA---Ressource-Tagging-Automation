@@ -1,0 +1,10 @@
+=Description=
+<br>
+The Email & Productivity Suites Protection organization, based in Check Point, is a leading provider of cybersecurity solutions for businesses. The organization offers a comprehensive suite of products designed to protect email and other productivity tools from a wide range of cyber threats.
+
+One of the key products offered by the organization is Check Point CloudGuard SaaS. This solution provides advanced threat prevention capabilities for popular cloud productivity suites such as Microsoft Office 365 and Google G Suite. It includes features like email and document sanitization, data
+<br>
+=More Information=
+<br>
+https://www.checkpoint.com/products/
+[[Category:Email & Other Communications]]

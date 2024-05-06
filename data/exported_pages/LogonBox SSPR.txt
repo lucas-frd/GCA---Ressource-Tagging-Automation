@@ -1,0 +1,8 @@
+=Description=
+<br>
+LogonBox SSPR is an authentication and identity management tool that helps organizations to securely authenticate users and manage their identities. It provides a centralized platform for managing user accounts and passwords, as well as for providing Single Sign-On (SSO) capabilities across different applications and services. LogonBox SSPR uses strong authentication methods, such as two-factor authentication, to ensure that only authorized users can access the system. It also provides a self-service password reset feature,
+<br>
+=More Information=
+<br>
+https://www.logonbox.com/
+[[Category:Single Sign-On (SSO)]]

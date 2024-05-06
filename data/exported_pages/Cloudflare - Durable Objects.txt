@@ -1,0 +1,10 @@
+=Description=
+<br>
+Cloudflare is a content delivery network (CDN) and security provider based in San Francisco, California. It was founded by Matthew Prince, Lee Holloway, and Michelle Zatlyn in 2009, with the aim of making the internet faster and more secure. Cloudflare offers a range of products and services which includes content delivery, DDoS protection, web optimization, and DNS services.
+
+Durable Objects is an organization found within Cloudflare, and it offers a unique type of server
+<br>
+=More Information=
+<br>
+https://www.cloudflare.com/
+[[Category:Cloud Security]]

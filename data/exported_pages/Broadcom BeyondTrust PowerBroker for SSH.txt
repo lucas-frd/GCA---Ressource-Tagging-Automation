@@ -1,0 +1,10 @@
+=Description=
+<br>
+Broadcom BeyondTrust PowerBroker for SSH is a cybersecurity solution offered by Broadcom, a leading global technology company based in California, United States. The organization specializes in developing and providing high-performance semiconductors, software platforms, and solutions for a wide range of industries including telecommunications, data center, networking, wireless, and storage.
+
+The PowerBroker for SSH is a part of Broadcom's BeyondTrust portfolio, which offers a comprehensive set of privileged access management solutions to protect organizations from cyber threats. This
+<br>
+=More Information=
+<br>
+https://www.broadcom.com/products#cybersecurity
+[[Category:Privileged Access Management (PAM)]]

@@ -1,0 +1,9 @@
+=Description=
+<br>
+Google Play Protect is a security tool that is designed to help keep your apps safe and your data private. It comes pre-installed on all Android devices that use Google Play, and it runs in the background to scan your device and apps for malware. If it finds anything that it thinks is harmful, it will show a warning and give you the option to remove the app or data.
+<br>
+=More Information=
+<br>
+https://support.google.com/accounts/answer/2812853?hl=en
+[[Category:Recognising Untrustworthy or Inappropriate Applications]]
+[[Category:Anti-virus & Anti-malware Software]]

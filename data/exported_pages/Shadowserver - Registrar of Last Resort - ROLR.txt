@@ -1,0 +1,10 @@
+=Description=
+<br>
+The Registrar of Last Resort (ROLR) is a tools that helps to identify shadow servers. This tools uses data from the European Commission's Joint Research Centre (JRC) and other organisations to create a list of active and historical IP addresses. The ROLR can be used to identify when a server is no longer active, as well as to find out the location and contact details of the server's owner.
+<br>
+=More Information=
+<br>
+https://www.rolr.eu/
+[[Category:Cybersecurity Providers]]
+[[Category:Law Enforcement]]
+[[Category:National CERTs]]

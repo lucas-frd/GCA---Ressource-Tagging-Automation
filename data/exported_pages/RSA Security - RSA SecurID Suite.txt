@@ -1,0 +1,8 @@
+=Description=
+<br>
+RSA SecurID Suite is a set of tools that provide authentication and authorization services. The suite includes a variety of tools that can be used to manage users, devices, and access control policies. The suite also provides a number of security features that can be used to protect data and prevent unauthorized access.
+<br>
+=More Information=
+<br>
+https://www.rsa.com/products/securid/
+[[Category:Biometric]]

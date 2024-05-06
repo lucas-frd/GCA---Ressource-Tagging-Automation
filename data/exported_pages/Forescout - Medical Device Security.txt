@@ -1,0 +1,18 @@
+=Description=
+<br>
+This resource focuses on medical device security and its importance in ensuring patient safety and data protection. The main feature of this resource is Forescout's unique approach to medical device security, which aims to provide insights and control for the entire network without disrupting critical business processes.
+
+The resource highlights the increasing threat landscape in the healthcare industry, with numerous connected devices and diverse motives driving bad actors. It emphasizes the need for a comprehensive security solution to combat these challenges.
+
+The main tool offered by Forescout is the Forescout Platform, which combines various discovery techniques with cloud-powered intelligence. This platform is designed to assess and monitor every medical device connected to the clinical network. By doing so, it enables healthcare organizations to gain a deeper understanding of their network's security posture and identify potential vulnerabilities.
+
+The resource does not provide specific details about the discovery techniques or cloud-powered intelligence used by the Forescout Platform. However, it emphasizes the platform's ability to deliver unparalleled insights and control, suggesting that it offers advanced capabilities for medical device security.
+
+Overall, this resource aims to educate healthcare professionals about the importance of medical device security and introduces Forescout's approach as a potential solution. It provides a brief overview of the main features of the Forescout Platform, highlighting its ability to assess and monitor connected medical devices.
+<br>
+=More Information=
+<br>
+https://www.forescout.com/solutions/medical-device-security/
+[[Category:Endpoint Detection and Response (EDR)]]
+[[Category:Threat & Vulnerability Management]]
+[[Category:Configuration Management]]

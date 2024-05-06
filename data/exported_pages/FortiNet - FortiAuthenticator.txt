@@ -1,0 +1,8 @@
+=Description=
+<br>
+FortiAuthenticator is a one-stop solution for user authentication, providing powerful centralized management for Fortinet's industry-leading security platforms. Offering support for a wide range of authentication methods, including two-factor authentication, FortiAuthenticator simplifies the deployment and administration of authentication across the network. Additionally, FortiAuthenticator provides detailed audit logging and supports integration with a wide range of third-party identity management solutions.
+<br>
+=More Information=
+<br>
+https://www.fortinet.com/products/fortiauthenticator/fortiauthenticator-overview
+[[Category:Identity & Access Management (IAM)]]

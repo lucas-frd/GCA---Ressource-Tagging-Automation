@@ -1,0 +1,8 @@
+=Description=
+<br>
+IDHub is a cloud-based identity management and authentication platform that enables users to securely access and share data online. The platform provides a single sign-on (SSO) solution that allows users to login to multiple applications and websites with one set of credentials. It also includes a user management system that allows administrators to manage user roles and permissions, as well as a set of APIs that can be used to integrate IDHub with third-party applications.
+<br>
+=More Information=
+<br>
+https://www.idhub.com/
+[[Category:Identity & Access Management (IAM)]]

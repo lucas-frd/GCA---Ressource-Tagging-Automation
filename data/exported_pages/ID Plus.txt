@@ -1,0 +1,8 @@
+=Description=
+<br>
+The ID Plus is a secure identity verification and authentication tool that helps organisations to protect their online services and transactions. It does this by verifying the identity of users through a combination of personal information, digital signatures and biometrics. The ID Plus is easy to use and can be integrated into existing online systems and processes. It is backed by a team of experts who are available to support organisations in setting up and using the tool.
+<br>
+=More Information=
+<br>
+https://www.idplus.com/
+[[Category:Identity & Access Management (IAM)]]

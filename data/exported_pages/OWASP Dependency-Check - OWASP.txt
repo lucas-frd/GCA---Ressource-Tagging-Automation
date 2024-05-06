@@ -1,0 +1,9 @@
+=Description=
+<br>
+Dependency-Check is a Software Composition Analysis (SCA) tool that attempts to detect publicly disclosed vulnerabilities contained within a project’s dependencies. It does this by determining if there is a Common Platform Enumeration (CPE) identifier f
+<br>
+=More Information=
+<br>
+https://owasp.org/www-project-dependency-check/
+[[Category:CIS - 7 - Continuous Vulnerability Management]]
+[[Category:Developers and Development Organizations]]

@@ -1,0 +1,10 @@
+=Description=
+<br>
+Since 2004, the APWG Phishing Activity Trends Report, now quarterly, analyzes phishing attacks and other cybercrime events reported to the APWG by its member companies, institutions and national government agencies, through the organization’s website at
+<br>
+=More Information=
+<br>
+https://apwg.org/trendsreports
+[[Category:All Businesses]]
+[[Category:Governments and Intergovernmental Organizations]]
+[[Category:Individuals]]

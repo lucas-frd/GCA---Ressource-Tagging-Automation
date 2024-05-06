@@ -1,0 +1,10 @@
+=Description=
+<br>
+Falcon Insight XDR is an advanced endpoint detection and response (EDR) tool offered by CrowdStrike, a leading cybersecurity company. The XDR in its name stands for extended detection and response, indicating its capabilities to not only detect threats but also respond to them.
+
+The organization is based at CrowdStrike which was founded in 2011 and is headquartered in Sunnyvale, California. CrowdStrike is recognized as a global leader in cloud-delivered endpoint and workload protection. The company's mission is
+<br>
+=More Information=
+<br>
+https://www.crowdstrike.com/products/bundles/falcon-enterprise/
+[[Category:Endpoint Security]]

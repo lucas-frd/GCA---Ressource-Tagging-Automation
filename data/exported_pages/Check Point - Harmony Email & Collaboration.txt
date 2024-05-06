@@ -1,0 +1,10 @@
+=Description=
+<br>
+Harmony Email & Collaboration is an organization based in Check Point, a multinational company that specializes in providing security solutions for networks, data, and endpoints. Check Point was founded in 1993 and has since become one of the leading cybersecurity companies in the world, working with businesses of all sizes, as well as governments and individuals.
+
+Harmony Email & Collaboration is a division of Check Point that focuses on providing secure email and collaboration solutions for organizations. Their products aim to protect organizations from cyber threats such
+<br>
+=More Information=
+<br>
+https://www.checkpoint.com/products/
+[[Category:Email & Other Communications]]

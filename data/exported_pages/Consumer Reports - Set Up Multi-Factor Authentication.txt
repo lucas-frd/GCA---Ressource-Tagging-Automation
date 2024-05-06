@@ -1,0 +1,8 @@
+=Description=
+<br>
+The tool Set Up Multi-Factor Authentication is designed to help users set up a multi-factor authentication system for their accounts. The tool guides users through the process of selecting an authentication method, setting up their authentication devices, and configuring their account settings. The tool also provides instructions on how to use the authentication system and troubleshoot any issues that may arise.
+<br>
+=More Information=
+<br>
+https://securityplanner.consumerreports.org/tool/set-up-multifactor-authentication-mfa
+[[Category:Two-Factor & Multi-Factor Authentication]]

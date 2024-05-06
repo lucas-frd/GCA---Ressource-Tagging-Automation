@@ -1,0 +1,8 @@
+=Description=
+<br>
+Cross Identity is a tool that allows users to manage and protect their online identities. It allows users to create and manage multiple online identities, as well as to share and manage their personal information. It also provides tools to help users stay anonymous online, and to protect their privacy.
+<br>
+=More Information=
+<br>
+https://www.crossidentity.com/
+[[Category:Password Managers]]

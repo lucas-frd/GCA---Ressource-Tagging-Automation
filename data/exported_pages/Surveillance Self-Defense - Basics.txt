@@ -1,0 +1,10 @@
+=Description=
+<br>
+Surveillance Self-Defense (SSD) is an organization that was created by the Electronic Frontier Foundation (EFF) to educate individuals on how to protect their privacy and security in the digital age. Their Basics category on their website is designed to provide users with an overview of key concepts and tools for maintaining online privacy and security.
+
+The Basics category is divided into five modules: Threat Modeling, Passwords, Browser Security, Encrypting Your Devices, and Physical Security.
+<br>
+=More Information=
+<br>
+https://ssd.eff.org/module-categories/basics
+[[Category:Security Awareness]]

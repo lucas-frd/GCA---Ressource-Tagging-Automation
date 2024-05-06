@@ -1,0 +1,10 @@
+=Description=
+<br>
+Quantum SASE Internet Access is an organization that specializes in providing secure access to the internet for businesses and organizations. It is a product offered by Check Point, a leading cybersecurity company based in Israel. Check Point was founded in 1993 by Gil Shwed and is currently headquartered in Tel Aviv.
+
+Quantum SASE (Secure Access Service Edge) Internet Access is a comprehensive solution that combines networking and security technologies to deliver secure and fast internet access for the modern workforce. It enables organizations to access
+<br>
+=More Information=
+<br>
+https://www.checkpoint.com/products/
+[[Category:Cloud Security]]

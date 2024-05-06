@@ -1,0 +1,8 @@
+=Description=
+<br>
+How to Protect Sensitive Data is a resource provided by Polar, an information security consulting and training company. This organization specializes in helping businesses and individuals protect their sensitive data from cyber threats and data breaches.
+<br>
+=More Information=
+<br>
+https://www.polar.security/post/how-to-protect-sensitive-data
+[[Category:Sensitive Data]]

@@ -1,0 +1,8 @@
+=Description=
+<br>
+AxCrypt is a free, open source, GNU GPL-licensed encryption tool for Windows that prides itself on being simple, efficient, and easy to use. It integrates seamlessly with Windows to allow you to encrypt, decrypt, secure delete, and manage your files. AxCrypt is compatible with Windows 7, 8, 10 and Vista.
+<br>
+=More Information=
+<br>
+https://www.axcrypt.net/
+[[Category:Password Managers]]

@@ -1,0 +1,8 @@
+=Description=
+<br>
+The CoreOne Suite is a set of tools designed to help organizations manage their core business processes. The suite includes a variety of modules that can be used to manage customer relationships, financials, human resources, and other core business functions. The modules are designed to work together to provide a complete solution for managing an organization's core business processes. The suite includes a web-based interface that makes it easy to access the modules and data from any computer with an internet connection. The suite also includes
+<br>
+=More Information=
+<br>
+https://www.coreonesuite.com/
+[[Category:Identity & Access Management (IAM)]]

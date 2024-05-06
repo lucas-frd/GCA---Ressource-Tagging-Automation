@@ -1,0 +1,10 @@
+=Description=
+<br>
+Checkov is a static code analysis tool that scans codebases for potential security vulnerabilities. It can be used to scan Infrastructure-as-Code (IaC) templates, application code, and even commit history for sensitive information. Checkov integrates with popular IaC frameworks such as Terraform, CloudFormation, and Kubernetes.
+
+Checkov is designed to be simple to use, with a minimal learning curve. It can be run from the command line or
+<br>
+=More Information=
+<br>
+https://github.com/bridgecrewio/checkov
+[[Category:Threat & Vulnerability Management]]

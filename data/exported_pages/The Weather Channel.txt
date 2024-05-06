@@ -1,0 +1,10 @@
+=Description=
+<br>
+The Weather Channel, found at https://weather.com/, is a trusted global weather and news provider that has been delivering reliable information and personalized forecasts for over 35 years. It is based in the United States and is owned by IBM, who acquired the channel in 2016.
+
+The organization's main objective is to provide its users with accurate and up-to-date weather information in order to help them make informed decisions based on weather conditions.
+<br>
+=More Information=
+<br>
+https://weather.com/
+[[Category:Weather apps]]

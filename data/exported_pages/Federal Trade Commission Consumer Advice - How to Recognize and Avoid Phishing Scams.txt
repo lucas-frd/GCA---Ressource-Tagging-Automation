@@ -1,0 +1,8 @@
+=Description=
+<br>
+The Federal Trade Commission (FTC) is an independent agency of the United States government whose mission is to protect consumers from deceptive and unfair business practices. It was created in 1914 by the Federal Trade Commission Act and is headed by a five-member commission appointed by the President and approved by the Senate. The FTC's Consumer Protection Bureau provides educational resources and tips for consumers to help them recognize and avoid scams, including phishing scams.
+<br>
+=More Information=
+<br>
+https://consumer.ftc.gov/articles/how-recognize-and-avoid-phishing-scams
+[[Category:Phishing]]

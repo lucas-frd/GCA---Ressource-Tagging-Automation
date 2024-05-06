@@ -1,0 +1,8 @@
+=Description=
+<br>
+FortiAuthenticator is a powerful, yet easy to use, tool that helps organizations to authentication and authorization of users across different systems. It provides a centralized location for all user accounts and supports multiple user directories including Active Directory, LDAP, and Radius. FortiAuthenticator also includes a built-in identity management system that allows for the creation and management of user accounts, passwords, and permissions. It also includes a host of features such as two-factor authentication, Single Sign-On
+<br>
+=More Information=
+<br>
+https://www.fortinet.com/products/fortiauthenticator
+[[Category:Single Sign-On (SSO)]]

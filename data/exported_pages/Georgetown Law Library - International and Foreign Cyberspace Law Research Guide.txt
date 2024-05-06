@@ -1,0 +1,8 @@
+=Description=
+<br>
+The International and Foreign Cyberspace Law Research Guide, hosted by the Georgetown Law Library, is a comprehensive resource for legal professionals, researchers, and students interested in the rapidly evolving field of international and foreign cyberspace law.
+<br>
+=More Information=
+<br>
+https://guides.ll.georgetown.edu/cyberspace/cyber-crime-igos-and-ngos
+[[Category:Legal Considerations]]

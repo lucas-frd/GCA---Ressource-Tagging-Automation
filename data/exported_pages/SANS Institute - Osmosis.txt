@@ -1,0 +1,10 @@
+=Description=
+<br>
+One of the main goals of the OpenStreetMap project is to create a free and open map of the world. To achieve this, the project relies on the voluntary efforts of thousands of people who contribute data to the map.
+
+Osmosis is a tool that helps manage this data by providing a way to extract, transform, and load OpenStreetMap data. The tool can be used to convert data from one format to another, to filter data based on certain criteria, or to
+<br>
+=More Information=
+<br>
+https://wiki.openstreetmap.org/wiki/Osmosis
+[[Category:Incident Reporting & Recovery]]

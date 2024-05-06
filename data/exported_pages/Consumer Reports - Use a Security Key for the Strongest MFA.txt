@@ -1,0 +1,8 @@
+=Description=
+<br>
+The Use a Security Key for the Strongest MFA tool from Consumer Reports helps users understand how to use a security key for two-factor authentication (2FA) to protect their accounts. The tool provides an overview of security keys and how they work, and offers guidance on how to choose a security key that best meets users' needs. The tool also includes instructions on how to set up a security key and use it for 2FA. This tool is designed to help users make
+<br>
+=More Information=
+<br>
+https://securityplanner.consumerreports.org/tool/use-a-security-key-for-strongest-mfa
+[[Category:Two-Factor & Multi-Factor Authentication]]

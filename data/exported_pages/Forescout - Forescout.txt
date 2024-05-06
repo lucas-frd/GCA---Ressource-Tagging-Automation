@@ -1,0 +1,22 @@
+=Description=
+<br>
+This resource provides a comprehensive suite of solutions for identifying, protecting, and ensuring the compliance of every cyber asset, including IT, OT, IoT, and IoMT. Forescout, recognized as the overall innovation leader in Frost & Sullivan's NAC Market Radar report, offers a range of tools to address various cybersecurity challenges.
+
+One of the key features of this resource is its ability to modernize SIEM/SOC operations. By adopting next-generation SIEM/XDR technology, organizations can bid farewell to legacy SIEM costs and alert fatigue. This enables more efficient and effective threat detection and response, reducing the risk of service disruptions and revenue loss.
+
+Additionally, this resource emphasizes the importance of zero downtime. With its OT/ICS discovery, assessment, threat detection, and response capabilities, organizations can proactively avoid service disruptions and potential revenue loss.
+
+Another notable feature of this resource is its risk and exposure management capabilities. It enables organizations to identify, quantify, and prioritize cybersecurity risks and compliance requirements. This helps organizations make informed decisions and allocate resources effectively to mitigate potential threats.
+
+Overall, this resource offers a comprehensive suite of solutions to address the evolving cybersecurity landscape. By leveraging its innovative tools, organizations can enhance their cybersecurity posture, protect their assets, and ensure compliance with industry regulations.
+<br>
+=More Information=
+<br>
+https://www.forescout.com/
+[[Category:Know What You Have - Create an Inventory]]
+[[Category:Security Information & Event Management (SIEM)]]
+[[Category:Threat & Vulnerability Management]]
+[[Category:Configuration Management]]
+[[Category:Secure Network Configuration]]
+[[Category:Systems, Devices, Applications, and Services]]
+[[Category:IoT Devices]]

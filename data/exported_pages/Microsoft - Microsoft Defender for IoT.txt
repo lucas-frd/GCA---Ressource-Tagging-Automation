@@ -1,0 +1,9 @@
+=Description=
+<br>
+Microsoft Defender for IoT is a security tool that helps protect devices and data on IoT networks. It provides a unified security platform that helps to identify and defend against threats. It also helps to monitor and manage IoT devices and data.
+<br>
+=More Information=
+<br>
+https://www.microsoft.com/en-us/security/business/endpoint-security/microsoft-defender-iot#tabx2ee7b4cedc804d74a4570d0a2698366b
+[[Category:IoT Device Management]]
+[[Category:Threat & Vulnerability Management]]

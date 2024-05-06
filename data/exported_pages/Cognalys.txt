@@ -1,0 +1,8 @@
+=Description=
+<br>
+Cognalys is a mobile verification and authentication tool that uses missed calls to verify a user's mobile number. It is a free and easy-to-use service that does not require a user to enter any personal information or PIN codes. Instead, the user's mobile number is used as their identification and they verify their identity by entering a verification code sent to their mobile number via an automated call. This makes it more secure than other methods of mobile verification, such as SMS-based verification
+<br>
+=More Information=
+<br>
+https://www.cognalys.com/
+[[Category:Two-Factor & Multi-Factor Authentication]]

@@ -1,0 +1,10 @@
+=Description=
+<br>
+Firewall Everywhere is an organization that provides advanced cloud security solutions. It is based in CloudCover, a platform that offers a secure and scalable cloud infrastructure. The organization aims to protect businesses and organizations from cyber threats by offering a comprehensive firewall service.
+
+Firewall Everywhere's platform is designed to be easy to use and customizable, allowing clients to create specific rules and policies to fit their unique needs. The platform's main focus is on protecting cloud environments, ensuring the safety of data and applications hosted in the
+<br>
+=More Information=
+<br>
+https://cloudcover.cc/ccb1-platform/
+[[Category:Firewalls]]

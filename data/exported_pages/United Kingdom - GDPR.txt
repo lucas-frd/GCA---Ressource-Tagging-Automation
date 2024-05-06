@@ -1,0 +1,8 @@
+=Description=
+<br>
+The UK's implementation of the EU's General Data Protection Regulation.
+<br>
+=More Information=
+<br>
+https://ico.org.uk/
+[[Category:Laws About Your Personal Information]]

@@ -1,0 +1,17 @@
+=Description=
+<br>
+This resource provides users with the latest stable version (Community Edition) of a software. It is recommended for all installations and offers various features and options for different system configurations. Users can refer to the documentation for installation and upgrade instructions. 
+
+To download the software, users can select the desired version and file type from the provided options. The available options include AMD64 (64-bit), Netgate ADI, USB Memstick Installer, and DVD Image (ISO) Installer. Users can also choose between Serial and VGA options for their installation. 
+
+The resource offers multiple mirror locations, including Austin, TX USA, Frankfurt, Germany, and Singapore, to ensure efficient and reliable downloads. 
+
+Additionally, users have the option to subscribe to the Netgate Newsletter, which provides product information, pfSense software announcements, and special offers. They can also access the resource's archive for past newsletters. 
+
+Overall, this resource aims to provide users with the most recent stable version of the software, along with various installation options and additional resources for support and updates.
+<br>
+=More Information=
+<br>
+https://www.pfsense.org/download/
+[[Category:Applications]]
+[[Category:Application Security]]

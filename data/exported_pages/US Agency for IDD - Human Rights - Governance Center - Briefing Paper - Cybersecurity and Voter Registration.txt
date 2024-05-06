@@ -1,0 +1,8 @@
+=Description=
+<br>
+This agency provides a briefing paper discussing cybersecurity and voter registration. The paper highlights the importance of securing voter registration databases, which may contain sensitive information such as names, addresses, and Social Security numbers. It also outlines some common threats to these databases and offers recommendations for how to protect them.
+<br>
+=More Information=
+<br>
+f
+[[Category:Voters]]

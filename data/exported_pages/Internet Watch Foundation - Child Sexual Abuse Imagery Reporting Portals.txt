@@ -1,0 +1,18 @@
+=Description=
+<br>
+This resource, the IWF Reporting Portals, provides a mechanism for reporting online child sexual abuse imagery in countries that lack this facility. By collaborating with local governments, police, industry, funders, and charities, the IWF offers a platform for reporting suspected online child sexual abuse directly to their analysts in the UK. 
+  
+  The purpose of these reporting portals is to extend the fight against child sexual abuse imagery and the criminals who harm children worldwide. By providing a simple and accessible way to share their expertise, knowledge, and experience, the IWF aims to empower countries that previously lacked a reporting mechanism.
+  
+  Through this resource, individuals can contribute to the global effort to combat online child sexual abuse by reporting suspicious content. The IWF's analysts in the UK will then assess and take appropriate action against the reported material.
+  
+  The main features of the IWF Reporting Portals include a user-friendly interface that allows individuals to submit reports easily. The portals are designed to ensure that the reporting process is straightforward and accessible to users from different countries and backgrounds.
+  
+  By establishing these reporting portals, the IWF aims to facilitate collaboration between various stakeholders, including governments, law enforcement agencies, industry partners, funders, and charities. This collective effort strengthens the fight against online child sexual abuse imagery and helps protect children worldwide.
+  
+  In summary, the IWF Reporting Portals provide a vital resource for reporting online child sexual abuse imagery in countries without existing reporting mechanisms. By offering a direct link to their analysts in the UK, the IWF aims to extend the fight against child sexual abuse and contribute to the global effort to protect children from harm.
+<br>
+=More Information=
+<br>
+https://www.iwf.org.uk/about-us/our-international-work/reporting-portals/
+[[Category:Hotlines & Services]]

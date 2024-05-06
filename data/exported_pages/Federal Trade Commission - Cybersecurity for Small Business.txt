@@ -1,0 +1,19 @@
+=Description=
+<br>
+This resource provides information and resources on cybersecurity for small businesses. Its main purpose is to help small business owners understand the basics of protecting their businesses from cyber attacks. The resource emphasizes the importance of cybersecurity in today's digital landscape and offers practical guidance to safeguard sensitive information.
+
+The website is an official government platform, indicated by the .gov domain, ensuring the credibility and reliability of the information provided. It emphasizes the need for businesses to take proactive measures to protect themselves from cyber threats, as well as the potential consequences of not doing so.
+
+The resource offers a range of cybersecurity resources specifically tailored for small businesses. It covers topics such as identifying common cyber threats, implementing strong passwords, securing networks, and training employees on best practices. The information is presented in a clear and concise manner, making it accessible to small business owners who may not have extensive technical knowledge.
+
+Additionally, the website highlights the importance of staying up to date with the latest cybersecurity trends and provides links to additional resources and tools for further exploration. It also emphasizes the need for ongoing vigilance and regular assessments of cybersecurity measures to ensure continued protection.
+
+Overall, this resource serves as a valuable guide for small business owners seeking to enhance their cybersecurity practices. By following the recommendations and utilizing the provided resources, small businesses can better protect themselves from cyber attacks and safeguard their sensitive information.
+<br>
+=More Information=
+<br>
+https://www.ftc.gov/business-guidance/smAll Businesses/cybersecurity
+[[Category:Security Awareness & Training]]
+[[Category:Risks & Threats]]
+[[Category:Sensitive Data]]
+[[Category:Data Loss Prevention (DLP)]]

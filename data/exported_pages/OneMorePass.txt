@@ -1,0 +1,9 @@
+=Description=
+<br>
+OneMorePass is a secure, simple and efficient password manager that helps you remember all your passwords while keeping them safe and easy to access. OneMorePass stores your passwords in an encrypted format on your device so that only you can access them. It also allows you to create strong and unique passwords for each of your online accounts, and provides a convenient way to log in to your accounts by automatically filling in your password details. OneMorePass is available for free on the App Store and Google
+<br>
+=More Information=
+<br>
+https://www.onemorepass.com/
+[[Category:Biometric]]
+[[Category:Two-Factor & Multi-Factor Authentication]]

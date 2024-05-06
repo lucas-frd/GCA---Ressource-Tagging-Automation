@@ -1,0 +1,11 @@
+=Description=
+<br>
+The CrowdStrike Reporting Tool (CRT) is a free and open source tool that collects data from the CrowdStrike Falco agent and produces aggregated, JSON-formatted reports. CRT runs on Windows, Linux, and macOS, and can be run from the command line or configured to run as a scheduled task. Reports can be output to a file or sent to a remote syslog server.
+
+CRT was designed to help detect and investigate potential security incidents by analyzing Crowd
+<br>
+=More Information=
+<br>
+https://www.crowdstrike.com/resources/community-tools/crt-crowdstrike-reporting-tool-for-azure/
+[[Category:Identity & Access Management]]
+[[Category:Periodic Know Your Users Reviews]]

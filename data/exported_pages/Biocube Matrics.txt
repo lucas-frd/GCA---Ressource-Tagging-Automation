@@ -1,0 +1,8 @@
+=Description=
+<br>
+Biocube Matrics is a web-based tool that allows users to input and visualize data related to the biocube matrix model of ecosystem managemennt. This model is a systems thinking approach that aims to provide a more holistic and comprehensive way of managing ecosystems. The tool is designed to help users understand and predict the behavior of ecological systems, as well as identify management strategies that can be used to optimize ecosystem health and function. Biocube Matrics includes a library of case studies
+<br>
+=More Information=
+<br>
+https://www.biocubematrix.com/
+[[Category:Biometric]]

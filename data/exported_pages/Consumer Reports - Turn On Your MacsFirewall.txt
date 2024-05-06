@@ -1,0 +1,10 @@
+=Description=
+<br>
+The consumer reports Turn On Your Mac's Firewall is a guide that helps Mac users turn on their computer's firewall. The guide provides step-by-step instructions on how to access the firewall settings and how to enable the firewall. The guide also includes a list of suggested firewall settings for different types of users.
+<br>
+=More Information=
+<br>
+https://securityplanner.consumerreports.org/tool/turn-on-macos-firewall
+[[Category:MacOS]]
+[[Category:Firewalls]]
+[[Category:Computers (Laptops & Desktops)]]

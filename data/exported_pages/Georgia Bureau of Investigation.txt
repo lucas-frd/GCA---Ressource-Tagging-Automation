@@ -1,0 +1,8 @@
+=Description=
+<br>
+"The Georgia Bureau of Investigation is a law enforcement agency that investigates and combats cyber crimes in the state of Georgia through the Georgia Cyber Crime Center (G3C)."
+<br>
+=More Information=
+<br>
+https://investigative-gbi.georgia.gov/contacts/georgia-cyber-crime-center-g3c
+[[Category:Georgia]]

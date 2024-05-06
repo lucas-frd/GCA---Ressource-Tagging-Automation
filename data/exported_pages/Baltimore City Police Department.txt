@@ -1,0 +1,8 @@
+=Description=
+<br>
+The Baltimore City Police Department is the primary law enforcement agency for the city of Baltimore, Maryland.
+<br>
+=More Information=
+<br>
+https://www.baltimorepolice.org/file-police-report
+[[Category:Maryland]]

@@ -1,0 +1,14 @@
+=Description=
+<br>
+This resource, provided by the Global Cyber Alliance (GCA), focuses on their mission to reduce cyber risk. The GCA aims to address challenges related to internet infrastructure, privacy, and safety through their core programs: Internet Integrity and Capacity & Resilience. 
+
+The GCA offers free, practical tools that have a tangible impact on enhancing security for both organizations and individuals. These tools are designed to improve cybersecurity and can be explored on their website. 
+
+In addition to providing tools, the GCA encourages individuals and organizations to join their global effort. This can be done by utilizing their tools to enhance personal cybersecurity or by partnering with the GCA on various initiatives. 
+
+By visiting the GCA's website, users can learn more about the organization's goals, the impact they have made, and the individuals driving their mission. The GCA's commitment to reducing cyber risk is evident through their programs and the practical tools they provide.
+<br>
+=More Information=
+<br>
+
+[[Category:All Businesses]]

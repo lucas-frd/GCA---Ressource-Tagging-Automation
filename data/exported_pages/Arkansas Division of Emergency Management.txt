@@ -1,0 +1,8 @@
+=Description=
+<br>
+The Arkansas Division of Emergency Management is a government organization responsible for coordinating and managing emergency response efforts and implementing suspicious activity reporting protocols.
+<br>
+=More Information=
+<br>
+https://www.dps.arkansas.gov/emergency-management/adem/response/suspicious-activity-reporting/
+[[Category:Arkansas]]

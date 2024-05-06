@@ -1,0 +1,10 @@
+=Description=
+<br>
+Cisco Breach Protection is a comprehensive security solution offered by technology giant Cisco Systems. Cisco is a leading multinational corporation that designs, manufactures, and sells networking equipment, software, and services. Founded in 1984, Cisco is headquartered in San Jose, California, and has offices and operations in over 100 countries worldwide.
+
+At its core, Cisco Breach Protection is a suite of security products designed to protect organizations against cyber threats of all kinds. It combines multiple layers of protection, including network security
+<br>
+=More Information=
+<br>
+https://www.cisco.com/site/us/en/products/security/all-products.html
+[[Category:Data Loss Prevention (DLP)]]

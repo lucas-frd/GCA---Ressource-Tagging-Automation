@@ -1,0 +1,12 @@
+=Description=
+<br>
+The CrowdStrike SOC Assessment is a comprehensive evaluation and testing service offered by the organization CrowdStrike. It is designed to help organizations assess and enhance the effectiveness of their security operations center (SOC).
+
+CrowdStrike is a leading cybersecurity company that provides a wide range of services and solutions to protect against cyber threats. Their SOC Assessment service is one of the many offerings that they provide to help organizations proactively defend against cyber attacks.
+
+The SOC Assessment is a multi-phase process that begins with an in-depth review
+<br>
+=More Information=
+<br>
+https://www.crowdstrike.com/services/fortify/soc-assessment/
+[[Category:Managed Security Service Providers (MSSPs)]]

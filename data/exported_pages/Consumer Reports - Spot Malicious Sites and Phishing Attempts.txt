@@ -1,0 +1,10 @@
+=Description=
+<br>
+This tool helps users protect themselves from phishing attempts by providing tips on how to spot malicious sites. It also includes a list of common phishing scams and Red Flags to look out for.
+<br>
+=More Information=
+<br>
+https://securityplanner.consumerreports.org/tool/protect-yourself-from-phishing
+[[Category:Security Awareness & Training]]
+[[Category:Scams and Phishing]]
+[[Category:Browse the Web Securely]]

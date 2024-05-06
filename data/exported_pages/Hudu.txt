@@ -1,0 +1,8 @@
+=Description=
+<br>
+Hudu is a cloud-based software that helps businesses manage their customers, projects, and tasks. With Hudu, businesses can create and manage customer profiles, track project progress, and assign and track tasks. Hudu also offers a number of features to help businesses manage their finances, including invoicing, payments, and expenses.
+<br>
+=More Information=
+<br>
+https://hudu.com/
+[[Category:Password Managers]]

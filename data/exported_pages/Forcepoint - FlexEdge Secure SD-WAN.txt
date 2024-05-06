@@ -1,0 +1,18 @@
+=Description=
+<br>
+This resource, titled FlexEdge Secure SD-WAN, offers a solution for easily connecting users to any application while optimizing performance and reducing costs through a Secure Access Service Edge (SASE) architecture. It provides safe and secure access for offices, branches, and remote sites, combining networking and security functionalities. 
+
+The main feature of FlexEdge Secure SD-WAN is its ability to enhance application performance through Multi-Link technology. By leveraging multiple network links, it ensures efficient data transmission and minimizes latency, resulting in improved user experience. 
+
+Additionally, this resource offers a unified management console, allowing users to centrally manage and monitor their network infrastructure. This console provides a comprehensive view of the network, enabling administrators to efficiently configure and troubleshoot connections. 
+
+FlexEdge Secure SD-WAN is designed to address the growing demand for secure and reliable connectivity in today's distributed work environments. It enables organizations to seamlessly connect their users to applications while maintaining robust security measures. 
+
+Overall, this resource provides a comprehensive solution for organizations seeking to optimize their network performance, reduce costs, and ensure secure access to applications across multiple locations.
+<br>
+=More Information=
+<br>
+https://www.forcepoint.com/product/secure-sd-wan
+[[Category:Know What You Have - Create an Inventory]]
+[[Category:Applications]]
+[[Category:Configuration Management]]

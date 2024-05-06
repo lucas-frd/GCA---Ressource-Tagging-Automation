@@ -1,0 +1,11 @@
+=Description=
+<br>
+SSH (Secure Shell) is a cryptographic network protocol for secure data communication, remote shell services or command execution and file transfer between two networked computers. SSH uses public-key cryptography to authenticate the remote computer and allow it to authenticate the user, if necessary. It provides secure encrypted communications by using a combination of a private (secret) key and a public key. The private key is known only to the user, while the public key is freely distributed.
+
+SSH
+<br>
+=More Information=
+<br>
+https://en.wikipedia.org/wiki/Secure_Shell
+[[Category:Incident Reporting & Recovery]]
+[[Category:Configuration Management]]

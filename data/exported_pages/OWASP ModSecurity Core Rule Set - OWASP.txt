@@ -1,0 +1,9 @@
+=Description=
+<br>
+The OWASP ModSecurity Core Rule Set (CRS) is a set of generic attack detection rules for use with ModSecurity or compatible web application firewalls. The CRS aims to protect web applications from a wide range of attacks, including the OWASP Top Ten, with
+<br>
+=More Information=
+<br>
+https://owasp.org/www-project-modsecurity-core-rule-set/
+[[Category:CIS - 13 - Network Monitoring and Defense]]
+[[Category:All Businesses]]

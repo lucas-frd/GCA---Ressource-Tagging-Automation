@@ -1,0 +1,9 @@
+=Description=
+<br>
+Shadowserver sinkholes over 400 malware families and malware variants. Any organization that has a responsibility for a network can subscribe for free to this data for their network.
+<br>
+=More Information=
+<br>
+https://www.shadowserver.org/what-we-do/network-reporting/get-reports
+[[Category:All Businesses]]
+[[Category:National CERTs]]

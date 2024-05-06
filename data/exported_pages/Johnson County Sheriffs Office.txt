@@ -1,0 +1,8 @@
+=Description=
+<br>
+The Johnson County Sheriffs Office is a law enforcement agency responsible for enforcing laws and protecting citizens in Johnson County, North Carolina.
+<br>
+=More Information=
+<br>
+https://www.johnstonnc.com/sheriffs_office/content.cfm?page_desc=mjrcrime
+[[Category:North Carolina]]

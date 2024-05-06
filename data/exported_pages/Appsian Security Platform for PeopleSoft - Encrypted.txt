@@ -1,0 +1,8 @@
+=Description=
+<br>
+The Appsian Security Platform for PeopleSoft is a comprehensive security solution that helps organizations secure their PeopleSoft systems and data. The platform provides a central repository for security policies and procedures, as well as tools for managing user access and permissions. The platform also includes a powerful encryption engine that helps to protect sensitive data stored in PeopleSoft databases.
+<br>
+=More Information=
+<br>
+https://www.appsian.com/solutions/peopletools-security/
+[[Category:Single Sign-On (SSO)]]

@@ -1,0 +1,16 @@
+=Description=
+<br>
+This resource focuses on the concept of Zero Trust architecture (ZTA) and its implementation within a multi-vendor environment. The purpose of this resource is to provide guidance on building a robust foundation for zero trust security, emphasizing total visibility, least privilege network access, and compliance.
+
+The resource highlights that Zero Trust is not a single-vendor solution but rather a security design approach. It emphasizes the importance of adopting a ZTA within an existing infrastructure without the need for a complete infrastructure overhaul. By doing so, organizations can save both time and money.
+
+Forescout, the company behind this resource, offers solutions to help organizations implement a Zero Trust architecture. Their offerings include identifying, monitoring, and controlling connected assets, as well as orchestrating enforcement and remediation processes.
+
+The main features of this resource include a focus on total visibility, which ensures that all assets and devices within the network are identified and monitored. Additionally, the resource emphasizes the principle of least privilege network access, which restricts access to only what is necessary for each user or device. Compliance is also highlighted as a key aspect, ensuring that security measures align with industry standards and regulations.
+
+Overall, this resource provides organizations with insights and solutions to adopt a Zero Trust architecture within their existing multi-vendor environment, promoting enhanced security and reducing the need for infrastructure replacement.
+<br>
+=More Information=
+<br>
+https://www.forescout.com/solutions/zero-trust/
+[[Category:Zero Trust]]

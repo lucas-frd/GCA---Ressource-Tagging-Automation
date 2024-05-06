@@ -1,0 +1,8 @@
+=Description=
+<br>
+The Honolulu Police Department is responsible for safeguarding the community through prevention, detection, investigation, and prosecution of cyber crimes.
+<br>
+=More Information=
+<br>
+https://www.honolulupd.org/cyber-crimes/
+[[Category:Hawaii]]

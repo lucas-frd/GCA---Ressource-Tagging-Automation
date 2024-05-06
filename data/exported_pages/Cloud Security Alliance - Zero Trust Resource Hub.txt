@@ -1,0 +1,14 @@
+=Description=
+<br>
+The Cloud Security Alliance's Zero Trust Resource Hub is a comprehensive online resource center that provides information and guidance on implementing a zero trust security framework within an organization. The Cloud Security Alliance is a non-profit organization dedicated to promoting best practices and education around cloud security.
+
+The Zero Trust Resource Hub is organized into four main sections: 'Why Zero Trust?', 'What is Zero Trust?', 'How to Implement', and 'Additional Resources'.
+<br>
+=More Information=
+<br>
+https://cloudsecurityalliance.org/zt/resources/
+[[Category:Security Awareness Training]]
+[[Category:Digital Literacy Programs]]
+[[Category:Digital Literacy Programs]]
+[[Category:Digital Literacy Programs]]
+[[Category:Zero Trust]]

@@ -1,0 +1,8 @@
+=Description=
+<br>
+Cyber Florida is a state-funded organization that aims to promote cybersecurity education, research, and collaboration within Florida's academic and business communities.
+<br>
+=More Information=
+<br>
+https://cyberflorida.org/report-a-cybercrime/
+[[Category:Florida]]

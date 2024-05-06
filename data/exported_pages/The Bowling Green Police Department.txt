@@ -1,0 +1,8 @@
+=Description=
+<br>
+The Bowling Green Police Department organization is responsible for investigating and preventing criminal activities within the city of Bowling Green, Kentucky.
+<br>
+=More Information=
+<br>
+https://www.bgky.org/police/criminal-investigations-division
+[[Category:Kentucky]]

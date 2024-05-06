@@ -1,0 +1,8 @@
+=Description=
+<br>
+Blockchain security is an important measurement in the cryptocurrency space and Hacken wants to make sure that their clients are getting the best service possible. They have developed a tool called Blockchain Security Auditor that will help assess the security of a blockchain platform. This tool will help identify potential vulnerabilities and recommended solutions to fix them. In addition, the tool will also provide a report on the overall security of the platform.
+<br>
+=More Information=
+<br>
+https://hacken.io/
+[[Category:Crypto Project Auditing]]

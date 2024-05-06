@@ -1,0 +1,8 @@
+=Description=
+<br>
+The tool Face verification is a web-based tool that uses facial recognition technology to verify the identity of a person. The user first needs to upload a photo of the person to be verified. Then, the tool will analyze the photo and compare it to a database of known faces. If a match is found, the tool will provide the name and other information about the person. If no match is found, the tool will return an error message.
+<br>
+=More Information=
+<br>
+https://www.facialnetwork.com/
+[[Category:Biometric]]

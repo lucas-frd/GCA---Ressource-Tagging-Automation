@@ -1,0 +1,8 @@
+=Description=
+<br>
+The Oregon State Police is a law enforcement agency that works to promote safety and protect the citizens and natural resources of Oregon.
+<br>
+=More Information=
+<br>
+https://www.oregon.gov/osp/programs/pages/cid.aspx
+[[Category:Oregon]]

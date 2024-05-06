@@ -1,0 +1,8 @@
+=Description=
+<br>
+The State of Wisconsin Department of Revenue - Identity Theft organization is responsible for addressing and preventing cases of identity theft related to tax and revenue matters.
+<br>
+=More Information=
+<br>
+https://revenue.wi.gov/Pages/faqs/ise-idtheft.aspx
+[[Category:Wisconsin]]

@@ -1,0 +1,8 @@
+=Description=
+<br>
+Web3Auth is a decentralized authentication tool that allows users to login to websites and applications using their Ethereum address. It is an open-source project that is available for free on GitHub. Web3Auth is designed to work with any wallet or login method that supports the ERC20 standard, such as MetaMask, Gnosis Safe, and others. Once logged in, users can access their accounts and data on any site or application that supports Web3Auth.
+<br>
+=More Information=
+<br>
+https://web3auth.io/
+[[Category:Two-Factor & Multi-Factor Authentication]]

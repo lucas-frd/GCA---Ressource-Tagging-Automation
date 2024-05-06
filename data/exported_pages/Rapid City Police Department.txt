@@ -1,0 +1,8 @@
+=Description=
+<br>
+The Rapid City Police Department is responsible for investigating crimes and maintaining public safety in the city of Rapid City, South Dakota.
+<br>
+=More Information=
+<br>
+https://www.rcgov.org/departments/police-department/investigations.html
+[[Category:South Dakota]]

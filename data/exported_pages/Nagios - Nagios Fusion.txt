@@ -1,0 +1,17 @@
+=Description=
+<br>
+This tool, Nagios Fusion, offers a centralized view for monitoring IT infrastructure. It provides IT operations staff and management with a quick and visual indication of problems across the entire IT infrastructure. With its latest feature, full integration with Nagios Log Server, users can now have a comprehensive view of their network.
+ 
+ Nagios Fusion is designed to scale with your needs, allowing for distributed monitoring. This means that it can handle monitoring across multiple locations or networks, providing a comprehensive overview of the entire infrastructure.
+ 
+ The tool's main feature is its ability to consolidate monitoring data from various sources into a single, unified view. This allows for easier troubleshooting and problem resolution, as all relevant information is readily available in one place.
+ 
+ Additionally, Nagios Fusion offers customizable dashboards, enabling users to tailor the monitoring view to their specific needs. This flexibility allows for a personalized monitoring experience, ensuring that users can focus on the most critical aspects of their infrastructure.
+ 
+ With its centralized view and integration with Nagios Log Server, Nagios Fusion aims to streamline IT infrastructure monitoring and provide a comprehensive overview of network health. Its scalability and customizable dashboards make it a versatile tool for IT operations staff and management.
+<br>
+=More Information=
+<br>
+https://www.nagios.com/products/nagios-fusion/
+[[Category:Nonprofits & Charities]]
+[[Category:Small & Medium Sized Businesses]]

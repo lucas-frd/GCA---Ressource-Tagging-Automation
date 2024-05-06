@@ -1,0 +1,10 @@
+=Description=
+<br>
+Ping is a SANS Institute tool that is used to detect whether a host is reachable. It works by sending an ICMP Echo Request to the host and waiting for an ICMP Echo Reply. If the host responds, then it is considered reachable. Ping can be used to test the reachability of a host or to measure the round-trip time for packets to travel between the host and another host.
+<br>
+=More Information=
+<br>
+https://en.wikipedia.org/wiki/Ping
+[[Category:Incident Reporting & Recovery]]
+[[Category:Configuration Management]]
+[[Category:Threat & Vulnerability Management]]

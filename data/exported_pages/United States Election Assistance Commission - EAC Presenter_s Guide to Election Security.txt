@@ -1,0 +1,8 @@
+=Description=
+<br>
+The EAC Presenter's Guide to Election Security is a United States Election Assistance Commission document that provides guidance to election officials on how to best secure elections from threats. The guide covers a range of topics, including risk assessment, training election officials, and working with law enforcement.
+<br>
+=More Information=
+<br>
+https://www.eac.gov/sites/default/files/eac_assets/1/6/Election_Security_Presenters_Guide.pdf
+[[Category:Voters]]

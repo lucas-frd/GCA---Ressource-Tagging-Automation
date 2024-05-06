@@ -1,0 +1,15 @@
+=Description=
+<br>
+Lumu Free is a tool that allows users to measure the light in their environment and monitor the changes over time. The tool also includes a library of light spectra that users can use to compare and contrast their data.
+<br>
+=More Information=
+<br>
+https://portal.lumu.io/account/sign-up?utm_source=website&utm_medium=organic&utm_campaign=ao0775_11022021_b2b_web_org_psup_blog_cta
+[[Category:Threat & Vulnerability Management]]
+[[Category:Know What Your Have - Create an Inventory]]
+[[Category:Understanding Relevant Threats]]
+[[Category:Understanding Your Risks]]
+[[Category:Risk Self-Assessment]]
+[[Category:Risk Reduction]]
+[[Category:Security Information& Event Management (SIEM)]]
+[[Category:Incident Reporting & Recovery]]

@@ -1,0 +1,10 @@
+=Description=
+<br>
+Google Drive is a cloud-based file storage and synchronization service developed and operated by technology giant Google. It allows users to store, access and share files and folders from any device with an internet connection. The service was launched in 2012 and has since become one of the most widely used cloud storage platforms in the world.
+
+The layout of Google Drive is simple, clean and user-friendly. Upon visiting the website, the user is greeted with the familiar Google search bar and the Drive logo.
+<br>
+=More Information=
+<br>
+https://www.google.com/drive/
+[[Category:Cloud storage]]

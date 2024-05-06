@@ -1,0 +1,10 @@
+=Description=
+<br>
+R81 Cyber Security Platform is a comprehensive security solution offered by Check Point, a leading company in the field of cybersecurity. Founded in 1993 by Gil Shwed, Check Point is headquartered in Tel Aviv, Israel, with offices and operations in over 100 countries globally.
+
+R81 Cyber Security Platform is a next-generation security solution designed to protect businesses from modern and sophisticated cyber threats. It is a unified platform that offers advanced threat prevention, secure connectivity, and cloud security capabilities in a single package
+<br>
+=More Information=
+<br>
+https://www.checkpoint.com/products/
+[[Category:Intrusion Detection & Prevention Systems (IDPS)]]

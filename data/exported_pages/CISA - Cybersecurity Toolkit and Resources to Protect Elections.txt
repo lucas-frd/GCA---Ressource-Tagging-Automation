@@ -1,0 +1,11 @@
+=Description=
+<br>
+The Cybersecurity Toolkit and Resources to Protect Elections is a website created by the Cybersecurity and Infrastructure Security Agency (CISA) to help election officials secure their voting systems. The website includes a range of resources, including guidance on how to create a security plan, a list of vendors that provide security products and services, and a list of training and education resources. The website also includes a number of tools that election officials can use to assess the security of their systems and identify potential vulnerabilities.
+<br>
+=More Information=
+<br>
+https://www.cisa.gov/cybersecurity-toolkit-and-resources-protect-elections
+[[Category:Security Awareness & Training]]
+[[Category:Voters]]
+[[Category:Election Officials & Organzations]]
+[[Category:Risks & Threats]]

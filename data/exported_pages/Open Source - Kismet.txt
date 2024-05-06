@@ -1,0 +1,9 @@
+=Description=
+<br>
+Kismet is a rugged, low-cost, passive Wi-Fi radar designed to detect 802.11a/b/g/n traffic. It features an intuitive web interface that allows users to visualize their wireless landscape in real time. Kismet can be used to track down rogue access points, identify at-risk areas in your network, and monitor Wi-FiSampler/NetStumbler-compatible devices.
+<br>
+=More Information=
+<br>
+https://www.kismetwireless.net/
+[[Category:Network Devices]]
+[[Category:Threat & Vulnerability Management]]

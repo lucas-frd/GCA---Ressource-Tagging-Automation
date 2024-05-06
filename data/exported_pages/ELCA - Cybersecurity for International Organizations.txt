@@ -1,0 +1,8 @@
+=Description=
+<br>
+Cybersecurity for International Organizations is a division of ELCA, a Swiss company that specializes in Information Technology (IT) and business consulting services. This division focuses specifically on providing cybersecurity solutions to international organizations, such as non-governmental organizations (NGOs), intergovernmental organizations (IGOs), and international charities. The division is committed to safeguarding the critical information and data of these organizations, who often handle sensitive and confidential data related to humanitarian crises, global issues, and other important causes.
+<br>
+=More Information=
+<br>
+https://www.elca.ch/en/our-expertise/cybersecurity-iam/cybersecurity-international-organizations
+[[Category:Risks & Threats]]

@@ -1,0 +1,8 @@
+=Description=
+<br>
+Bitwarden is a free and open source password manager that can be used on any device or platform. It is a cross-platform application that can be used on Windows, macOS, Linux, iOS, Android, and web browsers. Bitwarden stores passwords in an encrypted format and only the user has the key to decrypt and access their data. The user's data is also synced across all of their devices so they can always have access to their passwords no matter where they are.
+<br>
+=More Information=
+<br>
+https://bitwarden.com/
+[[Category:Password Managers]]

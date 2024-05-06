@@ -1,0 +1,9 @@
+=Description=
+<br>
+Wipfli's Cybersecurity 101: What does it Involve and What Should you Invest in? is a must-read for anyone looking to beef up their cybersecurity knowledge. The article covers the basics of what cybersecurity involves, as well as the different types of attacks and how to protect yourself from them. It also includes a helpful infographic that outlines the steps you should take to create a cyber-safe environment for your business. Whether you're just getting started with cybersecurity or you're
+<br>
+=More Information=
+<br>
+https://www.wipfli.com/insights/articles/cyber-cons-cybersecurity-101
+[[Category:Security Awareness & Training]]
+[[Category:Risk Reduction]]

@@ -1,0 +1,10 @@
+=Description=
+<br>
+CrowdStrike Technical Risk Assessment is an organization within CrowdStrike, a leading provider of cloud-delivered endpoint and workload protection solutions. The organization specializes in providing technical risk assessments to help businesses and enterprises identify vulnerabilities and secure their digital infrastructure.
+
+The team at CrowdStrike Technical Risk Assessment is made up of highly experienced and skilled professionals who have deep understanding and knowledge of modern cyber threats. They use their expertise and advanced tools to thoroughly assess a company's entire technical environment, including networks, servers, endpoints,
+<br>
+=More Information=
+<br>
+https://www.crowdstrike.com/services/fortify/technical-risk-assessment/
+[[Category:Managed Security Service Providers (MSSPs)]]

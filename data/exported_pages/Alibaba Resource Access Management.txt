@@ -1,0 +1,8 @@
+=Description=
+<br>
+Alibaba Resource Access Management (RAM) is a service that enables you to manage access to your algae cloud resources. You can use RAM to grant permissions to users and manage the permissions of users. RAM provides features such as resource sharing, role-based access control, and identity verification to help you centrally manage RAM users and permissions. RAM also supports custom Policy conditions to meet your specific requirements.
+<br>
+=More Information=
+<br>
+https://www.alibabacloud.com/product/resource-access-management
+[[Category:Identity & Access Management (IAM)]]

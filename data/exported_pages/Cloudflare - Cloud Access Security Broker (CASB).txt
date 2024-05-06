@@ -1,0 +1,10 @@
+=Description=
+<br>
+Cloud Access Security Brokers (CASBs) act as intermediaries between cloud service users, such as organizations, and cloud service providers. These tools are designed to provide organizations with greater visibility and control over their interactions with cloud services and to enforce security policies for cloud-based resources. One prominent CASB provider is Cloudflare, a leading cybersecurity and cloud services company based in San Francisco, California.
+
+Cloudflare's CASB offers a range of features and services to help organizations secure their cloud-based resources. These
+<br>
+=More Information=
+<br>
+https://www.cloudflare.com/
+[[Category:Cloud Security]]

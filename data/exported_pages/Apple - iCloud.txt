@@ -1,0 +1,11 @@
+=Description=
+<br>
+iCloud is a cloud-based storage and computing service offered by Apple. It is designed to allow users to store and access their personal data such as photos, videos, documents, and contacts across their Apple devices, including iPhones, iPads, Mac computers, and even Windows-based computers.
+
+iCloud was first launched in 2011 and has since become an integral part of the Apple ecosystem, allowing users to seamlessly back up and sync their data across their devices.
+<br>
+=More Information=
+<br>
+https://www.icloud.com/
+[[Category:Cloud storage]]
+[[Category:Backup & Restoration of Data]]

@@ -1,0 +1,8 @@
+=Description=
+<br>
+ADP Federated Single Sign-On is a cloud-based identity and access management solution that enables organizations to securely connect their employees, partners, and customers to the applications and data they need. The solution uses industry-standard technologies to provide a single sign-on experience across all applications, whether they are hosted on-premises or in the cloud. ADP Federated Single Sign-On also provides a centralized identity management platform that makes it easy to manage users, roles, and permissions
+<br>
+=More Information=
+<br>
+https://www.adp.com/services/security/federated-single-sign-on.aspx
+[[Category:Single Sign-On (SSO)]]

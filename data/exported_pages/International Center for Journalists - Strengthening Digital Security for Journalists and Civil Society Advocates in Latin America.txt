@@ -1,0 +1,11 @@
+=Description=
+<br>
+The International Center for Journalists (ICFJ) has released a new toolkit to help journalists and civil society advocates in Latin America strengthen their digital security. The toolkit includes resources on how to secure communications, protect data, and stay safe online. It also provides guidance on how to respond to online attacks and harassment. The toolkit is available in English and Spanish.
+<br>
+=More Information=
+<br>
+https://www.icfj.org/our-work/strengthening-digital-security-journalists-and-civil-society-advocates-latin-america
+[[Category:Political Activists & Activist Groups]]
+[[Category:Social Watchdog Groups]]
+[[Category:Security Awareness & Training]]
+[[Category:Journalists]]

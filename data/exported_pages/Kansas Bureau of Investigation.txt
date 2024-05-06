@@ -1,0 +1,8 @@
+=Description=
+<br>
+The Kansas Bureau of Investigation is a state law enforcement agency responsible for investigating and preventing criminal activity within Kansas.
+<br>
+=More Information=
+<br>
+https://www.kansas.gov/kbi/crimereportmappage.shtml#:~:text=REPORT%20SUSPICIOUS%20ACTIVITY%20ONLINE&text=To%20speak%20to%20someone%20directly,or%20your%20local%20law%20enforcement.
+[[Category:Kansas]]

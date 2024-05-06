@@ -1,0 +1,8 @@
+=Description=
+<br>
+Set Up HTTPS-Only Mode is a security tool from Consumer Reports that helps ensure that your website is only accessible via a secure HTTPS connection. This is important because it helps protect your visitors' information from being intercepted by third-parties, and it also helps to ensure that your website is not being spoofed by malicious actors. Once HTTPS-Only Mode is enabled, your website will only be accessible via HTTPS, and any attempt to access it via HTTP will redirect to the HTTPS version.
+<br>
+=More Information=
+<br>
+https://securityplanner.consumerreports.org/tool/install-https-everywhere
+[[Category:Browse the Web Securely]]

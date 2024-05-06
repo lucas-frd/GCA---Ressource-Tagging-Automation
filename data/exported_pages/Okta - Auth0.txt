@@ -1,0 +1,11 @@
+=Description=
+<br>
+Auth0 is a cloud-based identity management service that provides secure access to applications and resources. It offers a Universal Login experience that allows users to log in with their preferred identity provider, such as Facebook, Google, or Microsoft. Auth0 also offers a multifactor authentication option that adds an extra layer of security to user accounts. In addition to its login capabilities, Auth0 provides a user management system that allows administrators to create and manage user accounts, groups, and permissions.
+<br>
+=More Information=
+<br>
+https://auth0.com/
+[[Category:Single Sign-On (SSO)]]
+[[Category:User Provisioning & Governance]]
+[[Category:Two-Factor & Multi-Factor Authentication]]
+[[Category:Identity & Access Management (IAM)]]

@@ -1,0 +1,9 @@
+=Description=
+<br>
+THC Hydra is a tool that can be used to brute force passwords. It supports a variety of protocols, including HTTP, FTP, SMB, and SSH. It is open source and can be run on Windows, Linux, and OS X.
+<br>
+=More Information=
+<br>
+https://www.sans.org/tools/?per-page=100
+[[Category:Security Testing & Auditing]]
+[[Category:Attack & Penetration Testing]]

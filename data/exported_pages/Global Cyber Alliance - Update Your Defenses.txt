@@ -1,0 +1,19 @@
+=Description=
+<br>
+This resource is a toolkit that provides guidance on updating your digital defenses to protect against threats such as viruses and spyware. The main purpose of this toolkit is to help users enhance their digital immunity by keeping their systems updated.
+  
+  The toolkit emphasizes the importance of configuring devices and applications for automatic updates. It advises users to refer to an inventory list they have created and go through each device and application to enable automatic updates. This step is recommended every time a new device or application is used.
+  
+  The resource acknowledges that most devices and applications can be configured for automatic updates, but it does not provide specific instructions on how to do so. Instead, it encourages users to check the instructions or documentation provided by the respective device or application.
+  
+  By following the recommendations in this toolkit, users can ensure that their systems are regularly updated with the latest security patches and enhancements. This proactive approach helps to minimize the risk of malware infections and other digital threats.
+  
+  Overall, this resource serves as a concise guide for users to understand the importance of updating their digital defenses and provides a reminder to configure devices and applications for automatic updates. It encourages users to take responsibility for their digital security and stay vigilant in keeping their systems protected.
+<br>
+=More Information=
+<br>
+https://gcatoolkit.org/individuals/update-your-defenses/
+[[Category:Protecting You & Your Childs Personal Information]]
+[[Category:Authentication Approaches]]
+[[Category:Browse the Web Securely]]
+[[Category:Applications]]

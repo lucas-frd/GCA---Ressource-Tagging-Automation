@@ -1,0 +1,8 @@
+=Description=
+<br>
+The Adaptive Security Manager from Akamai is designed to help organizations secure their applications and data, and improve performance. The tool uses a variety of security mechanisms to protect against threats, including firewalls, intrusion detection and prevention systems, and web application firewalls. It also includes a number of features to help improve performance, such as caching and load balancing.
+<br>
+=More Information=
+<br>
+https://www.akamai.com/uk/en/products/application-performance/adaptive-security-manager.jsp/
+[[Category:User Provisioning & Governance]]

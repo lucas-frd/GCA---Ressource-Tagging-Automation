@@ -1,0 +1,8 @@
+=Description=
+<br>
+The tool Secure Your Fitness Data is a tool from Consumer Reports that helps users understand how to best protect their fitness data. The tool provides a six-step process for users to follow in order to ensure their data is properly secured. The steps include: understanding what data is being collected, knowing where the data is being stored, setting strong passwords, using two-factor authentication, and being aware of the data sharing options. The tool also provides links to resources where users can learn more about each
+<br>
+=More Information=
+<br>
+https://securityplanner.consumerreports.org/tool/secure-your-fitness-data
+[[Category:Protecting You & Your Childs Personal Information]]

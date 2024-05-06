@@ -1,0 +1,11 @@
+=Description=
+<br>
+This tool allows users to see which apps on their Android phone have access to certain permissions, and how those permissions can be used. For each permission, users can see which apps have access to it, and what level of access they have. Users can also choose to allow or deny each app permission to access certain features on their phone.
+<br>
+=More Information=
+<br>
+https://securityplanner.consumerreports.org/tool/review-android-app-permissions
+[[Category:Protecting You & Your Childs Personal Information]]
+[[Category:Smart Phones]]
+[[Category:Android]]
+[[Category:Location & Tracking]]

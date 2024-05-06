@@ -1,0 +1,14 @@
+=Description=
+<br>
+This GCA Cybersecurity Toolkit for Journalists empowers independent journalists, watchdogs, and small newsrooms with information and tools to protect their sources and reputation. It helps the user to assess their security posture, implement free tools, f
+<br>
+=More Information=
+<br>
+https://gcatoolkit.org/journalists/
+[[Category:CIS - 1 - Inventory and Control of Enterprise Assets]]
+[[Category:CIS - 2 - Inventory and Control of Software Assets]]
+[[Category:CIS - 4 - Secure Configuration of Enterprise Assets and Software]]
+[[Category:CIS - 6 - Access Control Management]]
+[[Category:CIS - 9 - Email and Web Browser Protections]]
+[[Category:CIS - 10 - Malware Defenses]]
+[[Category:Journalists]]

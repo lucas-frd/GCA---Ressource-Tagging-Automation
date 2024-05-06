@@ -1,0 +1,8 @@
+=Description=
+<br>
+The Mesa County Sheriff's Office is responsible for providing law enforcement services and maintaining public safety in Mesa County, Colorado.
+<br>
+=More Information=
+<br>
+https://www.mesacounty.us/departments-and-services/sheriff
+[[Category:Colorado]]

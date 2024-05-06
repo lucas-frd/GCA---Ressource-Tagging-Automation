@@ -1,0 +1,12 @@
+=Description=
+<br>
+Open source is a term denoting that a product includes permission to use its source code, design documents, or content. It most commonly refers to software that can be classified as both free software and open-source software. This type of software is usually released under an open source license, which allows anyone to study, change, and distribute the software to anyone and for any purpose.
+
+One of the main benefits of open source is that it encourages collaboration and transparency. When everyone has access
+<br>
+=More Information=
+<br>
+https://santa.dev/
+[[Category:Computers (Laptops & Desktops)]]
+[[Category:Servers]]
+[[Category:MacOS]]

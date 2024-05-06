@@ -1,0 +1,8 @@
+=Description=
+<br>
+eClear is a web-based tool that helps organizations manage their identity and access management (IAM) processes. It provides a single platform for managing user identities, roles, and permissions. eClear also offers an audit trail of all IAM activity, which can be used to troubleshoot issues and track compliance. eClear is available in both cloud-based and on-premises versions.
+<br>
+=More Information=
+<br>
+https://www.eclearid.com/
+[[Category:Biometric]]

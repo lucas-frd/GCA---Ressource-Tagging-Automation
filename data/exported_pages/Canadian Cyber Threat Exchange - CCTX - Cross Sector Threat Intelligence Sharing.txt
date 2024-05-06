@@ -1,0 +1,17 @@
+=Description=
+<br>
+This resource is the Canadian Cyber Threat Exchange (CCTX), a not-for-profit, private-sector cyber threat sharing hub and collaboration center. Its main purpose is to enhance cybersecurity in Canada by facilitating the sharing of information and resources among cyber security professionals.
+
+The CCTX provides useful links and resources to strengthen collective defense against cyber attacks. By sharing information widely, the aim is to counter cyber threats more effectively. The resource emphasizes the importance of collaboration and collective defense in the face of increasing cyber attacks.
+
+One of the main features of the CCTX is its Collaboration Centre, which allows cyber security professionals to engage in discussions and exchange knowledge on how to defend against the latest threats. This platform enables professionals to share insights, strategies, and best practices to enhance cybersecurity measures.
+
+The resource also highlights some cyber facts, such as the average total cost of a data breach for Canadian companies, which was reported to be $4.50 million (USD) in 2020. This information serves to emphasize the significance of proactive cyber defense and the need for organizations to stay informed and prepared.
+
+In summary, the Canadian Cyber Threat Exchange (CCTX) is a valuable resource for cyber security professionals in Canada. It promotes the sharing of information and resources, facilitates collaboration, and aims to strengthen collective defense against cyber threats. The CCTX Collaboration Centre provides a platform for professionals to discuss and strategize on defending against the latest cyber attacks.
+<br>
+=More Information=
+<br>
+https://www.cctx.ca
+[[Category:All Businesses]]
+[[Category:Individuals]]

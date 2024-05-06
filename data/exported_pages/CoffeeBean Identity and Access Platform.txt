@@ -1,0 +1,10 @@
+=Description=
+<br>
+CoffeeBean Identity and Access Platform is a cloud-based access management system that helps businesses manage user identities, control access to applications and data, and enforce security policies. It provides a central platform for managing user identities, roles, and permissions. It offers features such as Single Sign-On (SSO), Multi-Factor Authentication (MFA), and User Provisioning. CoffeeBean Identity and Access Platform integrates with leading enterprise applications and supports all major Identity Providers. It
+<br>
+=More Information=
+<br>
+https://coffeebean.ai/
+[[Category:User Provisioning & Governance]]
+[[Category:Two-Factor & Multi-Factor Authentication]]
+[[Category:Identity & Access Management (IAM)]]

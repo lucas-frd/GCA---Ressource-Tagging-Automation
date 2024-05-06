@@ -1,0 +1,8 @@
+=Description=
+<br>
+The Winchester Police Department is a law enforcement agency dedicated to protecting the community and investigating computer-related crimes.
+<br>
+=More Information=
+<br>
+http://www.winchesterpd.org/about/computer-crime
+[[Category:Massachusetts]]

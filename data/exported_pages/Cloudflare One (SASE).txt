@@ -1,0 +1,10 @@
+=Description=
+<br>
+Cloudflare One is a networking and security platform offered by Cloudflare, a leading web infrastructure and security company. It is designed to provide a comprehensive, secure, and fast experience for users, regardless of their location or device. This platform is based on Secure Access Service Edge (SASE) architecture, which combines security and networking functions to deliver a unified solution.
+
+One of the core components of Cloudflare One is its global network, which spans over 200 cities in more than 100 countries,
+<br>
+=More Information=
+<br>
+https://www.cloudflare.com/
+[[Category:Cloud Security]]

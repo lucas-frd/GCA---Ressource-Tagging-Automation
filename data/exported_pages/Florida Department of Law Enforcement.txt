@@ -1,0 +1,8 @@
+=Description=
+<br>
+The Florida Department of Law Enforcement is a state agency responsible for investigating and addressing cybercrimes within the state of Florida.
+<br>
+=More Information=
+<br>
+https://www.fdle.state.fl.us/FCO/Report-a-Cybercrime.aspx
+[[Category:Florida]]

@@ -1,0 +1,10 @@
+=Description=
+<br>
+Broadcom Symantec Phantom is a cybersecurity organization that operates under the umbrella of Broadcom, a global tech company based in San Jose, California. Broadcom was founded in 1991 and has since grown into a leading provider of semiconductor and infrastructure software solutions for a wide range of industries including automotive, data center, networking, and wireless communication.
+
+Broadcom Symantec Phantom is part of Broadcom's Symantec division, which was acquired by Broadcom in a $10.7 billion deal in
+<br>
+=More Information=
+<br>
+https://www.broadcom.com/products#cybersecurity
+[[Category:Incident Reporting & Recovery]]

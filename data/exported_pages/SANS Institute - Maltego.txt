@@ -1,0 +1,9 @@
+=Description=
+<br>
+Maltego is a tool used for gathering intelligence about people, organizations, and relationships. It is also used for conducting link analysis. Maltego can be used to find information about a person's online presence, as well as to find relationships between people. Maltego is a powerful tool for doing investigative work and can be used by law enforcement, private investigators, and businesses.
+<br>
+=More Information=
+<br>
+https://www.maltego.com/
+[[Category:Threat & Vulnerability Management]]
+[[Category:Incident Reporting & Recovery]]

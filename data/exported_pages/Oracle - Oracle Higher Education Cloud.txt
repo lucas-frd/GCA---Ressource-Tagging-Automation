@@ -1,0 +1,9 @@
+=Description=
+<br>
+Oracle Higher Education Cloud is a comprehensive, enterprise resource planning software solution designed to meet the needs of higher education institutions. The software includes modules for student recruitment and admissions, student life cycle management, financial aid, human resources, and finance. The software is delivered via the cloud, allowing institutions to access the software from anywhere with an internet connection. Oracle Higher Education Cloud is a scalable solution that can be tailored to the specific needs of each institution.
+<br>
+=More Information=
+<br>
+https://www.oracle.com/government/education/higher-education/
+[[Category:Financial]]
+[[Category:Colleges & Universities]]

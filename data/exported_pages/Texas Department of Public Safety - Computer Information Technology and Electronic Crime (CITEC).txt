@@ -1,0 +1,8 @@
+=Description=
+<br>
+The Texas Department of Public Safety - Computer Information Technology and Electronic Crime (CITEC) organization is responsible for investigating cyber and technology-related crimes within the state of Texas.
+<br>
+=More Information=
+<br>
+https://www.dps.texas.gov/CriminalInvestigations/citecUnit.htm
+[[Category:Texas]]

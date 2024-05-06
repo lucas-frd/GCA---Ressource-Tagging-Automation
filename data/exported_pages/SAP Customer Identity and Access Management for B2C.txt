@@ -1,0 +1,9 @@
+=Description=
+<br>
+The SAP Customer Identity and Access Management for B2C tool allows businesses to manage customer identities and access permissions in a centralized and secure way. The tool provides an interface for customers to login and access their account information, as well as manage their preferences and permissions. Furthermore, the tool enables businesses to customize the customer experience, and track customer activity across channels.
+<br>
+=More Information=
+<br>
+https://www.sap.com/products/customer-identity-and-access-management/for-b2c.html
+[[Category:Single Sign-On (SSO)]]
+[[Category:Two-Factor & Multi-Factor Authentication]]

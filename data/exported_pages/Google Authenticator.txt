@@ -1,0 +1,8 @@
+=Description=
+<br>
+Google Authenticator is a tool that provides a second factor of authentication for your Google account. This means that in addition to your username and password, you will also need to enter a code from the Google Authenticator app on your phone in order to login. This provides an extra layer of security, as it means that even if someone knows your password, they will not be able to login to your account unless they also have your phone.
+<br>
+=More Information=
+<br>
+https://cloud.google.com/identity-and-access-management/
+[[Category:Two-Factor & Multi-Factor Authentication]]

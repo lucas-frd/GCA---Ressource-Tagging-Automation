@@ -1,0 +1,11 @@
+=Description=
+<br>
+RapidIdentity is a software solution that helps organizations manage identities and access to resources. It includes a number of features to streamline identity management, including user provisioning, password management, and Single Sign-On (SSO). RapidIdentity can be deployed on-premises or in the cloud, and it integrates with a variety of third-party applications and systems.
+<br>
+=More Information=
+<br>
+https://www.rapididentity.com/
+[[Category:Single Sign-On (SSO)]]
+[[Category:User Provisioning & Governance]]
+[[Category:Identity & Access Management (IAM)]]
+[[Category:Two-Factor & Multi-Factor Authentication]]

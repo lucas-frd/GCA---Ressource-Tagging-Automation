@@ -1,0 +1,8 @@
+=Description=
+<br>
+Zertid is a tool that allows users to create and manage their digital identity. It allows users to control their personal data and share it with others. It also provides a way for users to authenticate their identity and login to websites and apps.
+<br>
+=More Information=
+<br>
+https://zertid.com/
+[[Category:Identity & Access Management (IAM)]]

@@ -1,0 +1,11 @@
+=Description=
+<br>
+The Cyber Threat Alliance (CTA) is a non-profit membership organization whose mission is to improve the world's response to cyber threats. CTA members include some of the most respected cybersecurity companies in the world.
+
+The CTA's flagship product is Analytic Sharing, a cloud-based platform that allows member companies to share cyber threat intelligence in real-time. Analytic Sharing is powered by a unique, patent-pending technology called ThreatGraph. ThreatGraph analyzes millions
+<br>
+=More Information=
+<br>
+https://cyberthreatalliance.org
+[[Category:Cybersecurity Providers]]
+[[Category:Security Operations Entities]]

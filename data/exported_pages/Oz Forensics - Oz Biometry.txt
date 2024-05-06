@@ -1,0 +1,8 @@
+=Description=
+<br>
+Oz Forensics is a company that provides digital forensics tools and services. One of their tools is Oz Biometry, which is a tool for extracting and analyzing biometric data. This tool can be used to extract biometric data from devices such as smartphones, laptops, and tablets. It can also be used to analyze this data to extract information such as fingerprints, iris patterns, and facial recognition data. This tool can be used by law enforcement agencies and businesses to help them investigate
+<br>
+=More Information=
+<br>
+https://ozforensics.com/our_solutions/oz_biometry/
+[[Category:Biometric]]

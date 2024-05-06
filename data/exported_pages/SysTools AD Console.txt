@@ -1,0 +1,8 @@
+=Description=
+<br>
+The SysTools AD Console tool allows you to manage Active Directory objects from a single console. You can view and edit object properties, create and delete objects, reset passwords, and manage group membership. You can also use the AD Console to perform bulk operations on Active Directory objects.
+<br>
+=More Information=
+<br>
+https://www.systoolsgroup.com/ad-console.html/
+[[Category:User Provisioning & Governance]]

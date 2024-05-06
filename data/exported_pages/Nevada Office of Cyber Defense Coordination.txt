@@ -1,0 +1,8 @@
+=Description=
+<br>
+The Nevada Office of Cyber Defense Coordination is responsible for coordinating the state's cybersecurity efforts and providing support and resources to local governments and agencies.
+<br>
+=More Information=
+<br>
+https://dps.nv.gov/divisions/OCDC/home/
+[[Category:Nevada]]

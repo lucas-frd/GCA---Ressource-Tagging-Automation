@@ -1,0 +1,9 @@
+=Description=
+<br>
+ManageEngine ADSelfService Plus is a self-service password management tool that allows users to reset their passwords and unlock their account. The tool also allows administrators to set up password policies and configure account lockouts. ADSelfService Plus also provides a self-service portal that allows users to update their personal information and change their password.
+<br>
+=More Information=
+<br>
+https://www.manageengine.com/products/ad-selfservice-plus/
+[[Category:Single Sign-On (SSO)]]
+[[Category:Two-Factor & Multi-Factor Authentication]]
