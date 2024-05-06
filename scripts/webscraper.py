@@ -19,13 +19,12 @@ graph_config = {
 # ************************************************
 # Create the SmartScraperGraph instance and run it
 # ************************************************
-
-smart_scraper_graph = SmartScraperGraph(
-   prompt="List me all the news with their description.",
-   # also accepts a string with the already downloaded HTML code
-   source="https://perinim.github.io/projects",
-   config=graph_config
-)
-
-result = smart_scraper_graph.run()
-print(result)
+def get_tool_description(tool_website):
+   smart_scraper_graph = SmartScraperGraph(
+      prompt="List me all the news with their description.",
+      # also accepts a string with the already downloaded HTML code
+      source=f'{tool_website}',
+      config=graph_config
+   )
+   result = smart_scraper_graph.run()
+   print(result)
