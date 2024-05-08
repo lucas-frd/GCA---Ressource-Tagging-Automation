@@ -28,3 +28,5 @@ def get_tool_description(tool_website):
    )
    result = smart_scraper_graph.run()
    print(result)
+
+get_tool_description('https://scrapegraph-ai.readthedocs.io/en/latest/getting_started/examples.html')

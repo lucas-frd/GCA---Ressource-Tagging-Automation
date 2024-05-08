@@ -1,4 +1,5 @@
 import os
+import pickle
 import pandas as pd
 import numpy as np
 import tensorflow as tf
@@ -6,49 +7,33 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.model_selection import train_test_split
 from sklearn.preprocessing import LabelEncoder
 from sklearn.metrics import precision_recall_fscore_support
+from sklearn.naive_bayes import MultinomialNB
+from sklearn.pipeline import Pipeline
 
 def train_model(data, control1, control2):
     # Read the data
     df = pd.read_csv('data/filtered_descriptions.csv')
-
-    # TF-IDF vectorization
-    vectorizer = TfidfVectorizer()
-    X_tfidf = vectorizer.fit_transform(df['Long Description'])
 
     # Convert string labels to numerical format
     label_encoder = LabelEncoder()
     labels_encoded = label_encoder.fit_transform(df['CIS v8 Control Area'])
 
     # Split data into training and testing sets
-    X_train, X_test, y_train, y_test = train_test_split(X_tfidf, labels_encoded, test_size=0.2, random_state=42)
+    X_train, X_test, y_train, y_test = train_test_split(df["Long Description"], labels_encoded, test_size=0.2, random_state=42)
 
-    # Define neural network architecture
-    model = tf.keras.Sequential([
-        tf.keras.layers.Dense(128, activation='relu', input_shape=(X_train.shape[1],)),
-        tf.keras.layers.Dense(64, activation='relu'),
-        tf.keras.layers.Dense(2, activation='softmax')
-    ])
+    model = MultinomialNB()
+    tf_vect = TfidfVectorizer()
+    pipe = Pipeline([("vectorizer", tf_vect), ("classifier", model)])
+    pipe.fit(X_train, y_train)
 
-    # Compile the model
-    model.compile(optimizer='adam', loss='sparse_categorical_crossentropy', metrics=['accuracy'])
-
-    # Train the model
-    model.fit(X_train, y_train, epochs=10, batch_size=8, validation_split=0.2)
-
-    # Evaluate the model
-    loss, accuracy = model.evaluate(X_test, y_test)
-    print(f'Test Accuracy: {accuracy}')
-
-    # Make predictions
-    y_pred = np.argmax(model.predict(X_test), axis=1)
+    y_pred = pipe.predict(X_test)
 
     # Calculate precision, recall, and F1-score
     precision, recall, f1, _ = precision_recall_fscore_support(y_test, y_pred, average='weighted')
     print(f'Precision: {precision}, Recall: {recall}, F1-score: {f1}')
 
-    save_dir = 'models'
-    model.save(f'models/model_CIS{control1}_CIS{control2}.h5')
-
+    with open('classifier', 'wb') as picklefile:
+        pickle.dump(pipe, picklefile)
 
 
 # Read the CSV file into a DataFrame
@@ -93,7 +78,7 @@ df17.loc[:, "CIS v8 Control Area"] = 17
 df18.loc[:, "CIS v8 Control Area"] = 18
 
 # Concatenate the filtered DataFrames
-result_df = pd.concat([df1, df3])
+result_df = pd.concat([df6, df14])
 
 # Drop duplicates based on the "Long Description" column to keep only unique descriptions
 result_df = result_df.drop_duplicates(subset="Long Description")
