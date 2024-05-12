@@ -5,7 +5,6 @@ import numpy as np
 import tensorflow as tf
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.model_selection import train_test_split
-from sklearn.preprocessing import LabelEncoder
 from sklearn.metrics import precision_recall_fscore_support
 from sklearn.naive_bayes import MultinomialNB
 from sklearn.pipeline import Pipeline
@@ -14,12 +13,8 @@ def train_model(data, control1, control2):
     # Read the data
     df = pd.read_csv('data/filtered_descriptions.csv')
 
-    # Convert string labels to numerical format
-    label_encoder = LabelEncoder()
-    labels_encoded = label_encoder.fit_transform(df['CIS v8 Control Area'])
-
     # Split data into training and testing sets
-    X_train, X_test, y_train, y_test = train_test_split(df["Long Description"], labels_encoded, test_size=0.2, random_state=42)
+    X_train, X_test, y_train, y_test = train_test_split(df["Long Description"], df['CIS v8 Control Area'], test_size=0.2, random_state=42)
 
     model = MultinomialNB()
     tf_vect = TfidfVectorizer()
@@ -32,7 +27,7 @@ def train_model(data, control1, control2):
     precision, recall, f1, _ = precision_recall_fscore_support(y_test, y_pred, average='weighted')
     print(f'Precision: {precision}, Recall: {recall}, F1-score: {f1}')
 
-    with open('classifier', 'wb') as picklefile:
+    with open(f'models/classifier_{control1}_{control2}', 'wb') as picklefile:
         pickle.dump(pipe, picklefile)
 
 
@@ -78,11 +73,14 @@ df17.loc[:, "CIS v8 Control Area"] = 17
 df18.loc[:, "CIS v8 Control Area"] = 18
 
 # Concatenate the filtered DataFrames
-result_df = pd.concat([df6, df14])
-
-# Drop duplicates based on the "Long Description" column to keep only unique descriptions
-result_df = result_df.drop_duplicates(subset="Long Description")
-
+result_df = pd.concat([df1, df14])
+duplicate_rows = result_df[result_df.duplicated(subset=['Long Description'], keep=False)]
+result_df = result_df.drop_duplicates()
+for index, row in duplicate_rows.iterrows():
+    for index1, row1 in result_df.iterrows():
+        if row1["Long Description"] == row["Long Description"]:
+            print("1")
+            result_df.at[index1, "CIS v8 Control Area"] = 19
 # Reset index
 result_df.reset_index(drop=True, inplace=True)
 
@@ -91,5 +89,5 @@ print(result_df["CIS v8 Control Area"].value_counts())
 # Save the result DataFrame to a CSV file
 result_df.to_csv("data/filtered_descriptions.csv", index=False)
 
-train_model("data/filtered_descriptions.csv", 1, 3)
+train_model("data/filtered_descriptions.csv", 1, 2)
 

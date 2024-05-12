@@ -1,32 +1,25 @@
 from scrapegraphai.graphs import SmartScraperGraph
-from scrapegraphai.utils import prettify_exec_info
 
 graph_config = {
-   "llm": {
-      "model": "ollama/mistral",
-      "temperature": 1,
-      "format": "json",  # Ollama needs the format to be specified explicitly
-      "model_tokens": 2000, #  depending on the model set context length
-      "base_url": "http://localhost:11434",  # set ollama URL of the local host (YOU CAN CHANGE IT, if you have a different endpoint
-   },
-   "embeddings": {
-      "model": "ollama/nomic-embed-text",
-      "temperature": 0,
-      "base_url": "http://localhost:11434",  # set ollama URL
-   }
+    "llm": {
+        "model": "ollama/mistral",
+        "temperature": 0,
+        "format": "json",  # Ollama needs the format to be specified explicitly
+        "base_url": "http://localhost:11434",  # set Ollama URL
+    },
+    "embeddings": {
+        "model": "ollama/nomic-embed-text",
+        "base_url": "http://localhost:11434",  # set Ollama URL
+    },
+    "verbose": True,
 }
 
-# ************************************************
-# Create the SmartScraperGraph instance and run it
-# ************************************************
-def get_tool_description(tool_website):
-   smart_scraper_graph = SmartScraperGraph(
-      prompt="List me all the news with their description.",
-      # also accepts a string with the already downloaded HTML code
-      source=f'{tool_website}',
-      config=graph_config
-   )
-   result = smart_scraper_graph.run()
-   print(result)
+smart_scraper_graph = SmartScraperGraph(
+    prompt="List me all the projects with their descriptions",
+    # also accepts a string with the already downloaded HTML code
+    source="https://perinim.github.io/projects",
+    config=graph_config
+)
 
-get_tool_description('https://scrapegraph-ai.readthedocs.io/en/latest/getting_started/examples.html')
+result = smart_scraper_graph.run()
+print(result)
