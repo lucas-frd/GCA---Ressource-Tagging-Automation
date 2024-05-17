@@ -4,6 +4,7 @@ import re
 
 df1 = pd.read_csv('/Users/lucasfernandes/Desktop/GCA - Ressource Tagging Automation/data/tools/cleaned_consolidated_tools_2023_12_10.xlsx - Sheet1.csv')
 df2 = pd.read_csv('/Users/lucasfernandes/Desktop/GCA - Ressource Tagging Automation/data/tools/Resource Mapping - SMBs for DIB - Sheet1.csv')
+
 df = pd.concat([df1, df2])
 data = []
 
@@ -42,5 +43,4 @@ df = df.drop(columns=['Grouping', 'Possible Other Communities'])
 df = df.sort_values(by='Name')
 df = df.reset_index()
 df = df.drop(df.columns[0], axis=1)
-
 df.to_csv('Consolidated_Tools.csv')

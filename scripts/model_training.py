@@ -9,9 +9,37 @@ from sklearn.metrics import precision_recall_fscore_support
 from sklearn.naive_bayes import MultinomialNB
 from sklearn.pipeline import Pipeline
 
-def train_model(data, control1, control2):
-    # Read the data
-    df = pd.read_csv('data/filtered_descriptions.csv')
+def train_model(control1, control2):
+
+    df = pd.read_csv('/Users/lucasfernandes/Desktop/GCA - Ressource Tagging Automation/data/tools/Consolidated_Tools.csv')
+
+    sentences = {}
+    for index, row in df.iterrows():
+        tool = row['Long Description']
+        if tool is None:
+            continue
+        controls = [control.strip() for control in str(row['CIS v8 Control Area']).split(",")]
+        if controls == ['nan']:
+            continue
+        sentences[tool] = controls
+
+    # Define the CIS controls you're interested in
+    cis_controls_of_interest = [str(control1), str(control2)]
+    filtered_tools = []
+
+    # Iterate through each sentence and compare the CIS controls
+    for sentence, controls in sentences.items():
+        # Preprocess controls
+        preprocessed_controls = [preprocess_control(control) for control in controls]
+        if any(control in cis_controls_of_interest for control in preprocessed_controls):
+            mapped_controls = list(set([preprocess_control(control) for control in controls if preprocess_control(control) in cis_controls_of_interest]))
+            print(f"{sentence}: {', '.join(controls)} => {', '.join(mapped_controls)}")
+            filtered_tools.append({'Long Description': sentence, 'CIS v8 Control Area': ', '.join(mapped_controls)})
+
+    df = pd.DataFrame(filtered_tools)
+    # Remove rows with NaN values only from column 'A'
+    df = df.dropna(subset=['Long Description'])
+    print(df["CIS v8 Control Area"].value_counts())
 
     # Split data into training and testing sets
     X_train, X_test, y_train, y_test = train_test_split(df["Long Description"], df['CIS v8 Control Area'], test_size=0.2, random_state=42)
@@ -30,64 +58,13 @@ def train_model(data, control1, control2):
     with open(f'models/classifier_{control1}_{control2}', 'wb') as picklefile:
         pickle.dump(pipe, picklefile)
 
+# Function to preprocess control numbers
+def preprocess_control(control):
+    # If the control number starts with a number followed by a dot, extract only the integer part
+    if "." in control:
+        return control.split(".")[0]
+    return control
 
-# Read the CSV file into a DataFrame
-df = pd.read_csv('data/WIP - CIS Control Mappings Updated - cleaned_consolidated_tools_2023_12_06.xlsx - Sheet1.csv', usecols=['Name', 'CIS v8 Control Area', 'Long Description'])
 
-df1 = df[df["CIS v8 Control Area"].astype(str).str.contains(" 1")]
-df2 = df[df["CIS v8 Control Area"].astype(str).str.contains(" 2")]
-df3 = df[df["CIS v8 Control Area"].astype(str).str.contains(" 3")]
-df4 = df[df["CIS v8 Control Area"].astype(str).str.contains(" 4")]
-df5 = df[df["CIS v8 Control Area"].astype(str).str.contains(" 5")]
-df6 = df[df["CIS v8 Control Area"].astype(str).str.contains(" 6")]
-df7 = df[df["CIS v8 Control Area"].astype(str).str.contains(" 7")]
-df8 = df[df["CIS v8 Control Area"].astype(str).str.contains(" 8")]
-df9 = df[df["CIS v8 Control Area"].astype(str).str.contains(" 9")]
-df10 = df[df["CIS v8 Control Area"].astype(str).str.contains("10")]
-df11 = df[df["CIS v8 Control Area"].astype(str).str.contains("11")]
-df12 = df[df["CIS v8 Control Area"].astype(str).str.contains("12")]
-df13 = df[df["CIS v8 Control Area"].astype(str).str.contains("13")]
-df14 = df[df["CIS v8 Control Area"].astype(str).str.contains("14")]
-df15 = df[df["CIS v8 Control Area"].astype(str).str.contains("15")]
-df16 = df[df["CIS v8 Control Area"].astype(str).str.contains("16")]
-df17 = df[df["CIS v8 Control Area"].astype(str).str.contains("17")]
-df18 = df[df["CIS v8 Control Area"].astype(str).str.contains("18")]
-
-df1.loc[:, "CIS v8 Control Area"] = 1
-df2.loc[:, "CIS v8 Control Area"] = 2
-df3.loc[:, "CIS v8 Control Area"] = 3
-df4.loc[:, "CIS v8 Control Area"] = 4
-df5.loc[:, "CIS v8 Control Area"] = 5
-df6.loc[:, "CIS v8 Control Area"] = 6
-df7.loc[:, "CIS v8 Control Area"] = 7
-df8.loc[:, "CIS v8 Control Area"] = 8
-df9.loc[:, "CIS v8 Control Area"] = 9
-df10.loc[:, "CIS v8 Control Area"] = 10
-df11.loc[:, "CIS v8 Control Area"] = 11
-df12.loc[:, "CIS v8 Control Area"] = 12
-df13.loc[:, "CIS v8 Control Area"] = 13
-df14.loc[:, "CIS v8 Control Area"] = 14
-df15.loc[:, "CIS v8 Control Area"] = 15
-df16.loc[:, "CIS v8 Control Area"] = 16
-df17.loc[:, "CIS v8 Control Area"] = 17
-df18.loc[:, "CIS v8 Control Area"] = 18
-
-# Concatenate the filtered DataFrames
-result_df = pd.concat([df1, df14])
-duplicate_rows = result_df[result_df.duplicated(subset=['Long Description'], keep=False)]
-result_df = result_df.drop_duplicates()
-for index, row in duplicate_rows.iterrows():
-    for index1, row1 in result_df.iterrows():
-        if row1["Long Description"] == row["Long Description"]:
-            print("1")
-            result_df.at[index1, "CIS v8 Control Area"] = 19
-# Reset index
-result_df.reset_index(drop=True, inplace=True)
-
-print(result_df["CIS v8 Control Area"].value_counts())
-
-# Save the result DataFrame to a CSV file
-result_df.to_csv("data/filtered_descriptions.csv", index=False)
-
-train_model("data/filtered_descriptions.csv", 1, 2)
+train_model(17, 18)
 
