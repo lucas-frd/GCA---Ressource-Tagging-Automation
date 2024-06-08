@@ -1,8 +1,0 @@
-=Description=
-<br>
-FaceTec is a 3D face authentication tool that uses facial recognition to verify a user's identity. The user's face is scanned in 3D and compared to a database of known faces. If the user's face matches a known face, the user is authenticated. FaceTec is used for security purposes, such as accessing restricted areas or logging into devices.
-<br>
-=More Information=
-<br>
-https://www.facetec.com/
-[[Category:Biometric]]

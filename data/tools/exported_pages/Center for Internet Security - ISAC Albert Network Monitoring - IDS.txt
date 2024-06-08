@@ -1,8 +1,0 @@
-=Description=
-<br>
-The ISAC Albert Network Monitoring tool is designed to help organizations monitor their networks for security threats. It provides a centralized console for viewing network activity, alerts, and reports. The tool also allows organizations to create custom rules to detect and respond to specific threats.
-<br>
-=More Information=
-<br>
-https://www.cisecurity.org/services/albert-network-monitoring
-[[Category:Operational]]

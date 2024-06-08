@@ -1,8 +1,0 @@
-=Description=
-<br>
-Fortr3ssApp is a tool that enables researchers to analyze and predict the behavior of malware. It uses a variety of techniques, including machine learning, to understand the behavior of malware and predict how it will evolve. Fortr3ssApp is designed to work with a variety of data sources, including public and private data, to provide the most accurate predictions possible.
-<br>
-=More Information=
-<br>
-https://www.fortr3ss.com/fortr3ss-app/
-[[Category:Biometric]]

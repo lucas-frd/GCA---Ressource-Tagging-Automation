@@ -1,8 +1,0 @@
-=Description=
-<br>
-Passport is an online identity management tool that allows users to securely store and manage their personal information. It provides a convenient way for users to access their data from any device or location. Passport also offers a variety of features to help users keep their information safe, such as password recovery, two-factor authentication, and encrypted storage.
-<br>
-=More Information=
-<br>
-https://www.optimalidm.com/
-[[Category:Single Sign-On (SSO)]]

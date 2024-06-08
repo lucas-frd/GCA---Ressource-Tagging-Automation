@@ -1,9 +1,0 @@
-=Description=
-<br>
-RouterSploit is a SANS Institute project that aims to help penetration testers and network security professionals identify and exploit vulnerabilities in routers and other networked devices. The tool RouterSploit consists of a modular framework that makes it easy to add new exploits and support for new devices. The project is open source and available on GitHub.
-<br>
-=More Information=
-<br>
-https://github.com/threat9/routersploit
-[[Category:Security Testing & Auditing]]
-[[Category:Attack & Penetration Testing]]

@@ -1,9 +1,0 @@
-=Description=
-<br>
-The IT Security Management Program at https://securethevillage.org/ is a program designed to help organizations manage their security risks and improve their overall security posture. The program provides a framework for security management, which includes identifying security risks, implementing controls to mitigate those risks, and monitoring the effectiveness of those controls. The program also provides guidance on incident response and recovery, as well as on security awareness and training.
-<br>
-=More Information=
-<br>
-https://securethevillage.org/
-[[Category:Nonprofits & Charities]]
-[[Category:Small & Medium Sized Businesses]]

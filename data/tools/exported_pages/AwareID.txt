@@ -1,8 +1,0 @@
-=Description=
-<br>
-AwareID is a tool that helps organizations manage and secure their data. It provides a centralized location for storing, managing, and sharing data, as well as a way to control access to that data. AwareID also includes features for auditing and logging data activity, as well as for encrypting data at rest and in transit.
-<br>
-=More Information=
-<br>
-https://www.awareid.com/
-[[Category:Biometric]]

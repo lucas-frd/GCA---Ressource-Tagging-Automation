@@ -1,8 +1,0 @@
-=Description=
-<br>
-Nango is a tool that helps you find and connect with people who have similar interests. It is a great way to meet new people, make friends, and find collaborators. Nango is a social networking tool that is based on interests. It helps you find people who share your interests and connect with them.
-<br>
-=More Information=
-<br>
-https://www.nango.io/
-[[Category:Single Sign-On (SSO)]]

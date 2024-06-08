@@ -1,8 +1,0 @@
-=Description=
-<br>
-The Ransomware Risk Assessment tool from Zscaler can help organizations assess their susceptibility to ransomware attacks. The tool provides a questionnaire that covers topics such as network security, user training, and backup and recovery procedures. After completing the questionnaire, the tool generates a report that includes recommendations for improving the organization's defenses against ransomware.
-<br>
-=More Information=
-<br>
-https://testmydefenses.com/ransomware-assessment/
-[[Category:Ransomeware]]

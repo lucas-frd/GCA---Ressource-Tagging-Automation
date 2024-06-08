@@ -1,9 +1,0 @@
-=Description=
-<br>
-The Microsoft Secure Score is a free online tool that helps businesses assess their cybersecurity posture and identify areas for improvement. The tool provides a score based on how well a company is doing in several key areas, including patch management, user account security, and data protection. The Secure Score can be used to benchmark a company's progress over time and to compare against other businesses.
-<br>
-=More Information=
-<br>
-https://www.wipfli.com/insights/articles/tc-do-you-know-your-microsoft-secure-score
-[[Category:Nonprofits & Charities]]
-[[Category:Small & Medium Sized Businesses]]

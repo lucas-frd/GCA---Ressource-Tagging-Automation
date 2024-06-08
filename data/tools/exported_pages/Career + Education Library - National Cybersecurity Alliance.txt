@@ -1,9 +1,0 @@
-=Description=
-<br>
-The National Cybersecurity Alliance is a non-profit organization on a mission to create a more secure, interconnected world.We advocate for the safe use of all technology and educate everyone on how best to protect ourselves, our families, and our organi
-<br>
-=More Information=
-<br>
-https://staysafeonline.org/resources/career-education/
-[[Category:CIS - 14 - Security Awareness and Skills Training]]
-[[Category:Individuals]]

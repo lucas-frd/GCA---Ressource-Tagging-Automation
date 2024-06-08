@@ -1,9 +1,0 @@
-=Description=
-<br>
-Bitcoin mixers are a type of service that allows users to mix their bitcoins with other users' bitcoins, in order to obfuscate the source of the funds. This can be useful for privacy-conscious users who don't want their transaction history to be publicly visible on the blockchain. Mixers typically charge a fee for their service, and they may require users to have an account with them in order to use their service. Some mixers also require users to deposit their bitcoins into a specific address
-<br>
-=More Information=
-<br>
-https://www.coindesk.com/learn/bitcoin-mixers-how-do-they-work-and-why-are-they-used/
-[[Category:Centralized Transaction Mixer]]
-[[Category:Decentralized Transaction Mixer]]

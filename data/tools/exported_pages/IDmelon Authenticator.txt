@@ -1,8 +1,0 @@
-=Description=
-<br>
-IDmelon's Authenticator is a secure, self-contained system for authenticating individuals that is based on their personal biometrics. The system uses an iris scanner and fingerprint reader to capture an individual's biometrics, which are then converted into a digital template. This template is stored on a smart card, which is linked to a central database. When an individual needs to authenticate themselves, they insert their smart card into a reader and place their finger on the fingerprint reader.
-<br>
-=More Information=
-<br>
-https://www.idmelon.com/
-[[Category:Two-Factor & Multi-Factor Authentication]]

@@ -1,8 +1,0 @@
-=Description=
-<br>
-Atomic Wallet is a secure cryptocurrency storage tool that allows users to store their private keys and mnemonic seed in a secure and private location. The tool uses a combination of AES-256 encryption and a proprietary security protocol to ensure that user data is protected from theft and loss. Atomic Wallet also offers a variety of features that allow users to manage their cryptocurrency portfolio, including the ability tosend and receive payments, view transaction history, and create and manage wallets.
-<br>
-=More Information=
-<br>
-https://atomicwallet.io/academy/articles/how-to-store-private-keys-and-mnemonic-seed
-[[Category:How Do Digital Wallets Work?]]

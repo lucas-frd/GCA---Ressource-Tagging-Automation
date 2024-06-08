@@ -1,8 +1,0 @@
-=Description=
-<br>
-Every application needs customer authentication, but building it demands specialized expertise. FusionAuth solves the problem of building essential user security without distracting from the primary application. It is purpose-built for customer identity and provides all the necessary features and tools in one easy to use solution. Additionally, it is highly extensible and can be easily integrated into any application.
-<br>
-=More Information=
-<br>
-https://fusionauth.io/
-[[Category:Identity & Access Management (IAM)]]

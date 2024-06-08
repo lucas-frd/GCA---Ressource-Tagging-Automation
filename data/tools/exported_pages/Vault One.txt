@@ -1,8 +1,0 @@
-=Description=
-<br>
-Vault One is described as a "simple, fast and secure way to manage your digital life." The site provides a variety of features and tools to help users manage their online identities and passwords, as well as keep their personal information safe and secure. Vault One offers a variety of features including password management, online backup, and encrypted storage. The site also provides a variety of resources to help users stay safe and secure online.
-<br>
-=More Information=
-<br>
-https://www.valtone.com/
-[[Category:User Provisioning & Governance]]

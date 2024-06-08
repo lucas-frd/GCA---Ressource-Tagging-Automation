@@ -1,8 +1,0 @@
-=Description=
-<br>
-Indent is a tool that can be used to improve the indentation of code. It is available as a web-based tool or as a command-line tool. Indent can be used to indent code written in any programming language.
-<br>
-=More Information=
-<br>
-https://www.indent.io/
-[[Category:User Provisioning & Governance]]

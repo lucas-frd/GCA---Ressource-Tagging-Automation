@@ -1,9 +1,0 @@
-=Description=
-<br>
-GDPR.edu is resource that helps educate and inform businesses, organizations, and individuals about the EU's new data protection law, known as the General Data Protection Regulation (GDPR).
-<br>
-=More Information=
-<br>
-https://gdpr.eu/what-is-gdpr/
-[[Category:Know Your Rights]]
-[[Category:Know Your Rights]]

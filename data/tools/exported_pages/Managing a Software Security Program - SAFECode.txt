@@ -1,9 +1,0 @@
-=Description=
-<br>
-A mature secure development lifecycle is more than just a checklist of secure development practices. It also encompasses all aspects of a healthy business process, such as program management, stakeholder engagement, deployment planning and measurement. SA
-<br>
-=More Information=
-<br>
-https://safecode.org/category/resource-managing-software-security/
-[[Category:CIS - 16 - Application Software Security]]
-[[Category:Developers and Development Organizations]]

@@ -1,8 +1,0 @@
-=Description=
-<br>
-J.P. Morgan is a global financial services firm that provides a range of investment banking, asset management, and wealth management services to governments, corporations, and individuals. The firm has a long history dating back to the early 19th century and has grown to become one of the largest and most well-respected financial institutions in the world.
-<br>
-=More Information=
-<br>
-https://www.jpmorgan.com/insights/cybersecurity/business-email-compromise/threat-public-sector
-[[Category:Data Security]]

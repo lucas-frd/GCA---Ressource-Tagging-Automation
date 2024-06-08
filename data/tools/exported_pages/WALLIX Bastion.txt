@@ -1,8 +1,0 @@
-=Description=
-<br>
-WALLIX Bastion is a security tool that helps organizations secure their critical systems and data. It provides a Bastion Host that acts as a gateway to a protected network, and it includes a number of security features such as user authentication, activity logging, and data encryption.
-<br>
-=More Information=
-<br>
-https://www.wallix.com/
-[[Category:Password Managers]]

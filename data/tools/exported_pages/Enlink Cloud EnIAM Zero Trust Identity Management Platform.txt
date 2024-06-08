@@ -1,9 +1,0 @@
-=Description=
-<br>
-Enlink Cloud EnIAM is a cloud-based zero trust identity management platform that enables organizations to securely connect users to applications and data, regardless of location. The platform provides a single point of control for managing identities, access, and authentication, eliminating the need for multiple siloed tools. Enlink Cloud EnIAM supports a variety of authentication methods, including traditional username and password, two-factor authentication, and single sign-on. The platform is also designed to work with
-<br>
-=More Information=
-<br>
-https://www.enlinkcloud.com/eniam/
-[[Category:Single Sign-On (SSO)]]
-[[Category:Two-Factor & Multi-Factor Authentication]]

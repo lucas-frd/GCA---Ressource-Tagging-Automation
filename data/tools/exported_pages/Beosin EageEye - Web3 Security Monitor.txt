@@ -1,8 +1,0 @@
-=Description=
-<br>
-The Web3 Security Monitor is a tool from Beosin that allows users to track and monitor security events on the Ethereum blockchain. The tool provides a list of all security events that have been recorded on the blockchain, as well as information on the type of event, the date and time it occurred, and the address of the affected contract. The Web3 Security Monitor is a valuable resource for users looking to stay up-to-date on security issues on the Ethereum blockchain, and can help
-<br>
-=More Information=
-<br>
-https://eagleeye.beosin.com/ProjectSearch
-[[Category:Cryptocurrency Project Risk Intelligence and Management]]

@@ -1,8 +1,0 @@
-=Description=
-<br>
-Vaulteron is a tool that helps manage your Vault server. It provides a web-based interface for managing users, policies, and secrets. It also includes a CLI tool for interacting with the server.
-<br>
-=More Information=
-<br>
-https://www.vaulteron.com/
-[[Category:Password Managers]]

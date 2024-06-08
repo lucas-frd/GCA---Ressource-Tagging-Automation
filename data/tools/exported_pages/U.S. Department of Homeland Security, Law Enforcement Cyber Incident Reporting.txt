@@ -1,8 +1,0 @@
-=Description=
-<br>
-The U.S. Department of Homeland Security, Law Enforcement Cyber Incident Reporting organization is responsible for collecting and analyzing reports of cyber incidents from law enforcement agencies to help identify and respond to potential threats to national security and public safety.
-<br>
-=More Information=
-<br>
-https://www.cisa.gov/sites/default/files/publications/Law%20Enforcement%20Cyber%20Incident%20Reporting.pdf
-[[Category:Federal]]

@@ -1,8 +1,0 @@
-=Description=
-<br>
-DNSWalker is a tool designed to help network administrators troubleshoot DNS problems. It can be used to test DNS servers for correct functionality, to verify DNS server configuration, and to diagnose problems with DNS servers. DNSWalker can also be used to perform zone transfers, which can be helpful in troubleshooting DNS problems.
-<br>
-=More Information=
-<br>
-https://www.sans.org/tools/?per-page=100
-[[Category:DNS]]

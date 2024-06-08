@@ -1,8 +1,0 @@
-=Description=
-<br>
-The IT Portal is a comprehensive online resource for information technology professionals. The site offers news, reviews, and tutorials on a variety of topics, as well as an extensive directory of IT resources. The IT Portal is a great way to stay up-to-date on the latest industry news and learn new skills.
-<br>
-=More Information=
-<br>
-https://www.itportal.com/
-[[Category:Password Managers]]

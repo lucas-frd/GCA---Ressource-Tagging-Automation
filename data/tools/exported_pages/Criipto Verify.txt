@@ -1,8 +1,0 @@
-=Description=
-<br>
-Criipto Verify is a tool that helps organizations verify the identities of their employees and customers. It does this by checking the individual’s information against a database of government-issued ID documents. Criipto Verify is a quick and easy way to verify someone’s identity, and it can be used for a variety of different purposes, such as onboarding new employees or verifying customers’ identities for KYC purposes.
-<br>
-=More Information=
-<br>
-https://dashboard.criipto.com/login
-[[Category:Two-Factor & Multi-Factor Authentication]]

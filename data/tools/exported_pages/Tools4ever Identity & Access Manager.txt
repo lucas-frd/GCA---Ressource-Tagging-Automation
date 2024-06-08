@@ -1,8 +1,0 @@
-=Description=
-<br>
-Tools4ever's Identity & Access Manager is a web-based tool that helps organizations control access to their systems and data. It provides a centralized platform for managing user identities, roles, and permissions. The tool helps organizations to automate the process of provisioning and de-provisioning users, as well as to keep track of user activity and access changes. It also includes features for password management and Single Sign-On.
-<br>
-=More Information=
-<br>
-https://www.tools4ever.com/products/identity-access-manager/
-[[Category:User Provisioning & Governance]]

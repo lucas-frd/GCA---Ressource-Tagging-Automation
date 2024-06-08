@@ -1,8 +1,0 @@
-=Description=
-<br>
-Swif is an online tool that allows users to create and share short video clips. The videos are known as Swifs. users can create Swifs by recording themselves or by using existing video footage. Swifs can be up to 30 seconds long and can be shared with other Swif users or embedded on websites.
-<br>
-=More Information=
-<br>
-https://www.swif.com/
-[[Category:User Provisioning & Governance]]

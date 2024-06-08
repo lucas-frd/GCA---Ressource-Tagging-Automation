@@ -1,8 +1,0 @@
-=Description=
-<br>
-MultiSense is a powerful tool that allows users to quickly and easily analyze text data. It provides users with a variety of features, including the ability to identify the sentiment of a text, the topic of a text, and the key phrases in a text. MultiSense also offers users the ability to compare the sentiment of two pieces of text, and to compare the topic of two pieces of text. This makes it an invaluable tool for both analysts and businesses alike.
-<br>
-=More Information=
-<br>
-https://www.multisense.ai/
-[[Category:Biometric]]

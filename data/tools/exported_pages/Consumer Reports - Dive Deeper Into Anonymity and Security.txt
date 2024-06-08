@@ -1,8 +1,0 @@
-=Description=
-<br>
-Dive Deeper Into Anonymity and Security is a tool from Consumer Reports that helps users learn more about online privacy and security. The tool starts by asking users about their current level of knowledge and then provides them with resources to help them improve their understanding of online privacy and security. The resources include articles, tips, and information about privacy-enhancing software. The tool also allows users to take quizzes to test their understanding of online privacy and security.
-<br>
-=More Information=
-<br>
-https://securityplanner.consumerreports.org/tool/more-anonymity-security-help
-[[Category:Protecting You & Your Childs Personal Information]]

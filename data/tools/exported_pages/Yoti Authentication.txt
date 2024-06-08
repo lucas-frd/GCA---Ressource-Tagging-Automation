@@ -1,9 +1,0 @@
-=Description=
-<br>
-Yoti Authentication is a tool that allows people to prove their identity online. It works by using a person's mobile phone number and a government-issued ID, such as a passport or driver's license. The person's identity is then verified by Yoti's servers. Once the person's identity is verified, they can then use Yoti Authentication to log into websites and apps. Yoti Authentication is a secure and convenient way to verify your identity online.
-<br>
-=More Information=
-<br>
-https://www.yoti.com/authentication/
-[[Category:Biometric]]
-[[Category:Two-Factor & Multi-Factor Authentication]]

@@ -1,8 +1,0 @@
-=Description=
-<br>
-HighSide Multi-Factor Authentication is a security tool that adds an extra layer of protection to your online accounts. It works by requiring you to confirm your identity using two factor authentication, which can include a fingerprint scan, iris scan, or a one-time code sent to your mobile device. This makes it much more difficult for hackers to gain access to your accounts, and helps to keep your confidential information safe.
-<br>
-=More Information=
-<br>
-https://www.highside.com/multi-factor-authentication/
-[[Category:Two-Factor & Multi-Factor Authentication]]

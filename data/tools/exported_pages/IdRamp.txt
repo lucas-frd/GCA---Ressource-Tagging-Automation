@@ -1,9 +1,0 @@
-=Description=
-<br>
-IdRamp is a cloud-based platform that provides users with a single, unified view of their identity data. It allows organizations to connect their disparate data sources and silos, so that they can better manage their identities and access to resources. It also provides a self-service portal for users to manage their own identity data.
-<br>
-=More Information=
-<br>
-https://www.idramp.com/
-[[Category:Single Sign-On (SSO)]]
-[[Category:Biometric]]

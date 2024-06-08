@@ -1,8 +1,0 @@
-=Description=
-<br>
-The Alaska Department of Public Safety is a state government agency responsible for promoting public safety, preventing crime, and enforcing laws.
-<br>
-=More Information=
-<br>
-https://dps.alaska.gov/ast/abi/technicalcrimes
-[[Category:Alaska]]

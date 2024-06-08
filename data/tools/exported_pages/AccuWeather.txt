@@ -1,8 +1,0 @@
-=Description=
-<br>
-AccuWeather is a well-known and highly trusted weather forecasting organization that helps millions of people around the world plan and prepare for their day-to-day activities based on up-to-date and accurate weather information. Founded in 1962 by Dr. Joel N. Myers, AccuWeather has grown to become the leading global provider of weather forecasts, data, and customized services for media, businesses, and individuals.
-<br>
-=More Information=
-<br>
-https://www.accuweather.com/
-[[Category:Weather apps]]

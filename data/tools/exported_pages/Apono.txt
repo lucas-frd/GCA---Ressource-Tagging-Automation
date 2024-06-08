@@ -1,8 +1,0 @@
-=Description=
-<br>
-Apono is a social media analytics tool that helps businesses track, measure, and improve their social media performance. The platform provides insights into what content is resonating with audiences, how engaged users are with a brand, and how social media influences purchase decisions. Apono also offers a suite of tools to help businesses create and track social media campaigns, as well as monitor competitor activity.
-<br>
-=More Information=
-<br>
-https://www.apono.com/
-[[Category:Identity & Access Management (IAM)]]

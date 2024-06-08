@@ -1,8 +1,0 @@
-=Description=
-<br>
-The miniOrange Identity & Access Management tool provides a centralized platform for managing user identities and access to resources. It includes features for managing user accounts, roles, and permissions. It also provides auditing and reporting capabilities to help you monitor and manage access to your resources. miniOrange Identity & Access Management is designed to work with your existing infrastructure and can be deployed on-premises or in the cloud.
-<br>
-=More Information=
-<br>
-https://www.miniorange.com/identity-and-access-management/
-[[Category:User Provisioning & Governance]]

@@ -1,9 +1,0 @@
-=Description=
-<br>
-The tool How CEOs can be Proactive in Cybersecurity is a guide that helps CEOs to prioritize cybersecurity. It includes tips on how to create a culture of security, how to communicate with the board about cybersecurity, and how to allocate resources. The guide also includes a checklist of items that CEOs should consider when prioritizing cybersecurity.
-<br>
-=More Information=
-<br>
-https://www.wipfli.com/insights/articles/ra-ceo-strategies-for-prioritizing-cybersecurity
-[[Category:Risks & Threats]]
-[[Category:Security Awareness & Training]]

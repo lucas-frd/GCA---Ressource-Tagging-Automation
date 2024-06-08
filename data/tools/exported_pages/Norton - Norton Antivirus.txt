@@ -1,8 +1,0 @@
-=Description=
-<br>
-Norton Antivirus is a security software program that helps protect your computer against viruses, worms, Trojan horses, and other malware. It works by scanning your computer's files and detecting any malicious code that may be present. If it finds any, it will either remove the malicious code or quarantine it so that it can't do any damage. Norton Antivirus also includes features that can help protect you from phishing scams and identity theft.
-<br>
-=More Information=
-<br>
-https://us.norton.com/
-[[Category:Anti-virus & Anti-malware Software]]

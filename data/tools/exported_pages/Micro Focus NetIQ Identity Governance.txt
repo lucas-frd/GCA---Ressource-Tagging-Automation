@@ -1,8 +1,0 @@
-=Description=
-<br>
-Micro Focus NetIQ Identity Governance is a micro focus identity and access management product. It allows organizations to manage user access to systems and data, as well as provides a mechanism for auditing and compliance. The product includes a variety of features such as role-based access control, workflow management, and integration with third-party products. It is designed to work with Micro Focus eDirectory and other LDAP-based directory services.
-<br>
-=More Information=
-<br>
-https://www.microfocus.com/en-us/products/identity-and-access-management/netiq-identity-governance-administration/
-[[Category:User Provisioning & Governance]]

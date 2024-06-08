@@ -1,8 +1,0 @@
-=Description=
-<br>
-Netfilter is a Open Source based project that is responsible for the filtering of packets in the Linux kernel. It offers features such as stateful filtering, connection tracking, and NAT. It is also the basis for many firewall solutions such as iptables.
-<br>
-=More Information=
-<br>
-https://www.netfilter.org/
-[[Category:Firewalls]]

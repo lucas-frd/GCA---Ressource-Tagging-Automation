@@ -1,9 +1,0 @@
-=Description=
-<br>
-RSA SecurID is a two-factor authentication device that generates a one-time password (OTP) when the user presses the button. The OTP is valid for only 60 seconds and is then regenerated, so even if the password is intercepted, it cannot be used to login. The user enters their username and PIN into the device, which then generates the OTP. The OTP is then entered into the login prompt, along with the username, to gain access to
-<br>
-=More Information=
-<br>
-https://www.rsa.com/secur-id/
-[[Category:Single Sign-On (SSO)]]
-[[Category:Two-Factor & Multi-Factor Authentication]]

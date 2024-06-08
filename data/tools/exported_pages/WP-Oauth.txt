@@ -1,8 +1,0 @@
-=Description=
-<br>
-WP-Oauth is aWordPress tool that allows you to connect to OAuth providers and use their API to manage authentication and authorization. It supports a variety of providers, including Facebook, Twitter, and Google. You can use WP-Oauth to connect to these providers and use their API to login, register, and access protected resources.
-<br>
-=More Information=
-<br>
-https://wpoauth.com/
-[[Category:Two-Factor & Multi-Factor Authentication]]

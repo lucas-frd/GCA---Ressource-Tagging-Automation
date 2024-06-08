@@ -1,8 +1,0 @@
-=Description=
-<br>
-CloudIdentify is a cloud-based identity management solution that enables organizations to securely manage and access their digital identities. With CloudIdentify, organizations can connect their employees, customers, and partners with the applications and services they need, while keeping their data safe and secure. CloudIdentify provides a unified platform for identity management, access control, and user provisioning, making it easy for organizations to manage their digital identities across all their applications and services.
-<br>
-=More Information=
-<br>
-https://www.cloudidentify.com/
-[[Category:Two-Factor & Multi-Factor Authentication]]

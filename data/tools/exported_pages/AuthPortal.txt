@@ -1,8 +1,0 @@
-=Description=
-<br>
-AuthPortal is a secure authentication platform that enables organizations to protect their data and applications from unauthorized access. It offers a variety of features that make it an ideal solution for organizations looking to improve their security posture, including support for multiple user types, granular permissions, and auditing. AuthPortal also integrates with a number of third-party applications and services, making it a versatile solution for a variety of use cases.
-<br>
-=More Information=
-<br>
-https://authportal.com/
-[[Category:Two-Factor & Multi-Factor Authentication]]

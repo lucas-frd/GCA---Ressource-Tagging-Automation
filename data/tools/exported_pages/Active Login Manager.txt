@@ -1,8 +1,0 @@
-=Description=
-<br>
-Active Directory Login Manager (ADLM) is a software application for managing user authentication to Active Directory (AD) resources. ADLM provides a centralized console for managing user accounts and passwords, as well as a set of tools for managing AD objects and resources. ADLM also includes a set of reports for auditing and compliance purposes.
-<br>
-=More Information=
-<br>
-https://www.activeloginex.com/
-[[Category:Single Sign-On (SSO)]]

@@ -1,8 +1,0 @@
-=Description=
-<br>
-BlockchainDefender is a BlockSafe Technologies product designed to protect blockchains from attack. It is a Hardware Wallet that stores your private keys offline and signs transactions offline, so that your keys can never be stolen by hackers. It also has a built-in screen so that you can visually confirm each transaction before signing it.
-<br>
-=More Information=
-<br>
-https://blocksafetech.com/products/blockchaindefender/
-[[Category:Cryptocurrency Project Risk Intelligence and Management]]

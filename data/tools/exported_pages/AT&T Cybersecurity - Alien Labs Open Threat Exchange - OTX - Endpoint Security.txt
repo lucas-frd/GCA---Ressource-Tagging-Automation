@@ -1,8 +1,0 @@
-=Description=
-<br>
-The Alien Labs Open Threat Exchange is a platform that allows users to share information about cybersecurity threats in order to better protect themselves and their networks. The platform includes a variety of features such as a threat feed, a repository of malware samples, and a dashboard that allows users to see which threats are most active. The OTX platform is free to use and is open to anyone who wishes to contribute.
-<br>
-=More Information=
-<br>
-https://cybersecurity.att.com/open-threat-exchange
-[[Category:Threat & Vulnerability Management]]

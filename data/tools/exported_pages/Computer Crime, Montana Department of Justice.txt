@@ -1,8 +1,0 @@
-=Description=
-<br>
-The Computer Crime, Montana Department of Justice is an organization that investigates and prosecutes computer-related crimes in the state of Montana.
-<br>
-=More Information=
-<br>
-https://dojmt.gov/enforcement/investigations-bureau/computer-crime/
-[[Category:Montana]]

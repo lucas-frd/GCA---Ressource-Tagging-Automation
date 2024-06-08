@@ -1,8 +1,0 @@
-=Description=
-<br>
-If your online account has been hacked or compromised, this tool can help you regain control. It guides you through the process of regaining control of your hacked or compromised account, step by step. It also provides links to resources that can help you secure your account and prevent future hacks.
-<br>
-=More Information=
-<br>
-https://securityplanner.consumerreports.org/tool/regain-control-of-hacked-accounts
-[[Category:Resources for Victims of Cybercrime & Malicious Activity]]

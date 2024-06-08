@@ -1,8 +1,0 @@
-=Description=
-<br>
-Secureworks Dalton is a tool that allows analysts to quickly and easily assess the risk of a given network. It does this by providing a flexible and user-friendly way to create and view network diagrams. This makes it easy to identify potential security risks and take steps to mitigate them.
-<br>
-=More Information=
-<br>
-https://github.com/secureworks/dalton
-[[Category:Security Information & Event Management (SIEM)]]

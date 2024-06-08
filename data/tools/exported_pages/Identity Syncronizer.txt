@@ -1,8 +1,0 @@
-=Description=
-<br>
-Identity Syncronizer is a synchronization tool that can be used to synchronize data between two or more systems. It can be used to synchronize data between databases, applications, or even between different servers. Identity Syncronizer can be used to synchronize data in real time, or on a schedule. It is also possible to use Identity Syncronizer to replicate data between systems, or to merge data from multiple systems into a single system.
-<br>
-=More Information=
-<br>
-https://www.identitysyncronizer.com/
-[[Category:Identity & Access Management (IAM)]]

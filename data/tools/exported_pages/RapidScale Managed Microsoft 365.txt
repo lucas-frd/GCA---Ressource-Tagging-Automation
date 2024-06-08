@@ -1,8 +1,0 @@
-=Description=
-<br>
-RapidScale Managed Microsoft 365 is a subscription-based service that includes Microsoft 365 E5, Enterprise Mobility + Security E5, and Windows 10 Enterprise E5. It includes all the features of Microsoft 365 E5, plus additional security and management features. RapidScale Managed Microsoft 365 is designed for enterprises that need the highest level of security and control over their environment. It includes features like Azure Active Directory Premium P2, Microsoft Intune, and Azure Information Protection Premium P2.
-<br>
-=More Information=
-<br>
-https://www.rapidscale.com/managed-microsoft-365/
-[[Category:User Provisioning & Governance]]

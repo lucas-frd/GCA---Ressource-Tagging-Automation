@@ -1,8 +1,0 @@
-=Description=
-<br>
-The Virginia State Police - High Tech Crimes organization is responsible for investigating and preventing cyber crimes and protecting the state's critical infrastructure from cyber attacks.
-<br>
-=More Information=
-<br>
-https://pshs.virginia.gov/homeland-security/cyber-security/
-[[Category:Virginia]]

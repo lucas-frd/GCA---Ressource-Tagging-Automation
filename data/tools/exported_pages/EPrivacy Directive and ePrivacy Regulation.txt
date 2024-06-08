@@ -1,8 +1,0 @@
-=Description=
-<br>
-The ePrivacy Directive and ePrivacy Regulation are European Union laws that regulate the processing of personal data in the electronic communications sector. The ePrivacy Directive was adopted in 2002 and the ePrivacy Regulation was adopted in 2016. The ePrivacy Regulation is expected to come into force in 2025.
-<br>
-=More Information=
-<br>
-https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32002L0058
-[[Category:European Union]]

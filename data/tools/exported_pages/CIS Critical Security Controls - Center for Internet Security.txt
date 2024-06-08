@@ -1,8 +1,0 @@
-=Description=
-<br>
-Foundational set of prioritized security controls
-<br>
-=More Information=
-<br>
-https://www.cisecurity.org/controls
-[[Category:All Businesses]]

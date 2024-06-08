@@ -1,8 +1,0 @@
-=Description=
-<br>
-Photolok is a digital tool that helps users watermark and protect their photos. It allows users to create custom watermarks with their own text or logo, and to choose how their watermark appears on the photo. Photolok also provides a secure storage option for users to keep their photos safe and secure.
-<br>
-=More Information=
-<br>
-https://www.photolok.com/
-[[Category:Single Sign-On (SSO)]]

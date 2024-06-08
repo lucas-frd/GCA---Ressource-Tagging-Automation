@@ -1,8 +1,0 @@
-=Description=
-<br>
-The Guilford County Sheriff's Office is an organization that investigates and responds to computer-related crimes within the county.
-<br>
-=More Information=
-<br>
-https://www.guilfordcountync.gov/our-county/sheriff-s-office/divisions/special-operations/computer-crimes
-[[Category:North Carolina]]

@@ -1,9 +1,0 @@
-=Description=
-<br>
-Keyless Authenticator Workforce MFA is a cloud-based multi-factor authentication solution that enables enterprises to secure access to their critical data and applications. The solution provides a centralized platform for managing user identity and authentication, and offers a variety of flexible authentication options including strong two-factor authentication, biometrics, and single sign-on. Keyless Authenticator Workforce MFA also provides granular access control capabilities, so enterprises can restrict access to specific data and applications based on user
-<br>
-=More Information=
-<br>
-https://www.keyless.com/workforce-mfa/
-[[Category:Two-Factor & Multi-Factor Authentication]]
-[[Category:Biometric]]

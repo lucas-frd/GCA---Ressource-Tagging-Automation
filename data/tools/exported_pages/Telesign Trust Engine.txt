@@ -1,8 +1,0 @@
-=Description=
-<br>
-The Telesign Trust Engine is a free online tool that helps businesses to verify the identity of their customers. The tool uses a variety of data sources, including public records and social media, to create a risk profile for each customer. This profile is then used to determine whether the customer is who they claim to be. The Trust Engine is a valuable tool for businesses that want to protect themselves from fraud and identity theft.
-<br>
-=More Information=
-<br>
-https://telesign.com/trust-engine/
-[[Category:Two-Factor & Multi-Factor Authentication]]

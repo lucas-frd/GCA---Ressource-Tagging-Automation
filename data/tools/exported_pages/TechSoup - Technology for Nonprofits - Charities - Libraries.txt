@@ -1,8 +1,0 @@
-=Description=
-<br>
-TechSoup is a global nonprofit that partners with Charity: water, Free Software Foundation, St. Jude Children's Research Hospital, and other charities to help them with their technology needs. They provide different types of technology services including software, hardware, and cloud-based solutions. They also have a library of resources such as how-to guides, webinars, and articles to help organizations with their technology needs.
-<br>
-=More Information=
-<br>
-https://www.techsoup.org/?ts_cs_selection=83
-[[Category:Nonprofits & Charities]]

@@ -1,9 +1,0 @@
-=Description=
-<br>
-The F5 BIG-IP Access Policy Manager is a tool that provides access control and security for applications. It uses a centralized policy management system to enforce security policies consistent with an organization's security posture. The Access Policy Manager can be used to control access to applications, as well as to enforce security policies such as authentication, authorization, and auditing. The tool can be used to protect both internal and external applications.
-<br>
-=More Information=
-<br>
-https://www.f5.com/products/application-security/big-ip-access-policy-manager/
-[[Category:Single Sign-On (SSO)]]
-[[Category:Two-Factor & Multi-Factor Authentication]]

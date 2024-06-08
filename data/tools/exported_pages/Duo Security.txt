@@ -1,9 +1,0 @@
-=Description=
-<br>
-Duo Security is a two-factor authentication tool that can be used to protect online accounts and data. It works by requiring users to verify their identity using two different factors, such as a password and a mobile device. This makes it more difficult for attackers to gain access to accounts and data, even if they have obtained a user's password. Duo Security also offers a variety of other security features, such as the ability to monitor and block suspicious activity, that can help to keep users and
-<br>
-=More Information=
-<br>
-https://duo.com/
-[[Category:Single Sign-On (SSO)]]
-[[Category:Two-Factor & Multi-Factor Authentication]]

@@ -1,8 +1,0 @@
-=Description=
-<br>
-AShield is a digital identity management tool that helps individuals and organizations manage their digital identities. AShield allows users to create and manage their digital identities, as well as share and receive information about them. AShield also provides a number of features to help users stay secure, including the ability to set up two-factor authentication and to use encrypted communications.
-<br>
-=More Information=
-<br>
-https://www.asgardsolutions.com/digital
-[[Category:Two-Factor & Multi-Factor Authentication]]

@@ -1,8 +1,0 @@
-=Description=
-<br>
-The article lists 10 common cryptocurrency scams that have been occurring in recent years. These include scams such as Ponzi schemes, fake ICOs, mining scams, and exchange scams. The article includes a brief description of each scam and how to avoid them.
-<br>
-=More Information=
-<br>
-https://www.techtarget.com/whatis/feature/Common-cryptocurrency-scams
-[[Category:Digital Currency Specific Scams and Attacks]]

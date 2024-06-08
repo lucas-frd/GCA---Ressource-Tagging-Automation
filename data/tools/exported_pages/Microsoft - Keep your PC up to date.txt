@@ -1,9 +1,0 @@
-=Description=
-<br>
-The Keep your PC up to date tool helps Microsoft users ensure that their computers are running the latest version of Windows and have all the latest security updates installed. The tool provides a simple interface for checking and installing updates, and also offers an automated option for keeping your PC up to date.
-<br>
-=More Information=
-<br>
-https://support.microsoft.com/en-gb/windows/keep-your-pc-up-to-date-de79813c-7919-5fed-080f-0871c7bd9bde
-[[Category:Device & Operating System Updates]]
-[[Category:Computers (Laptops & Desktops)]]

@@ -1,8 +1,0 @@
-=Description=
-<br>
-Wireless Emergency Alerts (WEA) is system that was created by the Federal Communications Commission (FCC) to provide emergency warnings and critical information to the public through their mobile devices. WEA is a nationwide system that allows government agencies to send alerts to all WEA-enabled mobile devices in a specific geographic area, warning or informing individuals of potential threats to their safety or well-being.
-<br>
-=More Information=
-<br>
-https://www.fcc.gov/consumers/guides/wireless-emergency-alerts-wea
-[[Category:Government emergency alert systems]]

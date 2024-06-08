@@ -1,9 +1,0 @@
-=Description=
-<br>
-C2 Identity is a security platform that helps organizations to manage and protect their online identities. It provides a centralized platform for users to manage their passwords, personal information, and other online account details. C2 Identity also offers a variety of security features to help protect users' online identities, such as two-factor authentication and fraud detection.
-<br>
-=More Information=
-<br>
-https://www.c2identity.com/
-[[Category:Single Sign-On (SSO)]]
-[[Category:Identity & Access Management (IAM)]]

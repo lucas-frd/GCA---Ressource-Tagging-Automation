@@ -1,8 +1,0 @@
-=Description=
-<br>
-SAFECode's Trainiing and Culture Development tool helps organizations improve their software development processes and culture. The tool includes resources on how to assess and improve an organization's software development process, how to develop and implement training programs, and how to change an organization's culture. The tool also includes case studies and best practices from organizations that have successfully implemented these changes.
-<br>
-=More Information=
-<br>
-https://safecode.org/category/resource-training-and-culture/
-[[Category:Cybersecurity Providers]]

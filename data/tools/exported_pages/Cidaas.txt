@@ -1,9 +1,0 @@
-=Description=
-<br>
-Cidaas is an online platform that provides identity management and access management services. It offers a variety of features such as Social Login, Two-Factor Authentication, User Management, and Single Sign-On. Cidaas is a cloud-based platform that is designed to be scalable and secure. It is used by organizations of all sizes, from small businesses to large enterprises.
-<br>
-=More Information=
-<br>
-https://cidaas.com/
-[[Category:Biometric]]
-[[Category:Two-Factor & Multi-Factor Authentication]]

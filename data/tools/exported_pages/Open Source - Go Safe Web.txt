@@ -1,8 +1,0 @@
-=Description=
-<br>
-Go Safe Web is a open source project created by Google which provides security recommendations for Go web applications. The project's aim is to help developers create more secure Go web applications by providing a set of recommendations and best practices. Go Safe Web is not a tool to find vulnerabilities in your code, but rather a guide to help you write more secure code. The project is still in its early stages, but already provides a wealth of information for Go developers.
-<br>
-=More Information=
-<br>
-https://github.com/google/go-safeweb
-[[Category:Website]]

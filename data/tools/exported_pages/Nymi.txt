@@ -1,8 +1,0 @@
-=Description=
-<br>
-The Nymi is a wearable device that uses your unique cardiac rhythm to authenticate your identity. It consists of a sensing platform that attaches to your wrist and a companion app that you use to complete the enrollment process. Once enrolled, you can use the Nymi to sign in to your computer, unlock your phone, and make payments. The Nymi uses electrocardiography (ECG) to detect your cardiac rhythm, which is unique to you and remains constant over your
-<br>
-=More Information=
-<br>
-https://www.nymi.com/
-[[Category:Biometric]]

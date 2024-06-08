@@ -1,8 +1,0 @@
-=Description=
-<br>
-V-OS is a secure messaging platform that enables users to send and receive messages, files, and media securely. V-OS uses end-to-end encryption to ensure that only the intended recipient can read the messages. V-OS also offers a number of features to keep your conversations private, such as self-destructing messages and encrypted chatrooms.
-<br>
-=More Information=
-<br>
-https://www.v-os.com/messaging/
-[[Category:Two-Factor & Multi-Factor Authentication]]

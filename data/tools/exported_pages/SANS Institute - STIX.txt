@@ -1,8 +1,0 @@
-=Description=
-<br>
-STIX is a standard that provides a structured way of describing cyber threat intelligence (CTI). Cyber threat intelligence refers to information that can be used to understand and counter cyber threats. STIX enables analysts and security automation tools to share CTI using a common language and format.
-<br>
-=More Information=
-<br>
-https://oasis-open.github.io/cti-stix-documentation/
-[[Category:Threat & Vulnerability Management]]

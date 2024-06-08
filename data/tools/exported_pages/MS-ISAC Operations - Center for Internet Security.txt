@@ -1,8 +1,0 @@
-=Description=
-<br>
-Improve the overall cybersecurity posture of U.S. State, Local, Tribal, and Territorial (SLTT) government organizations through coordination, collaboration, cooperation, and increased communication.
-<br>
-=More Information=
-<br>
-https://www.cisecurity.org/isac
-[[Category:Governments - US State - Local - Tribal - Territorial (SLTT)]]

@@ -1,9 +1,0 @@
-=Description=
-<br>
-GroupID is an identity management tool that enables organizations to manage groups of users and their access to resources. It provides a central repository for group membership information and an interface for managing group membership and permissions. It includes features for managing user accounts, managing group membership, and managing access to resources. GroupID can be used to manage groups of users within an organization or across multiple organizations.
-<br>
-=More Information=
-<br>
-https://group-id.com/
-[[Category:User Provisioning & Governance]]
-[[Category:Identity & Access Management (IAM)]]

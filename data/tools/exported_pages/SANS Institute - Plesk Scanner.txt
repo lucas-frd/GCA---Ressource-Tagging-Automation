@@ -1,8 +1,0 @@
-=Description=
-<br>
-Plesk Scanner is a free security scanning tool from the SANS Institute. It can be used to scan websites and web servers for security vulnerabilities. Plesk Scanner is able to identify a range of different types of vulnerabilities, including SQL injection, cross-site scripting, and remote code execution. It can also be used to check for the presence of known malware on a server. Plesk Scanner is a useful tool for website and server administrators who want to check their systems for
-<br>
-=More Information=
-<br>
-https://www.sans.org/tools/?per-page=100
-[[Category:Threat & Vulnerability Management]]

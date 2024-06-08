@@ -1,9 +1,0 @@
-=Description=
-<br>
-HYPR provides a decentralized biometric authentication solution that allows users to securely login to their favorite cryptocurrency wallets and exchanges using their fingerprint, face, or voice. HYPR decentralizes biometric authentication by weaving it into the existing infrastructure of the blockchain. This allows users to login to their wallets and exchanges without having to trust a third party with their biometric data. HYPR is also scalable, so that as more users adopt it, the system becomes more secure.
-<br>
-=More Information=
-<br>
-https://www.hypr.com/
-[[Category:Biometric]]
-[[Category:Two-Factor & Multi-Factor Authentication]]

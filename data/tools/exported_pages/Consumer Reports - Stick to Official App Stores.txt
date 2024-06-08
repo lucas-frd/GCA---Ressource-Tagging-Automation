@@ -1,9 +1,0 @@
-=Description=
-<br>
-The Stick to Official App Stores tool is a Consumer Reports security planner that helps users protect their devices from malware. The tool provides instructions on how to find and install apps from official app stores, how to avoid third-party app stores, and how to check for malware before downloading an app. The tool also includes a list of known malicious app stores.
-<br>
-=More Information=
-<br>
-https://securityplanner.consumerreports.org/tool/use-official-app-stores
-[[Category:Security Awareness & Training]]
-[[Category:Recognising Untrustworthy or Inappropriate Applications]]

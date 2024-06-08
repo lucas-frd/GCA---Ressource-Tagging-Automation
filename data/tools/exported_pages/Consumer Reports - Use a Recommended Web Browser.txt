@@ -1,8 +1,0 @@
-=Description=
-<br>
-TheConsumer Reports Switch Your Web Browser tool recommends switching to a different web browser if the user's current browser does not meet certain security criteria. The tool rates browsers on a scale of 1 to 5 based on their ability to protect users' privacy and security while browsing the web. The higher the rating, the better the browser is at protecting users' privacy and security. The tool also provides links to resources where users can learn more about each browser's security features.
-<br>
-=More Information=
-<br>
-https://securityplanner.consumerreports.org/tool/switch-your-web-browser
-[[Category:Browse the Web Securely]]

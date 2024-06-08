@@ -1,8 +1,0 @@
-=Description=
-<br>
-Remnux is a SANS Institute tool that is used to analyze and reverse engineer malware. It is a Linux distribution that is specifically designed for this purpose. It includes a number of tools that can be used to dissect malware and understand how it works. This knowledge can then be used to develop countermeasures and defenses against it.
-<br>
-=More Information=
-<br>
-https://remnux.org/
-[[Category:Anti-virus & Anti-malware Software]]

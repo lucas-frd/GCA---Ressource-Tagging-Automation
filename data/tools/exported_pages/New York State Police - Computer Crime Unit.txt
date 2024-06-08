@@ -1,8 +1,0 @@
-=Description=
-<br>
-The New York State Police Computer Crime Unit is a specialized law enforcement division responsible for investigating and preventing cybercrime within the state.
-<br>
-=More Information=
-<br>
-https://troopers.ny.gov/
-[[Category:New York]]

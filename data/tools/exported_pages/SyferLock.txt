@@ -1,8 +1,0 @@
-=Description=
-<br>
-SyferLock is a security tool that helps protect your computer from malware. It does this by scanning your computer for malicious software and then preventing it from running. SyferLock also blocks access to websites that are known to spread malware.
-<br>
-=More Information=
-<br>
-https://syferlock.com/
-[[Category:Two-Factor & Multi-Factor Authentication]]

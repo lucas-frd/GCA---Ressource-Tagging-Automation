@@ -1,8 +1,0 @@
-=Description=
-<br>
-MemberProtect is a website that helps organizations protect their members from online threats. It provides a variety of tools to help organizations keep their members safe, including a password manager, two-factor authentication, and a fraud monitoring service. It also offers a variety of resources to help organizations educate their members about online safety.
-<br>
-=More Information=
-<br>
-https://www.memberprotect.com/en/
-[[Category:Single Sign-On (SSO)]]

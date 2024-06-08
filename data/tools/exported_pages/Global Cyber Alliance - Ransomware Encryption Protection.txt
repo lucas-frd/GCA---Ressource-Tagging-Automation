@@ -1,9 +1,0 @@
-=Description=
-<br>
-Ransomware is a type of malware that encrypts a victim's files and demands a ransom payment in order to decrypt them. This particular ransomware was found by the Global Cyber Alliance and is known as the Locky ransomware. It works by encrypting a victim's files and then displaying a demand for payment in order to decrypt them. The ransom demanded is typically in the form of cryptocurrency, such as Bitcoin. This particular ransomware is notable for its use of the Tor network to anonym
-<br>
-=More Information=
-<br>
-https://vimeo.com/444356137
-[[Category:Videos]]
-[[Category:Computer Viruses & Malware]]

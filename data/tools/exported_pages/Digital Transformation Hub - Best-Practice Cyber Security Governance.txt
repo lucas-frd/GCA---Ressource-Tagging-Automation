@@ -1,9 +1,0 @@
-=Description=
-<br>
-The best-practice cyber security governance guide provides an overview of how organisations can develop and implement a cyber security governance framework. The guide covers the key components of a successful governance framework, including cyber security strategy, roles and responsibilities, risk management, and performance measurement. It also includes a case study of how one organisation has implemented a successful governance framework.
-<br>
-=More Information=
-<br>
-https://digitaltransformation.org.au/guides/cyber-security/best-practice-cyber-security-governance
-[[Category:Security Awareness & Training]]
-[[Category:Risks & Threats]]

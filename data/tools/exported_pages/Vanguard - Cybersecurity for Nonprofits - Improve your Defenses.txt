@@ -1,8 +1,0 @@
-=Description=
-<br>
-The tool, Cybersecurity for Nonprofits: Improve your Defenses, is a practical guide for nonprofits to improve their cybersecurity posture and defend against attacks. The guide provides an overview of the cybersecurity landscape, common attacks against nonprofits, and steps that organizations can take to improve their defenses. It covers topics such as incident response, user education, and data security, and includes a checklist of action items for nonprofits to implement.
-<br>
-=More Information=
-<br>
-https://institutional.vanguard.com/content/dam/inst/iig-transformation/insights/pdf/2023/2211_NP_Cybersecurity_BRO_Final.pdf
-[[Category:Nonprofits & Charities]]

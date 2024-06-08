@@ -1,8 +1,0 @@
-=Description=
-<br>
-CyFin is an NCFTA Member Program that facilitates financial institutions and law enforcement to share information and identify, validate, mitigate, and disrupt cyber-enabled financial crimes and cyber-threats to the financial services industry.
-<br>
-=More Information=
-<br>
-https://www.ncfta.net
-[[Category:Security Operations Entities]]

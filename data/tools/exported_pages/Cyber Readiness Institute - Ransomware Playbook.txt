@@ -1,8 +1,0 @@
-=Description=
-<br>
-Ransomware is a type of malware that encrypts a victim's files and demands a ransom be paid in order to decrypt the files. Ransomware Playbook is a tool from the Cyber Readiness Institute that helps organizations prepare for and respond to a ransomware attack. The playbook provides a step-by-step guide for organizations to follow before, during, and after an attack. It also includes information on how to prepare for an attack, how to respond to an attack, and how
-<br>
-=More Information=
-<br>
-https://cyberreadinessinstitute.org/resource/ransomware-playbook/
-[[Category:Small & Medium Sized Businesses]]

@@ -1,9 +1,0 @@
-=Description=
-<br>
-Clear Skye IGA is a web-based tool that helps organizations manage and monitor their IT infrastructure. It provides users with visibility into their IT infrastructure, including server performance, network utilization, and application health. Clear Skye IGA also includes features to help users troubleshoot and resolve issues, as well as to automate infrastructure tasks.
-<br>
-=More Information=
-<br>
-https://www.clearskye.com/
-[[Category:User Provisioning & Governance]]
-[[Category:Identity & Access Management (IAM)]]

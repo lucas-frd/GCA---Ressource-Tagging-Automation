@@ -1,8 +1,0 @@
-=Description=
-<br>
-The Visual Identity Suite is a set of tools that help organizations create and manage their visual identity. It includes a logo creator, a brand management tool, and a set of templates and guidelines for creating and using visuals. The Visual Identity Suite is designed to help organizations create a consistent and recognizable visual identity that can be used across all of their communications.
-<br>
-=More Information=
-<br>
-https://www.visuallink.eu/visuallink-identity-suite/
-[[Category:User Provisioning & Governance]]

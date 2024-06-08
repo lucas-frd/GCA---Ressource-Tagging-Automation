@@ -1,8 +1,0 @@
-=Description=
-<br>
-A cloud-based solution that uses recursive DNS technology to prevent IT systems from connecting to harmful web domains, helping SLTTs limit infections related to known malware, ransomware, phishing, and other cyber threats. This capability can block the v
-<br>
-=More Information=
-<br>
-https://www.cisecurity.org/ms-isac/services/mdbr
-[[Category:Governments - US State - Local - Tribal - Territorial (SLTT)]]

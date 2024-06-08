@@ -1,8 +1,0 @@
-=Description=
-<br>
-The Nevis Digital Identity is a way for people to securely login to applications and websites using their Nevis credentials. When someone signs up for Nevis, they are given a unique Nevis ID, which is used to login to the Nevis platform. The Nevis ID is a digital identity that is tied to the person's physical identity, making it more secure than traditional login methods. The Nevis Digital Identity is used to login to applications and websites that are integrated with the Nevis
-<br>
-=More Information=
-<br>
-https://www.nevisid.com/
-[[Category:Single Sign-On (SSO)]]

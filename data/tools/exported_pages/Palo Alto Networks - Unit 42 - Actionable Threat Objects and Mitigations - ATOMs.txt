@@ -1,9 +1,0 @@
-=Description=
-<br>
-The Palo Alto Networks Unit 42 - Actionable Threat Objects and Mitigations (ATOMs) is a threat intelligence platform that provides users with actionable insights into the latest threats, as well as tips on how to mitigate them. The platform is updated daily with the latest information from Palo Alto Networks' global threat intelligence team, and users can also submit their own intel to help improve the ATOMs database. In addition to providing users with threat information, the ATOMs platform also
-<br>
-=More Information=
-<br>
-https://unit42.paloaltonetworks.com/atoms/
-[[Category:Understanding Your Risks]]
-[[Category:Understanding Relevant Threats]]

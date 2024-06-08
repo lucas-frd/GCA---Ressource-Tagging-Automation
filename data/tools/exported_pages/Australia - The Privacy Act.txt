@@ -1,8 +1,0 @@
-=Description=
-<br>
-The Privacy Act 1988 (Cth) is the primary law in Australia that regulates the collection, use, disclosure, and storage of personal information by Australian organizations. The Privacy Act is based on the National Privacy Principles (NPPs), which were developed in the 1990s to protect the privacy of individuals in the digital age.
-<br>
-=More Information=
-<br>
-https://www.oaic.gov.au/privacy/privacy-act/
-[[Category:Laws About Your Personal Information]]

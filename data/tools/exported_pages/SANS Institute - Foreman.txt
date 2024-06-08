@@ -1,8 +1,0 @@
-=Description=
-<br>
-According to the SANS Institute, "Foreman is an open source tool that provides a complete lifecycle management solution for physical and virtual servers. It gives you the ability to provision, configure, and manage your servers from a single web-based interface. Foreman also has a built-in bare-metal provisioning capability that can be used to provision and manage physical servers."
-<br>
-=More Information=
-<br>
-https://theforeman.org/
-[[Category:Configuration Management]]

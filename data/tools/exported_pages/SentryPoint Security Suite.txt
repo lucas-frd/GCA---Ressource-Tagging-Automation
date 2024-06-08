@@ -1,8 +1,0 @@
-=Description=
-<br>
-The SentryPoint Security Suite is a comprehensive cyber security solution that helps organizations protect their networks and data from external threats. The suite includes a firewall, intrusion detection and prevention system, and a malware protection system. It also provides a central management console that allows administrators to monitor and manage all the components of the system.
-<br>
-=More Information=
-<br>
-https://www.sentrypoint.com/
-[[Category:Biometric]]

@@ -1,9 +1,0 @@
-=Description=
-<br>
-SlashID is a secure login system that allows users to login to multiple accounts with one username and password. It is designed to work with existing login systems, such as Facebook, Google, and LinkedIn. SlashID also allows users to set up two-factor authentication for added security.
-<br>
-=More Information=
-<br>
-https://www.slashid.com/
-[[Category:Biometric]]
-[[Category:Two-Factor & Multi-Factor Authentication]]

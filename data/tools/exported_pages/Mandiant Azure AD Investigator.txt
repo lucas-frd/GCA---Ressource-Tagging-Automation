@@ -1,9 +1,0 @@
-=Description=
-<br>
-The Mandiant Azure AD Investigator is a command-line tool that enables investigation of Azure AD activity. The tool can be used to collect information about Azure AD activity, including user and group membership, as well as to generate reports about Azure AD activity. The tool can be used to investigate Azure AD activity that may be suspicious or unusual, and can help to identify potential threats or malicious activity.
-<br>
-=More Information=
-<br>
-https://github.com/mandiant/Mandiant-Azure-AD-Investigator
-[[Category:Threat & Vulnerability Management]]
-[[Category:Security Information & Event Management (SIEM)]]

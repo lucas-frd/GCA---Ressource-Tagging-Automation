@@ -1,8 +1,0 @@
-=Description=
-<br>
-OmniPass is an enterprise single sign-on tool that allows users to access multiple applications with a single set of credentials. It is designed to streamline the login process for users and reduce the number of passwords that need to be remembered. OmniPass can be integrated with a variety of applications and systems, making it a flexible solution for businesses of all sizes.
-<br>
-=More Information=
-<br>
-https://www.omnpass.com/
-[[Category:Single Sign-On (SSO)]]

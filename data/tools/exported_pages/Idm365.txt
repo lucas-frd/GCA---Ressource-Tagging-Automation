@@ -1,8 +1,0 @@
-=Description=
-<br>
-IDM 365 is an online tool that helps managers and employees stay connected and productive through real-time task tracking, messaging, and file sharing. The web-based platform enables users to create and assign tasks, set deadlines, and track progress in one central place. Files can be uploaded and stored in the cloud for easy access from anywhere, and messages can be sent directly to team members to help resolve issues quickly. IDM 365 also providescollaboration features such as group chat and white
-<br>
-=More Information=
-<br>
-https://www.idm365.com/
-[[Category:Identity & Access Management (IAM)]]

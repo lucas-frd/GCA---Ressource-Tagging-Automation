@@ -1,8 +1,0 @@
-=Description=
-<br>
-The Computer Crime and Intellectual Property Section is a division of the U.S. Department of Justice that is responsible for investigating and prosecuting computer-related crimes and protecting intellectual property rights.
-<br>
-=More Information=
-<br>
-https://justice.gov/criminal-ccips
-[[Category:Federal]]

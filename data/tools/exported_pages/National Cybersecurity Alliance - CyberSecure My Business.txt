@@ -1,8 +1,0 @@
-=Description=
-<br>
-The National Cybersecurity Alliance's CyberSecure My Business program helps businesses of all sizes assess their cybersecurity risks and implement best practices to stay safe online. The program offers a self-guided assessment tool that businesses can use to identify areas of improvement, as well as resources and tips on how to implement stronger cybersecurity measures. The program also provides educational resources on topics such as phishing, ransomware, and how to create a cybersecurity incident response plan. By taking advantage of the resources offered by CyberSecure My
-<br>
-=More Information=
-<br>
-https://staysafeonline.org/programs/cybersecure-my-business/
-[[Category:Security Personnel]]

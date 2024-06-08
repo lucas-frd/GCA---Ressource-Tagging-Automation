@@ -1,9 +1,0 @@
-=Description=
-<br>
-This tool helps you choose the right encryption software for your Windows PC, based on your needs. You can compare features and prices of different software packages, and read reviews from other users. The site also provides tips on how to keep your data safe and secure.
-<br>
-=More Information=
-<br>
-https://securityplanner.consumerreports.org/tool/encrypt-your-windows-pc
-[[Category:Computers (Laptops & Desktops)]]
-[[Category:Windows]]

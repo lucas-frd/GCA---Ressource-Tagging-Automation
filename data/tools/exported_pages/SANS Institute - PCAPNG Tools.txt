@@ -1,8 +1,0 @@
-=Description=
-<br>
-The SANS Institute's PCAPNG Tools is a software utility designed to help network administrators analyze packet capture (PCAP) data. The tool provides a graphical user interface (GUI) for viewing and analyzing PCAP data, as well as a command-line interface (CLI) for advanced users. The tool is designed to be cross-platform, supporting Windows, macOS, and Linux. PCAPNGTools is open source software, released under the GNU General Public License.
-<br>
-=More Information=
-<br>
-https://www.sans.org/tools/?per-page=100
-[[Category:Security Information & Event Management (SIEM)]]

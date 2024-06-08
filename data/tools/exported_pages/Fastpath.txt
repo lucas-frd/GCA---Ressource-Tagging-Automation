@@ -1,8 +1,0 @@
-=Description=
-<br>
-Fastpath is a tool designed to help businesses manage their financial data. It provides businesses with the ability to track expenses, income, and other financial data in real-time. Fastpath also offers businesses the ability to generate reports and insights based on their financial data. Additionally, Fastpath provides businesses with the ability to connect to their bank accounts and credit card accounts to automatically import and update their financial data.
-<br>
-=More Information=
-<br>
-https://www.fastpath.com/
-[[Category:User Provisioning & Governance]]

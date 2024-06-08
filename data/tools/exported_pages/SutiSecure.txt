@@ -1,8 +1,0 @@
-=Description=
-<br>
-SutiSecure is a cloud security solution that offers a suite of tools to help businesses secure their data and apps in the cloud. The platform offers a central management console for visibility and control over all cloud accounts, users, and resources. It also provides tools for identity and access management, data encryption, activity monitoring, and threat detection. SutiSecure helps businesses keep their data safe and compliant with industry regulations.
-<br>
-=More Information=
-<br>
-https://www.sutisecure.com/
-[[Category:Single Sign-On (SSO)]]

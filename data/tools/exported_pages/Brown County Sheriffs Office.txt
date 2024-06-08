@@ -1,8 +1,0 @@
-=Description=
-<br>
-The Brown County Sheriffs Office organization is responsible for providing digital forensics services to aid in criminal investigations and prosecutions.
-<br>
-=More Information=
-<br>
-https://www.browncountywi.gov/government/sheriffs-office/specialty-units/digital-forensics/
-[[Category:Wisconsin]]

@@ -1,8 +1,0 @@
-=Description=
-<br>
-The Fiscal Year 2022 State and Local Cybersecurity Grant Program Fact Sheet outlines a grant program offered by the Federal Emergency Management Agency (FEMA) to state, local, tribal, and territorial governments in order to enhance their cybersecurity capabilities. The program is designed to provide resources and funding to these entities for the purpose of preventing, detecting, responding to, and recovering from cyber attacks and other threats.
-<br>
-=More Information=
-<br>
-https://www.fema.gov/fact-sheet/fiscal-year-2022-state-and-local-cybersecurity-grant-program-fact-sheet
-[[Category:Investing]]

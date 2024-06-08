@@ -1,9 +1,0 @@
-=Description=
-<br>
-The DIY End User Security Policy is a digital transformation guide that helps organisations develop and implement their own end user security policies. It covers topics such as risk management, user access control, incident response, and awareness and training. The guide includes templates and tools that organisations can use to develop their own policies, and also provides advice on how to implement them effectively. It is aimed at organisations of all sizes, and is a valuable resource for anyone looking to improve their end user security.
-<br>
-=More Information=
-<br>
-https://digitaltransformation.org.au/guides/cyber-security/diy-end-user-security-policy
-[[Category:Security Policies, Procedures, and Guidelines]]
-[[Category:Risks & Threats]]

@@ -1,9 +1,0 @@
-=Description=
-<br>
-Approw is a tool that allows users to create and manage their own mobile apps. With Approw, users can create an app in minutes, without having to code or design it themselves. Approw also allows users to manage their app's content and features, and track its performance.
-<br>
-=More Information=
-<br>
-https://approw.com/
-[[Category:Single Sign-On (SSO)]]
-[[Category:Two-Factor & Multi-Factor Authentication]]

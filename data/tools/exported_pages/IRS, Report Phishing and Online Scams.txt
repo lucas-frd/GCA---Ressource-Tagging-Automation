@@ -1,8 +1,0 @@
-=Description=
-<br>
-The IRS, Report Phishing and Online Scams organization is responsible for collecting reports of suspected tax-related phishing and online scams to protect taxpayers against fraudulent activities.
-<br>
-=More Information=
-<br>
-https://irs.gov/privacy-disclosure/report-phishing
-[[Category:Federal]]

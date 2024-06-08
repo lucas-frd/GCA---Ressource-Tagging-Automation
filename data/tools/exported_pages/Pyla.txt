@@ -1,8 +1,0 @@
-=Description=
-<br>
-Pyla is a Python-based data analysis tool that helps users to easily and quickly analyze data. It provides users with a graphical user interface (GUI) that allows users to load data, analyze it, and visualize it. Pyla also offers a number of features that allow users to customize their analysis and visualization.
-<br>
-=More Information=
-<br>
-https://pyla.io/
-[[Category:User Provisioning & Governance]]

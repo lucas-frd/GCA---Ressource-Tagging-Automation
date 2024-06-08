@@ -1,8 +1,0 @@
-=Description=
-<br>
-Authen2cate Single Sign-on is a cloud-based authentication and identity management service. It allows organizations to securely authenticate users and manage user identities in a centralized, cloud-based platform. Authen2cate Single Sign-on provides organizations with a single, centralized platform for managing user identities and authentication. It simplifies identity management and provides a more secure authentication experience for users. Authen2cate Single Sign-on is a cost-effective solution for organizations looking
-<br>
-=More Information=
-<br>
-https://www.authen2cate.com/
-[[Category:Single Sign-On (SSO)]]

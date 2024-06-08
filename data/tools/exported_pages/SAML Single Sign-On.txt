@@ -1,8 +1,0 @@
-=Description=
-<br>
-SAML Single Sign-On is a SAML-based authentication and authorization service that allows users to securely access applications and resources. SAML Single Sign-On provides a centralized, single sign-on (SSO) solution for all of an organization's applications and resources. SAML Single Sign-On authenticates users with a SAML-based identity provider (IdP) and then authorizes them to access applications and resources. SAML Single Sign-On is used to securely access
-<br>
-=More Information=
-<br>
-https://www.samlsso.com/
-[[Category:Single Sign-On (SSO)]]

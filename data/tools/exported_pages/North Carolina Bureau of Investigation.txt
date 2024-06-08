@@ -1,8 +1,0 @@
-=Description=
-<br>
-The North Carolina Bureau of Investigation is a division of the state government responsible for handling criminal investigations and computer-related crimes.
-<br>
-=More Information=
-<br>
-https://ncsbi.gov/Divisions/Field-Operations/Computer-Crimes.aspx
-[[Category:North Carolina]]

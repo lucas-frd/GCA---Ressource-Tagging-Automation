@@ -1,8 +1,0 @@
-=Description=
-<br>
-NineID is a web-based tool that helps users create and manage their online identities. It allows users to create and manage their personal information, including their name, email address, and password. It also lets users control how their personal information is shared with others. NineID helps users stay organized and keep track of their online activity. It also helps users protect their online privacy and security.
-<br>
-=More Information=
-<br>
-https://www.nineid.com/
-[[Category:Biometric]]

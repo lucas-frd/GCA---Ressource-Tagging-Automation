@@ -1,8 +1,0 @@
-=Description=
-<br>
-The iWelcome Mobile Identity allows users to securely login to websites and mobile apps using their mobile devices. The user's fingerprint or passcode is used to authenticate their identity, and they can also choose to use two-factor authentication for added security. The iWelcome Mobile Identity is compatible with all major browsers and mobile operating systems, and it offers a variety of features to users including the ability to login to multiple accounts, store passwords, and generate one-time codes.
-<br>
-=More Information=
-<br>
-https://www.iwelcome.com/mobile-identity/
-[[Category:Two-Factor & Multi-Factor Authentication]]

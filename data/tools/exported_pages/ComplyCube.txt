@@ -1,8 +1,0 @@
-=Description=
-<br>
-ComplyCube is a cloud-based compliance management software that helps businesses automate and manage their compliance processes. It offers a suite of features to help businesses automate compliance-related tasks, including document management, policy management, training management, and incident management. ComplyCube also provides a central repository for compliance-related data and reports, which can be accessed by authorized users.
-<br>
-=More Information=
-<br>
-https://www.complycube.com/en/
-[[Category:Biometric]]

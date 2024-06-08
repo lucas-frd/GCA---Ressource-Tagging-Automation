@@ -1,8 +1,0 @@
-=Description=
-<br>
-Micro Focus Identity and Access Management (IAM) is a tool that helps organizations manage and secure user identities and access to resources. IAM includes features such as user provisioning, password management, Single Sign-On (SSO), and access control. With IAM, organizations can improve security and compliance, while reducing costs and improving efficiency.
-<br>
-=More Information=
-<br>
-https://www.microfocus.com/en-us/products/identity-and-access-management/
-[[Category:User Provisioning & Governance]]

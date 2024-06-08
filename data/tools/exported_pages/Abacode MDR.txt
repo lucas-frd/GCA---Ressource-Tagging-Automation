@@ -1,8 +1,0 @@
-=Description=
-<br>
-Abacode MDR is a tool that helps organizations manage their cybersecurity risk. It provides a centralized platform for tracking and managing incidents, vulnerabilities, and threat intelligence. The tool also includes a policy manager to help organizations create and enforce security policies. Abacode MDR is designed to help organizations improve their security posture and reduce their cyber risks.
-<br>
-=More Information=
-<br>
-https://www.abacode.com/
-[[Category:Single Sign-On (SSO)]]

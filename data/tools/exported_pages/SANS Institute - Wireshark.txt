@@ -1,8 +1,0 @@
-=Description=
-<br>
-Wireshark is a network protocol analyzer that can be used to troubleshoot network problems, monitor network traffic, and more. It supports a wide variety of protocols and can be used on most platforms, including Windows, macOS, Linux, and more.
-<br>
-=More Information=
-<br>
-https://www.wireshark.org/
-[[Category:Threat & Vulnerability Management]]

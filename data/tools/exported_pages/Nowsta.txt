@@ -1,8 +1,0 @@
-=Description=
-<br>
-Nowsta is a cloud-based workforce management solution that provides businesses with a customizable platform for managing their employees. The solution includes features for scheduling, time tracking, payroll, and communication. Nowsta also offers integrations with popular business applications, such as QuickBooks and Google Apps.
-<br>
-=More Information=
-<br>
-https://www.nowsta.com/
-[[Category:Biometric]]

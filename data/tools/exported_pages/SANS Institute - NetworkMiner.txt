@@ -1,8 +1,0 @@
-=Description=
-<br>
-NetworkMiner is a SANS Institute tool that can be used to monitor and analyze network traffic. It can be used to identify hosts and devices on a network, as well as to track traffic flows and collect forensic data. NetworkMiner can be used to investigate suspicious network activity, to troubleshoot network problems, or to simply monitor network traffic.
-<br>
-=More Information=
-<br>
-https://www.netresec.com/?page=NetworkMiner
-[[Category:Incident Reporting & Recovery]]

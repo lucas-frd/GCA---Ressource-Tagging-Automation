@@ -1,8 +1,0 @@
-=Description=
-<br>
-Transmit Security's CIAM Platform is a cloud-based solution that provides user management, identity verification, and authentication services. The platform enables organizations to create and manage user identities, as well as to authenticate and authorize users for access to applications and services. The platform supports multiple factor authentication, including biometrics, and provides a variety of features for managing user identities, such as the ability to create and manage user profiles, to set up user groups, and to track user activity
-<br>
-=More Information=
-<br>
-https://www.transmitsecurity.com/solutions/ciamp/
-[[Category:Two-Factor & Multi-Factor Authentication]]

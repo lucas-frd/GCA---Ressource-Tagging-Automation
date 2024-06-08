@@ -1,9 +1,0 @@
-=Description=
-<br>
-O365Spray is a tool developed by Secureworks that is designed to brute force attack Office 365 user accounts. The tool uses a list of usernames and passwords, and attempts to login to Office 365 with each pair. If the login is successful, the tool will output the username and password to the console. O365Spray is designed to be used in conjunction with other tools, such as BloodHound, in order to identify which user accounts have weak passwords that can be
-<br>
-=More Information=
-<br>
-https://github.com/0xZDH/o365spray
-[[Category:Applicatons]]
-[[Category:Passwords]]

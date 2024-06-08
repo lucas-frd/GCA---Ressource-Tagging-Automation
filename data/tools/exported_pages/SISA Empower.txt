@@ -1,8 +1,0 @@
-=Description=
-<br>
-SISA Empower is an online tool that helps users manage stress and anxiety. The tool provides users with resources and advice on how to cope with stress and anxiety. The tool also includes a forum where users can share their experiences and advice with others.
-<br>
-=More Information=
-<br>
-https://www.sisaempower.com/
-[[Category:Biometric]]

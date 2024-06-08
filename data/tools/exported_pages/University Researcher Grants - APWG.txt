@@ -1,8 +1,0 @@
-=Description=
-<br>
-For the purpose of obtaining access to reliable source data for original research in cybercrime, the APWG honors requests from researchers, Universities, and NGO’s for access to resources within our eCrime Exchange (eCX). Accepted programs are granted a
-<br>
-=More Information=
-<br>
-https://apwg.org/membership/research/
-[[Category:Researchers]]

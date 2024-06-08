@@ -1,9 +1,0 @@
-=Description=
-<br>
-Anchore is a tool designed to help security and operations teams secure their container-based environments. It provides a central place for users to configure and manage security policies, and to monitor and audited images and containers for compliance with those policies. Anchore also includes a rich set of analytical and reporting features to help users understand and visualize security risks across their environments.
-<br>
-=More Information=
-<br>
-https://github.com/anchore/syft
-[[Category:Configuration Management]]
-[[Category:Threat & Vulnerability Management]]

@@ -1,8 +1,0 @@
-=Description=
-<br>
-Nmap is a free and open source tool for network exploration, management, and security auditing. It can be used to identify hosts and services on a network, as well as security issues. Nmap can be used to scan for vulnerable open ports on systems. Nping is a companion tool to Nmap which can be used for active probing of network hosts. Nping can be used to generate network traffic of different types, measure packet loss, and measure round trip time. Nping
-<br>
-=More Information=
-<br>
-https://nmap.org/nping/
-[[Category:Incident Reporting & Recovery]]

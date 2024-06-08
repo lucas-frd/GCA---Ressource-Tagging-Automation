@@ -1,9 +1,0 @@
-=Description=
-<br>
-WorkOS is a set of tools that help developers add Single Sign-On (SSO) and other features to their web and mobile applications quickly and easily. It supports a wide range of SSO providers, including Active Directory, LDAP, SAML, and OAuth. WorkOS also provides an easy way to add federated login, so users can sign in with their existing social media or enterprise account. In addition, WorkOS offers a comprehensive set of tools for managing users,
-<br>
-=More Information=
-<br>
-https://workos.com/
-[[Category:Single Sign-On (SSO)]]
-[[Category:User Provisioning & Governance]]

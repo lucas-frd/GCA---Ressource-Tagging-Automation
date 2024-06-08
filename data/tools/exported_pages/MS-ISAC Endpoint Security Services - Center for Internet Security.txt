@@ -1,8 +1,0 @@
-=Description=
-<br>
-Offers device-level protection and response to strengthen an organization’s cybersecurity program, and provides active defense against both known (signature-based) and unknown (behavioral-based) malicious activity.
-<br>
-=More Information=
-<br>
-https://www.cisecurity.org/services/endpoint-security-services
-[[Category:Governments - US State - Local - Tribal - Territorial (SLTT)]]

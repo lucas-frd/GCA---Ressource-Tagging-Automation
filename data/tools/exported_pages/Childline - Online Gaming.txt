@@ -1,9 +1,0 @@
-=Description=
-<br>
-Online Gaming is a Childline tool that offers advice and support for young people who play online games. The website provides information on how to stay safe while gaming, how to report gaming-related harassment, and how to find help if you are feeling bullied or threatened while playing online.
-<br>
-=More Information=
-<br>
-https://www.childline.org.uk/info-advice/bullying-abuse-safety/online-mobile-safety/online-gaming/
-[[Category:Cyberbullying]]
-[[Category:Online Gaming]]

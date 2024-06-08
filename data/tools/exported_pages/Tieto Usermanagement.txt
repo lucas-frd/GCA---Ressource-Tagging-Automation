@@ -1,8 +1,0 @@
-=Description=
-<br>
-Tieto User management is a cloud-based solution that offers users a single sign-on (SSO) to access all their cloud applications. The solution is designed to simplify the user experience and reduce the IT overhead associated with managing multiple user accounts and passwords. Tieto User management includes a self-service portal for users to manage their own accounts, as well as an administration console for IT staff to manage user accounts and permissions. The solution integrates with popular identity providers such as Microsoft
-<br>
-=More Information=
-<br>
-https://tieto.com/en/solutions/usermanagement/
-[[Category:User Provisioning & Governance]]

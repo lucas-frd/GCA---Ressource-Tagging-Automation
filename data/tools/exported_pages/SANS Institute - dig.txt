@@ -1,8 +1,0 @@
-=Description=
-<br>
-The Domain Information Groper (dig) is a tool used for querying Domain Name System (DNS) servers. It can be used to look up information about a domain or to find the IP address of a hostname. It is part of the SANS Institute's canon of tools.
-<br>
-=More Information=
-<br>
-https://en.wikipedia.org/
-[[Category:DNS]]

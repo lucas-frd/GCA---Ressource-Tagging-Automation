@@ -1,8 +1,0 @@
-=Description=
-<br>
-Elpha Secure is a software application that creates a secure environment for online collaboration and communication. It offers tools for secure file sharing, real-time messaging, voice and video conferencing, and document collaboration. Elpha Secure is designed to be used by businesses and organizations of all sizes.
-<br>
-=More Information=
-<br>
-https://www.elphasystems.com/secure/
-[[Category:Two-Factor & Multi-Factor Authentication]]

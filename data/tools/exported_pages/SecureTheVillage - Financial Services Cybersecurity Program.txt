@@ -1,8 +1,0 @@
-=Description=
-<br>
-SecureTheVillage's Financial Services Cybersecurity Program is a comprehensive, multi-year program that helps financial institutions improve their cybersecurity posture and prevent, detect, and respond to cyber threats. The program includes a series of workshops, webinars, and other resources that help financial institutions assess their risks, identify potential vulnerabilities, and implement mitigation strategies. The program also provides guidance on incident response plans and incident management.
-<br>
-=More Information=
-<br>
-https://securethevillage.org/
-[[Category:MSPs and MSSPs]]

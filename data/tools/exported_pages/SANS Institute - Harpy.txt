@@ -1,8 +1,0 @@
-=Description=
-<br>
-The tool Harpy is a SANS Institute tool that can be used to automatically detect and respond to potential security threats. It is designed to work with a variety of data sources, including network traffic, web server logs, and application logs. Harpy can be used to monitor for suspicious activity, such as attempts to access sensitive data, and can take action to mitigate the threat.
-<br>
-=More Information=
-<br>
-https://www.sans.org/tools/?per-page=100
-[[Category:Threat & Vulnerability Management]]

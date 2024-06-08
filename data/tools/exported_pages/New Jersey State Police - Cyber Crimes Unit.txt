@@ -1,8 +1,0 @@
-=Description=
-<br>
-The New Jersey State Police Cyber Crimes Unit is tasked with investigating and combating criminal activity related to technology and the internet in the state of New Jersey.
-<br>
-=More Information=
-<br>
-http://njsp.org/division/investigations/cyber-crimes.shtml
-[[Category:New Jersey]]

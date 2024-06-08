@@ -1,8 +1,0 @@
-=Description=
-<br>
-Censornet IAM is a secure web gateway that provides access control and web filtering to protect organizations from online threats. It uses a cloud-based architecture that allows it to scale quickly and easily to meet the needs of any organization. Censornet IAM includes a web filtering engine that blocks access to malicious or inappropriate websites, as well as a user authentication system that ensures only authorized users can access the network. It also features a comprehensive reporting system that provides visibility into all web
-<br>
-=More Information=
-<br>
-https://www.censornet.com/iam/
-[[Category:Identity & Access Management (IAM)]]

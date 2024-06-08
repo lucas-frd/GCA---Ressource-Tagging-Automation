@@ -1,8 +1,0 @@
-=Description=
-<br>
-The Biot is a device designed to allow people to communicate with each other using a range of different communication methods including voice, text, video, and file sharing. The device is intended to be used in a variety of settings such as in the home, in the office, or in a public space. The Biot has a number of different features that make it unique among other communication devices. One of these features is its ability to connect to a range of different devices. The Biot
-<br>
-=More Information=
-<br>
-https://www.biot.com/en/
-[[Category:Biometric]]

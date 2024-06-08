@@ -1,9 +1,0 @@
-=Description=
-<br>
-The SANS Investigative Forensic Toolkit (SIFT) is a free, open-source tool that can be used by investigators to determine what happened during an incident. The toolkit includes a wide range of tools, which can be used to investigate a variety of different types of incidents. The SIFT toolkit is designed to be run on a variety of different platforms, including Windows, Linux, and MacOS. The toolkit is constantly being updated with new tools and features.
-<br>
-=More Information=
-<br>
-https://www.sans.org/tools/?per-page=100
-[[Category:Security Testing & Auditing]]
-[[Category:Attack & Penetration Testing]]

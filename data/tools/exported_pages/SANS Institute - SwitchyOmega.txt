@@ -1,8 +1,0 @@
-=Description=
-<br>
-SwitchyOmega is a configuration tool for the future of the internet. As the internet changes, so too must our configurations. With SwitchyOmega, you can easily headaches and keep your internet running smoothly. With this tool, you can monitor and change your settings in real-time, without having to fiddle with files or manual processes. Plus, it integrates with major browsers so you can manage everything from a single interface.
-<br>
-=More Information=
-<br>
-https://github.com/FelisCatus/SwitchyOmega
-[[Category:Secure Interactions]]

@@ -1,8 +1,0 @@
-=Description=
-<br>
-The International Women's Media Foundation's Online Violence and Harassment tool is a valuable resource for journalists who wish to report on online harassment and violence. The tool provides a list of definitions for various types of online harassment and violence, as well as tips for how to report on these incidents. The tool also includes a list of resources for journalists who are victims of online harassment and violence.
-<br>
-=More Information=
-<br>
-https://www.iwmf.org/programs/online-harassment/
-[[Category:Harassment & Legal Considerations]]

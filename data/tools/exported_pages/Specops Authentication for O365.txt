@@ -1,8 +1,0 @@
-=Description=
-<br>
-Specops Authentication for O365 is a tool that allows you to manage your Office 365 authentication centrally. With this tool, you can set up Single Sign On (SSO) for your Office 365 tenants, as well as configure different authentication methods for different users. This tool also allows you to monitor your Office 365 authentication activity, and provides a report generator to help you troubleshoot authentication issues.
-<br>
-=More Information=
-<br>
-https://www.specops.com/products/auth-for-o365/
-[[Category:Two-Factor & Multi-Factor Authentication]]

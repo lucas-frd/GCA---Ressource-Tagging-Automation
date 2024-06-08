@@ -1,8 +1,0 @@
-=Description=
-<br>
-The Utah State Bureau of Investigation is a law enforcement agency that investigates cyber crimes and works to keep the community safe from online threats.
-<br>
-=More Information=
-<br>
-https://sbi.utah.gov/cyber-crimes/
-[[Category:Utah]]

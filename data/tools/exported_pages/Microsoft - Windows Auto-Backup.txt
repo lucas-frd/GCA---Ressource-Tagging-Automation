@@ -1,8 +1,0 @@
-=Description=
-<br>
-Windows Auto-Backup is a Microsoft tool that allows you to backup files on your hard drive. It is a simple tool that can be set up to backup files automatically. You can choose to backup files to an external hard drive, USB drive, or network location. Windows Auto-Backup will backup files that have been changed or added since the last backup.
-<br>
-=More Information=
-<br>
-https://support.microsoft.com/en-us/windows/backup-and-restore-in-windows-352091d2-bb9d-3ea3-ed18-52ef2b88cbef
-[[Category:Backup & Restoration of Data]]

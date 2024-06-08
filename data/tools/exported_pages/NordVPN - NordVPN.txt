@@ -1,9 +1,0 @@
-=Description=
-<br>
-NordVPN is a security and privacy solution for Internet users. It encrypts users' Internet traffic and hides their IP addresses from online trackers and hackers. NordVPN also provides a number of security features to protect users' privacy, including a kill switch and DNS leak protection. NordVPN is a subscription-based service, with a number of plans available.
-<br>
-=More Information=
-<br>
-https://nordvpn.com/
-[[Category:VPN]]
-[[Category:Secure Interactions]]

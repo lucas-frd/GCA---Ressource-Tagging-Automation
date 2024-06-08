@@ -1,8 +1,0 @@
-=Description=
-<br>
-Shodan is a search engine that lets you find specific devices connected to the internet, as well as the web services running on those devices. You can search for devices by country, city, hostname, or IP address, and narrow your results by operating system, device type, port, or banner. This information can be useful for security research, as it can help you find unpatched systems or systems with known vulnerabilities.
-<br>
-=More Information=
-<br>
-https://www.shodan.io/
-[[Category:Threat & Vulnerability Management]]

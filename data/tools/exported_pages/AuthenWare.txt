@@ -1,8 +1,0 @@
-=Description=
-<br>
-AuthenWare is a type of biometric authentication software that uses keystroke dynamics to verify a user's identity. The software is designed to work with a variety of different types of keyboards, including laptop, desktop, and mobile devices. The software uses a variety of differentazures to identify a user, including the timing of keystrokes, pressure, and other factors. The software is designed to be unobtrusive, and can be used with a variety of different applications.
-<br>
-=More Information=
-<br>
-https://www.authenware.com/
-[[Category:Two-Factor & Multi-Factor Authentication]]

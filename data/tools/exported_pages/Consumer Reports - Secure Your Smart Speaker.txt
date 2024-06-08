@@ -1,8 +1,0 @@
-=Description=
-<br>
-Secure Your Smart Speaker is a tool designed to help users secure their smart speakers. The tool provides users with a list of security measures to take, such as setting up a strong password, enabling two-factor authentication, and disabling guest access. The tool also provides guidance on what to do if a smart speaker is lost or stolen.
-<br>
-=More Information=
-<br>
-https://securityplanner.consumerreports.org/tool/secure-your-smart-speaker
-[[Category:Virtual Assistants & Smart Speakers]]

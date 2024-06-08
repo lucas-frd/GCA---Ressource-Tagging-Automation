@@ -1,8 +1,0 @@
-=Description=
-<br>
-The Elliptic Blog is a site created by the bitcoin security firm Elliptic. The site contains a variety of articles on topics related tobitcoin security and Elliptic's work in the space. The articles are written in a clear and understandable way, making them a great resource for anyone interested in learning more about bitcoin security.
-<br>
-=More Information=
-<br>
-https://www.elliptic.co/blog
-[[Category:Digital Currency Specific Scams and Attacks]]

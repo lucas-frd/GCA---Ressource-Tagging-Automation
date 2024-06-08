@@ -1,8 +1,0 @@
-=Description=
-<br>
-AuthN by IDEE is a security tool that allows users to authenticate themselves using their fingerprints. The tool uses a tiny fingerprint scanner that is built into the device, which allows users to scan their fingerprints when they first set up the device. When they wish to authenticate themselves, they simply place their finger on the scanner and the device will verify their identity. The scanner is very accurate and can even identify twins with different fingerprints. The device is also very secure, as it uses military
-<br>
-=More Information=
-<br>
-https://www.ideeauth.com/
-[[Category:Two-Factor & Multi-Factor Authentication]]

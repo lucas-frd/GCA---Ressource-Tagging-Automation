@@ -1,8 +1,0 @@
-=Description=
-<br>
-Hedgehog is a tool that allows users to Malcolm in 250 words. It is a command line tool that can be used to generate a report that includes a list of all the words in a given text, as well as the number of times each word appears. This tool can be used to find the most common words in a text, as well as to find the most frequent words.
-<br>
-=More Information=
-<br>
-https://github.com/idaholab/Malcolm
-[[Category:Threat & Vulnerability Management]]

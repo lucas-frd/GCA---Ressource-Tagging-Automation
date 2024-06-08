@@ -1,9 +1,0 @@
-=Description=
-<br>
-An open source vulnerability management tool that streamlines the testing process by offering templating, report generation, metrics, and baseline self-service tools.
-<br>
-=More Information=
-<br>
-https://owasp.org/www-project-defectdojo/
-[[Category:CIS - 7 - Continuous Vulnerability Management]]
-[[Category:Developers and Development Organizations]]

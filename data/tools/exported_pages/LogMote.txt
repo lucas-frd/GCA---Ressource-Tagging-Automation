@@ -1,8 +1,0 @@
-=Description=
-<br>
-LogMote is a log analysis tool that enables you to quickly and easily analyze your log data. It provides you with a variety of features such as searching, filtering, and visualizing your data. You can also use LogMote to generate reports and export your data to a variety of formats.
-<br>
-=More Information=
-<br>
-https://www.logmote.com/
-[[Category:Identity & Access Management (IAM)]]

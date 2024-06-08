@@ -1,8 +1,0 @@
-=Description=
-<br>
-Zscaler Private Access is a cloud-based security platform that provides secure access to private data and applications. It uses a Zero Trust security model to ensure that all traffic is secure and encrypted. Private Access is available as a stand-alone product or as part of the Zscaler Security Cloud.
-<br>
-=More Information=
-<br>
-https://www.zscaler.com/products/ia
-[[Category:Single Sign-On (SSO)]]

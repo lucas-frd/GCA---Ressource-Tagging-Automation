@@ -1,8 +1,0 @@
-=Description=
-<br>
-BastionPass is an online password management tool that helps users securely store and manage their passwords. The tool provides a central repository for passwords, which can be accessed and updated from any device. BastionPass also offers a number of security features, including two-factor authentication and login notifications, to help users keep their passwords safe.
-<br>
-=More Information=
-<br>
-https://bastionpass.com/
-[[Category:Password Managers]]

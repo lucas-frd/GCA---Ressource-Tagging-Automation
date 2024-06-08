@@ -1,8 +1,0 @@
-=Description=
-<br>
-ManageEngine M365 Manager Plus is a centralized, comprehensive admin console for Office 365 that simplifies and automates day-to-day management tasks of Office 365. It provides a single console to manage users, mailboxes, licenses, groups, and permissions. You can also create custom reports, add and manage multiple domains, and delegate administrative tasks to others.
-<br>
-=More Information=
-<br>
-https://www.manageengine.com/m365-manager-plus/
-[[Category:User Provisioning & Governance]]

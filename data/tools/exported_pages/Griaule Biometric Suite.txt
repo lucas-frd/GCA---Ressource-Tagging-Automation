@@ -1,8 +1,0 @@
-=Description=
-<br>
-Griaule Biometric Suite is a biometric software development kit (SDK) that enables the capture, compression, template creation, and matching of biometric fingerprints. This modular SDK provides an easy way to integrate fingerprint recognition into an application and supports a variety of scanners and operating systems. It offers high-performance capture algorithms that achieve excellent image quality, even on difficult-to-scan fingerprints. The SDK also includes a flexible template creation and matching engine that can be customized to
-<br>
-=More Information=
-<br>
-https://www.griaule.com/en/products/biometric-suite/
-[[Category:Biometric]]

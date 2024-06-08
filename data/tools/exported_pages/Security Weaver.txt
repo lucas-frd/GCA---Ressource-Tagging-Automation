@@ -1,8 +1,0 @@
-=Description=
-<br>
-Security Weaver is a tool that helps organizations improve their security posture by identifying and prioritizing security risks, and providing guidance on how to mitigate those risks. It is designed to work with existing security frameworks and standards, and can be customized to fit the needs of any organization. Security Weaver is comprised of a web-based application and a team of security experts who provide support and advice. The tool is used by organizations of all sizes, in all industries, and is particularly well-suited for
-<br>
-=More Information=
-<br>
-https://securityweaver.com/
-[[Category:User Provisioning & Governance]]

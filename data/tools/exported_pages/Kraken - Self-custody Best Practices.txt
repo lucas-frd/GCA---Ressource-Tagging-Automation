@@ -1,8 +1,0 @@
-=Description=
-<br>
-The article discusses some best practices for self-custody, which iswhen an individual manages their own cryptoassets instead of relying on a third party. The tips include diversifying one's holdings across different wallets and backup methods, using strong passwords and multi-factor authentication, and being aware of scams and phishing attempts. Overall, self-custody can be a safer and more secure way to hold cryptoassets, but it requires vigilant care and attention.
-<br>
-=More Information=
-<br>
-https://blog.kraken.com/crypto-education/self-custody-best-practices
-[[Category:Digital Currency Users]]

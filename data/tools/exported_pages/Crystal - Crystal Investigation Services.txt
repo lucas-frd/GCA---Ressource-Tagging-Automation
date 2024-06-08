@@ -1,8 +1,0 @@
-=Description=
-<br>
-Crystal Investigations Services is a blockchain analysis tool that allows users to investigate the Elixir blockchain. The tool provides users with a variety of data points that can be used to help assess the risk of transactions and addresses on the blockchain. Crystal also offers a number of other features, including a block explorer and a transaction explorer.
-<br>
-=More Information=
-<br>
-https://crystalblockchain.com/crystal-investigations/
-[[Category:Digital Currency Transaction Investigation]]

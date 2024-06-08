@@ -1,8 +1,0 @@
-=Description=
-<br>
-The Locurity identity perimeter security tool is designed to help organizations secure their data and prevent unauthorized access. It uses a variety of security measures to protect data, including firewalls, encryption, and access control. The tool also includes a self-service portal for users to manage their own security settings and access control.
-<br>
-=More Information=
-<br>
-https://www.locurity.com/
-[[Category:Identity & Access Management (IAM)]]

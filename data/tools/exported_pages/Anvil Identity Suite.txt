@@ -1,8 +1,0 @@
-=Description=
-<br>
-Anvil Identity Suite is a cloud-based Identity and Access Management solution that securely manages and controls access to an organization's critical applications and data. It consolidates all of an organization's identity information into a centralized repository, making it easy to manage and control user access. Anvil Identity Suite provides a complete set of tools for provisioning and managing user accounts, authenticating users, authorizing access to applications and data, and auditing user activity. It is designed to work with any type of
-<br>
-=More Information=
-<br>
-https://www.anvilsuite.com/
-[[Category:Single Sign-On (SSO)]]

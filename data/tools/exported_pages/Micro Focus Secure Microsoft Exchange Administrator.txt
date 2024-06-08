@@ -1,8 +1,0 @@
-=Description=
-<br>
-Micro Focus Secure Microsoft Exchange Administrator is a security tool that helps organizations secure their Microsoft Exchange Server environments. The tool provides a centralized management console that gives administrators visibility into Exchange Server activity, including access control, auditing, and reporting. The tool also helps organizations comply with industry regulations such as the EU General Data Protection Regulation (GDPR) and the Sarbanes-Oxley Act (SOX).
-<br>
-=More Information=
-<br>
-https://www.microfocus.com/en-us/products/identity-and-access-management/secure-microsoft-exchange-administrator/
-[[Category:User Provisioning & Governance]]

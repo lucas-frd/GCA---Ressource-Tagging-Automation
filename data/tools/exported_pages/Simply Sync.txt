@@ -1,8 +1,0 @@
-=Description=
-<br>
-Simply Sync is a file synchronisation tool that enables users to synchronise files between different devices or between different locations. It offers a real-time file synchronization, two-way file synchronization, and a conflict detection and resolution system to ensure that files are always kept up-to-date. Simply Sync also offers a variety of features such as file encryption, file versioning, and the ability to schedule synchronization.
-<br>
-=More Information=
-<br>
-https://www.simplysync.com/
-[[Category:Password Managers]]

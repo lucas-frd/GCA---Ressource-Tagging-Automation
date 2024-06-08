@@ -1,9 +1,0 @@
-=Description=
-<br>
-Ghostery is a tool that helps you see and manage the “invisible” web of trackers, web bugs, pixels, and beacons that follow you around the Internet. When you visit a website, your browser share some information with that site’s server. This is called a HTTP request. Each request includes your IP address, browser type, and the page you’re requesting. The server knows where you are because of your IP address, and it can
-<br>
-=More Information=
-<br>
-https://www.ghostery.com/
-[[Category:Cookies & Trackers]]
-[[Category:Recognising Untrustworthy or Inappropriate Applications]]

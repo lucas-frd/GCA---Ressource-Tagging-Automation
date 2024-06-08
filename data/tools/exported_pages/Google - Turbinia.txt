@@ -1,8 +1,0 @@
-=Description=
-<br>
-Turbinia is a Google software framework for incident response. It is designed to be used by small and large organizations alike. Turbinia provides a way to automate many of the tasks that are needed during an incident response investigation. This can help save time and resources. Turbinia is modular and extensible. This means that it can be customized to fit the needs of any organization.
-<br>
-=More Information=
-<br>
-https://turbinia.readthedocs.io/en/latest/
-[[Category:Incident Reporting & Recovery]]

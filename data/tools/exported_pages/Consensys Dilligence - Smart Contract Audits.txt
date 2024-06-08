@@ -1,8 +1,0 @@
-=Description=
-<br>
-The Smart Contract Audits tool from Consensys Dilligence is a set of tools and services for auditing smart contracts. It includes a contract analyzer, a security scanner, and a team of expert auditors. The contract analyzer tool statically analyzes contracts to find potential security vulnerabilities. The security scanner tool dynamically scans contracts to find issues that can't be found through static analysis. The team of expert auditors provides a comprehensive review of the contract's security.
-<br>
-=More Information=
-<br>
-https://consensys.io/diligence/
-[[Category:Crypto Compliance Auditing]]

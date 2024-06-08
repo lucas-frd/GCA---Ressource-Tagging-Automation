@@ -1,9 +1,0 @@
-=Description=
-<br>
-The IDA Pro disassembler is a Windows or Mac application that lets users disassemble and analyze compiled code. The IDA Pro database can be used to reverse engineer hardware, software, and firmware. The software can also be used to understand malicious code and write signatures for intrusion detection systems. The IDA Pro user interface is designed to be user-friendly for both novice and expert users. The software includes a variety of features, such as a built-in decompiler, a
-<br>
-=More Information=
-<br>
-https://www.hex-rays.com/products/ida/
-[[Category:Security Testing & Auditing]]
-[[Category:Attack & Penetration Testing]]

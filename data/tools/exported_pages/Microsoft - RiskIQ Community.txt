@@ -1,9 +1,0 @@
-=Description=
-<br>
-RiskIQ Community is a Microsoft-hosted online service that helps organizations manage security risks. It provides a central repository for security information, and enables collaboration among members to share best practices and improve security practices. The service also offers security intelligence and threat analysis to help organizations stay ahead of emerging threats.
-<br>
-=More Information=
-<br>
-https://community.riskiq.com/home
-[[Category:Understanding Your Risks]]
-[[Category:Understanding Relevant Threats]]

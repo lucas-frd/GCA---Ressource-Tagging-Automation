@@ -1,8 +1,0 @@
-=Description=
-<br>
-The Duende IdentityServer is a web-based tool that allows organizations to manage their users' identities and access to applications. It provides a centralize repository for users' identities, which can be used to provide Single Sign-On (SSO) to applications. The IdentityServer can be used to manage users across multiple applications and organizations. It supports a variety of authentication methods, including LDAP, SAML, and OAuth. The IdentityServer is also extensible, allowing organizations to
-<br>
-=More Information=
-<br>
-https://www.duendesoftware.com/identityserver/
-[[Category:Identity & Access Management (IAM)]]

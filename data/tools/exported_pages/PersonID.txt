@@ -1,8 +1,0 @@
-=Description=
-<br>
-Person ID is a web-based tool that allows users to input personal identifying information and receive a unique identifier in return. This identifier can be used to access various online services or products. The tool is designed to protect users' privacy by ensuring that their personal information is not shared with any third-party without their consent. In addition, the tool provides a convenient way for users to manage their online identities.
-<br>
-=More Information=
-<br>
-https://www.personid.com/
-[[Category:Biometric]]

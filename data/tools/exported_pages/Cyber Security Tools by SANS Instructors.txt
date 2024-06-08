@@ -1,8 +1,0 @@
-=Description=
-<br>
-The SANS Cyber Security Tools page is a collection of over 50 tools that have been developed by SANS instructors. These tools are designed to help defend against and respond to cyber attacks. The tools are divided into categories, such as intrusion detection, logging and monitoring, and incident response. Each tool has a description of its purpose and how to use it. Some of the tools are open source, while others are commercial products.
-<br>
-=More Information=
-<br>
-https://www.sans.org/tools/
-[[Category:Security Awareness & Training]]

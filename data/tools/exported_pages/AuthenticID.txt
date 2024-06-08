@@ -1,8 +1,0 @@
-=Description=
-<br>
-AuthenticID is a tool that allows users to authenticate themselves using their webcam and photo identification. It is designed to replace traditional password-based authentication methods, and can be used to secure online accounts, as well as to provide access to physical locations such as buildings or restricted areas. The system uses advanced facial recognition technology to verify the identity of users, and also includes a number of security features to prevent fraud and spoofing. AuthenticID is currently available as a free trial, with
-<br>
-=More Information=
-<br>
-https://www.authenticid.com/
-[[Category:Biometric]]

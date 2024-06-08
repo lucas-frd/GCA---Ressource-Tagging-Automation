@@ -1,8 +1,0 @@
-=Description=
-<br>
-Soffid IAM is a complete solution for managing identities, access, and compliance. It is designed to help organizations meet strict security and compliance requirements, while providing a streamlined user experience. Soffid IAM includes a central repository for storing and managing identity data, as well as a powerful set of tools for managing access control, Single Sign-On (SSO), and auditing. Soffid IAM is available as a hosted solution or as an on-premises software
-<br>
-=More Information=
-<br>
-https://www.soffid.com/
-[[Category:Single Sign-On (SSO)]]

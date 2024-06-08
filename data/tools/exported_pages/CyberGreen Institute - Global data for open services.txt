@@ -1,8 +1,0 @@
-=Description=
-<br>
-The CyberGreen Institute's Global Data for Open Services lets users explore how different countries are performing in terms of broadband speeds and prices. The site provides data on fixed broadband speeds and prices from over 190 countries. Users can view data on a map or in a list, and can filter the data by country, region, or broadband type. The data can be used to compare countries' performance, to identify trends, and to assess the affordability of broadband services.
-<br>
-=More Information=
-<br>
-https://stats.cybergreen.net
-[[Category:Individuals]]

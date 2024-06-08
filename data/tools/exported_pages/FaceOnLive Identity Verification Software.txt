@@ -1,8 +1,0 @@
-=Description=
-<br>
-FaceOnLive Identity Verification Software is a biometric face recognition software that can be used to verify the identity of an individual. The software uses the individual's facial features to create a face template which is then compared to a database of known faces. If a match is found, the individual's identity is verified. The software is accurate and can be used in a variety of situations where identity verification is required, such as when entering a secure area or when making a financial transaction.
-<br>
-=More Information=
-<br>
-https://www.faceonlive.com/
-[[Category:Biometric]]

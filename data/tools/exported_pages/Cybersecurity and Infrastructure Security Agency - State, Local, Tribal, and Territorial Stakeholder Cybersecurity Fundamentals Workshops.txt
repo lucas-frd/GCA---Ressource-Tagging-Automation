@@ -1,8 +1,0 @@
-=Description=
-<br>
-The State, Local, Tribal, and Territorial (SLTT) Stakeholder Cybersecurity Fundamentals Workshops are a series of training sessions offered by the Cybersecurity and Infrastructure Security Agency (CISA), an agency within the Department of Homeland Security responsible for protecting the nation's critical infrastructure from cyber threats. The goal of these workshops is to provide education and resources to SLTT stakeholders on fundamental cybersecurity principles and practices.
-<br>
-=More Information=
-<br>
-https://www.cisa.gov/resources-tools/services/state-local-tribal-and-territorial-stakeholder-cybersecurity-fundamentals
-[[Category:Privacy Protection]]

@@ -1,9 +1,0 @@
-=Description=
-<br>
-Paros Proxy is designed to allow developers and penetration testers to intercept HTTP and HTTPS traffic. It can be used to bypass firewall restrictions and to perform man-in-the-middle attacks. Paros Proxy is free and open source software, compatible with Windows, macOS, and Linux. It can be used to intercept and modify traffic from web browsers, web servers, and other applications that use the HTTP or HTTPS protocols.
-<br>
-=More Information=
-<br>
-https://www.sans.org/tools/?per-page=100
-[[Category:Security Testing & Auditing]]
-[[Category:Attack & Penetration Testing]]

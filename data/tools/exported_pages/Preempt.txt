@@ -1,8 +1,0 @@
-=Description=
-<br>
-Preempt is a cloud-based security service that provides real-time threat detection and response for organizations of all sizes. Preempt integrates with existing security infrastructure to provide a unified view of security across the enterprise. Preempt's advanced machine learning algorithms continuously monitor user and entity behavior to identify and respond to threats in real time. Preempt is SOC 2 Type II compliant and PCI DSS certified.
-<br>
-=More Information=
-<br>
-https://www.cloudflare.com/products/waf/
-[[Category:Single Sign-On (SSO)]]

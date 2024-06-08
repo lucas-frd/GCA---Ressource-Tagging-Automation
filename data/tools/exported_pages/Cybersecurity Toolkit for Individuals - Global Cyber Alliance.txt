@@ -1,9 +1,0 @@
-=Description=
-<br>
-The GCA Cybersecurity Toolkit for Individuals provides free and effective tools to help protect individuals from cyber risks. The included free tools, services and resources focus on basic cyber hygiene to enable people to significantly reduce their risk
-<br>
-=More Information=
-<br>
-https://gcatoolkit.org/individuals/
-[[Category:CIS - 14 - Security Awareness and Skills Training]]
-[[Category:Individuals]]

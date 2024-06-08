@@ -1,8 +1,0 @@
-=Description=
-<br>
-WSO2 Identity Server is an identity and access management system that provides single sign-on, centralized identity management, and access control for web and mobile applications. It offers a comprehensive set of features for identity management, including account creation and self-service, identity federation, virtualization, and social login. WSO2 Identity Server also provides a sovereign identity gateway for connecting to identity providers such as Facebook, Google, and Twitter.
-<br>
-=More Information=
-<br>
-https://wso2.com/identity-server/
-[[Category:Identity & Access Management (IAM)]]

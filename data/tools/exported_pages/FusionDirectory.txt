@@ -1,8 +1,0 @@
-=Description=
-<br>
-FusionDirectory is a web application that allows you to manage your company's directory information. It includes an LDAP server and web interface to manage users, groups, and contact information. It can also be used to manage Email and DNS records. FusionDirectory is written in PHP and uses the MySQL database.
-<br>
-=More Information=
-<br>
-https://www.fusiondirectory.com/
-[[Category:Identity & Access Management (IAM)]]

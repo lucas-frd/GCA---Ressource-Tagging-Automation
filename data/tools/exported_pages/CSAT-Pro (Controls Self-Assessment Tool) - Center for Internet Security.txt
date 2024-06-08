@@ -1,8 +1,0 @@
-=Description=
-<br>
-An on-premises CIS Controls self-assessment tool that enables you to conduct, track, and assess implementation of the Controls.
-<br>
-=More Information=
-<br>
-https://www.cisecurity.org/
-[[Category:All Businesses]]

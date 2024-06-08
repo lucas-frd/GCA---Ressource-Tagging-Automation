@@ -1,8 +1,0 @@
-=Description=
-<br>
-The FBI Directory of Field Offices contains a list of the 56 field offices located throughout the United States, providing contact information and jurisdictions for each office.
-<br>
-=More Information=
-<br>
-https://fbi.gov/contact-us/field-offices/field-offices
-[[Category:Federal]]

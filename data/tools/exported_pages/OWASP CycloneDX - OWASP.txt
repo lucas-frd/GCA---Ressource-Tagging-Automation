@@ -1,9 +1,0 @@
-=Description=
-<br>
-OWASP CycloneDX is a lightweight Bill of Materials (BOM) standard designed for use in application security contexts andsupply chain component analysis.
-<br>
-=More Information=
-<br>
-https://owasp.org/www-project-cyclonedx/
-[[Category:CIS - 2 - Inventory and Control of Software Assets]]
-[[Category:Developers and Development Organizations]]

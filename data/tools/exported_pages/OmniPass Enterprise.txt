@@ -1,8 +1,0 @@
-=Description=
-<br>
-OmniPass is a single sign-on system that enables users to securely access multiple applications with a single password. It is designed for enterprise environments and supports a variety of authentication methods, including biometrics, smart cards, and tokens. OmniPass Enterprise also includes a password management component that allows administrators to centrally manage and distribute passwords.
-<br>
-=More Information=
-<br>
-https://www.omnpass.com/
-[[Category:Password Managers]]

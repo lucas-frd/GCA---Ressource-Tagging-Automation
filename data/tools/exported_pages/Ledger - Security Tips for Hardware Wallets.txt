@@ -1,8 +1,0 @@
-=Description=
-<br>
-The tool Security Tips for Hardware Wallets is a guide that provides best practices for users of Ledger hardware wallets. The guide covers topics such as how to best protect your Ledger device, how to keep your recovery phrase safe, and how to choose strong passwords. Ledger hardware wallets are one of the most popular choices for storing cryptocurrency, and following these tips can help keep your Ledger device and your funds safe.
-<br>
-=More Information=
-<br>
-https://www.ledger.com/academy/hardwarewallet/best-practices-when-using-a-hardware-wallet
-[[Category:Wallet Transaction Approval Risk Management]]

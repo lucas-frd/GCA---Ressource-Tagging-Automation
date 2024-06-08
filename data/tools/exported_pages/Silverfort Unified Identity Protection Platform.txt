@@ -1,8 +1,0 @@
-=Description=
-<br>
-Silverfort is a unified identity protection platform that helps organizations secure their data and systems by consolidating all their identity management and access control needs into a single platform. It provides a centralized view of all identities, both internal and external, and their access permissions across all systems and data, making it easy to manage and audit user access. Silverfort also offers real-time risk monitoring and analysis to detect and prevent identity-related threats.
-<br>
-=More Information=
-<br>
-https://www.silverfort.com/
-[[Category:Identity & Access Management (IAM)]]

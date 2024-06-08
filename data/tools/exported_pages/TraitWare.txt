@@ -1,8 +1,0 @@
-=Description=
-<br>
-TraitWare is a cloud-based solution that helps organizations manage digital identities and authenticate users. The tool uses biometric data and behavioral traits to verify users' identities and provide them with access to applications and data. TraitWare also offers a mobile app that allows users to access their accounts and verify their identities using their fingerprints or facial recognition.
-<br>
-=More Information=
-<br>
-https://www.traitware.com/
-[[Category:Two-Factor & Multi-Factor Authentication]]

@@ -1,8 +1,0 @@
-=Description=
-<br>
-Onfido is a cloud-based identity verification and authentication service. It uses machine learning technology to automatically verify the identity of online users. Onfido is used by businesses to verify the identities of their customers and employees. The service is used to help prevent fraud and to ensure compliance with regulations such as the General Data Protection Regulation (GDPR). Onfido is also used to verify the identities of users of online services such as online banking and dating websites.
-<br>
-=More Information=
-<br>
-https://onfido.com/
-[[Category:Biometric]]

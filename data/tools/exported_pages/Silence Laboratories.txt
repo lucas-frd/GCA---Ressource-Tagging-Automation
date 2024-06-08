@@ -1,8 +1,0 @@
-=Description=
-<br>
-Silence Laboratories is a tool that helps you find and remove unnecessary background noise from your recordings. It can be used to clean up your audio files, so that they sound clearer and more professional. The Silence Laboratories website offers a free trial, so you can try out the tool before you purchase it.
-<br>
-=More Information=
-<br>
-https://www.silencelabs.com/
-[[Category:Two-Factor & Multi-Factor Authentication]]

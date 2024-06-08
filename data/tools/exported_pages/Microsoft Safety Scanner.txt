@@ -1,8 +1,0 @@
-=Description=
-<br>
-The Microsoft Safety Scanner is a tool that helps users scan their computers for malware and remove any malware that is found. The scanner is updated regularly, so it can find and remove the latest threats. The scanner is easy to use and can be run from any location on a user's computer.
-<br>
-=More Information=
-<br>
-https://learn.microsoft.com/en-us/microsoft-365/security/intelligence/safety-scanner-download?view=o365-worldwide
-[[Category:Anti-virus & Anti-malware Software]]

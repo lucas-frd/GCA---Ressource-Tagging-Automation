@@ -1,8 +1,0 @@
-=Description=
-<br>
-Microsoft PsExec is a tool that allows you to execute commands on a remote computer. It can be used to launch programs, scripts, and batch files on a remote computer. PsExec can be used to remotely execute commands on a computer that is not configured to allow remote access.
-<br>
-=More Information=
-<br>
-https://learn.microsoft.com/en-us/sysinternals/downloads/psexec
-[[Category:Security Information & Event Management (SIEM)]]

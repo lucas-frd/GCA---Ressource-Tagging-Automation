@@ -1,8 +1,0 @@
-=Description=
-<br>
-Assure Security is a comprehensive security management platform that helps organizations assess and improve their security posture. The platform provides visibility into an organization's security risks, highlights areas of improvement, and provides tools to help organizations remediate their vulnerabilities.
-<br>
-=More Information=
-<br>
-https://assuresecurity.com/
-[[Category:Two-Factor & Multi-Factor Authentication]]

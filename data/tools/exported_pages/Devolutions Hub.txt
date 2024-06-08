@@ -1,8 +1,0 @@
-=Description=
-<br>
-The Devolutions Hub is a web-based portal that provides a central location for users to access Devolutions’ remote desktop management solutions. The Hub provides a single sign-on (SSO) for all Devolutions products, as well as a unified dashboard that gives users an overview of their Devolutions account. The Hub also includes a marketplace, which is a centralized repository of Devolutions-compatible plugins and add-ons. The Devolutions Hub is available to all Devolutions users,
-<br>
-=More Information=
-<br>
-https://www.devolutions.net/remote-desktop-manager/
-[[Category:Password Managers]]

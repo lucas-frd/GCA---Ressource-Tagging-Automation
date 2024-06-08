@@ -1,8 +1,0 @@
-=Description=
-<br>
-Onescan login is a tool that allows users to log in to their account using a single sign-on (SSO) process. This means that users can log in with their Onescan credentials, and they will be automatically logged in to all of the applications and services that they have access to. Onescan login also provides a convenient way for users to manage their Onescan account and profile.
-<br>
-=More Information=
-<br>
-https://www.onescanlogin.com/
-[[Category:Single Sign-On (SSO)]]

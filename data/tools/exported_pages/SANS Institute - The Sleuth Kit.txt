@@ -1,8 +1,0 @@
-=Description=
-<br>
-The Sleuth Kit is a suite of digital forensics tools that help investigators piece together evidence from a crime scene. It can be used to recover deleted files, locate hidden data, and analyze disk images. The tools are divided into four main categories: file system analysis, volatile memory analysis, email analysis, and web browser analysis. Each category contains several tools that can be used to recover data or find clues about what happened. The file system analysis tools can be used to recover deleted files or
-<br>
-=More Information=
-<br>
-https://www.sleuthkit.org/
-[[Category:Incident Reporting & Recovery]]

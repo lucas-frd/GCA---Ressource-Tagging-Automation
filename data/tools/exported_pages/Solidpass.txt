@@ -1,8 +1,0 @@
-=Description=
-<br>
-Solidpass is a cloud-based security solution that uses two-factor authentication to protect online accounts and resources. It adds an extra layer of security by requiring users to enter a second factor, such as a PIN or fingerprint, in addition to their username and password. This makes it more difficult for attackers to gain access to accounts, even if they have stolen the user's credentials. Solidpass can be used to protect a variety of online services, including email, social media, and online banking
-<br>
-=More Information=
-<br>
-https://www.solidpass.com/
-[[Category:Two-Factor & Multi-Factor Authentication]]

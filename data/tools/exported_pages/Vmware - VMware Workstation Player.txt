@@ -1,8 +1,0 @@
-=Description=
-<br>
-VMware Workstation Player is a virtualization tool for Windows and Linux PCs. It allows users to create and run virtual machines on a single physical computer. Workstation Player is based on VMware's Workstation Pro virtualization platform and provides a simple and easy-to-use interface for creating and running virtual machines. Workstation Player supports a wide range of operating systems, including Windows, Linux, and other popular OSes. Workstation Player also includes a number of features that makes it
-<br>
-=More Information=
-<br>
-https://www.vmware.com/products/workstation-player/workstation-player-evaluation.html
-[[Category:Anti-virus & Anti-malware Software]]

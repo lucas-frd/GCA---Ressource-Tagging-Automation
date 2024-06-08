@@ -1,9 +1,0 @@
-=Description=
-<br>
-DoubleClue is an online platform that helps organisations to manage and protect their online identities. It provides a range of tools to help organisations to create and manage user accounts, set up and manage authentication systems, and monitor and respond to security threats. It also provides a range of reports and tools to help organisations to understand and improve their security posture.
-<br>
-=More Information=
-<br>
-https://www.doubleclue.com/identity-security-platform/
-[[Category:Identity & Access Management (IAM)]]
-[[Category:Two-Factor & Multi-Factor Authentication]]

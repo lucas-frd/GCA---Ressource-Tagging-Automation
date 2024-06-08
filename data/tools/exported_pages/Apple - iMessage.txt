@@ -1,8 +1,0 @@
-=Description=
-<br>
-Apple's iMessage is a text messaging service that is found within the Messages app on Apple devices. It allows users to send text messages, photos, videos, and other multimedia files to other Apple device users. The service is available on iPhones, iPads, Macs, and Apple Watches, making it easily accessible and integrated with Apple's ecosystem.
-<br>
-=More Information=
-<br>
-https://support.apple.com/en-us/HT206906
-[[Category:Messaging apps]]

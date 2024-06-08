@@ -1,9 +1,0 @@
-=Description=
-<br>
-Mandiant Digital Threat Monitoring is a subscription service that provides organizations with visibility into their digital footprint and the threats posed to it. The service monitors for signs of compromise, such as unauthorized access, data leakage, and malicious activity. It also provides tools for threat intelligence, incident response, and forensics.
-<br>
-=More Information=
-<br>
-https://www.mandiant.com/advantage/digital-threat-monitoring
-[[Category:Understanding Your Risks]]
-[[Category:Understanding Relevant Threats]]

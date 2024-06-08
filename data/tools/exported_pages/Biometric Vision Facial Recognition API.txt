@@ -1,8 +1,0 @@
-=Description=
-<br>
-The Biometric Vision Facial Recognition API is a set of tools that enables developers to create applications that can recognize faces in images. The API provides a set of APIs that allow developers to train their own models, or use existing models, to detect faces in images. The API also provides a set of tools for managing and storing facial images.
-<br>
-=More Information=
-<br>
-https://biometricvision.com/
-[[Category:Biometric]]

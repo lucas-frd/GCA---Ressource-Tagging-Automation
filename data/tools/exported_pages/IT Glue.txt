@@ -1,8 +1,0 @@
-=Description=
-<br>
-IT Glue is a documentation tool that helps organizations to document and manage their IT infrastructure. It provides a centralized repository for all IT documentation, which can be accessed and edited by authorized users. IT Glue also offers a range of features to help with collaboration, such as version control, workflow management, and role-based access control.
-<br>
-=More Information=
-<br>
-https://www.itglue.com/
-[[Category:Password Managers]]

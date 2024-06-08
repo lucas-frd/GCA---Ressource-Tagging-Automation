@@ -1,8 +1,0 @@
-=Description=
-<br>
-Airlock Suite is a tool by Ergon Informatik that enables IT professionals to manage, monitor, and secure their hybrid cloud environments. It provides a unified platform for managing both on-premises and cloud-based resources, and offers a variety of features designed to help users optimize their hybrid cloud deployments. Airlock Suite includes tools for provisioning and managing resources, monitoring performance and utilization, and securing data and access. It also offers integration with popular cloud management platforms such as Amazon
-<br>
-=More Information=
-<br>
-https://www.ergon-informatik.com/airlock-suite/
-[[Category:Single Sign-On (SSO)]]

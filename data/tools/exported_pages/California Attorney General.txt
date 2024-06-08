@@ -1,8 +1,0 @@
-=Description=
-<br>
-The California Attorney General organization is a governmental agency responsible for protecting individuals and businesses from cyber exploitation and enforcing laws related to internet crimes in the state of California.
-<br>
-=More Information=
-<br>
-https://oag.ca.gov/cyberexploitation
-[[Category:California]]

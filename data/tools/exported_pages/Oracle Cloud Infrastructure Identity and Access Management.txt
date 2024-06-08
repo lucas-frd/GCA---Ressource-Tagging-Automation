@@ -1,8 +1,0 @@
-=Description=
-<br>
-The Oracle Cloud Infrastructure Identity and Access Management (IAM) tool provides customers with a centralized way to manage user access to Oracle Cloud resources. IAM lets customers create and manage users and groups, and control what actions those users can take on what resources. IAM is a critical part of Oracle Cloud security, helping customers to ensure that only authorized users have access to sensitive data and resources.
-<br>
-=More Information=
-<br>
-https://cloud.oracle.com/identity-and-access-management/
-[[Category:Identity & Access Management (IAM)]]

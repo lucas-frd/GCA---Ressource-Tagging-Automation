@@ -1,8 +1,0 @@
-=Description=
-<br>
-The Cloud Biometric API Enterprise Subscription allows organizations to integrate AnyVision’s state-of-the-art computer vision technology into their own systems and applications. The API provides access to AnyVision’s advanced algorithms for facial recognition, object recognition, and motion analysis. With the Cloud Biometric API, organizations can build their own custom solutions for security, customer service, marketing, and more.
-<br>
-=More Information=
-<br>
-https://www.m2sys.com/cloud-based-abis-automated-biometric-identification-system-api/
-[[Category:Biometric]]

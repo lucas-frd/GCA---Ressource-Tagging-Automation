@@ -1,8 +1,0 @@
-=Description=
-<br>
-S3 Authentication Suite is a tool that allows you to securely access your Amazon S3 account using a web browser. It provides a web-based interface that lets you manage your Amazon S3 account and create, delete, and manage your Amazon S3 buckets. You can also use S3 Authentication Suite to securely access your Amazon S3 account from a mobile device.
-<br>
-=More Information=
-<br>
-https://www.s3authentication.com/
-[[Category:Biometric]]

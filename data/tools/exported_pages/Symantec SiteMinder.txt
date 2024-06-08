@@ -1,8 +1,0 @@
-=Description=
-<br>
-Symantec SiteMinder is a web-based application that helps organizations manage access to their websites. It provides a centralized, easy-to-use interface for managing user accounts, passwords, and permissions. SiteMinder also includes a number of security features, such as the ability to track user activity and detect suspicious activity.
-<br>
-=More Information=
-<br>
-https://www.broadcom.com/products/symantec-enterprise-security/identity-access-management/symantec-siteminder-access-management
-[[Category:Single Sign-On (SSO)]]

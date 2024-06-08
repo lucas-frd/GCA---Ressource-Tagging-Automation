@@ -1,8 +1,0 @@
-=Description=
-<br>
-DynamicGroup is a security tool that helps organizations manage and protect their critical data. It provides a centralized platform for managing user access to data, and offers a variety of features to help organizations control who can access their data, and how. DynamicGroup also helps organizations track and monitor user activity, and provides reports and alerts to help administrators identify and respond to potential security threats.
-<br>
-=More Information=
-<br>
-https://www.dynamicgroup.com/
-[[Category:User Provisioning & Governance]]

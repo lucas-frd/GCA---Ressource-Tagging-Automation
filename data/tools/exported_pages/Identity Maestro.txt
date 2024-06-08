@@ -1,9 +1,0 @@
-=Description=
-<br>
-Identity Maestro is a tool that allows organizations to manage their identities and access to resources. It provides a way to centrally manage users, roles, and permissions. It also provides auditing and reporting features.
-<br>
-=More Information=
-<br>
-https://www.identity-maestro.com/
-[[Category:User Provisioning & Governance]]
-[[Category:Identity & Access Management (IAM)]]

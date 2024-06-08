@@ -1,8 +1,0 @@
-=Description=
-<br>
-The tool helps nonprofits keep their data secure and protect it from being accessed by unauthorized users. It provides a way to encrypt data so that only authorized users can access it. It also offers a way to limit access to data so that only specific users can view or edit it. The tool also helps to track who has accessed data and when, so that unauthorized access can be detected and prevented.
-<br>
-=More Information=
-<br>
-https://www.microsoft.com/en-us/nonprofits/data-security
-[[Category:Nonprofits & Charities]]

@@ -1,8 +1,0 @@
-=Description=
-<br>
-Encap Security is a tool that helps organisations to secure their data and applications. It does this by providing a centralised platform for managing security risks and vulnerabilities. Encap Security provides a number of features that help organisations to identify and remediate risks. These include a security risk assessment tool, a security configuration management tool, and a security event management tool. Encap Security also provides a number of reporting and analytics features that help organisations to track their security posture and identify trends.
-<br>
-=More Information=
-<br>
-https://www.encapsecurity.com/
-[[Category:Two-Factor & Multi-Factor Authentication]]

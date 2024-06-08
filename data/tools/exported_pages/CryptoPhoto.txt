@@ -1,8 +1,0 @@
-=Description=
-<br>
-CryptoPhoto is an authentication service that allows users to log in to websites and apps using their mobile devices. It uses a user's mobile device's camera to take a photo of a CryptoPhoto code, which is then used to authenticate the user. CryptoPhoto is highly secure and is resistant to attacks such as phishing and man-in-the-middle attacks. It is also easy to use, making it a good option for websites and apps that require high security.
-<br>
-=More Information=
-<br>
-https://www.cryptography.com/products/crypto-photo/
-[[Category:Two-Factor & Multi-Factor Authentication]]

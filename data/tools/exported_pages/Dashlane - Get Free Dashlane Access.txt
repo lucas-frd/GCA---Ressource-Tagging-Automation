@@ -1,9 +1,0 @@
-=Description=
-<br>
-Dashlane is a password management tool that helps individuals and businesses keep their online accounts safe and secure. The tool provides a variety of features to its users, including the ability to generate strong passwords, store important information securely, and share passwords with others. Dashlane also offers two-factor authentication and encrypted backups to further protect users' data.
-<br>
-=More Information=
-<br>
-https://www.dashlane.com/business-password-manager/try?utm_source=adwords&utm_campaign=US_Search_B2B_UseCase_Exact&utm_medium=cpc&utm_term=It%2520Security%2520Cyber%2520Security&gclid=CjwKCAjwq4imBhBQEiwA9Nx1Bi2t1doyKTobaKAfLKH_ZW6GHKlybk73uARfAVDJ_AgmEu7YDWWnbhoCaH8QAvD_BwE
-[[Category:Nonprofits & Charities]]
-[[Category:Small & Medium Sized Businesses]]

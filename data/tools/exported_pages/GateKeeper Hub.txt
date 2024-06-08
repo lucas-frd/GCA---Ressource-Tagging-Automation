@@ -1,8 +1,0 @@
-=Description=
-<br>
-Gatekeeper Hub is a policy management tool that helps organizations to control access to applications and data. It provides a central point of control for administrators to manage users, groups, and permissions. Gatekeeper Hub also includes a reporting interface that provides insights into application usage and activity.
-<br>
-=More Information=
-<br>
-https://www.gatekeeper.com/
-[[Category:Password Managers]]

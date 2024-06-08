@@ -1,9 +1,0 @@
-=Description=
-<br>
-The Cyber Readiness Program is a free, online program that helps organizations assess their cyber readiness and develop actionable plans to improve their cyber resilience. The program consists of a set of self-assessment tools and resources, including a Cyber Readiness Scorecard, which helps organizations identify areas of improvement and track their progress over time. The program also provides access to an online community of cyber readiness experts, who can provide guidance and support.
-<br>
-=More Information=
-<br>
-https://cyberreadinessinstitute.org/
-[[Category:All Businesses]]
-[[Category:Cybersecurity Providers]]

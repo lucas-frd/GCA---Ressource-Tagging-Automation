@@ -1,8 +1,0 @@
-=Description=
-<br>
-Elliptic is a provider of cryptocurrency anti-money laundering solutions. The Elliptic Transaction Screening tool is designed to help businesses comply with anti-money laundering regulations by screening cryptocurrency transactions for suspicious activity. The tool uses Elliptic's proprietary data and analytics to identify and flag transactions that may be associated with money laundering, terrorist financing, or other criminal activity. Businesses can use the tool to screen their own transactions, or they can subscribe to Elliptic's Transaction Monitoring service
-<br>
-=More Information=
-<br>
-https://www.elliptic.co/solutions/crypto-transaction-monitoring
-[[Category:Anti-Money Laundering Compliance]]

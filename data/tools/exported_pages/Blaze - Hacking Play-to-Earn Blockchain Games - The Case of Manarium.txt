@@ -1,8 +1,0 @@
-=Description=
-<br>
-Blaze, a cybersecurity consulting firm based in Manila, Philippines, recently conducted a case study on the organization Hacking Play-to-Earn Blockchain Games, specifically focusing on the popular game Manarium. Manarium is a blockchain-based fantasy game that allows players to earn cryptocurrency while playing.
-<br>
-=More Information=
-<br>
-https://www.blazeinfosec.com/post/hacking-play-2-earn-blockchain-games-manarium/
-[[Category:NFT Smart Contract Auditing]]

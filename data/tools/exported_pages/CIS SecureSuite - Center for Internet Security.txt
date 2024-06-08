@@ -1,8 +1,0 @@
-=Description=
-<br>
-Start secure and stay secure with integrated cybersecurity tools and resources designed to help you implement CIS Benchmarks and CIS Controls.
-<br>
-=More Information=
-<br>
-https://www.cisecurity.org/cis-securesuite
-[[Category:All Businesses]]

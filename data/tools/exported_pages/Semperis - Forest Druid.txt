@@ -1,8 +1,0 @@
-=Description=
-<br>
-Forest Druid is a Semperis tool that can be used to discover, track, and manage forest resources in your AWS account. It provides a user interface that allows you to select which resources to track and which actions to perform on them. It also generates a report that shows the results of your actions.
-<br>
-=More Information=
-<br>
-https://www.purple-knight.com/forest-druid/
-[[Category:Configuration Management]]

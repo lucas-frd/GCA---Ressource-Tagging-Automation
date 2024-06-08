@@ -1,8 +1,0 @@
-=Description=
-<br>
-This article provides tips on how to stop being tracked online. It advises readers to use a VPN, use a privacy-focused browser, limit the amount of personal information they share online, and be cautious about the websites they visit. It also recommends using a security suite to protect against malware and spyware. Overall, the article provides practical advice on how to protect one's online privacy.
-<br>
-=More Information=
-<br>
-https://www.ghostery.com/blog/ways-to-stop-being-tracked
-[[Category:Location & Tracking]]

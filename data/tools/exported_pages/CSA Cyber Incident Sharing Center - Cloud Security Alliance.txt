@@ -1,8 +1,0 @@
-=Description=
-<br>
-Private sharing enclave of cloud-related threat intelligence for members
-<br>
-=More Information=
-<br>
-https://cloudsecurityalliance.org/membership/enterprises/
-[[Category:All Businesses]]

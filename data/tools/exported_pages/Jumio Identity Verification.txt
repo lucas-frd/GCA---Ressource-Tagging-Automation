@@ -1,8 +1,0 @@
-=Description=
-<br>
-Jumio is a biometric authentication company that offers Jumio Identity Verification, a service that allows users to verify their identity using a webcam and government-issued ID. The service is designed to help organizations reduce fraud and increase security. Jumio Identity Verification is available in over 60 countries and supports over 3,500 document types.
-<br>
-=More Information=
-<br>
-https://www.jumio.com/
-[[Category:Biometric]]

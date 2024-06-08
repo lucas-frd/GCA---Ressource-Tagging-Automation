@@ -1,8 +1,0 @@
-=Description=
-<br>
-SpeechPro is a speech recognition tool that can be used to transcribe speech in real-time. It is available in both a desktop and a mobile app, and can be used to transcribe speech in a variety of languages. The tool uses a combination of automatic speech recognition and human transcription to provide accurate transcriptions, and can be customized to recognize different accents and dialects.
-<br>
-=More Information=
-<br>
-https://www.speechpro.com/
-[[Category:Biometric]]

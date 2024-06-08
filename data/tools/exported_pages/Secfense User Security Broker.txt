@@ -1,8 +1,0 @@
-=Description=
-<br>
-The Secfense User Security Broker is a tool that allows organizations to securely connect their users to the applications they need, while preventing access to unauthorized applications. The tool uses a broker server to authenticate users and authorize access to applications. The broker server is connected to the organization's authentication system, such as Active Directory, and the user's browser is redirected to the broker server when they try to access an application. The broker server then checks the user's permissions and, if they are
-<br>
-=More Information=
-<br>
-https://www.secfense.com/user-security-broker/
-[[Category:Two-Factor & Multi-Factor Authentication]]

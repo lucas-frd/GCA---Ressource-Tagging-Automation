@@ -1,8 +1,0 @@
-=Description=
-<br>
-The Daon IdentityX Platform is a robust, interoperable identity verification and authentication platform that enables organizations to securely verify the identities of their customers and employees. The platform provides a flexible, modular approach to identity verification and authentication, supporting a wide range of identity data sources, authentication methods, and risk scoring algorithms. The platform is built on a scalable, highly available architecture that can support millions of users and billions of transactions. The platform includes a comprehensive set of APIs and SDKs that make it
-<br>
-=More Information=
-<br>
-https://www.daon.com/identityx-platform/
-[[Category:Two-Factor & Multi-Factor Authentication]]

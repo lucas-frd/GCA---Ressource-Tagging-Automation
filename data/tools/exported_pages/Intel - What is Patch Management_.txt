@@ -1,8 +1,0 @@
-=Description=
-<br>
-Intel is a multinational technology company that specializes in the design and production of computer processors, motherboards, graphics cards, and other hardware components. The company was founded in 1968 and is headquartered in Santa Clara, California. With a global presence and a workforce of over 110,000 employees, Intel is one of the largest and most influential companies in the computer industry.
-<br>
-=More Information=
-<br>
-https://www.intel.com/content/www/us/en/business/enterprise-computers/resources/patch-management.html#:~:text=Patch%20management%20is%20the%20process,performance%20of%20systems%2C%20boosting%20productivity.
-[[Category:Configuration Management]]

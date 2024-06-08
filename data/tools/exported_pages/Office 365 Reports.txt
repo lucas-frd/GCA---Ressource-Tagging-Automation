@@ -1,8 +1,0 @@
-=Description=
-<br>
-The Office 365 Reports tool provides users with over 50 pre-built reports on their Office 365 usage, including information on email activity, OneDrive activity, and SharePoint activity. The reports are customizable, and users can schedule them to be emailed to themselves or to others on a regular basis. The tool also allows users to create their own custom reports.
-<br>
-=More Information=
-<br>
-https://www.microsoft.com/en-us/microsoft-365/enterprise/office-365-reports/
-[[Category:User Provisioning & Governance]]

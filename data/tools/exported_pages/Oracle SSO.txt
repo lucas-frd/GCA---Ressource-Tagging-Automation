@@ -1,8 +1,0 @@
-=Description=
-<br>
-Oracle Single Sign-On is a web-based Single Sign-On product that allows users to authenticate to a variety of websites and applications with a single set of credentials. It is available as a standalone product or as part of the Oracle Access Manager suite. Oracle Single Sign-On uses the Security Assertion Markup Language (SAML) to provide Single Sign-On functionality. It can also be integrated with other Oracle products such as Oracle E-Business Suite and Oracle PeopleSoft
-<br>
-=More Information=
-<br>
-https://www.oracle.com/security/identity-and-access-management/single-sign-on/
-[[Category:Single Sign-On (SSO)]]

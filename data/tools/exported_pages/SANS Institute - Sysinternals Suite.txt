@@ -1,8 +1,0 @@
-=Description=
-<br>
-Sysinternals Suite is a collection of over 70 tools for Windows that administrators can use to manage, troubleshoot, and monitor their systems. The tools are divided into categories, such as Security, Processes and Threads, Networking, and Files and Disk. Each tool has its own description and usage information. The suite also includes a Process Explorer, which is a tool that shows detailed information about processes running on a system.
-<br>
-=More Information=
-<br>
-https://docs.microsoft.com/en-us/sysinternals/
-[[Category:Incident Reporting & Recovery]]

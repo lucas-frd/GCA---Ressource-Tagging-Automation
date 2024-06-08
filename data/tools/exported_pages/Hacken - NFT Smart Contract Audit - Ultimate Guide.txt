@@ -1,8 +1,0 @@
-=Description=
-<br>
-The tool NFT Smart Contract Audit: Ultimate Guide is a guide that helps managers and founders review the security of their NFT smart contracts. The guide provides an overview of the smart contract security audit process, including how to select an auditor and what to expect from the audit.
-<br>
-=More Information=
-<br>
-https://hacken.io/discover/security-audit-for-nft-guide-for-founders-and-managers/
-[[Category:NFT Smart Contract Auditing]]

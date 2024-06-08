@@ -1,9 +1,0 @@
-=Description=
-<br>
-Developing a software security program without consideration for the people who create the software is an effort doomed to fail. Creating and fostering a security-supportive culture is essential to successfully scaling a software security program. This In
-<br>
-=More Information=
-<br>
-https://safecode.org/category/resource-training-and-culture/
-[[Category:CIS - 16 - Application Software Security]]
-[[Category:Developers and Development Organizations]]

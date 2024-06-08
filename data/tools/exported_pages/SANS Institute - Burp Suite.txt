@@ -1,9 +1,0 @@
-=Description=
-<br>
-Burp Suite is a SANS Institute-approved web application testing tool. It is a Java-based platform that provides users with a wide range of features to help them assess the security of web applications. Burp Suite is available in both a free and paid version. The free version is limited to assessing web applications with a maximum of 10 URLs.
-<br>
-=More Information=
-<br>
-https://portswigger.net/burp
-[[Category:Security Testing & Auditing]]
-[[Category:Attack & Penetration Testing]]

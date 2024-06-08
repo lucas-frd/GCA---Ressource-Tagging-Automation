@@ -1,8 +1,0 @@
-=Description=
-<br>
-The wiki profiles provide an overview of a country's policy on cybercrime and electronic evidence. Every wiki page includes a description of cybercrime policies/strategies, the state of cybercrime legislation, the channels of cooperation, international cooperation and case law for a particular country.
-<br>
-=More Information=
-<br>
-https://www.coe.int/en/web/octopus/country-wiki
-[[Category:Cybercrime Policy]]

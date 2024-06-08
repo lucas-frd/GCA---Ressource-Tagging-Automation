@@ -1,8 +1,0 @@
-=Description=
-<br>
-Vaultwarden is a tool for securing and managing secrets. It provides a central repository for secrets, allowing them to be securely stored, shared, and accessed. It also provides auditing and compliance features to help ensure that secrets are used appropriately.
-<br>
-=More Information=
-<br>
-https://www.vaultwarden.com/
-[[Category:Password Managers]]

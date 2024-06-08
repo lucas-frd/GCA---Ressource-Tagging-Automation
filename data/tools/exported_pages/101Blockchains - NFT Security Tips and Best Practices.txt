@@ -1,8 +1,0 @@
-=Description=
-<br>
-The NFT security tips and best practices found at https://101blockchains.com/nft-security-tips/#:~:text=Use%20Reliable%20Crypto%20Wallets%20and,when%20it%20comes%20to%20security. is a helpful guide for those looking to invest in or use NFTs. The tips include using reliable crypto wallets and exchanges, being aware of scams and phishing attempts, and understanding
-<br>
-=More Information=
-<br>
-https://101blockchains.com/nft-security-tips/#:~:text=Use%20Reliable%20Crypto%20Wallets%20and,when%20it%20comes%20to%20security.
-[[Category:NFTs]]

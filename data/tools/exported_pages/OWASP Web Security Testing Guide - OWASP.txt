@@ -1,9 +1,0 @@
-=Description=
-<br>
-The WSTG is a comprehensive guide to testing the security of web applications and web services. Created by the collaborative efforts of cybersecurity professionals and dedicated volunteers, the WSTG provides a framework of best practices used by penetrati
-<br>
-=More Information=
-<br>
-https://owasp.org/www-project-web-security-testing-guide/
-[[Category:CIS - 18 - Penetration Testing]]
-[[Category:Cybersecurity Providers]]

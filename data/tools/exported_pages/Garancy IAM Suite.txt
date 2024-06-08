@@ -1,9 +1,0 @@
-=Description=
-<br>
-Garancy IAM Suite is a cloud-based solution that enables organizations to manage and secure their user identities and data. It provides a central platform for managing users, Their roles and permissions, and access to data and applications. The solution offers features such as user provisioning and administration, access control, Single Sign-On (SSO), and auditing and compliance. It also enables organizations to integrate their existing identity management systems with Garancy IAM Suite.
-<br>
-=More Information=
-<br>
-https://www.garancyiamsuite.com/
-[[Category:User Provisioning & Governance]]
-[[Category:Identity & Access Management (IAM)]]

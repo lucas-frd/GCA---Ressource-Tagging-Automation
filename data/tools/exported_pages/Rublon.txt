@@ -1,8 +1,0 @@
-=Description=
-<br>
-Rublon is a security tool that helps protect online accounts from being hacked. It does this by using two-factor authentication, which requires a user to have both a password and a physical device, like a smartphone, in order to log in. Rublon also offers a service that can help you recover a hacked account.
-<br>
-=More Information=
-<br>
-https://rublon.com/
-[[Category:Two-Factor & Multi-Factor Authentication]]

@@ -1,8 +1,0 @@
-=Description=
-<br>
-PixelPin is a secure login system that uses images instead of text passwords. It is more secure than traditional text-based passwords because it is much harder for someone to guess an image than a word. PixelPin is also more user-friendly than text-based passwords, because it is easier to remember an image than a string of letters and numbers. The system can be used with any internet-connected device that has a camera, such as a smartphone, tablet, or laptop.
-<br>
-=More Information=
-<br>
-https://www.pixelpin.com/
-[[Category:Two-Factor & Multi-Factor Authentication]]

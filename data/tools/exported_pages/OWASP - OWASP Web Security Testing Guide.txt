@@ -1,8 +1,0 @@
-=Description=
-<br>
-The OWASP Web Security Testing Guide is a guide for web security testing that covers the most common web security risks and how to test for them. The guide covers common issues such as cross-site scripting (XSS), SQL injection, and session hijacking, and provides detailed instructions on how to test for each. The guide also includes a section on tools and resources that can help with web security testing.
-<br>
-=More Information=
-<br>
-https://owasp.org/www-project-web-security-testing-guide/
-[[Category:Web Developers]]

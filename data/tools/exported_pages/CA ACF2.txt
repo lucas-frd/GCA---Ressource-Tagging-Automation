@@ -1,8 +1,0 @@
-=Description=
-<br>
-Developed by Computer Associates, CA-ACF2 is a security software product that helps organizations manage access to z/OS and other mainframe systems. It provides a comprehensive set of features for managing user identities, roles, and access permissions. CA-ACF2 also includes a powerful auditing and reporting tool that can help organizations track and monitor user activity.
-<br>
-=More Information=
-<br>
-https://ca.com/acf2/
-[[Category:Identity & Access Management (IAM)]]

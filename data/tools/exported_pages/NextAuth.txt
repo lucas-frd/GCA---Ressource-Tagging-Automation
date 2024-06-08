@@ -1,8 +1,0 @@
-=Description=
-<br>
-The tool nextAuth is a nextAuth library that helps developers to easily add authentication and authorization to their applications. It provides various features such as passwordless login, social login, OAuth 2.0, etc. Developers can use nextAuth to add authentication and authorization to their web applications, mobile applications, and single-page applications.
-<br>
-=More Information=
-<br>
-https://next-auth.js.org/
-[[Category:Two-Factor & Multi-Factor Authentication]]

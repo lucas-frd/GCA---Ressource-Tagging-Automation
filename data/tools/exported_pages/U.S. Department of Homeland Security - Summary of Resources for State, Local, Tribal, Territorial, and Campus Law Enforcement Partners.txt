@@ -1,8 +1,0 @@
-=Description=
-<br>
-The Office for State, Local, Tribal, Territorial, and Campus Law Enforcement (OSLLE) Partners is an organization within the U.S. Department of Homeland Security (DHS) that serves as a liaison between the DHS and various state, local, tribal, territorial, and campus law enforcement agencies. It is responsible for building relationships and coordinating efforts between these agencies and the DHS to enhance national security and homeland defense.
-<br>
-=More Information=
-<br>
-https://www.dhs.gov/sites/default/files/2022-04/22_0407_OSLLE_LE-resource-guide-signed_508.pdf
-[[Category:Data Security]]

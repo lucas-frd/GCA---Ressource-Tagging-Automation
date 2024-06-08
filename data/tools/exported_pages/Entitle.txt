@@ -1,8 +1,0 @@
-=Description=
-<br>
-Entitle is a tool that helps individuals and businesses manage their entitlements. It provides a central repository for tracking and managing entitlements, and enables users to control access to resources and manage permission levels. Entitle also includes a number of features to help users automate entitlement management, including the ability to create and manage rules, set expiration dates, and track changes.
-<br>
-=More Information=
-<br>
-https://www.entitle.com/
-[[Category:User Provisioning & Governance]]

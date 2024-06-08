@@ -1,8 +1,0 @@
-=Description=
-<br>
-OpenVPN is a SANS Institute sponsored project that provides a VPN service for free. It is based on the OpenVPN protocol and uses the OpenSSL library for encryption. The service is available for all major operating systems, including Windows, Mac OS X, Linux, and iOS.
-<br>
-=More Information=
-<br>
-https://openvpn.net/
-[[Category:VPN]]

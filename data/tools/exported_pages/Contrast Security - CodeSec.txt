@@ -1,9 +1,0 @@
-=Description=
-<br>
-Contrast Security is an application security platform that helps developers secure their code throughout the software development lifecycle. Contrast Security’s features include security risk analysis, application security testing, and vulnerability management. Contrast Security’s security risk analysis helps developers identify and prioritize security risks in their code. Contrast Security’s application security testing helps developers find and fix vulnerabilities in their code before it is deployed. Contrast Security’s vulnerability management helps developers track and manage vulnerabilities in their code over
-<br>
-=More Information=
-<br>
-https://www.contrastsecurity.com/developer
-[[Category:Security Testing & Auditing]]
-[[Category:Attack & Penetration Testing]]

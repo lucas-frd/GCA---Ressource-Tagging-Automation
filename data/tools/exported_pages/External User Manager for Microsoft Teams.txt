@@ -1,8 +1,0 @@
-=Description=
-<br>
-External User Manager for Microsoft Teams is a tool that allows administrators to manage external user access to Microsoft Teams. With this tool, administrators can add and remove external users from teams, as well as adjust their permissions. This tool also allows administrators to receive notifications when external users access teams, and to monitor external user activity.
-<br>
-=More Information=
-<br>
-https://www.microsoft.com/en-us/microsoft-365/blog/2022/03/01/external-user-management-for-microsoft-teams-now-generally-available/
-[[Category:User Provisioning & Governance]]

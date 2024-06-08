@@ -1,9 +1,0 @@
-=Description=
-<br>
-OpenSSH is a free and open-source networking tool that enables secure communications between devices over a computer network. It uses the Secure Shell (SSH) protocol to provide a secure connection between two devices. OpenSSH is typically used to access remote servers and devices, but it can also be used to securely transfer files between two devices. OpenSSH is available for all major operating systems, including Linux, Unix, and Windows.
-<br>
-=More Information=
-<br>
-https://www.openssh.com/
-[[Category:Secure Network Configuration]]
-[[Category:Servers]]

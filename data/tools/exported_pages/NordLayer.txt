@@ -1,8 +1,0 @@
-=Description=
-<br>
-NordLayer is a tool designed to help manage and monitor NordVPN servers. It is a web-based application that provides a dashboard for managing NordVPN server settings and performance. It also allows users to monitor server performance in real-time, and provides a variety of reports on server activity. NordLayer is designed to work with NordVPN's API, which allows it to automatically configure and update NordVPN servers. NordLayer is available in both a free and paid version. The paid version
-<br>
-=More Information=
-<br>
-https://nordlayer.com/
-[[Category:Identity & Access Management (IAM)]]

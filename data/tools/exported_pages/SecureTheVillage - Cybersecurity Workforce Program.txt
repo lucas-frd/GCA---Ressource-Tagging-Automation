@@ -1,8 +1,0 @@
-=Description=
-<br>
-SecureTheVillage's Cybersecurity Workforce Program helps organizations assess their cybersecurity workforce needs and develop plans to fill any gaps. The program includes an online tool that can be used to assess an organization's cybersecurity workforce needs and identify potential training and development opportunities. The program also provides guidance on how to develop and implement a cybersecurity workforce plan.
-<br>
-=More Information=
-<br>
-https://securethevillage.org/
-[[Category:Financial Institutions]]

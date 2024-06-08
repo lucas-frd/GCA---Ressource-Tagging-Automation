@@ -1,9 +1,0 @@
-=Description=
-<br>
-Large scale deployments (over 2000) IoT, Web, ICS and other honeypots (7 types) in over 90 countries worldwide. Presence in over 400 datacentre locations worldwide. Tracking new exploits and common vulnerabilities daily (currently over 200 total). Any org
-<br>
-=More Information=
-<br>
-https://www.shadowserver.org/what-we-do/network-reporting/get-reports
-[[Category:All Businesses]]
-[[Category:National CERTs]]

@@ -1,8 +1,0 @@
-=Description=
-<br>
-BastionZero is a cloud security tool that helps organizations secure their cloud infrastructure by providing a unified platform for managing and monitoring security threats. The tool includes a number of features that help organizations secure their cloud environment, including a security event viewer, security configuration management, and a security analytics engine. BastionZero also offers a number of integrations with other security tools, including vulnerability scanners and intrusion detection systems.
-<br>
-=More Information=
-<br>
-https://www.bastionzero.com/
-[[Category:User Provisioning & Governance]]

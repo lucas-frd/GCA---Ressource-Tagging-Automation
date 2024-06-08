@@ -1,8 +1,0 @@
-=Description=
-<br>
-The Forensics Examiner is a SANS Institute tool that helps organizations examine digital forensic evidence. The tool helps users identify and analyze digital forensic evidence, as well as understand the different types of evidence that can be collected. The Forensics Examiner also provides guidance on how to properly collect and preserve digital forensic evidence.
-<br>
-=More Information=
-<br>
-https://www.sans.org/tools/?per-page=100
-[[Category:Incident Reporting & Recovery]]

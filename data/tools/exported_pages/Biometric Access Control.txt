@@ -1,8 +1,0 @@
-=Description=
-<br>
-The Biometric Access Control tool is a software that allows users to control access to their computer using biometrics. The software uses fingerprint, iris, or voice recognition to identify users and grant them access to the computer. The software includes a variety of features that allow users to customize their experience, including the ability to set up multiple user accounts, assign permissions, and control access to specific applications. The software is designed to work with a variety of biometric devices, including fingerprint scanners,
-<br>
-=More Information=
-<br>
-https://www.biometricaccesscontrol.com/
-[[Category:Biometric]]

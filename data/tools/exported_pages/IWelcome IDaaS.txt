@@ -1,9 +1,0 @@
-=Description=
-<br>
-IWelcome IDaaS is an identity and access management platform that offers a variety of features to help organizations manage user identities and access to resources. It includes support for Single Sign-On (SSO), two-factor authentication, and role-based access control. It also provides a self-service portal for users to manage their own accounts and access to applications. IWelcome IDaaS is designed to work with a variety of applications and identity providers, and it includes a robust API for
-<br>
-=More Information=
-<br>
-https://www.iwelcome.com/
-[[Category:Single Sign-On (SSO)]]
-[[Category:Two-Factor & Multi-Factor Authentication]]

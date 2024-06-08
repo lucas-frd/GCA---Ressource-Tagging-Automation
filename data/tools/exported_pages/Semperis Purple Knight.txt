@@ -1,9 +1,0 @@
-=Description=
-<br>
-Semperis Purple Knight is an identity and access management solution that helps organizations secure their data and systems from external and internal threats. The software provides a unified platform for managing user identities, access control, and compliance. It offers a variety of features including Single Sign-On (SSO), Multi-Factor Authentication (MFA), and role-based access control (RBAC). Semperis Purple Knight is designed to work with on-premises, cloud, and hybrid environments. The
-<br>
-=More Information=
-<br>
-https://www.purple-knight.com/
-[[Category:Security Testing & Auditing]]
-[[Category:Attack & Penetration Testing]]

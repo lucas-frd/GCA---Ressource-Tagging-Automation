@@ -1,8 +1,0 @@
-=Description=
-<br>
-Microsoft Entra ID Governance is a tool that helps organizations govern their identity and access management (IAM) systems. It provides a centralized view of an organization's IAM system, and it helps organizations to identify and manage risk, ensure compliance, and optimize their IAM system.
-<br>
-=More Information=
-<br>
-https://www.microsoft.com/security/business/identity-and-access-management/governance/
-[[Category:User Provisioning & Governance]]

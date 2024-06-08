@@ -1,8 +1,0 @@
-=Description=
-<br>
-The Valydate tool is used to verify email addresses entered into a form. The user simply enters the email address into the form on the Valydate website, and the tool will verify that the address is valid and exists. This is a useful tool for ensuring that users enter valid email addresses when signing up for a website or online service.
-<br>
-=More Information=
-<br>
-https://valydate.com/
-[[Category:Two-Factor & Multi-Factor Authentication]]

@@ -1,8 +1,0 @@
-=Description=
-<br>
-10 Essential Steps to Improve Your Website Security is a resource provided by the IEEE Computer Society that focuses on providing guidance for improving the security of websites. The IEEE Computer Society is a leading global organization that promotes the advancements of technology and computer science through publications, conferences, and professional development opportunities.
-<br>
-=More Information=
-<br>
-https://www.computer.org/publications/tech-news/trends/10-essential-steps-to-improve-your-website-security
-[[Category:Website]]

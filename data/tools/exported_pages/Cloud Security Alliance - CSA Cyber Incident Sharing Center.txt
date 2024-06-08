@@ -1,8 +1,0 @@
-=Description=
-<br>
-The Cloud Security Alliance (CSA) is an international non-profit organization which promotes the use of best practices for providing security assurance within Cloud Computing. CSA’s Cyber Incident Sharing Center (CISC) is a platform which enables sharing of information related to cyber incidents, malware, and vulnerabilities. CISC is intended to help organizations improve their security posture and defend against cyber threats. CISC allows users to submit and view reports of incidents, search for incidents by keywords, and view
-<br>
-=More Information=
-<br>
-https://cloudsecurityalliance.org/membership/enterprises/
-[[Category:Threat & Vulnerability Management]]

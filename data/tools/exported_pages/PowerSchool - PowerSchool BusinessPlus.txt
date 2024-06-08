@@ -1,8 +1,0 @@
-=Description=
-<br>
-PowerSchool BusinessPlus is a payroll system designed to help organizations manage their finances and employee information. The tool provides a central hub for managing employee data, tracking payroll information, and generating reports. BusinessPlus also offers a self-service portal for employees to access their information and update their records. The system is designed to be highly customizable, so that organizations can tailor it to their specific needs.
-<br>
-=More Information=
-<br>
-https://www.powerschool.com/operations/payroll-finance-systems/businessplus/
-[[Category:Financial]]

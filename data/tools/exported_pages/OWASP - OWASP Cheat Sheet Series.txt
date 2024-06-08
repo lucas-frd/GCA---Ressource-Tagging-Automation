@@ -1,8 +1,0 @@
-=Description=
-<br>
-The OWASP Cheat Sheet Series is a set of documents that provide information on various topics related to web security. The series includes cheat sheets on topics such as SQL injection, cross-site scripting, and password management. The aim of the series is to provide concise, task-oriented information that can be used to improve the security of web applications.
-<br>
-=More Information=
-<br>
-https://owasp.org/www-project-cheat-sheets/
-[[Category:Developers and Development Organizations]]

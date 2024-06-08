@@ -1,8 +1,0 @@
-=Description=
-<br>
-Turn On Windows Defender Antivirus is resource that is focused on helping individuals and organizations protect their computers and data from cyber threats. It is a created and maintained by Consumer Reports, a non-profit organization that provides unbiased product reviews and consumer education. This resource is designed to help users enable and utilize the built-in Windows Defender antivirus software, which comes pre-installed on Windows operating systems.
-<br>
-=More Information=
-<br>
-https://securityplanner.consumerreports.org/tool/turn-on-windows-defender-antivirus
-[[Category:Device & Operating System Updates]]

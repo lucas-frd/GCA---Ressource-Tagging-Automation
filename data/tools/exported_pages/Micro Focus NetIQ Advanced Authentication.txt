@@ -1,8 +1,0 @@
-=Description=
-<br>
-Micro Focus NetIQ Advanced Authentication is an authentication and authorization solution that helps organizations secure their data and applications. It provides a comprehensive set of features for authenticating users, Managing user accounts, and Authorizing access to data and applications. It also includes a number of features for auditing and reporting on user activity.
-<br>
-=More Information=
-<br>
-https://www.microfocus.com/en-us/products/netiq/advanced-authentication/
-[[Category:Two-Factor & Multi-Factor Authentication]]

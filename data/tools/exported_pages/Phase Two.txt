@@ -1,8 +1,0 @@
-=Description=
-<br>
-Phase Two is a software development consultancy that partners with startups and established companies to create exceptional digital products. We help our clients turn their ideas into reality by providing strategic advice, user experience design, and engineering expertise. Our team of experienced professionals has a proven track record of delivering successful products to market. We’re headquartered in New York City, with offices in Boston and San Francisco.
-<br>
-=More Information=
-<br>
-https://www.phase2.com/
-[[Category:Two-Factor & Multi-Factor Authentication]]

@@ -1,8 +1,0 @@
-=Description=
-<br>
-The Omni Authentication tool is a multi-factor authentication tool that can be used to authenticate users on a variety of different platforms. It supports a variety of different authentication factors, including username and password, one-time password, and public key. It also supports a variety of different user experiences, including a web-based interface, a native mobile app, and a Command Line Interface. The Omni Authentication tool can be used to authenticate users on a variety of different platforms, including Windows,
-<br>
-=More Information=
-<br>
-https://www.omni-authentication.com/
-[[Category:Biometric]]

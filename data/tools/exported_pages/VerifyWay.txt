@@ -1,8 +1,0 @@
-=Description=
-<br>
-The VerifyWay tool is designed to help users verify the accuracy of their ways. The tool allows users to select a route and then enter the specific details of that route. The VerifyWay tool will then show the user a map of the route and allow them to verify the accuracy of the route. If the route is inaccurate, the tool will allow the user to suggest a new route. The VerifyWay tool is a valuable tool for users who want to ensure that their ways are accurate.
-<br>
-=More Information=
-<br>
-https://verifyway.com/
-[[Category:Two-Factor & Multi-Factor Authentication]]

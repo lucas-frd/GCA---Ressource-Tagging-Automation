@@ -1,8 +1,0 @@
-=Description=
-<br>
-Krontech Single Connect Two-Factor Authentication is an authentication tool that uses two-factor authentication to protect user accounts. It is designed for use with Krontech products, but can also be used with other products that support two-factor authentication. The tool allows users to authenticate using their Krontech account username and password, as well as a second factor such as a Krontech hardware token or a Krontech mobile app. The tool can be used to protect any number of user accounts,
-<br>
-=More Information=
-<br>
-https://www.krontech.com/single-connect-two-factor-authentication/
-[[Category:Two-Factor & Multi-Factor Authentication]]

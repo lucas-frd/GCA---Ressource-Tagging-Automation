@@ -1,8 +1,0 @@
-=Description=
-<br>
-1inch is an organization that aims to provide users with access to decentralized finance (DeFi) protocols and tokens through an advanced platform interface. They offer a wide variety of tools and services to help users navigate the DeFi space and make informed decisions when it comes to investing in DeFi tokens. One of their main priorities is to protect users from falling victim to DeFi scams by providing them with valuable information and tools.
-<br>
-=More Information=
-<br>
-https://help.1inch.io/en/articles/5363502-6-tools-to-identify-a-defi-scam-token
-[[Category:Malicious Tokens]]

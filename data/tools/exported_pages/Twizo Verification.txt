@@ -1,8 +1,0 @@
-=Description=
-<br>
-Twizo is a verification tool that allows you to verify the identity of a user. It works by sending a code to the user's phone number, which the user then enters into the Twizo website. Twizo then checks the code against a database of known codes, and if the code is valid, the user is verified. Twizo also allows you to set up a custom message that will be sent to the user's phone number, so that you can communicate with them directly.
-<br>
-=More Information=
-<br>
-https://www.twizo.com/twizo-verification/
-[[Category:Two-Factor & Multi-Factor Authentication]]

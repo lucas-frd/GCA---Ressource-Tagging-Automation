@@ -1,8 +1,0 @@
-=Description=
-<br>
-AuthGuard is a security tool that helps organizations keep their data and systems safe from unauthorized access. It does this by providing a centralized location for managing authentication and authorization, as well as a set of rules and policies that can be used to control access to data and systems. AuthGuard also provides tools for monitoring and auditing access, so that organizations can see who is accessing what, and when.
-<br>
-=More Information=
-<br>
-https://authguard.com/
-[[Category:Two-Factor & Multi-Factor Authentication]]

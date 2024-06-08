@@ -1,8 +1,0 @@
-=Description=
-<br>
-OWASP ModSecurity Core Rule Set is a free and open source web application firewall (WAF) rule set. It implementation is based on an open source web application firewall called ModSecurity. Core Rule Set provides protection against a variety of common attacks, such as SQL injection, cross-site scripting, and directory traversal. The project is led by a team of volunteer security experts from around the world.
-<br>
-=More Information=
-<br>
-https://owasp.org/www-project-modsecurity-core-rule-set/
-[[Category:Developers and Development Organizations]]

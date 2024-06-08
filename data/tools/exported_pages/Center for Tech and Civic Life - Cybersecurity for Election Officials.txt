@@ -1,8 +1,0 @@
-=Description=
-<br>
-Cybersecurity for Election Officials is a learning tool developed by the Center for Tech and Civic Life that helps election officials understand and mitigate risks related to cybersecurity. The tool includes information on identifying potential threats, protecting election infrastructure, and responding to incidents. It is designed to be used by both technical and non-technical staff, and can be customized to the needs of each jurisdiction.
-<br>
-=More Information=
-<br>
-https://www.techandciviclife.org/course/cybersecurity/
-[[Category:Election Officials & Organzations]]

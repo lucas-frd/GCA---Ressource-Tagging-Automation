@@ -1,8 +1,0 @@
-=Description=
-<br>
-The tool Security Awareness is a service provided by Crypto.com that helps users learn about and keep up to date with security threats. The service provides a variety of resources, including articles, videos, and presentations, that cover topics such as online security, identity theft, and phishing scams. The service also offers a monthly newsletter that highlights new security threats and tips for staying safe online.
-<br>
-=More Information=
-<br>
-https://help.crypto.com/en/articles/5123005-all-about-security-awareness
-[[Category:CEX Best Practices]]

@@ -1,8 +1,0 @@
-=Description=
-<br>
-The Malicious Domain Blocking and Reporting (MDBR) service is a free, automated, and real-time service designed to protect organizations from malicious domains and websites. This service is made possible by a partnership between the Center for Internet Security (CIS) and Winston-Salem State University (WSSU). The MDBR service uses a combination of domain blacklisting, domain monitoring, and domain reputation analysis to protect organizations from malicious domains and websites. This service is updated daily
-<br>
-=More Information=
-<br>
-https://www.cisecurity.org/ms-isac/services/mdbr
-[[Category:DNS]]

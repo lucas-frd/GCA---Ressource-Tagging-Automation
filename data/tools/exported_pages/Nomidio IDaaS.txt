@@ -1,8 +1,0 @@
-=Description=
-<br>
-Nomidio is an identity and access management platform that helps organisations to manage user identities and access to resources. It provides a centralised platform for managing user identities, passwords, and access to applications and resources. Nomidio also provides Single Sign-On (SSO) capabilities, which allow users to access multiple applications with a single set of credentials. The platform is designed to help organisations to comply with regulatory requirements such as the General Data Protection Regulation (GDPR).
-<br>
-=More Information=
-<br>
-https://www.nomidio.com/
-[[Category:Two-Factor & Multi-Factor Authentication]]

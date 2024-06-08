@@ -1,8 +1,0 @@
-=Description=
-<br>
-Core Security Access Assurance Suite is a centralized solution that provides comprehensive visibility and control over access to critical data and systems. It includes a range of modules that can be deployed according to an organization's needs, including user provisioning, identity and access management, authentication, authorization, and auditing. The suite also includes a centralized administration console and a reporting engine to help organizations track and monitor access to their systems and data.
-<br>
-=More Information=
-<br>
-https://www.coresecurity.com/access-assurance-suite/
-[[Category:Identity & Access Management (IAM)]]

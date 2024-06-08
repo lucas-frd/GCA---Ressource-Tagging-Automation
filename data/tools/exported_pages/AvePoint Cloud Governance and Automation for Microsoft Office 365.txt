@@ -1,8 +1,0 @@
-=Description=
-<br>
-AvePoint Cloud Governance and Automation for Microsoft Office 365 is a suite of tools designed to help organizations manage and automate their Office 365 deployments. The suite includes tools for managing user permissions, analyzing usage data, and generating reports. It also includes a set of tools for automating tasks such as provisioning new users and creating and managing Office 365 Groups.
-<br>
-=More Information=
-<br>
-https://www.avepoint.com/
-[[Category:User Provisioning & Governance]]

@@ -1,8 +1,0 @@
-=Description=
-<br>
-CzechIDM is a web-based identity management system that enables users to manage their identities and access to resources in a secure, streamlined way. It is built on top of the open-source Apache Shiro framework and provides a number of features that make it suitable for use in enterprise environments, such as LDAP integration, Single Sign-On, and auditing.
-<br>
-=More Information=
-<br>
-https://www.czechidm.org/
-[[Category:User Provisioning & Governance]]

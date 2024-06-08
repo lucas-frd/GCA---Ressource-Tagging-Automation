@@ -1,8 +1,0 @@
-=Description=
-<br>
-The OWASP Security Knowledge Framework (SKF) is a free and open source tool that helps organizations create and maintain a comprehensive security program. The SKF includes a security policy template, a security baseline, security controls, and guidance on how to implement a security program. The SKF is designed to be flexible and easily adaptable to the specific needs of an organization.
-<br>
-=More Information=
-<br>
-https://owasp.org/www-project-security-knowledge-framework/
-[[Category:Developers and Development Organizations]]

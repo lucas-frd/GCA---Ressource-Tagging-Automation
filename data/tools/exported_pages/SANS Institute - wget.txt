@@ -1,8 +1,0 @@
-=Description=
-<br>
-The tool wget is a web downloading tool that can be used to download files from the internet. It is a command line tool that can be used to download files from a web server. It can be used to download files from a website or an FTP server. It can be used to download files from a website that requires a login. It can also be used to download files from a website that is password protected.
-<br>
-=More Information=
-<br>
-https://www.gnu.org/software/wget/
-[[Category:Secure Interactions]]

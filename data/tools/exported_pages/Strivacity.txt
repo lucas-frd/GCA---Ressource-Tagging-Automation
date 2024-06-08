@@ -1,8 +1,0 @@
-=Description=
-<br>
-Strivacity is a tool that helps entrepreneurs, small business owners, and solopreneurs overcome Imposter Syndrome and self-doubt. The Strivacity platform provides users with access to a community of like-minded individuals, expert mentors, and educational resources. The goal of Strivacity is to help users overcome self-doubt and build the confidence needed to achieve their personal and professional goals.
-<br>
-=More Information=
-<br>
-https://www.strivacity.com/
-[[Category:Two-Factor & Multi-Factor Authentication]]

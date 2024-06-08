@@ -1,8 +1,0 @@
-=Description=
-<br>
-PingDataGovernance is a data governance tool that enables organizations to discover, classify, and govern data. It provides a centralized view of an organization's data and metadata, and enables users to identify and track sensitive data, understand relationships between data, and manage data security and compliance. PingDataGovernance offers a variety of features to help organizations govern their data, including data discovery, classification, and security; data lifecycle management; and reporting and auditing. It also integrates with Ping Identity
-<br>
-=More Information=
-<br>
-https://www.pingidentity.com/products/pingdatagovernance/
-[[Category:Two-Factor & Multi-Factor Authentication]]

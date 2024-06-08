@@ -1,8 +1,0 @@
-=Description=
-<br>
-ValidSoft VIP Voice Identity Platform is a service that uses voice biometrics to verify the identity of a person over the phone. It can be used for authentication or fraud prevention purposes. The platform is capable of spoof detection, which can help to prevent fraudsters from using stolen or recordings of someone's voice to gain access to sensitive information. The platform is also able to adapt to different accents and to different types of background noise, making it more accurate than other voice biometric solutions.
-<br>
-=More Information=
-<br>
-https://www.validsoft.com/products/validsofts-vip-voice-identity-platform/
-[[Category:Biometric]]

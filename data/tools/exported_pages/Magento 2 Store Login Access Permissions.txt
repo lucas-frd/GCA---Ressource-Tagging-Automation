@@ -1,8 +1,0 @@
-=Description=
-<br>
-Magento 2 Store Login Access Permissions is a Magento 2 extension that allows you to manage access permissions to your store for different customer groups. With this extension, you can easily set up different access levels for different customer groups, and control who can access what areas of your store. This extension is perfect for stores that need to restrict access to certain areas, or for stores that want to offer different levels of access to different customer groups.
-<br>
-=More Information=
-<br>
-https://magento.com/2/
-[[Category:User Provisioning & Governance]]

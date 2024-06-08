@@ -1,8 +1,0 @@
-=Description=
-<br>
-Harpie Crypto Firewall is a cybersecurity tool that delivers advanced wallet security to protect your crypto from hacks and scams. Harpie monitors for risks, blocks detected threats, and recovers your stolen assetsall in real time.
-<br>
-=More Information=
-<br>
-https://harpie.io/
-[[Category:Cryptocurrency Wallet Risk Intelligence and Management]]

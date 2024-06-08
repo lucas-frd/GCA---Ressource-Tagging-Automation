@@ -1,8 +1,0 @@
-=Description=
-<br>
-Imprivata OneSign is an authentication and access management tool that enables enterprise single sign-on (SSO) and simplifies user access to applications, devices, and data. The tool can be deployed on-premises or in the cloud, and includes built-in connectors for popular enterprise applications. OneSign provides a high level of security by authenticating users with a variety of methods, including passwords, biometrics, and smart cards. The tool also supports role-based access
-<br>
-=More Information=
-<br>
-https://www.imprivata.com/products/onesign/
-[[Category:Single Sign-On (SSO)]]

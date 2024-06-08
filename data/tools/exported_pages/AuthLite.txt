@@ -1,8 +1,0 @@
-=Description=
-<br>
-AuthLite is a software tool that helps organizations to manage authentication and authorization processes. It provides a centralized platform for managing users, passwords, and other credentials. It also allows administrators to enforce policies and controls over how users access information and resources. AuthLite integrates with existing directory services such as Active Directory and LDAP. It supports multiple factor authentication including fingerprint, iris, and 2FA tokens. AuthLite is available in both on-premises and cloud-based deployments.
-<br>
-=More Information=
-<br>
-https://authlite.com/
-[[Category:Two-Factor & Multi-Factor Authentication]]

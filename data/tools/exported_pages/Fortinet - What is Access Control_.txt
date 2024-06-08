@@ -1,8 +1,0 @@
-=Description=
-<br>
-Fortinet is a global, leading cybersecurity company that offers innovative solutions for a wide range of industries and organizations. The company was founded in 2000 and is headquartered in Sunnyvale, California. With over 5,000 employees and presence in over 200 countries, Fortinet is a trusted partner for businesses of all sizes, including government agencies, financial institutions, healthcare organizations, and more.
-<br>
-=More Information=
-<br>
-https://www.fortinet.com/resources/cyberglossary/access-control
-[[Category:Access Control]]

@@ -1,8 +1,0 @@
-=Description=
-<br>
-WhatsAuth is a tool designed to help users better understand and manage their WhatsApp account. The tool provides users with a list of WhatsApp features and allows them to choose which ones they want to use. The tool also allows users to see who is using their WhatsApp account and to manage their contact lists. WhatsAuth is a valuable tool for users who want to keep their WhatsApp account private and secure.
-<br>
-=More Information=
-<br>
-https://www.whatsauth.com/
-[[Category:Two-Factor & Multi-Factor Authentication]]

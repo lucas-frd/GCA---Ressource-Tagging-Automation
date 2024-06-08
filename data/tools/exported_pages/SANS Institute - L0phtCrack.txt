@@ -1,9 +1,0 @@
-=Description=
-<br>
-L0phtCrack is a password recovery tool that is used to recover lost or forgotten passwords for Windows operating systems. The tool uses a variety of methods to crack passwords, including dictionary attacks, brute force attacks, and rainbow table attacks. L0phtCrack is a powerful tool that can be used to recover passwords for accounts that have been lost or forgotten.
-<br>
-=More Information=
-<br>
-https://www.sans.org/tools/?per-page=100
-[[Category:Security Testing & Auditing]]
-[[Category:Attack & Penetration Testing]]

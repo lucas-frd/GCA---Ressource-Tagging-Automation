@@ -1,8 +1,0 @@
-=Description=
-<br>
-The SecZetta Identity Consolidation Solution is a consolidated solution that helps organizations manage and monitor privileged access across all environments. It provides a centralized repository for all identity data, making it easy to review and authorize access. The solution also includes a built-in workflow engine that automates the process of requesting and approving access.
-<br>
-=More Information=
-<br>
-https://www.sec-zetta.com/
-[[Category:User Provisioning & Governance]]

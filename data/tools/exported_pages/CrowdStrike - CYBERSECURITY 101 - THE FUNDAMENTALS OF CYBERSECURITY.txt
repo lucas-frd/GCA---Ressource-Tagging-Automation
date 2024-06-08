@@ -1,9 +1,0 @@
-=Description=
-<br>
-CrowdStrike's Cybersecurity 101: The Fundamentals of Cybersecurity is an online resource that covers the basics of cybersecurity. The site includes articles on topics such as email security, passwords, and two-factor authentication. There is also a glossary of terms, a FAQ section, and a resources section with links to further reading.
-<br>
-=More Information=
-<br>
-https://www.crowdstrike.com/cybersecurity-101/
-[[Category:Security Awareness & Training]]
-[[Category:Risk Reduction]]

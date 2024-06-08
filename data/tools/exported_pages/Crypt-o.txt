@@ -1,8 +1,0 @@
-=Description=
-<br>
-Crypt-o is a cryptographic tool that provides a range of features for encrypting and decrypting data. It allows users to create and manage their own keys, as well as to set up and use public-key infrastructure. Crypt-o also supports a range of algorithms, including RSA, DES, and AES.
-<br>
-=More Information=
-<br>
-https://crypt-o.com/
-[[Category:Password Managers]]

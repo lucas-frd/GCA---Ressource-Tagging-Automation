@@ -1,8 +1,0 @@
-=Description=
-<br>
-Single Connect is a tool that allows users to connect with single professionals in their area. It is a simple and easy to use tool that helps users find and connect with potential matches. The tool has a search function that allows users to search for single professionals by location, age, and interests. Once a user finds a potential match, they can send a message or request to connect.
-<br>
-=More Information=
-<br>
-https://www.singleconnect.com/
-[[Category:Single Sign-On (SSO)]]

@@ -1,8 +1,0 @@
-=Description=
-<br>
-STIX Shifter is a tool developed by the Open Cybersecurity Alliance (OCSA) that allows users to easily convert between different security information formats. It is designed to be simple to use, allowing users to select a input and output format and then drag-and-drop files to be converted. STIX Shifter also includes a number of built-in conversion rules to help ensure accuracy and consistency.
-<br>
-=More Information=
-<br>
-https://opencybersecurityalliance.org/
-[[Category:Small & Medium Sized Businesses]]

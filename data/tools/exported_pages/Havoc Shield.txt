@@ -1,8 +1,0 @@
-=Description=
-<br>
-Havoc Shield is a tool that can be used to protect your computer from malware. It is a free program that can be downloaded and installed on your computer. Once installed, Havoc Shield will scan your computer for malware and remove any that it finds.
-<br>
-=More Information=
-<br>
-https://havocshield.com/
-[[Category:Password Managers]]

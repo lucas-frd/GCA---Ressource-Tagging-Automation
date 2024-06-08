@@ -1,8 +1,0 @@
-=Description=
-<br>
-The Peabody Police Department organization is responsible for enforcing laws, preventing crime, and maintaining order in the city of Peabody, with a specific unit dedicated to investigating and preventing computer-related crimes.
-<br>
-=More Information=
-<br>
-http://peabodypd.org/computercrimeunit/
-[[Category:Massachusetts]]

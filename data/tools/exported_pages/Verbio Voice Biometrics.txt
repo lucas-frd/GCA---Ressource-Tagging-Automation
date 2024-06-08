@@ -1,8 +1,0 @@
-=Description=
-<br>
-The tool Verbio Voice Biometrics is a system that uses voice recognition technology to identify individuals. The system is designed to work with a variety of languages and can be used to verify the identity of a person over the phone or through a computer. The system is also able to store a person's voiceprint and can be used to track their movements.
-<br>
-=More Information=
-<br>
-https://www.verbio.net/products/verbio-voice-biometrics/
-[[Category:Biometric]]

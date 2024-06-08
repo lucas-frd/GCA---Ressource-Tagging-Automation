@@ -1,8 +1,0 @@
-=Description=
-<br>
-Google Safe Browsing is a service that helps keep users safe from harmful websites. The service uses a blacklist of known malicious websites, and when a user tries to access one of these websites, they are shown a warning page. The service also checks websites against a whitelist of known safe sites, and if a website is not on the whitelist, it is subjected to further analysis. If the website is found to be safe, it is added to the whitelist. If it is
-<br>
-=More Information=
-<br>
-https://safebrowsing.google.com/
-[[Category:Anti-virus & Anti-malware Software]]

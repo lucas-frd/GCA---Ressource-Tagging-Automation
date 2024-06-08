@@ -1,8 +1,0 @@
-=Description=
-<br>
-DoubleClue is a security platform that helps organizations to protect their online identities. It does this by providing a suite of tools to help organizations manage and monitor their online identities, as well as providing a community of users who can share information and best practices. DoubleClue also offers a variety of other security-related services, such as malware removal and security audits.
-<br>
-=More Information=
-<br>
-https://www.doubleclue.com/
-[[Category:Password Managers]]

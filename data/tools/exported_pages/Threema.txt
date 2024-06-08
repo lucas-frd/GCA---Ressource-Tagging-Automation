@@ -1,8 +1,0 @@
-=Description=
-<br>
-Threema is a Swiss-based organization founded in 2012 that offers a secure messaging and communication platform. The organization is built on the core values of privacy, security, and transparency, with a mission to provide a safe and private way for people to communicate digitally.
-<br>
-=More Information=
-<br>
-https://threema.ch/en
-[[Category:Messaging apps]]

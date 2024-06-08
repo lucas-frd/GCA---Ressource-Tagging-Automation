@@ -1,8 +1,0 @@
-=Description=
-<br>
-Symantec Identity Governance and Administration (IGA) is a comprehensive identity management solution that helps organizations effectively govern the access and use of critical resources across the enterprise. It provides a centralized platform for managing user identities, roles, and entitlements, as well as providing real-time visibility into who has access to what. IGA also helps organizations meet compliance requirements by providing detailed audit logs and reports.
-<br>
-=More Information=
-<br>
-https://www.broadcom.com/products/symantec-enterprise-security/identity-access-management/symantec-identity-governance-and-administration
-[[Category:User Provisioning & Governance]]

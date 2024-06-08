@@ -1,8 +1,0 @@
-=Description=
-<br>
-Dependency-Track is a tool that helps organizations track and manage software dependencies. It can be used to identify which dependencies are used by which applications, and to track the security vulnerabilities associated with those dependencies. Dependency-Track can also be used to monitor the health of dependencies, and to identify which dependencies are no longer being used by an organization.
-<br>
-=More Information=
-<br>
-https://owasp.org/www-project-dependency-track/
-[[Category:Developers and Development Organizations]]

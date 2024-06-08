@@ -1,9 +1,0 @@
-=Description=
-<br>
-W3af is a Web Application Attack and Audit Framework. It is designed to help developers and penetration testers find and exploit vulnerabilities in web applications. The tool is written in Python and includes a graphical user interface as well as a command line interface. The tool can be used to find vulnerabilities such as SQL injection, cross-site scripting, and path traversal. The tool can also be used to audit web applications for security issues.
-<br>
-=More Information=
-<br>
-http://w3af.org/
-[[Category:Security Testing & Auditing]]
-[[Category:Attack & Penetration Testing]]

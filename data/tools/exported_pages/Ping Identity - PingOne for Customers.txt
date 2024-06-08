@@ -1,8 +1,0 @@
-=Description=
-<br>
-PingOne is a cloud identity management service that provides single sign-on and access management for cloud applications. PingOne for Customers supports web and mobile applications and uses SAML 2.0, WS-Federation, and OAuth 2.0 for authentication and authorization. The service includes a self-service portal for end users, an administration console for IT staff, and an API for developers.
-<br>
-=More Information=
-<br>
-https://www.pingidentity.com/products/pingone/for-customers/
-[[Category:User Provisioning & Governance]]

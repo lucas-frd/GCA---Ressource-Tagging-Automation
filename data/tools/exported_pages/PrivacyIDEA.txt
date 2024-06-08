@@ -1,8 +1,0 @@
-=Description=
-<br>
-privacyIDEA is an open source multi-factor authentication solution that can be used to securely identify users and devices. It can be used to replace or supplement traditional password-based authentication methods, and supports a variety of different authentication factors including OTP tokens, smart cards, and biometrics. privacyIDEA is highly scalable and can be deployed on-premises or in the cloud. It is also interoperable with a wide range of third-party applications and services.
-<br>
-=More Information=
-<br>
-https://www.privacyidea.org/
-[[Category:Two-Factor & Multi-Factor Authentication]]

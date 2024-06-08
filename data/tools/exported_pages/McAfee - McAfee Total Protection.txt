@@ -1,8 +1,0 @@
-=Description=
-<br>
-McAfee Total Protection is an antivirus and online security software suite created by McAfee. It provides protection from viruses, malware, and online threats, and includes features like a firewall, web filtering, and identity theft protection. McAfee Total Protection is available for both Windows and Mac, and can be purchased as a standalone product or as part of a McAfee security suite.
-<br>
-=More Information=
-<br>
-https://www.mcafee.com/en-us/antivirus/mcafee-total-protection.html
-[[Category:Anti-virus & Anti-malware Software]]

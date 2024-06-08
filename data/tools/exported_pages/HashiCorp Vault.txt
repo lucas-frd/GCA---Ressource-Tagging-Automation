@@ -1,8 +1,0 @@
-=Description=
-<br>
-HashiCorp's Vault is a tool for managing secrets, such as passwords, API keys, and certificates. Vault provides a secure, centralised store for secrets, and can be used to generate and revoke secrets on-demand. Vault is designed to be highly scalable and can be used to manage secrets for thousands of users.
-<br>
-=More Information=
-<br>
-https://www.hashicorp.com/vault/
-[[Category:Password Managers]]

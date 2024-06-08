@@ -1,8 +1,0 @@
-=Description=
-<br>
-Amazon Cognito is a user authentication and data synchronization service that helps you securely manage and synchronize user data across devices and applications. With Amazon Cognito, you can easily add user sign-up and sign-in to your mobile and web apps. Amazon Cognito also enables you to save data locally on devices, allowing your applications to work even when offline. You can then synchronize data across devices, so that user data is always up to date. Amazon Cognito scales to millions of
-<br>
-=More Information=
-<br>
-https://www.oracle.com/security/identity-and-access-management/
-[[Category:Single Sign-On (SSO)]]

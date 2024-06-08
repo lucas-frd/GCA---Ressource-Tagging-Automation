@@ -1,8 +1,0 @@
-=Description=
-<br>
-The Metasploit Framework is an open-source toolkit for developing and executing exploit code. The framework is used by network security professionals to test the security of network systems and applications. The Metasploit Framework can be used to launch attacks against systems and applications, and to conduct security research. The Metasploit Framework is also used by ethical hackers, in order to test the security of systems and identify vulnerabilities. The Metasploit Framework is written in the Ruby programming
-<br>
-=More Information=
-<br>
-https://www.rapid7.com/products/metasploit/
-[[Category:Attack & Penetration Testing]]

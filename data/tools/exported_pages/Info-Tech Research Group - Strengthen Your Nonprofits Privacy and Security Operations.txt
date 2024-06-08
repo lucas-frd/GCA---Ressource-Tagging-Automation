@@ -1,8 +1,0 @@
-=Description=
-<br>
-The Info-Tech Research Group's Strengthen Your Nonprofit's Privacy and Security Operations guide helps nonprofit organizations to develop and implement better privacy and security policies and procedures. The guide includes a privacy and security policy template, as well as checklists for data security, incident response, and end-user education. It also provides an overview of common privacy and security risks faced by nonprofits, and offers advice on how to mitigate these risks.
-<br>
-=More Information=
-<br>
-https://www.infotech.com/research/ss/strengthen-your-nonprofit-s-privacy-and-security-operations
-[[Category:Nonprofits & Charities]]

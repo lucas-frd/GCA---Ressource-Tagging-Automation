@@ -1,9 +1,0 @@
-=Description=
-<br>
-This tool, called SSL Server Test, is a free online service that offers a comprehensive analysis of the configuration of any SSL web server on the public Internet. By submitting the hostname of a server, users can obtain detailed information about its SSL configuration. It is important to note that the information provided during the analysis is solely used to generate the results and is not stored or utilized for any other purpose. The tool ensures the privacy and security of the submitted data. The SSL Server Test provides a rating system to evaluate the server's SSL configuration. The ratings range from A+ (the highest) to F (the lowest), indicating the level of security and compliance with industry standards. Additionally, the tool displays the recent best and worst ratings, allowing users to compare the server's performance over time. The SSL Report version 2.1.10 is the latest iteration of this tool, which has been continuously developed since 2009. It is copyrighted and all rights are reserved. In addition to the SSL Server Test, the website offers an award-winning collection of other tools and solutions. These resources aim to provide users with a comprehensive suite of services to enhance their online security and optimize their web server configurations. Overall, the SSL Server Test is a valuable resource for individuals and organizations seeking to assess the security and effectiveness of their SSL web server configurations.
-<br>
-=More Information=
-<br>
-https://www.ssllabs.com/ssltest/
-[[Category:Security Testing & Auditing]]
-[[Category:Servers]]

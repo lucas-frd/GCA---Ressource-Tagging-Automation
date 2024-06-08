@@ -1,8 +1,0 @@
-=Description=
-<br>
-PlusIdentity is a tool that allows businesses to manage, track, and secure their online identities. The tool provides a single login for all of your business’s online accounts, making it easy to keep track of your passwords and reduce the risk of identity theft. PlusIdentity also provides two-factor authentication and encryption to help keep your business’s online information safe and secure.
-<br>
-=More Information=
-<br>
-https://www.plusidentity.com/
-[[Category:Password Managers]]

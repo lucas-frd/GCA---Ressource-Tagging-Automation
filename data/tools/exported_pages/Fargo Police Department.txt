@@ -1,8 +1,0 @@
-=Description=
-<br>
-The Fargo Police Department is responsible for investigating property crimes within the city.
-<br>
-=More Information=
-<br>
-https://fargond.gov/city-government/departments/police/police-work/investigations/property-crimes
-[[Category:North Dakota]]

@@ -1,8 +1,0 @@
-=Description=
-<br>
-Crowd is a user management tool for businesses and organizations. It provides a centralized location for users to login and access the applications and data they need. Crowd also allows administrators to control user access and permissions, as well as track activity and monitor performance.
-<br>
-=More Information=
-<br>
-https://www.atlassian.com/software/crowd
-[[Category:Single Sign-On (SSO)]]

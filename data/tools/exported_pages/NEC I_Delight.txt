@@ -1,8 +1,0 @@
-=Description=
-<br>
-NEC I:Delight is a face recognition tool that can be used for various purposes such as security, marketing, or customer service. The tool uses an infrared sensor to capture an image of a person's face, which is then compared to a database of images to find a match. If a match is found, the tool can provide information about the person such as their name, age, gender, etc. The tool can also be used to track the movement of people through an area
-<br>
-=More Information=
-<br>
-https://www.nec.com/en/global/solutions/face-recognition/index.html
-[[Category:Biometric]]

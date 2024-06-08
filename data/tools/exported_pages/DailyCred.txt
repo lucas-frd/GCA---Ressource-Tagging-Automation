@@ -1,8 +1,0 @@
-=Description=
-<br>
-DailyCred is a tool that helps you manage your passwords and login information. It allows you to store your passwords in a secure location, and provides you with tools to generate strong passwords and manage your login information. It also includes a password recovery feature in case you forget your password.
-<br>
-=More Information=
-<br>
-https://dailycred.com/
-[[Category:Two-Factor & Multi-Factor Authentication]]

@@ -1,8 +1,0 @@
-=Description=
-<br>
-The Toolkit's Incident Response Plan (IRP) is designed to help an organization respond to a cyber incident. The IRP provides a step-by-step guide for an organization to follow in the event of a cyber incident, from initial detection through post-incident recovery. The IRP is divided into five phases: (1) Preparation, (2) Detection and Analysis, (3) Containment and Eradication, (4) Recovery, and (5)
-<br>
-=More Information=
-<br>
-https://cyberreadinessinstitute.org/
-[[Category:Small & Medium Sized Businesses]]

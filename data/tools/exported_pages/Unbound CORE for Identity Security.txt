@@ -1,8 +1,0 @@
-=Description=
-<br>
-Unbound CORE is a next-generation identity security solution that helps organizations eliminate the risk of identity-related breaches. By combining the power of artificial intelligence with the latest in security research, Unbound CORE provides a comprehensive solution for protecting identities across the enterprise. With Unbound CORE, organizations can centrally manage all their identities, quickly and easily identify vulnerabilities, and prevent attacks before they happen.
-<br>
-=More Information=
-<br>
-https://unboundsec.com/core/
-[[Category:Two-Factor & Multi-Factor Authentication]]

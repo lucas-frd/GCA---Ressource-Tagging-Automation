@@ -1,8 +1,0 @@
-=Description=
-<br>
-Teamstack is a team management tool that allows users to create and manage teams, as well as track their progress and performance. It provides a central place for team members to communicate and collaborate, and makes it easy to keep track of tasks and deadlines. Teamstack also offers a number of features to help teams work more efficiently, such as project and task templates, team performance tracking, and a team marketplace.
-<br>
-=More Information=
-<br>
-https://www.teamstack.com/
-[[Category:Identity & Access Management (IAM)]]

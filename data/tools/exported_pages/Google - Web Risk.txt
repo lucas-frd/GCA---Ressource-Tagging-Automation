@@ -1,9 +1,0 @@
-=Description=
-<br>
-Web Risk is a Google tool that helps webmasters and site owners assess the risk of their site being hacked. It does this by analyzing the site's code and looking for vulnerabilities that could be exploited by hackers. It then gives the site a risk score, based on the severity of the vulnerabilities it finds.
-<br>
-=More Information=
-<br>
-https://cloud.google.com/web-risk
-[[Category:Website]]
-[[Category:Secure Interactions]]

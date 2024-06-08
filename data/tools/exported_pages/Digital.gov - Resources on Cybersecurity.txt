@@ -1,8 +1,0 @@
-=Description=
-<br>
-Digital.gov is a government website that serves as a resource hub for information and best practices on security in the digital space. As a part of Digital.gov, the Resources on Cybersecurity section is dedicated to providing insights, tools, and resources related to cybersecurity for government agencies and their partners. The organization is actively involved in promoting cybersecurity awareness and education, fostering collaboration among federal agencies, and supporting the implementation of security measures to protect government systems, networks, and data.
-<br>
-=More Information=
-<br>
-https://digital.gov/topics/security/
-[[Category:Data Security]]

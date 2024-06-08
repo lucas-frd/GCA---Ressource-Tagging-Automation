@@ -1,8 +1,0 @@
-=Description=
-<br>
-CrowdStrike's Falcon Cloud Security Posture Management (CSPM) is a comprehensive and innovative cloud security solution that helps organizations monitor, manage, and secure their cloud infrastructure. This organization is based on the concept of Continuous Security and Auditing for Cloud Environments (CSAFE), which combines the functionality of vulnerability management, compliance, and configuration management into one platform. Falcon CSPM utilizes artificial intelligence (AI) and machine learning (ML) technologies to provide real-time visibility and protection for cloud
-<br>
-=More Information=
-<br>
-https://www.crowdstrike.com/products/cloud-security/
-[[Category:Cloud Security]]

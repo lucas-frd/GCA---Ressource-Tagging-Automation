@@ -1,8 +1,0 @@
-=Description=
-<br>
-The World Economic Forum (WEF) is a nonprofit organization based in Switzerland that brings together leaders from various sectors, including government, business, academia, and civil society, to collaborate and find solutions to global issues. In recent years, the WEF has been closely examining the potential implementation of central bank digital currencies (CBDCs) and the associated cybersecurity risks and threats that may arise.
-<br>
-=More Information=
-<br>
-https://www.weforum.org/agenda/2021/11/4-key-threats-central-bank-digital-currencies/
-[[Category:Additional Tips for Secure Digital Currency Use]]

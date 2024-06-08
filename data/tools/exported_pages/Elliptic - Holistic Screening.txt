@@ -1,8 +1,0 @@
-=Description=
-<br>
-Elliptic's Holistic Screening solution enables crypto businesses to screen blockchain transactions for risk in real time. The solution screens for a wide range of risks, including financial crime, sanctions violations, and fraud. The solution also provides businesses with the ability to monitor and investigate suspicious activity on the blockchain.
-<br>
-=More Information=
-<br>
-https://www.elliptic.co/solutions/holistic
-[[Category:Crypto Compliance]]

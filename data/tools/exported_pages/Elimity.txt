@@ -1,8 +1,0 @@
-=Description=
-<br>
-Elimity is an online tool that helps organizations to improve their discrimination and harassment prevention compliance. The tool consists of a library of customizable policies and procedures, as well as a set of online training modules. Elimity also offers a consulting service to help organizations assess their compliance risks and develop action plans to address those risks.
-<br>
-=More Information=
-<br>
-https://www.elimity.com/
-[[Category:Identity & Access Management (IAM)]]

@@ -1,8 +1,0 @@
-=Description=
-<br>
-WhatsApp is a popular messaging and communication platform that was founded in 2009 by Brian Acton and Jan Koum. It is based in Santa Clara, California and has now become a subsidiary of Facebook Inc. WhatsApp's mission is to provide a simple, secure, and reliable means of communication for people all over the world.
-<br>
-=More Information=
-<br>
-https://www.whatsapp.com/
-[[Category:Messaging apps]]

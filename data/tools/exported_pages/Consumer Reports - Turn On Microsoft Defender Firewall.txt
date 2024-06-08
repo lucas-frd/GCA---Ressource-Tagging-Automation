@@ -1,8 +1,0 @@
-=Description=
-<br>
-Turn On Microsoft Defender Firewall is a resource provided by Consumer Reports, a trusted source of unbiased product reviews and consumer advocacy. The organization's main goal is to educate and empower individuals and organizations to protect themselves against cyber threats by utilizing the built-in security features in Microsoft products.
-<br>
-=More Information=
-<br>
-https://securityplanner.consumerreports.org/tool/turn-on-microsoft-defender-firewall
-[[Category:Sensitive Data]]

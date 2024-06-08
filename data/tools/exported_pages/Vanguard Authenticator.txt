@@ -1,8 +1,0 @@
-=Description=
-<br>
-Vanguard Authenticator is a multi-factor authentication tool that allows organizations to secure their online systems and data. It uses a variety of factors to verify the identity of users, including something they know (such as a password or PIN), something they have (such as a phone or security token), and something they are (such as a fingerprint or iris scan). This makes it much more difficult for attackers to gain access to accounts or data, as they would need to possess all of the
-<br>
-=More Information=
-<br>
-https://www.vanguardtechnology.com/authenticator/
-[[Category:Two-Factor & Multi-Factor Authentication]]

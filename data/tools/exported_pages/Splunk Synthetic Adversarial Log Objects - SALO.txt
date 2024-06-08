@@ -1,8 +1,0 @@
-=Description=
-<br>
-The Splunk SALO tool generates adversarial log objects that can be used to test Splunk configurations. The tool can generate logs with different levels of difficulty, from simple errors to complex multi-object logs. The generated logs can be used to test Splunk's ability to correctly parse and index the data, as well as to test Splunk's search capabilities.
-<br>
-=More Information=
-<br>
-https://github.com/splunk/salo
-[[Category:Security Information & Event Management (SIEM)]]

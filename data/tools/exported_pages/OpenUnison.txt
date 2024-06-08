@@ -1,8 +1,0 @@
-=Description=
-<br>
-OpenUnison is a tool that allows users to securely connect to their data and applications from any device, anywhere. It provides a centralized view of all the users and devices in an organization, as well as the ability to control access to data and applications. OpenUnison also includes a powerful user management system, which makes it easy to add and remove users, as well as to assign permissions and privileges.
-<br>
-=More Information=
-<br>
-https://openunison.com/
-[[Category:Identity & Access Management (IAM)]]

@@ -1,9 +1,0 @@
-=Description=
-<br>
-OpenSecurityTraining2 is an e-learning platform that offers security training courses on a variety of topics. The courses are designed to be self-paced and interactive, and they cover a range of topics including computer security, networking security, and data security. The courses are suitable for both beginners and experienced users, and they offer a comprehensive approach to learning about security. OpenSecurityTraining2 also offers a number of other resources, including a blog, a forum, and a library of security-
-<br>
-=More Information=
-<br>
-https://ost2.fyi
-[[Category:Developers and Development Organizations]]
-[[Category:Security Personnel]]

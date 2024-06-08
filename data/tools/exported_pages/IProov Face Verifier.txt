@@ -1,8 +1,0 @@
-=Description=
-<br>
-The iProov Face Verifier is a tool that allows users to verify their identity using their face. The user takes a photo of themselves with their webcam, and the tool then compares the photo to a database of known faces. If the user's face is found in the database, they are considered to be verified. The tool can be used for a variety of purposes, such as verifying identity when logging into a website or app, or when making a purchase online. The tool is
-<br>
-=More Information=
-<br>
-https://www.iproov.com/face-verification/
-[[Category:Biometric]]

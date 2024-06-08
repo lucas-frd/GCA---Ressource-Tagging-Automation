@@ -1,8 +1,0 @@
-=Description=
-<br>
-KeePassium is a cross-platform application that allows users to manage their KeePass databases on their iOS devices. With KeePassium, users can create, open, and edit KeePass databases, as well as generate passwords and manage their entries. KeePassium also features a built-in web browser that allows users to access their KeePass databases from their iOS devices.
-<br>
-=More Information=
-<br>
-https://www.keepassium.com/
-[[Category:Password Managers]]

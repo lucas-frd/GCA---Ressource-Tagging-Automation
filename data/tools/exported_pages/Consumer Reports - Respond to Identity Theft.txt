@@ -1,8 +1,0 @@
-=Description=
-<br>
-The Respond to Identity Theft tool is a free online resource from Consumer Reports that helps victims of identity theft take action to recover their stolen identities. The tool provides step-by-step instructions for filing a police report, contacting credit bureaus, and taking other steps to recover from identity theft. The tool also includes links to helpful resources, such as a sample police report and a list of where to send credit bureau disputes.
-<br>
-=More Information=
-<br>
-https://securityplanner.consumerreports.org/tool/get-help-with-identity-theft
-[[Category:Resources for Victims of Cybercrime & Malicious Activity]]

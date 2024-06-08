@@ -1,8 +1,0 @@
-=Description=
-<br>
-Imageware Capture is a powerful image capture tool that enables you to easily capture high quality digital images. It comes with a variety of features that make it easy to use, including a built-in flash, a auto-focus feature, and a 4x digital zoom. It also has a variety of other features that make it a great choice for capturing quality images, such as the ability to save images in a variety of formats, including JPEG, TIFF, and PNG.
-<br>
-=More Information=
-<br>
-https://www.imagewaresystems.com/imageware-capture/
-[[Category:Biometric]]

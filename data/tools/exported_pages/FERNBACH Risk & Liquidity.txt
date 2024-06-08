@@ -1,8 +1,0 @@
-=Description=
-<br>
-FERNBACH Risk & Liquidity is software that helps financial institutions measure and manage risk and liquidity. The tool allows users to create and stress test risk scenarios, calculate risk-adjusted performance measures, and develop liquidity plans. The software is designed to help banks, insurance companies, and other financial institutions meet regulatory requirements and manage risk effectively.
-<br>
-=More Information=
-<br>
-https://www.fernback.com/
-[[Category:User Provisioning & Governance]]

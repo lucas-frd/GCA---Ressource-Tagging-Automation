@@ -1,8 +1,0 @@
-=Description=
-<br>
-The 'Private Key: What It Is, How It Works, Best Ways to Store' resource is provided by Investopedia. The resource provides an overview of what a private key is, how it works, and ways to store it securely.
-<br>
-=More Information=
-<br>
-https://www.investopedia.com/terms/p/private-key.asp
-[[Category:Wallet Private Key Protection (Storage, Retrieval, and Use)]]

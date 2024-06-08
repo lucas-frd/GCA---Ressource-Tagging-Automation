@@ -1,8 +1,0 @@
-=Description=
-<br>
-The Microsoft Active Directory Auditing Tool lets administrators audit user and group actions in an Active Directory environment. This can be helpful in auditing access to sensitive data, or in tracking user and group activity over time. The tool generates reports that show who performed which actions, when they were performed, and what the before and after values were for each action. The reports can be customized to show only the information that is needed, and can be exported to Excel or other formats for further analysis.
-<br>
-=More Information=
-<br>
-https://www.microsoft.com/en-us/security/active-directory/auditing/
-[[Category:User Provisioning & Governance]]

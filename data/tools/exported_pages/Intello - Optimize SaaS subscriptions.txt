@@ -1,8 +1,0 @@
-=Description=
-<br>
-Intello is a tool that helps you optimize your SaaS subscriptions. It provides recommendations on how to lower your costs, improve your efficiencies, and get the most out of your SaaS applications. It also gives you visibility into your spending, so you can see where your money is going and make informed decisions about your subscription plans.
-<br>
-=More Information=
-<br>
-https://www.xton.com/
-[[Category:Single Sign-On (SSO)]]

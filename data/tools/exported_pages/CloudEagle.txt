@@ -1,8 +1,0 @@
-=Description=
-<br>
-CloudEagle is a monitoring tool that visualizes your AWS Lambda functions’ performance in one place. It tells you which functions are working well and which ones need improvement. It also provides performance insights so you can identify and fix bottlenecks.
-<br>
-=More Information=
-<br>
-https://www.cloudeagle.io/
-[[Category:User Provisioning & Governance]]

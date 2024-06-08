@@ -1,8 +1,0 @@
-=Description=
-<br>
-The Cybersecurity for Nonprofits: Best Practices and How to Prepare tool provides nonprofits with practical guidance on how to improve their cybersecurity posture. The tool includes guidance on how to select and implement appropriate security controls, how to develop and implement a security awareness and training program, and how to respond to and recover from a security incident. The tool also includes a list of resources that nonprofits can use to further improve their cybersecurity posture.
-<br>
-=More Information=
-<br>
-https://nonprofitsdecoded.com/cybersecurity-for-nonprofits/
-[[Category:Nonprofits & Charities]]

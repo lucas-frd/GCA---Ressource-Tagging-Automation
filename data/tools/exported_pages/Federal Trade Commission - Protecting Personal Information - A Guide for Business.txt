@@ -1,8 +1,0 @@
-=Description=
-<br>
-The 'Protecting Personal Information: A Guide for Business' is a comprehensive resource provided by the Federal Trade Commission (FTC) to help businesses protect the personal information of their customers. The FTC is a federal agency tasked with protecting consumers from fraudulent and unfair business practices, and promoting competition in the marketplace. The organization's main mission is to prevent business practices that are anti-competitive, deceptive, or fraudulent.
-<br>
-=More Information=
-<br>
-https://www.ftc.gov/business-guidance/resources/protecting-personal-information-guide-business
-[[Category:Personal Cybersecurity Hygiene]]

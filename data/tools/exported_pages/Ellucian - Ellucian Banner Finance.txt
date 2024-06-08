@@ -1,8 +1,0 @@
-=Description=
-<br>
-Ellucian Banner Finance is a cloud-based financial management solution designed for higher education institutions. It offers a suite of tools for managing student accounts, budgets, finance and accounting, and compliance. The solution is web-based and offers a self-service portal for students and staff. It also includes a mobile app for iOS and Android devices.
-<br>
-=More Information=
-<br>
-https://www.ellucian.com/solutions/ellucian-banner-finance
-[[Category:Financial]]

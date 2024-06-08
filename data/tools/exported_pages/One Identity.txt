@@ -1,8 +1,0 @@
-=Description=
-<br>
-One Identity provides identification and access management solutions that streamline and secure user access to critical data and systems. One Identity solutions allow organizations to quickly and securely provision and de-provision users, protect against identity theft and data breaches, and comply with regulatory requirements. One Identity solutions are built on a modular, flexible architecture that can be deployed on-premises, in the cloud, or in hybrid environments. One Identity also offers a wide range of professional and support services to help organizations plan,
-<br>
-=More Information=
-<br>
-https://www.oneidentity.com/
-[[Category:User Provisioning & Governance]]

@@ -1,8 +1,0 @@
-=Description=
-<br>
-V-OS Face Biometrics eKYC is a tool that allows users to authenticate themselves using facial recognition. This can be used to verify the identity of a user when signing up for a service, or logging into an account. The tool uses advanced facial recognition algorithms to compare a photo of the user to a database of known faces, and can identify a match with high accuracy. This tool can be used by organizations to improve the security of their online services, and to make sure
-<br>
-=More Information=
-<br>
-https://www.v-os.com/
-[[Category:Biometric]]

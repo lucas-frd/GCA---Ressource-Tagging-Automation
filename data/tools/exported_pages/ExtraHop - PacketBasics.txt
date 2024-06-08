@@ -1,9 +1,0 @@
-=Description=
-<br>
-ExtraHop PacketBasics is a free, open-source tool that makes it easy to capture and analyze packet data from a network. With PacketBasics, you can see all the traffic on a network, including theFlag=1 packets that are often used to troubleshoot network problems. PacketBasics also provides rich visualization features, so you can see relationships between devices and understand how traffic is flowing through a network.
-<br>
-=More Information=
-<br>
-https://www.extrahop.com/company/blog/2021/introducing-extrahop-packet-basics/
-[[Category:Risk Self-Assessment]]
-[[Category:Risk Reduction]]

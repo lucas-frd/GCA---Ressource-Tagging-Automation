@@ -1,8 +1,0 @@
-=Description=
-<br>
-Collaborative purchasing program that serves U.S. State, Local, Tribal, and Territorial (SLTT) government organizations, nonprofit entities, and public health and education institutions to improve cybersecurity through cost-effective group procurement.
-<br>
-=More Information=
-<br>
-https://www.cisecurity.org/services/cis-cybermarket
-[[Category:Governments - US State - Local - Tribal - Territorial (SLTT)]]

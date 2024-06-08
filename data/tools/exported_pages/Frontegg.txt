@@ -1,8 +1,0 @@
-=Description=
-<br>
-Frontegg helps companies manage their user accounts and subscriptions, from signup to cancellation. The platform is multi-tenant, meaning that it can be used by multiple companies at once, each with their own instance of the software. Frontegg also provides a robust and scalable user management infrastructure, making it easy to manage large numbers of users. The software is also customizable, so that companies can tailor it to their specific needs.
-<br>
-=More Information=
-<br>
-https://www.frontegg.com/
-[[Category:Identity & Access Management (IAM)]]

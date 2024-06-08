@@ -1,8 +1,0 @@
-=Description=
-<br>
-Velociraptor is a tool for rapidly collecting data about systems and environments. It is designed to be easy to use and fast to deploy. Velociraptor is agentless and can be used to collect data from systems without installing any software. Velociraptor can be used to collect data about configuration, installed software, network settings, and more. Velociraptor is open source and available on GitHub.
-<br>
-=More Information=
-<br>
-https://github.com/Velocidex/velociraptor
-[[Category:Incident Reporting & Recovery]]

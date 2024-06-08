@@ -1,8 +1,0 @@
-=Description=
-<br>
-IdentiKee is a tool that allows users to create and manage their own digital identity. It allows users to control how their personal information is used and accessed by others. It also provides a way for users to share their identity with others, if they choose to do so.
-<br>
-=More Information=
-<br>
-https://www.identikey.com/
-[[Category:Biometric]]

@@ -1,8 +1,0 @@
-=Description=
-<br>
-Created in 2003 by Philippe Biondi, Scapy is a powerful Python-based interactive packet manipulation program and library. It can be used to forge or decode packets of a wide number of protocols, send them on the wire, capture them, and much more. Scapy can be used interactively from a command line or in scripts, and it is also faster and more flexible than many other packet crafting tools available.
-<br>
-=More Information=
-<br>
-https://scapy.net/
-[[Category:Security Information & Event Management (SIEM)]]

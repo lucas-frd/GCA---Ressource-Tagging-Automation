@@ -1,8 +1,0 @@
-=Description=
-<br>
-The Identity Governance and Access Control tool is designed to help organizations manage and control access to their critical data and systems. The tool provides a central repository for storing and managing identity and access information, as well as a framework for defining and enforcing security policies. The tool also includes a number of built-in reports and analytics features to help organizations track and manage access to their systems and data.
-<br>
-=More Information=
-<br>
-https://www.identity-governance.com/
-[[Category:Identity & Access Management (IAM)]]

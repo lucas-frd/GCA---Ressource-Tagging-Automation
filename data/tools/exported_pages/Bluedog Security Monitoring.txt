@@ -1,8 +1,0 @@
-=Description=
-<br>
-Bluedog Security Monitoring is a free and open source tool that can be used to monitor the security of systems and networks. It is designed to be easy to use and to provide a high degree of flexibility. Bluedog can be used to monitor a wide variety of systems, including Linux, Windows, and Solaris. It can also be used to monitor network devices such as routers and switches. Bluedog is capable of generating alerts when it detects potential security threats. It can also
-<br>
-=More Information=
-<br>
-https://openiam.org/
-[[Category:Single Sign-On (SSO)]]

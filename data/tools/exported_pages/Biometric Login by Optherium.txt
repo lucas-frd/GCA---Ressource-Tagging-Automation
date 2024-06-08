@@ -1,8 +1,0 @@
-=Description=
-<br>
-Biometric Login by Optherium is a tool that allows users to log in to their accounts using their fingerprints. The Optherium Biometric Login is a secure, convenient way to login to your account using your fingerprint. The fingerprint sensor is located on the back of the device, and is used to scan your fingerprint when you login. The device also has a built-in keypad so that you can enter your PIN if you forget your fingerprint. The Optherium Biometric Login
-<br>
-=More Information=
-<br>
-https://www.optherium.com/
-[[Category:Biometric]]

@@ -1,8 +1,0 @@
-=Description=
-<br>
-The Bravura Pass is an annual pass that provides access to all of the company's products and services. This includes access to their website, online training, customer support, and more. The pass is valid for one year from the date of purchase.
-<br>
-=More Information=
-<br>
-https://www.bravurapass.com/
-[[Category:Two-Factor & Multi-Factor Authentication]]

@@ -1,8 +1,0 @@
-=Description=
-<br>
-Airlock Suite by Ergon Informatik is a set of tools designed to help secure and manage computer networks. It includes a firewall, intrusion detection and prevention, and vulnerability management. It also provides a management console and reporting tools.
-<br>
-=More Information=
-<br>
-https://www.aladin-sec.com/
-[[Category:Identity & Access Management (IAM)]]

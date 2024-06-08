@@ -1,8 +1,0 @@
-=Description=
-<br>
-The Tennessee Bureau of Investigation is a state-level law enforcement agency responsible for investigating and combating various forms of cybercrime within Tennessee.
-<br>
-=More Information=
-<br>
-https://tn.gov/tbi/crime-issues/crime-issues/cybercrime.html
-[[Category:Tennessee]]

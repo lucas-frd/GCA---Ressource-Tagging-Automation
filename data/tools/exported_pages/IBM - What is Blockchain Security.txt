@@ -1,8 +1,0 @@
-=Description=
-<br>
-The IBM Blockchain Security tool is a set of tools and services that help secure the blockchain ecosystem. It includes a security analysis tool that assesses the security of blockchain networks and identifies potential risks. It also provides a security intelligence service that uses machine learning to identify unusual activity on the blockchain.
-<br>
-=More Information=
-<br>
-https://www.ibm.com/topics/blockchain-security
-[[Category:Digital Currency Users]]

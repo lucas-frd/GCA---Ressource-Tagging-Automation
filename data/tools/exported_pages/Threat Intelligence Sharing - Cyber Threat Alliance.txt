@@ -1,8 +1,0 @@
-=Description=
-<br>
-The Cyber Threat Alliance improves the cybersecurity of the global digital ecosystem by enabling real-time, high-quality cyber threat information sharing among companies and organizations in the cybersecurity field.
-<br>
-=More Information=
-<br>
-https://cyberthreatalliance.org/
-[[Category:Cybersecurity Providers]]

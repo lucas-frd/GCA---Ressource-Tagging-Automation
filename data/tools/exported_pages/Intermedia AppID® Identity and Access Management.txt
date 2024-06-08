@@ -1,8 +1,0 @@
-=Description=
-<br>
-Intermedia AppID is an identification and access management tool that helps businesses manage user identities and access to applications. It provides a centralized platform for managing user accounts, permissions, and access to applications. AppID also includes features such as Single Sign-On (SSO) and multi-factor authentication (MFA) to help businesses secure access to their applications.
-<br>
-=More Information=
-<br>
-https://www.intermedia.com/product/appid/
-[[Category:Two-Factor & Multi-Factor Authentication]]

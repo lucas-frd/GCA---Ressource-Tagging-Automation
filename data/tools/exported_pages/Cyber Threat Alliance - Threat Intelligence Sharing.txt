@@ -1,8 +1,0 @@
-=Description=
-<br>
-The tool Threat Intelligence Sharing found at https://cyberthreatalliance.org/ is a Cyber Threat Alliance. This organization was established in 2014 in order to help improve cyber security by sharing information among its members, which include some of the largest tech companies in the world. The CTA's goal is to make it easier for these companies to defend themselves and their customers against cyber attacks. One of the ways they do this is by sharing threat intelligence. This includes information about known threats,
-<br>
-=More Information=
-<br>
-https://cyberthreatalliance.org/
-[[Category:Small & Medium Sized Businesses]]

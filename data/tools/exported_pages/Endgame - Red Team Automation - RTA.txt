@@ -1,9 +1,0 @@
-=Description=
-<br>
-Red Team Automation (RTA) is a open source project created by Endgame that aims to help red teams improve their efficiency and effectiveness. RTA is a framework that automates many of the tasks that are typically performed during a red team engagement, such as information gathering, network reconnaissance, and exploitation. This allows red teams to focus on the tasks that are most important to them, and saves time by automating the repetitive and mundane tasks. RTA is written in Python and is
-<br>
-=More Information=
-<br>
-https://github.com/endgameinc/RTA
-[[Category:Security Testing & Auditing]]
-[[Category:Attack & Penetration Testing]]

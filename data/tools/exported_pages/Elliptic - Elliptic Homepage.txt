@@ -1,8 +1,0 @@
-=Description=
-<br>
-Elliptic is a bitcoin security company that provides analysis of the blockchain to institutional investors and law enforcement agencies. The company has a team of experts who track criminal activity on the blockchain and help investigate crimes. Elliptic also offers a compliance platform that helps businesses comply with regulations around the world.
-<br>
-=More Information=
-<br>
-https://www.elliptic.co/
-[[Category:Cryptocurrency Risk Management]]

@@ -1,8 +1,0 @@
-=Description=
-<br>
-The Hybrid Biometric Platform (HBP) is a new type of biometric system that combines multiple biometric modalities to improve performance and accuracy. The HBP uses a combination of fingerprint, iris, and facial recognition to verify a person's identity. The system is designed to be more accurate than any single biometric modality and to be more resistant to spoofing and other attacks. The HBP is also designed to be scalable and able to support a large number of users.
-<br>
-=More Information=
-<br>
-https://www.hybridbiometricplatform.com/
-[[Category:Biometric]]

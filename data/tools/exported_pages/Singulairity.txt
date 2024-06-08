@@ -1,8 +1,0 @@
-=Description=
-<br>
-Singularity is a tool that allows users to create and work with virtual machines on their computer. with Singularity, users can create a virtual machine that is isolated from the rest of the operating system, allowing them to run different operating systems or different versions of the same operating system side-by-side. This isolation makes it possible to run multiple virtual machines on a single computer, without the need for multiple physical computers.
-<br>
-=More Information=
-<br>
-https://www.singulairity.net/
-[[Category:User Provisioning & Governance]]

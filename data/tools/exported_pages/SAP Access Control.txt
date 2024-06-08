@@ -1,8 +1,0 @@
-=Description=
-<br>
-The SAP Access Control tool helps organizations manage and monitor access to sensitive data and systems. It provides a centralized view of who has access to what, and when they accessed it. It also provides a way to monitor and control access to specific resources. Organizations can use SAP Access Control to enforce security policies and compliance regulations.
-<br>
-=More Information=
-<br>
-https://www.sap.com/products/access-control/
-[[Category:User Provisioning & Governance]]

@@ -1,9 +1,0 @@
-=Description=
-<br>
-The Ilex Identity Management (IIM) platform is a cloud-based solution that enables organizations to manage identity and access for their employees, customers and partners. IIM includes a user interface, an identity repository, a rules engine and an access management module. IIM helps organizations to quickly and easily onboard new employees, customers and partners. It also allows organizations to manage and audit access to resources.
-<br>
-=More Information=
-<br>
-https://www.ilex-idm.com/
-[[Category:Single Sign-On (SSO)]]
-[[Category:Identity & Access Management (IAM)]]

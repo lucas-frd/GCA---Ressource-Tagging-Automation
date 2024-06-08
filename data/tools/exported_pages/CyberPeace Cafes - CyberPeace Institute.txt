@@ -1,9 +1,0 @@
-=Description=
-<br>
-CyberPeace Café is a repository of international and local cybersecurity awareness and digital resilience resources for NGOs’ employees and users in general.
-<br>
-=More Information=
-<br>
-https://cyberpeaceinstitute.org/cyberpeace-cafe/
-[[Category:CIS - 14 - Security Awareness and Skills Training]]
-[[Category:Nonprofits & Charities]]

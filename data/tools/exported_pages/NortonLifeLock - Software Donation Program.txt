@@ -1,8 +1,0 @@
-=Description=
-<br>
-This resource is a software donation program offered by NortonLifeLock. The purpose of this program is to assist social benefit organizations in enhancing their online security. These organizations, such as public libraries and food banks, often face growing demands for their services while lacking the necessary resources to protect the sensitive data they handle. Through this program, NortonLifeLock provides software donations to eligible social benefit organizations. These donations aim to help these organizations safeguard their digital information and ensure the privacy and security of their employees and volunteers. By offering their software, NortonLifeLock aims to support these organizations in staying safe online amidst the ever-evolving digital landscape. The software provided by NortonLifeLock is designed to address the specific security needs of social benefit organizations. It helps protect against various online threats, such as malware, viruses, and phishing attempts. By utilizing this software, organizations can enhance their cybersecurity measures and reduce the risk of data breaches or unauthorized access to sensitive information. Overall, NortonLifeLock's software donation program serves as a valuable resource for social benefit organizations seeking to bolster their online security. By providing software donations tailored to their needs, NortonLifeLock aims to empower these organizations to continue their important work while safeguarding their digital assets.
-<br>
-=More Information=
-<br>
-https://www.nortonlifelock.com/us/en/corporate-responsibility/software-donation-program/
-[[Category:Nonprofits & Charities]]

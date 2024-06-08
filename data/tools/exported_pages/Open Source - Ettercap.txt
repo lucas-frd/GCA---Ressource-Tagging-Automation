@@ -1,8 +1,0 @@
-=Description=
-<br>
-Ettercap is a free and open source network security tool for man-in-the-middle attacks on LAN. It can be used to intercept, sniff, and log network traffic. It supports active and passive dissection of many protocols, and can be used to launch attacks on vulnerable protocols. Ettercap is available for UNIX-like operating systems and Windows.
-<br>
-=More Information=
-<br>
-
-[[Category:Threat & Vulnerability Management]]

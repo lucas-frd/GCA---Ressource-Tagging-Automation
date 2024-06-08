@@ -1,8 +1,0 @@
-=Description=
-<br>
-Authress is a multi-factor authentication tool that allows users to securely access their accounts and services using a variety of different methods. This includes traditional password-based authentication, as well as more modern methods such as biometrics and one-time codes. Authress also offers a variety of features to help organisations manage and secure their authentication processes, including support for multi-factor authentication policies, Single Sign-On (SSO), and passwordless login.
-<br>
-=More Information=
-<br>
-https://www.baar-security.com/baar-iga/
-[[Category:Identity & Access Management (IAM)]]

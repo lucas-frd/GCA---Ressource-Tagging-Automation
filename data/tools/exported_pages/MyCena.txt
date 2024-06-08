@@ -1,8 +1,0 @@
-=Description=
-<br>
-MyCena is an online tool that helps you manage your sales and marketing budget. It allows you to track your spending, set goals, and create reports. You can also use it to create and manage your customer database. MyCena is a great tool for small businesses and startups that want to keep track of their spending and sales.
-<br>
-=More Information=
-<br>
-https://mycena.com/
-[[Category:Password Managers]]

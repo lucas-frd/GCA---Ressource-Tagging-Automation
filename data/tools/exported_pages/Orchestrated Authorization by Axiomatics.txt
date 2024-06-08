@@ -1,8 +1,0 @@
-=Description=
-<br>
-Orchestrated Authorization by Axiomatics is a system that enables the creation of fine-grained access control policies. It lets organizations specify exactly who has access to what resources, and under what conditions. This makes it possible to implement least privilege and need-to-know concepts, and fine-tune access control to the specific needs of an organization. The system is based on the XACML standard, and uses Attribute Based Access Control (ABAC) to enforce policies
-<br>
-=More Information=
-<br>
-https://axiomatics.com/orchestrated-authorization/
-[[Category:Identity & Access Management (IAM)]]

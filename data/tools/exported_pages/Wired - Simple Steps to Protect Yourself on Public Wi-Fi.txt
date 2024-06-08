@@ -1,9 +1,0 @@
-=Description=
-<br>
-This tool provides a few simple steps to protect yourself when using public Wi-Fi. First, it recommends encrypting your traffic with a VPN. Second, it suggests only using websites that are HTTPS-enabled. Finally, it advises against sharing sensitive information or downloading anything while on public Wi-Fi. By following these steps, you can help protect yourself from data theft and other malicious activities.
-<br>
-=More Information=
-<br>
-https://www.wired.com/story/public-wifi-safety-tips/
-[[Category:Political and Social-8.7]]
-[[Category:Journalists-8.7]]

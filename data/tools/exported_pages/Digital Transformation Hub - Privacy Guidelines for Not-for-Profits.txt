@@ -1,9 +1,0 @@
-=Description=
-<br>
-The guidelines found at https://digitaltransformation.org.au/guides/cyber-security/privacy-guidelines-not-profits are for not-for-profits who want to ensure that their organisation is compliant with privacy laws and protected from cyber risks. The guide provides an overview of the Australian Privacy Principles and how they apply to different types of not-for-profits, as well as practical tips on how to implement them. The guide also includes information on how
-<br>
-=More Information=
-<br>
-https://digitaltransformation.org.au/guides/cyber-security/privacy-guidelines-not-profits
-[[Category:Reputational]]
-[[Category:Sensitive Data]]

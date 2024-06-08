@@ -1,8 +1,0 @@
-=Description=
-<br>
-WatchGuard AuthPoint is a cloud-based, multi-factor authentication solution that provides an extra layer of security for users when accessing sensitive data. It uses a variety of methods to verify a user's identity, including something the user knows (like a password), something the user has (like a physical token), or something the user is (like a fingerprint). By requiring multiple forms of authentication, AuthPoint makes it much harder for hackers to gain access to sensitive information. In addition, Auth
-<br>
-=More Information=
-<br>
-https://www.watchguard.com/authpoint/
-[[Category:Two-Factor & Multi-Factor Authentication]]

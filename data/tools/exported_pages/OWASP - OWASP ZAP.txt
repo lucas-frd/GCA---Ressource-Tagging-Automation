@@ -1,8 +1,0 @@
-=Description=
-<br>
-ZAP (Zed Attack Proxy) is an intercepting proxy that enables one to analyze, modify and replay web traffic. It can be used to find vulnerabilities in web applications and to help developers to understand and fix them. ZAP is easy to use and extend, and can be integrated with a wide variety of tools.
-<br>
-=More Information=
-<br>
-https://owasp.org/www-project-zap/
-[[Category:Cybersecurity Providers]]

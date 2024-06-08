@@ -1,8 +1,0 @@
-=Description=
-<br>
-The Chester County District Attorney - Computer Forensic Unit is responsible for providing digital forensic services to aid in criminal investigations within the county.
-<br>
-=More Information=
-<br>
-https://www.chesco.org/4356/Forensic-Services
-[[Category:Pennsylvania]]

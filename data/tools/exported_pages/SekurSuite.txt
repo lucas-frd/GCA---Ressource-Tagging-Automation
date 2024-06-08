@@ -1,8 +1,0 @@
-=Description=
-<br>
-SekurSuite is a cloud-based security platform that helps organizations manage and improve their security posture. The platform includes a set of tools for security operations, incident response, and threat intelligence. SekurSuite also offers a partner ecosystem of security vendors that integrate with the platform to provide additional capabilities.
-<br>
-=More Information=
-<br>
-https://www.secursus.com/
-[[Category:Password Managers]]

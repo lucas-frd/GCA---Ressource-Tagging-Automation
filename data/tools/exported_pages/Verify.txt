@@ -1,8 +1,0 @@
-=Description=
-<br>
-Verify is an online verification service that helps businesses and individuals verify the identity and contact information of another person or entity. The service is used to verify data such as email addresses, phone numbers, addresses, and social media profiles. Verify also offers a reverse phone number lookup service, which allows users to find out who is behind a given phone number.
-<br>
-=More Information=
-<br>
-https://www.verify.com/
-[[Category:Two-Factor & Multi-Factor Authentication]]

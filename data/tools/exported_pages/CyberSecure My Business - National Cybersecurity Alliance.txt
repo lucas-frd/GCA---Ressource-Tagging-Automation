@@ -1,9 +1,0 @@
-=Description=
-<br>
-CybersecureMyBusiness is a national program,CyberSecure My Business™ is a national program helping small and medium-sized businesses (SMBs) learn to be safer and more secure online. The program is a series of in-person, highly interactive and easy-to-un
-<br>
-=More Information=
-<br>
-https://staysafeonline.org/programs/cybersecure-my-business/
-[[Category:CIS - 14 - Security Awareness and Skills Training]]
-[[Category:Small & Medium Sized Businesses]]

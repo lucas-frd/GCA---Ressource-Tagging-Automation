@@ -1,8 +1,0 @@
-=Description=
-<br>
-Google's Security Key Enforcement tool requires that users have a physical security key in order to access their account. This is an extra layer of security that makes it much more difficult for hackers to gain access to a user's account. The tool is designed to work with any type of security key, including those that use a USB connection or those that are built into a user's smartphone.
-<br>
-=More Information=
-<br>
-https://security.googleblog.com/2023/10/enforcing-security-keys-for-google.html
-[[Category:Two-Factor & Multi-Factor Authentication]]

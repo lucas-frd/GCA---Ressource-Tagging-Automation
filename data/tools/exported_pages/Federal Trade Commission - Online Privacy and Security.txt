@@ -1,9 +1,0 @@
-=Description=
-<br>
-The Online Privacy and Security tool from the Federal Trade Commission can help you keep your personal information safe when you use the internet. The tips and resources on this website can help you create strong passwords, protect your privacy, and avoid phishing scams and other online threats. You can also find information on what to do if you think you've been a victim of identity theft.
-<br>
-=More Information=
-<br>
-https://consumer.ftc.gov/identity-theft-and-online-security/online-privacy-and-security
-[[Category:Emerging Threat Awareness]]
-[[Category:Security Awareness Training]]

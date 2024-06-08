@@ -1,8 +1,0 @@
-=Description=
-<br>
-The Traffic Inspector is a program that was designed to help network administrators monitor and analyze network traffic. It can be used to identify problems and potential threats, and to help troubleshoot network issues. The Traffic Inspector can also be used to monitor the performance of network devices and to collect statistics about traffic patterns.
-<br>
-=More Information=
-<br>
-https://www.sans.org/tools/?per-page=100
-[[Category:Security Information & Event Management (SIEM)]]

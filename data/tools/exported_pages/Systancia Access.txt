@@ -1,8 +1,0 @@
-=Description=
-<br>
-Systancia Access is a software application that provides remote access to another computer or network. It is typically used by businesses or organizations to allow employees to access company resources from outside the office. Systancia Access is available for both Windows and Mac.
-<br>
-=More Information=
-<br>
-https://www.systancia.com/en/
-[[Category:Single Sign-On (SSO)]]

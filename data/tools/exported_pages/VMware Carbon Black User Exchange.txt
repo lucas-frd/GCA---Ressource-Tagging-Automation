@@ -1,9 +1,0 @@
-=Description=
-<br>
-Carbon Black User Exchange is a online community for users of VMware Carbon Black products. The site includes forums, blogs, and other resources for users to share information and learn from each other. The Exchange is a great place to ask questions, find answers, and get tips and advice from other VMware Carbon Black users.
-<br>
-=More Information=
-<br>
-https://community.carbonblack.com/
-[[Category:Understanding Your Risks]]
-[[Category:Understanding Relevant Threats]]

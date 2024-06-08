@@ -1,8 +1,0 @@
-=Description=
-<br>
-Radiant Logic is a data integration and identity management platform that enables organizations to connect to any data source, automate data collection and normalization, and turn data into actionable insights. The platform includes a user-friendly interface that makes it easy to connect to data sources, visualize data, and create reports and dashboards. Radiant Logic also offers a variety of cloud-based services that make it easy to deploy and manage data integration and identity management projects.
-<br>
-=More Information=
-<br>
-https://www.radiantlogic.com/
-[[Category:User Provisioning & Governance]]

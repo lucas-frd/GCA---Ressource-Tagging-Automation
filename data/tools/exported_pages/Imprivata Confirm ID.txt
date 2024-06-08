@@ -1,9 +1,0 @@
-=Description=
-<br>
-Imprivata Confirm ID is a two-factor authentication solution that provides an extra layer of security for logging into systems and applications. It uses a hardware device, such as a USB token, to generate a one-time code that is used in addition to a regular password. This code is then verified by the Imprivata Confirm ID server before allowing access to the system.
-<br>
-=More Information=
-<br>
-https://www.imprivata.com/resources/datasheets/imprivata-confirm-id
-[[Category:Biometric]]
-[[Category:Two-Factor & Multi-Factor Authentication]]

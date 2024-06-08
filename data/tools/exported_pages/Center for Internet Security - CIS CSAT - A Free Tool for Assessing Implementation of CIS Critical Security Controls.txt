@@ -1,9 +1,0 @@
-=Description=
-<br>
-This tool, called CIS CSAT, is a free web application developed by CIS (Center for Internet Security) to assist organizations in assessing the implementation of CIS Critical Security Controls. The CIS Critical Security Controls are a widely recognized set of cybersecurity guidelines that have gained popularity over the past decade. CIS CSAT aims to support organizations in their adoption of these controls by providing a user-friendly interface for assessing their implementation. The tool is designed to be accessible to both cybersecurity experts and organizations with limited technical expertise. By utilizing CIS CSAT, organizations can evaluate their current cybersecurity posture and identify areas where improvements can be made. The tool allows users to assess their adherence to the CIS Critical Security Controls through a series of questions and provides guidance on how to address any identified gaps. As a community-built resource, CIS CSAT benefits from the collective expertise of thousands of cybersecurity professionals worldwide. This ensures that the tool remains up-to-date and aligned with the latest industry best practices. Overall, CIS CSAT serves as a valuable resource for organizations seeking to enhance their cybersecurity defenses. By leveraging this free web application, organizations can assess their implementation of the CIS Critical Security Controls and take proactive steps to strengthen their overall security posture.
-<br>
-=More Information=
-<br>
-https://www.cisecurity.org/insights/blog/cis-csat-free-tool-assessing-implementation-of-cis-controls
-[[Category:Nonprofits & Charities]]
-[[Category:Small & Medium Sized Businesses]]

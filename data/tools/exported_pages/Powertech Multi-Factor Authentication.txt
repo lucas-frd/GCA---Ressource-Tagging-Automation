@@ -1,8 +1,0 @@
-=Description=
-<br>
-Powertech Multi-Factor Authentication is a security tool that adds an extra layer of protection to your Powertech account. With this tool enabled, you will be required to provide an additional form of authentication (such as a one-time code from a mobile app or an email address) in addition to your username and password when logging in. This makes it more difficult for hackers to gain access to your account, even if they are able to steal your login credentials.
-<br>
-=More Information=
-<br>
-https://www.powertech.com/solutions/multi-factor-authentication/
-[[Category:Two-Factor & Multi-Factor Authentication]]

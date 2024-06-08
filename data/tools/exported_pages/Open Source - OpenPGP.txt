@@ -1,9 +1,0 @@
-=Description=
-<br>
-OpenPGP is an open source tool for encrypting and decrypting files. It uses a variety of algorithms to encrypt and decrypt files, and can be used to secure email messages and other communication. OpenPGP is available for a variety of operating systems, and can be used with a variety of email clients and other software.
-<br>
-=More Information=
-<br>
-https://www.openpgp.org/
-[[Category:Email & Other Communications]]
-[[Category:Encryption]]

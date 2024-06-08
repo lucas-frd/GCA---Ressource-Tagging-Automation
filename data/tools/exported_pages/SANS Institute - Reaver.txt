@@ -1,9 +1,0 @@
-=Description=
-<br>
-The SANS Institute is a tool that helps organizations and individuals improve their security posture and defend themselves against cyber attacks. The Institute provides guidance on best practices, training, and tools to help organizations improve their security. One of the tools the Institute provides is Reaver, a tool that helps organizations assess their risk of being hacked and helps them defend themselves against attacks. Reaver is a free, open source tool that can be used to scan for vulnerable devices on a network and exploit weaknesses to gain
-<br>
-=More Information=
-<br>
-https://www.sans.org/tools/?per-page=100
-[[Category:Security Testing & Auditing]]
-[[Category:Attack & Penetration Testing]]

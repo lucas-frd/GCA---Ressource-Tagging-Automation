@@ -1,8 +1,0 @@
-=Description=
-<br>
-The Shadowserver Foundation is a 501(c)(3) non-profit organization dedicated to providing accurate and actionable information about malware, botnets, and phishing activity on the Internet. The organization offers a number of resources for security professionals, including a daily threat intelligence feed that details malware, botnet, and phishing activity around the world. The feed is updated daily and provides information on the latest threats, as well as analysis and recommendations from the Shadowserver team.
-<br>
-=More Information=
-<br>
-https://www.shadowserver.org/what-we-do/network-reporting/get-reports/
-[[Category:Individuals]]

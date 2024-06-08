@@ -1,8 +1,0 @@
-=Description=
-<br>
-Avigilon Unity Access is a product that allows businesses to manage and monitor their security systems from a central location. The software provides a unified view of all security devices, including cameras, door controllers, and alarms, and allows businesses to manage permissions and access control. The software also includes a searchable event database and reporting tools to help businesses track and investigate security incidents.
-<br>
-=More Information=
-<br>
-https://www.avigilon.com/products/unity-access/
-[[Category:User Provisioning & Governance]]

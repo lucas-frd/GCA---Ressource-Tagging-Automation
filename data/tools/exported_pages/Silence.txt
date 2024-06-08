@@ -1,8 +1,0 @@
-=Description=
-<br>
-Silence is a free and open-source software that allows you to send and receive encrypted SMS or Text Messages.
-<br>
-=More Information=
-<br>
-https://silence.im/
-[[Category:Messaging apps]]

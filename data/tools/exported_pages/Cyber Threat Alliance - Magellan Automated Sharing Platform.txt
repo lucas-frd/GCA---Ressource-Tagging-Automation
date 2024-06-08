@@ -1,8 +1,0 @@
-=Description=
-<br>
-Magellan is a Cyber Threat Alliance sharing platform that allows member organizations to quickly and easily share cyber threat intelligence (CTI). By automating the sharing of CTI, Magellan reduces the time and effort required to manually exchange information between members. This allows members to focus on their core mission of protecting their organizations from cyber threats. In addition, Magellan provides a way for members to create, update, and delete CTI sharing agreements. This allows members to customize their CTI sharing
-<br>
-=More Information=
-<br>
-https://cyberthreatalliance.org
-[[Category:Cybersecurity Providers]]

@@ -1,8 +1,0 @@
-=Description=
-<br>
-Crypto.com is a popular cryptocurrency exchange and digital asset platform that offers users a variety of services such as trading, purchasing, and storing of various cryptocurrencies. One key feature of the platform is its ability to support the management of approvals for tokens and non-fungible tokens (NFTs). In this article, we will discuss how users can manage approvals for their tokens and NFTs on the Crypto.com platform.
-<br>
-=More Information=
-<br>
-https://help.crypto.com/en/articles/6898785-how-do-i-manage-approvals-for-my-tokens-and-nfts
-[[Category:Wallet Transaction Approval Risk Management]]

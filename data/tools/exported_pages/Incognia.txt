@@ -1,8 +1,0 @@
-=Description=
-<br>
-Incognia is a tool that provides businesses with the ability to track and monitor employee activity in real time. It is a cloud-based solution that gives businesses visibility into employee behavior and activity, allowing them to identify and prevent potential security threats. Incognia also provides businesses with the ability to monitor employee compliance with company policies and procedures.
-<br>
-=More Information=
-<br>
-https://www.incognia.com/
-[[Category:Biometric]]

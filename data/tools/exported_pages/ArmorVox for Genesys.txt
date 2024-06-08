@@ -1,8 +1,0 @@
-=Description=
-<br>
-ArmorVox is a text-independent speaker recognition system that can be used to verify the identity of a user by their voice. It is designed to work with the Genesys customer experience platform, and can be used to authenticate users when they call into a contact center or when they use the Genesys mobile app. ArmorVox uses a proprietary algorithm to analyze the voiceprint of a speaker, and can identify individuals with a high degree of accuracy. The system is resistant to
-<br>
-=More Information=
-<br>
-https://www.armorvox.com/
-[[Category:Biometric]]

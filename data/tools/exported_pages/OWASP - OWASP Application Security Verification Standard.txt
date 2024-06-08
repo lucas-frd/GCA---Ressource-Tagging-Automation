@@ -1,8 +1,0 @@
-=Description=
-<br>
-The OWASP Application Security Verification Standard (ASVS) is an open source, community-developed standard that provides a framework for testing the security of web applications. The ASVS covers a wide range of security topics, including authentication, authorization, access control, input validation, session management, and more. The standard is designed to be used by organizations of all sizes, and can be customized to fit the needs of specific applications.
-<br>
-=More Information=
-<br>
-https://owasp.org/www-project-application-security-verification-standard/
-[[Category:Cybersecurity Providers]]

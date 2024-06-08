@@ -1,9 +1,0 @@
-=Description=
-<br>
-Tachyon is a tool developed by Delve Labs to help organizations secure their networks. It provides a centralized view of an organization's networksecurity posture, helping to identify potential vulnerabilities and threats. It also includes a powerful rule-based engine that can be used to automate response to security incidents.
-<br>
-=More Information=
-<br>
-https://github.com/delvelabs/tachyon
-[[Category:Security Testing & Auditing]]
-[[Category:Attack & Penetration Testing]]

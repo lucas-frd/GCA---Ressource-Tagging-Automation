@@ -1,8 +1,0 @@
-=Description=
-<br>
-The TextKey is a versatile tool that can be used for a variety of purposes. It can be used to send and receive text messages, as well as to store and manage contacts. It is also possible to use the TextKey to create and manage groups. The TextKey is a particularly useful tool for businesses and organizations that need to communicate with a large number of people. The TextKey can be used to send out mass texts, as well as to track the responses of recipients.
-<br>
-=More Information=
-<br>
-https://www.textkey.com/
-[[Category:Two-Factor & Multi-Factor Authentication]]

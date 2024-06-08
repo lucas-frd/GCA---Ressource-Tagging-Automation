@@ -1,8 +1,0 @@
-=Description=
-<br>
-IDmission is an online tool that helps organizations verify the identity of their employees, contractors, and customers. The tool uses a variety of data points to verify someone's identity, including social media profiles, government IDs, and other online records. Once someone's identity is verified, the tool provides a report that includes the person's name, address, and other information that can be used to verify their identity.
-<br>
-=More Information=
-<br>
-https://www.idmission.com/
-[[Category:Two-Factor & Multi-Factor Authentication]]

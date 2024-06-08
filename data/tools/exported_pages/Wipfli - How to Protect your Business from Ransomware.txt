@@ -1,9 +1,0 @@
-=Description=
-<br>
-The Wipfli How to Protect your Business from Ransomware tool is designed to help businesses protect themselves from the threat of ransomware. The tool provides a step-by-step guide on how to implement various security measures, including creating backups, implementing security software, and training employees on how to identify and respond to ransomware attacks. The guide also includes a checklist of action items for businesses to take in the event of a ransomware attack.
-<br>
-=More Information=
-<br>
-https://www.wipfli.com/insights/articles/ra-protect-your-business-from-ransomware
-[[Category:Ransomeware]]
-[[Category:Risks & Threats]]

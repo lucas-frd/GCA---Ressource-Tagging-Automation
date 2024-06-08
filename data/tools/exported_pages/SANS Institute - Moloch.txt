@@ -1,8 +1,0 @@
-=Description=
-<br>
-Moloch is an open source, large scale, full packet capturing, indexing, and analyzing tool. It is designed to easily handle multiple gigabits per second of traffic, index the full packet data, and provide search capabilities. Moloch is used extensively by many organizations, including SANS Institute, for network forensics and incident response purposes.
-<br>
-=More Information=
-<br>
-https://molo.ch/
-[[Category:Security Information & Event Management (SIEM)]]

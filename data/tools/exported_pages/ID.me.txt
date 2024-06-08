@@ -1,8 +1,0 @@
-=Description=
-<br>
-ID.me is a FREE online service that allows you to securely access your information. It is an easy way to verify your identity online without having to provide any personal information. With ID.me, you can create a unique and secure login that can be used to access your online accounts. You can also use ID.me to manage your online identities, and to share your information with trusted organisations. ID.me is a secure and convenient way to manage your online identity.
-<br>
-=More Information=
-<br>
-https://www.id.me/
-[[Category:Two-Factor & Multi-Factor Authentication]]

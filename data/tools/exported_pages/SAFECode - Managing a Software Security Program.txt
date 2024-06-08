@@ -1,8 +1,0 @@
-=Description=
-<br>
-SAFECode's Managing a Software Security Program is a comprehensive guide to software security programs. It provides an overview of software security and discusses the key components of a software security program. It also includes a step-by-step process for setting up a software security program and tips for managing and sustaining a software security program.
-<br>
-=More Information=
-<br>
-https://safecode.org/category/resource-managing-software-security/
-[[Category:Developers and Development Organizations]]

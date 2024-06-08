@@ -1,8 +1,0 @@
-=Description=
-<br>
-Passly is a multi-factor authentication and password management tool from AuthAnvil. It offers a variety of features to make authentication more secure and convenient, including two-factor authentication, one-time passcodes, and password management. It integrates with a variety of third-party applications and services, making it a versatile tool for businesses of all sizes.
-<br>
-=More Information=
-<br>
-https://www.authanvil.com/passly/
-[[Category:Identity & Access Management (IAM)]]

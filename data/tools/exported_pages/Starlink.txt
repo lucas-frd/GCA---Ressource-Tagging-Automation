@@ -1,8 +1,0 @@
-=Description=
-<br>
-Starlink is a global satellite internet company that provides high-speed, low-latency internet access to users around the world. Founded in 2015 and based in Starlink, the company was started with the goal of creating a space-based internet network that could bring connectivity to remote and underserved areas.
-<br>
-=More Information=
-<br>
-https://www.starlink.com/
-[[Category:Satellite internet]]

@@ -1,8 +1,0 @@
-=Description=
-<br>
-The SentinelOne tool is a SANS Institute that helps organizations manage and understand their security posture. It provides a centralized security platform that enables organizations to see what assets and data are at risk, track Security events and detect attacks. SentinelOne also includes a wide range of features to help organizations respond to and recover from Security incidents. These features include a Security Event Manager, a Threat Intelligence Feed, and a Security policy management tool.
-<br>
-=More Information=
-<br>
-https://www.sentinelone.com/
-[[Category:Endpoint Security]]

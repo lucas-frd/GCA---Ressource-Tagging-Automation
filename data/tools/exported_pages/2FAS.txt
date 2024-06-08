@@ -1,8 +1,0 @@
-=Description=
-<br>
-2FAS is a Two-Factor Authentication Solution that offers a variety of features to help keep your account safe. With 2FAS, you can add an additional layer of security to your account by requiring a second factor, such as a code from your mobile device, in order to log in. This makes it much more difficult for someone to hack into your account, as they would need to not only know your password, but also have access to your device in order to log in.
-<br>
-=More Information=
-<br>
-https://2fas.com/
-[[Category:Two-Factor & Multi-Factor Authentication]]

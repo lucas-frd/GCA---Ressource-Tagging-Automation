@@ -1,8 +1,0 @@
-=Description=
-<br>
-KeePass is a free, open source password manager that helps you keep track of your passwords in a secure way. It uses a strong encryption algorithm to store your passwords in a database, which can only be unlocked with a master password or key file. You can also create multiple databases to keep your passwords separate and organized. KeePass also has a variety of plugins that extend its functionality, such as a password generator and a auto-type feature that fills in passwords for you.
-<br>
-=More Information=
-<br>
-https://keepass.info/
-[[Category:Password Managers]]

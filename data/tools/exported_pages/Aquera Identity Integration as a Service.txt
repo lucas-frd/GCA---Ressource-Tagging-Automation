@@ -1,8 +1,0 @@
-=Description=
-<br>
-Aquera Identity Integration as a Service (I3) is a cloud-based solution that provides secure, bi-directional synchronization of identity data between on-premises and cloud-based applications. Aquera I3 includes an identity connectors library with pre-built connectors for popular applications such as Active Directory, Office 365, Salesforce, and Workday. Aquera I3 is powered by Aquera Sync Engine, a patent-pending identity synchronization engine that uses a rules-
-<br>
-=More Information=
-<br>
-https://www.aquera.com/
-[[Category:User Provisioning & Governance]]

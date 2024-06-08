@@ -1,8 +1,0 @@
-=Description=
-<br>
-The Bozeman Police Department's detectives division is responsible for investigating and solving criminal cases within the city of Bozeman.
-<br>
-=More Information=
-<br>
-https://www.bozeman.net/departments/police/divisions/detectives
-[[Category:Montana]]

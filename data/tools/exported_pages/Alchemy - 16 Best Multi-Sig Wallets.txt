@@ -1,8 +1,0 @@
-=Description=
-<br>
-Alchemy's 16 Best Multi-Sig Wallets is a list of the most popular and useful wallets that support multiple signatures. This feature is important for security, as it requires more than one person to approve a transaction before it can be completed. This can help prevent theft or fraud, and is especially useful for large organizations or groups. The wallets on this list vary in terms of features and cost, but all offer good security and multiple signature support.
-<br>
-=More Information=
-<br>
-https://www.alchemy.com/best/multisig-wallets
-[[Category:Wallet Private Key Protection (Storage, Retrieval, and Use)]]

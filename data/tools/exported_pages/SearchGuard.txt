@@ -1,8 +1,0 @@
-=Description=
-<br>
-SearchGuard is a Java-based security tool that enables enterprises to secure their Elasticsearch deployments. It provides a range of features including role-based access control, auditing, and encrypted communication. SearchGuard is designed to work with the Elasticsearch Security Plugin, which is also available from the SearchGuard website.
-<br>
-=More Information=
-<br>
-https://www.search-guard.com/
-[[Category:Single Sign-On (SSO)]]

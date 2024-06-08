@@ -1,9 +1,0 @@
-=Description=
-<br>
-Security Essentials is a SANS Institute tool that helps organizations improve their security posture by providing a comprehensive security framework and guidance on how to implement various security controls. The tool includes a security policy generator, security controls assessment tool, and a guide for developing and implementing a security program. The tool is designed to help organizations assess their current security posture, identify gaps, and develop and implement a security program to improve their overall security posture.
-<br>
-=More Information=
-<br>
-https://www.sans.org/tools/?per-page=100
-[[Category:Risk Self-Assessment]]
-[[Category:Risk Reduction]]

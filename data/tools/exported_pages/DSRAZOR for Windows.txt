@@ -1,8 +1,0 @@
-=Description=
-<br>
-DSRAZOR for Windows is a powerful tool for DSRAZOR users that offers a full set of features and customization options. It includes a DSRAZOR manager, a DSRAZOR simulator, and a DSRAZOR editor. With DSRAZOR for Windows, users can create, edit, and save DSRAZOR files, as well as run DSRAZOR simulations. The DSRAZOR manager allows users to view and manage their DSRA
-<br>
-=More Information=
-<br>
-https://www.dsrazor.com/
-[[Category:User Provisioning & Governance]]

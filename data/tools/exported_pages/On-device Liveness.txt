@@ -1,8 +1,0 @@
-=Description=
-<br>
-On-device Liveness is a tool that allows you to perform security checks on your devices to ensure that they are safe to use. It uses a number of different methods to check for signs of tampering or malicious activity, and it can also help you to recover lost or stolen devices. On-device Liveness is available for both Android and iOS devices, and it is free to use.
-<br>
-=More Information=
-<br>
-https://www.on-device.live/
-[[Category:Biometric]]

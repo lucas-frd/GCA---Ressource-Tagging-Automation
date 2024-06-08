@@ -1,8 +1,0 @@
-=Description=
-<br>
-PeoplePlatform is a tool that allows businesses to manage their workforce. It provides a centralized platform for managing employee data, tracking employee performance, and managing payroll and benefits. The tool also includes a tool for creating and managing employee shift schedules.
-<br>
-=More Information=
-<br>
-https://www.peopleplatform.com/
-[[Category:User Provisioning & Governance]]

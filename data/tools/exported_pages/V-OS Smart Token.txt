@@ -1,8 +1,0 @@
-=Description=
-<br>
-The V-OS Smart Token is a digital asset that is used to securely store and manage value on the V-OS platform. The V-OS Smart Token can be used to create and manage digital assets, such as tokens, coins, and smart contracts. The V-OS Smart Token is also used to facilitate transactions between users on the V-OS platform. The V-OS Smart Token is powered by the V-OS blockchain and is available for use by anyone with an Internet connection
-<br>
-=More Information=
-<br>
-https://www.v-os.com/smart-token/
-[[Category:Two-Factor & Multi-Factor Authentication]]

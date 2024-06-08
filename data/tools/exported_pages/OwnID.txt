@@ -1,8 +1,0 @@
-=Description=
-<br>
-OwnID is a tool that allows users to create and manage their own digital identities. With OwnID, users can control how their personal data is used and shared, and can easily access and use their data across different online services. OwnID also offers a variety of features to help users protect their identities, such as the ability to create and use multiple identities, set up two-factor authentication, and managing permissions for data access. OwnID is a free and open source platform that is available
-<br>
-=More Information=
-<br>
-https://ownid.net/
-[[Category:Two-Factor & Multi-Factor Authentication]]

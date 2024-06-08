@@ -1,8 +1,0 @@
-=Description=
-<br>
-The Australian Privacy Principles (APPs) are a set of 13 principles that govern the collection, use, disclosure, and storage of personal information by Australian organizations. The APPs are based on the international standard ISO/IEC 29100:2011, Privacy framework, and are designed to protect the privacy of individuals.
-<br>
-=More Information=
-<br>
-https://www.oaic.gov.au/privacy/australian-privacy-principles/
-[[Category:Laws About Your Child's Personal Information]]

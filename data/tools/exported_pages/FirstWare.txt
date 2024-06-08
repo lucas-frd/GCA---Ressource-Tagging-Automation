@@ -1,8 +1,0 @@
-=Description=
-<br>
-FirstWare ID-Management is an identity management tool that provides a centralized platform for managing digital identities. It offers a range of features such as identity verification, credential management, and access control. The tool helps organizations to streamline identity management processes and improve security. It is available as a cloud-based or on-premises solution.
-<br>
-=More Information=
-<br>
-https://www.firstware.com/identity-management/
-[[Category:Identity & Access Management (IAM)]]

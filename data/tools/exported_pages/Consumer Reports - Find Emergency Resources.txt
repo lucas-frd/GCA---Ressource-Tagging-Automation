@@ -1,9 +1,0 @@
-=Description=
-<br>
-The tool Find Emergency Resources from Consumer Reports helps you locate emergency resources near you in the event of a natural disaster or other crisis. You can search for resources by keyword, location, and type of resource. The tool also includes links to resources from government agencies and non-profit organizations.
-<br>
-=More Information=
-<br>
-https://securityplanner.consumerreports.org/tool/emergency-resources
-[[Category:Resources for Victims of Cybercrime & Malicious Activity]]
-[[Category:Emergency Response and Planning]]

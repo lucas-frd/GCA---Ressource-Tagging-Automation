@@ -1,8 +1,0 @@
-=Description=
-<br>
-The tool provides IT services for associations and nonprofits. It includes a variety of services such as data security, network management, and cloud computing. The tool is designed to help organizations improve their IT infrastructure and reduce costs.
-<br>
-=More Information=
-<br>
-https://www.optimalnetworks.com/association-it-services/
-[[Category:Nonprofits & Charities]]

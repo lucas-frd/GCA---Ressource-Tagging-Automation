@@ -1,8 +1,0 @@
-=Description=
-<br>
-Fortr3ss is a tool that provides support for various operations related to the administration of Fortinet products. It includes a set of tools for managing Fortinet products, configuring and administering FortiGate and FortiAnalyzer devices, managing user accounts, and more. The tool also provides a platform for third-party developers to create their own tools and applications for use with Fortinet products.
-<br>
-=More Information=
-<br>
-https://fortr3ss.com/
-[[Category:Biometric]]

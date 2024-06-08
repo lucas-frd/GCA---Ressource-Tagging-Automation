@@ -1,8 +1,0 @@
-=Description=
-<br>
-The Create a Cyber Security Policy is a Support for Businesses in Australia that helps businesses develop and implement a customised cyber security policy. The policy outlines the minimum requirements for cyber security in order to protect businesses from online threats. It also provides guidance on how to create a security plan, establish user roles and responsibilities, and implement security controls. The policy can be tailored to the specific needs of each business, and can be updated as new threats and technologies emerge.
-<br>
-=More Information=
-<br>
-https://business.gov.au/online/cyber-security/create-a-cyber-security-policy
-[[Category:All Businesses]]

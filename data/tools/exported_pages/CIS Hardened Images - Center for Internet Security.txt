@@ -1,8 +1,0 @@
-=Description=
-<br>
-Virtual images hardened to CIS Benchmarks on cloud service provider marketplaces
-<br>
-=More Information=
-<br>
-https://www.cisecurity.org/cis-benchmarks/
-[[Category:All Businesses]]

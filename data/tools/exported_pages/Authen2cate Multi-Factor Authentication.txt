@@ -1,8 +1,0 @@
-=Description=
-<br>
-Authen2cate is an authentication tool that offers multi-factor authentication. It allows users to log in with a username and password, and then uses a second factor, such as a phone or email, to verify the user's identity. This ensures that only the intended user can access the account. Authen2cate also offers a variety of other features, such as the ability to set up account recovery, to ensure that users can still access their account if they lose their second
-<br>
-=More Information=
-<br>
-https://authen2cate.com/
-[[Category:Two-Factor & Multi-Factor Authentication]]

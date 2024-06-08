@@ -1,9 +1,0 @@
-=Description=
-<br>
-Cybersecurity Resources is a site that provides information and resources on cyber security. It includes articles on various topics related to cyber security, as well as links to other websites that provide more detailed information on specific topics. The site also includes a glossary of terms related to cyber security, and a list of Frequently Asked Questions.
-<br>
-=More Information=
-<br>
-https://righttobe.org/resources/
-[[Category:Security Awareness & Training]]
-[[Category:Harassment & Legal Considerations]]

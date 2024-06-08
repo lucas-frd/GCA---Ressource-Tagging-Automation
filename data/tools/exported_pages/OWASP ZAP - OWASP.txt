@@ -1,9 +1,0 @@
-=Description=
-<br>
-The worlds most widely used web app scanner. Free and open source. Actively maintained by a dedicated international team of volunteers.
-<br>
-=More Information=
-<br>
-https://owasp.org/www-project-zap/
-[[Category:CIS - 18 - Penetration Testing]]
-[[Category:Cybersecurity Providers]]

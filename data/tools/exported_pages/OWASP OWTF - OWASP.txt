@@ -1,9 +1,0 @@
-=Description=
-<br>
-OWTF attempts to solve the “penetration testers are never given enough time to test properly” problem, or in other words, OWTF = Test/Exploit ASAP
-<br>
-=More Information=
-<br>
-https://owasp.org/www-project-owtf/
-[[Category:CIS - 18 - Penetration Testing]]
-[[Category:Cybersecurity Providers]]

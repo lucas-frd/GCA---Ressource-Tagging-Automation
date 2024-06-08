@@ -1,8 +1,0 @@
-=Description=
-<br>
-Deep Identity is an online tool that uses deep learning to create personalized identities for users. It allows users to create an account with their name, email, and password, and then provides them with a unique avatar and identity. Deep Identity also provides users with a variety of customization options, including the ability to choose their own avatar, name, and password. Deep Identity is a free service, and is available to anyone with an internet connection.
-<br>
-=More Information=
-<br>
-https://www.deepidentity.com/
-[[Category:User Provisioning & Governance]]

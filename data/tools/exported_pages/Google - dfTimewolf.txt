@@ -1,8 +1,0 @@
-=Description=
-<br>
-DfTimewolf is a tool that helps you visualize data from your Google Search Console account. It shows you how your site is performing in Google Search, and how often your site appears in Google searches. You can use DfTimewolf to see how your site is doing over time, and to spot trends in your data.
-<br>
-=More Information=
-<br>
-https://dftimewolf.readthedocs.io/en/latest/
-[[Category:Incident Reporting & Recovery]]

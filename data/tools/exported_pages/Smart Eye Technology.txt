@@ -1,9 +1,0 @@
-=Description=
-<br>
-Smart Eye is a world leader in developing and providing sophisticated eye tracking systems. The company offers a wide range of products and services, from low-cost, easy-to-use mobile eye tracking solutions to the most advanced and accurate eye tracking systems available. Smart Eye's products are used in a variety of fields, including medicine, psychology, market research, human factors, and gaming.
-<br>
-=More Information=
-<br>
-https://www.smarteye.se/
-[[Category:Biometric]]
-[[Category:Two-Factor & Multi-Factor Authentication]]

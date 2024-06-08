@@ -1,8 +1,0 @@
-=Description=
-<br>
-KillerID SSO is a cloud-based identity and access management solution that provides organizations with a single sign-on (SSO) experience for their users. The solution enables organizations to securely manage user identities, permissions, and access to applications and data. KillerID SSO includes an integrated user provisioning and management console, as well as support for popular application and data stores. The solution is available as a hosted service or as a software-as-a-service (Saa
-<br>
-=More Information=
-<br>
-https://www.killerid.com/
-[[Category:Single Sign-On (SSO)]]

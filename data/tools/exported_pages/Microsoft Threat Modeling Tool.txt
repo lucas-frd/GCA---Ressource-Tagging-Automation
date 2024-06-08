@@ -1,8 +1,0 @@
-=Description=
-<br>
-The Microsoft Threat Modeling Tool helps security practitioners plan and execute threat modeling exercises. The tool walks users through a structured process for identifying, analyzing, and mitigating threats to software systems. The tool can be used to support both design-time and runtime threat modeling.
-<br>
-=More Information=
-<br>
-https://www.microsoft.com/en-us/securityengineering/sdl/threatmodeling
-[[Category:Threat & Vulnerability Management]]

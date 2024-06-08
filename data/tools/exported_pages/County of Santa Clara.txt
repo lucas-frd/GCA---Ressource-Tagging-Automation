@@ -1,8 +1,0 @@
-=Description=
-<br>
-The County of Santa Clara is a government organization that prosecutes high technology crimes and aims to protect the community from cyber threats.
-<br>
-=More Information=
-<br>
-https://countyda.sccgov.org/prosecution/departments/high-technology-crimes-unit
-[[Category:California]]

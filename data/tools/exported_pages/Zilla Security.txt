@@ -1,8 +1,0 @@
-=Description=
-<br>
-Zilla Security is a cloud-based platform that helps organizations prevent identity-related data breaches. It does this by providing a central repository for all identity and security information, as well as a set of tools to help organizations manage and control access to this information. Zilla also assists organizations in meeting compliance requirements, by providing a platform for documenting and tracking compliance-related activities.
-<br>
-=More Information=
-<br>
-https://zilla.com/
-[[Category:Identity & Access Management (IAM)]]

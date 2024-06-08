@@ -1,8 +1,0 @@
-=Description=
-<br>
-PingOne is a cloud-based identity and access management (IAM) solution that provides users with single sign-on (SSO) access to their applications. It offers an intuitive interface that allows users to quickly and easily manage their login credentials and authentication methods. The solution supports a variety of authentication methods, including social login, two-factor authentication, and biometric authentication. PingOne also offers a comprehensive set of security features, such as user activity monitoring, password management, and multi
-<br>
-=More Information=
-<br>
-https://www.pingidentity.com/products/pingone/for-enterprise/
-[[Category:User Provisioning & Governance]]

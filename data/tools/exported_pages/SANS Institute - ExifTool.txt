@@ -1,8 +1,0 @@
-=Description=
-<br>
-ExifTool is a free and open source tool that enables users to view and edit the metadata of images. This tool is extremely versatile, and can be used to view and edit a wide range of image file formats. ExifTool also enables users to view and edit the metadata of a variety of other file types, such as PDFs, DOCX files, and more. ExifTool is an incredibly powerful tool that can be used for a variety of purposes, such as managing digital
-<br>
-=More Information=
-<br>
-https://exiftool.org/
-[[Category:Incident Reporting & Recovery]]

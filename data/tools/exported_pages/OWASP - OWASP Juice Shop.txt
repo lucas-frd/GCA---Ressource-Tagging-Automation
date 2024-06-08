@@ -1,8 +1,0 @@
-=Description=
-<br>
-The OWASP Juice Shop is an open source web application security testing tool written in Node.js. It is designed to be used by both developers and penetration testers. The tool can be used to test for a wide range of security vulnerabilities, including cross-site scripting, SQL injection, and session hijacking. The Juice Shop is also a very popular training tool, as it provides a wide range of challenges that can be used to help teach web application security.
-<br>
-=More Information=
-<br>
-https://owasp.org/www-project-juice-shop/
-[[Category:Developers and Development Organizations]]

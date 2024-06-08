@@ -1,9 +1,0 @@
-=Description=
-<br>
-This resource, titled Cybersecurity Resources for Non-Profits, is an article published on the official website of the United States government. The purpose of this article is to provide valuable information and resources to non-profit organizations regarding cybersecurity. Written by Rosario MÃ©ndez, an attorney from the Division of Consumer and Business Education at the Federal Trade Commission (FTC), the article aims to help non-profits understand the importance of cybersecurity and the potential risks they may face in the digital world. The article emphasizes the significance of protecting sensitive information and provides guidance on how non-profits can enhance their cybersecurity measures. It highlights the need for strong passwords, regular software updates, and employee training to prevent data breaches and cyber attacks. Additionally, the article offers links to various resources that non-profits can utilize to further educate themselves on cybersecurity best practices. These resources include webinars, guides, and articles provided by reputable organizations such as the FTC and the Department of Homeland Security. By providing this comprehensive information and access to additional resources, the article aims to empower non-profit organizations to take proactive steps in safeguarding their data and protecting their operations from potential cyber threats. In conclusion, this resource serves as a valuable guide for non-profit organizations, offering insights and resources to help them navigate the complex world of cybersecurity and mitigate potential risks.
-<br>
-=More Information=
-<br>
-https://consumer.ftc.gov/consumer-alerts/2018/10/cybersecurity-resources-non-profits
-[[Category:Security Awareness & Training]]
-[[Category:Risks & Threats]]

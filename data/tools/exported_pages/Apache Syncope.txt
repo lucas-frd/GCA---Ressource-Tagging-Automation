@@ -1,8 +1,0 @@
-=Description=
-<br>
-Used for managing identity data, Apache Syncope provides REST and SOAP APIs, a Java Admin GUI, and a powerful command line interface. It supports multiple identity providers (such as LDAP, Active Directory, and Database) and multiple resources (such as mail servers, CRMs, and ERPs). Syncope is highly customizable and can be adapted to nearly any environment.
-<br>
-=More Information=
-<br>
-https://syncope.apache.org/
-[[Category:User Provisioning & Governance]]

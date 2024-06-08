@@ -1,8 +1,0 @@
-=Description=
-<br>
-Teams Manager is a Microsoft Teams tool that helps manage team collaboration within an organization. It provides features to help create and manage teams, as well as consolidate all team communication in one place. It also offers features to monitor team activity and performance.
-<br>
-=More Information=
-<br>
-https://www.teamsmanager.com/
-[[Category:User Provisioning & Governance]]

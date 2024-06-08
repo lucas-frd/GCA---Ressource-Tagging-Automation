@@ -1,9 +1,0 @@
-=Description=
-<br>
-Oracle Identity Cloud Service is a cloud-based identity management service that helps organizations securely manage users and access to applications. The service includes capabilities for provisioning and managing users and roles, as well as for authenticating and authorizing users to access applications. Oracle Identity Cloud Service also provides a variety of tools for managing and tracking user activity, such as a user self-service portal, a reporting and auditing tool, and a policy manager.
-<br>
-=More Information=
-<br>
-https://www.oracle.com/cloud/identity-cloud-service/
-[[Category:Single Sign-On (SSO)]]
-[[Category:Identity & Access Management (IAM)]]

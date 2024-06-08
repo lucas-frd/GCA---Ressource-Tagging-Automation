@@ -1,8 +1,0 @@
-=Description=
-<br>
-VoiceKey is an authentication tool that uses your voice to verify your identity. It is a secure and convenient way to access your accounts and services. VoiceKey uses cutting-edge voice recognition technology to compare your voiceprint to a database of known voices. If your voice matches a voice in the database, you will be authenticated and granted access to the account or service. VoiceKey is an convenient and secure alternative to traditional password-based authentication methods.
-<br>
-=More Information=
-<br>
-https://speechpro.com/product/voice-authentication/voicekey
-[[Category:Biometric]]

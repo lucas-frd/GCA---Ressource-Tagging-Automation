@@ -1,8 +1,0 @@
-=Description=
-<br>
-Developed by the MITRE Corporation, Xton Access Manager is an open source access control management tool that allows organizations to centrally manage and monitor user access to systems and data. It provides a web-based interface for administrators to manage user accounts, roles, and permissions, and includes a auditing and reporting functionality to track user activity and assess compliance with security policies. Xton Access Manager is compatible with a variety of LDAP-compliant directory services and supports single sign-on (SS
-<br>
-=More Information=
-<br>
-https://www.mitreid.org/mission/big-organizations/
-[[Category:Single Sign-On (SSO)]]

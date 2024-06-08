@@ -1,8 +1,0 @@
-=Description=
-<br>
-CISA's ICS Network Protocol Parsers is a free, open source tool that can be used to analyze communication traffic in industrial control systems (ICS). The tool can be used to identify devices and protocols in use, and to capture and analyze packet data. The tool can be used to investigate incidents, and to monitor ICS traffic for signs of malicious activity.
-<br>
-=More Information=
-<br>
-https://github.com/cisagov/ICSNPP
-[[Category:Threat & Vulnerability Management]]

@@ -1,8 +1,0 @@
-=Description=
-<br>
-The OWASP Amass tool is designed to help developers and security professionals enumerate and discover subdomains. It can be used for conducting reconnaissance during security assessments and can be integrated into automated workflows. Amass uses publicly available data sources to enumerate subdomains and perform DNS lookups. It can identify wildcard DNS records, perform brute force discovery, and resolve IP addresses to domain names. Amass also has features for visualizing the data it collects, which can be
-<br>
-=More Information=
-<br>
-https://owasp.org/www-project-amass/
-[[Category:Web Developers]]

@@ -1,8 +1,0 @@
-=Description=
-<br>
-The Miracl tool is a secure communication platform that provides end-to-end encryption for messaging and calls. It also offers a secure browser extension for Chrome and Firefox that allows users to access their accounts and communicate with others without having to download the app. The platform is designed to be highly secure, with all communications and data encrypted and stored locally on each user's device. Miracl also offers a number of other security features, such as two-factor authentication and the ability to create disposable
-<br>
-=More Information=
-<br>
-https://www.miracl.com/
-[[Category:Two-Factor & Multi-Factor Authentication]]

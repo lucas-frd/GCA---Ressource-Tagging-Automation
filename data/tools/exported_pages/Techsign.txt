@@ -1,8 +1,0 @@
-=Description=
-<br>
-Techsign allows you to create digital signatures that can be used to sign documents electronically. This is a convenient way to sign documents without having to print them out and sign them in person. You can create a signature using your mouse or a stylus, and the signature will be added to the document automatically. Techsign is a secure and easy-to-use tool that makes signing documents quick and easy.
-<br>
-=More Information=
-<br>
-https://techsign.com/
-[[Category:Biometric]]

@@ -1,9 +1,0 @@
-=Description=
-<br>
-The OWASP Cheat Sheet Series was created to provide a set of simple good practice guides for application developers and defenders to follow. Rather than focused on detailed best practices that are impractical for many developers and applications, they are
-<br>
-=More Information=
-<br>
-https://owasp.org/www-project-cheat-sheets/
-[[Category:CIS - 16 - Application Software Security]]
-[[Category:Developers and Development Organizations]]

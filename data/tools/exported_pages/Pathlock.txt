@@ -1,8 +1,0 @@
-=Description=
-<br>
-Pathlock is a tool that can be used to protect files and folders from being modified or deleted. It can be used to lock down a specific file or folder, or to protect an entire system from being modified. Pathlock is designed to work with any operating system, and can be used to protect data on both local and networked drives. Pathlock is a free tool, and is available for download from the Pathlock website.
-<br>
-=More Information=
-<br>
-https://pathlock.com/
-[[Category:User Provisioning & Governance]]

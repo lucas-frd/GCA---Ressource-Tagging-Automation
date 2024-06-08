@@ -1,8 +1,0 @@
-=Description=
-<br>
-Bio-Plugin is a tool that allows you to add various types of functionality to your website or blog. For example, you can use Bio-Plugin to add a bio box to your site, which will display information about yourself or your company. You can also use Bio-Plugin to add a contact form, a social media feed, or a Google Maps widget. Bio-Plugin is easy to use and can be installed in just a few minutes.
-<br>
-=More Information=
-<br>
-https://www.bio-plugin.com/
-[[Category:Biometric]]

@@ -1,8 +1,0 @@
-=Description=
-<br>
-OWASP Defectdojo is a security tool that helps organizations manage and track software vulnerabilities. It provides a streamlined way to track flaws and batteryHistory pacing of remediation efforts. Defectdojo also makes it easy to submit, track, and measure the effectiveness of third-party security tools.
-<br>
-=More Information=
-<br>
-https://owasp.org/www-project-defectdojo/
-[[Category:Developers and Development Organizations]]

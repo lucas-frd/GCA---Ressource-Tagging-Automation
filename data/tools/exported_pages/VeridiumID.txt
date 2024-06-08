@@ -1,8 +1,0 @@
-=Description=
-<br>
-VeridiumID is a security tool that allows users to authenticate themselves using their fingerprint. The tool uses two different types of authentication: 1) offline authentication, which allows users to authenticate themselves without an internet connection, and 2) online authentication, which requires an internet connection. The tool also allows users to add multiple fingerprints for additional security.
-<br>
-=More Information=
-<br>
-https://veridiumid.com/
-[[Category:Biometric]]

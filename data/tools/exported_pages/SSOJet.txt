@@ -1,8 +1,0 @@
-=Description=
-<br>
-SSOJet is a handy tool that allows users to quickly sign in to multiple accounts with a single click. It extension available for the Google Chrome and Firefox web browsers. With SSOJet, users can easily manage their passwords, usernames, and other account credentials. The tool also provides users with the ability to generate strong passwords for their accounts.
-<br>
-=More Information=
-<br>
-https://ssojet.com/
-[[Category:Two-Factor & Multi-Factor Authentication]]

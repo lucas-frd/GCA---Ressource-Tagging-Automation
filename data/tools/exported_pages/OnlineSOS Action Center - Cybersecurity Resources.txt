@@ -1,9 +1,0 @@
-=Description=
-<br>
-The tool Cybersecurity Resources found at https://www.onlinesos.org/action-center is a set of online tools and resources related to cybersecurity. It includes links to websites, articles, and other resources on cybersecurity topics such as online safety, data security, and online privacy. The goal of the OnlineSOS Action Center is to provide a one-stop shop for cybersecurity information and resources.
-<br>
-=More Information=
-<br>
-https://www.onlinesos.org/action-center
-[[Category:Political and Social-6]]
-[[Category:Journalists-6]]

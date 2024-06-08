@@ -1,9 +1,0 @@
-=Description=
-<br>
-The eID-Me tool is a digital identity verification tool that allows users to verify their identity online. The tool is used by government agencies and businesses to verify the identity of individuals who are applying for services or products. The tool uses a variety of data sources, including social media, government records, and credit reports, to verify the identity of the user. The eID-Me tool is free to use and is available to anyone who needs to verify their identity online.
-<br>
-=More Information=
-<br>
-https://www.eidme.gov/en/
-[[Category:Biometric]]
-[[Category:Two-Factor & Multi-Factor Authentication]]

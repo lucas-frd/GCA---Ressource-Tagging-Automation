@@ -1,8 +1,0 @@
-=Description=
-<br>
-The Cyber Threat Alliance (CTA) is a partnership program between private sector companies that aims to improve the sharing of information about cyber threats. The CTA was formed in 2014 in response to the increasing number of cyber attacks and to the need for better information sharing between private companies. The CTA is made up of companies from a variety of industries, including technology, finance, and healthcare. The CTA shares information about cyber threats through a secure, online portal. This information is then used
-<br>
-=More Information=
-<br>
-https://cyberthreatalliance.org
-[[Category:Developers and Development Organizations]]

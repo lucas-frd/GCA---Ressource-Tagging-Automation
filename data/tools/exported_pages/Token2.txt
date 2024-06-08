@@ -1,8 +1,0 @@
-=Description=
-<br>
-Token2 is a hardware-based security token that can be used to securely login to online services. It generates a one-time password (OTP) that is valid for only a short period of time, making it much more difficult for hackers to gain access to your account. The device is small and easy to carry around, making it convenient to use. It also has a visual display so you can see what password is being generated, making it more difficult for someone to intercept your password
-<br>
-=More Information=
-<br>
-https://www.token2.com/
-[[Category:Two-Factor & Multi-Factor Authentication]]

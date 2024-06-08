@@ -1,8 +1,0 @@
-=Description=
-<br>
-TWOSENSE.AI is a tool that uses machine learning to improve the accuracy of predictive modeling. It is designed to work with data sets that are too large for traditional statistical models, and it can handle data that is non-linear and complex. TWOSENSE.AI is also able to automatically detect patterns in data, and it can be used to generate new features from data sets. The tool is available as a web-based application, and it can be used to build models that
-<br>
-=More Information=
-<br>
-https://www.twosense.ai/
-[[Category:Two-Factor & Multi-Factor Authentication]]

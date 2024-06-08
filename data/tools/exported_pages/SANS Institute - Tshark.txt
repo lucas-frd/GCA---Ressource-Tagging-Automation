@@ -1,8 +1,0 @@
-=Description=
-<br>
-Tshark is a network protocol analyzer that lets you capture and analyze packets from a network. It is a command-line tool that is part of the Wireshark suite of tools. Tshark can be used to capture packets from a live network or from a file. It can also be used to create filters to capture specific traffic.
-<br>
-=More Information=
-<br>
-https://www.wireshark.org/docs/man-pages/tshark.html
-[[Category:Security Information & Event Management (SIEM)]]

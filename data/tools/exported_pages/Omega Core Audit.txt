@@ -1,8 +1,0 @@
-=Description=
-<br>
-Omega Core Audit is an open source tool that can be used to check the security of a website. It is designed to be used by security professionals and developers to test the security of their web applications. It can be used to test for a variety of security vulnerabilities, such as SQL injection, cross-site scripting, and cookie tampering.
-<br>
-=More Information=
-<br>
-https://www.omegacoreaudit.com/
-[[Category:User Provisioning & Governance]]

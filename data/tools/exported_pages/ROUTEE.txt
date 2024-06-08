@@ -1,8 +1,0 @@
-=Description=
-<br>
-Routee is a Web-based tool that offers routing capabilities for businesses. It provides users with the ability to find the best route for their vehicles, whether it is the shortest, most direct, or most efficient route. The tool also allows businesses to track their vehicles in real-time and monitor their performance.
-<br>
-=More Information=
-<br>
-https://routee.com/
-[[Category:Two-Factor & Multi-Factor Authentication]]

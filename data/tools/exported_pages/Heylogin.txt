@@ -1,8 +1,0 @@
-=Description=
-<br>
-Heylogin is a heylogin that allows you to login to your account with your email address and password. Once you login, you can access your account settings, create new accounts, and manage your account. Heylogin also offers a variety of features such as email forwarding, email filtering, and email search.
-<br>
-=More Information=
-<br>
-https://heylogin.com/
-[[Category:Password Managers]]

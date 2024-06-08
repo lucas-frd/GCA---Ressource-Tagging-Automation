@@ -1,9 +1,0 @@
-=Description=
-<br>
-The HID Authentication Service is a cloud-based authentication and identity management tool that allows organizations to securely authenticate users and manage access to resources. The service uses a variety of authentication methods, including biometrics, to ensure that only authorized users can access the resources they need. The service also provides a single sign-on (SSO) solution, allowing users to access all of their authorized resources with a single set of credentials. The HID Authentication Service is designed to work with a
-<br>
-=More Information=
-<br>
-https://www.hidglobal.com/products/authentication-and-identity-management/cloud-identity-and-access-management/authentication-service/
-[[Category:Two-Factor & Multi-Factor Authentication]]
-[[Category:Biometric]]

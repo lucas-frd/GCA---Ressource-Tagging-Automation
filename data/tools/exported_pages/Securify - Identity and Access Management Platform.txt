@@ -1,8 +1,0 @@
-=Description=
-<br>
-The tool Identity and Access Management Platform found at https://www.securify.com/iam/ is a cloud-based solution that helps organizations securely manage their user identities and access to applications and data. The platform provides a centralized view of all users and their access permissions, as well as the ability to quickly provision and deprovision access as needed. The platform is highly scalable and can support hundreds of thousands of users. Additionally, the platform includes a number of features to help ensure
-<br>
-=More Information=
-<br>
-https://www.securify.com/iam/
-[[Category:Two-Factor & Multi-Factor Authentication]]

@@ -1,8 +1,0 @@
-=Description=
-<br>
-Jamf Connect is a macOS utility that allows users to connect to LDAP and Active Directory servers. It can be used to create, manage, and delete user accounts, as well as to change passwordss and pin numbers. Jamf Connect can also be used to manage access control lists and to enable single sign-on for applications.
-<br>
-=More Information=
-<br>
-https://www.jamf.com/products/jamf-connect/
-[[Category:User Provisioning & Governance]]

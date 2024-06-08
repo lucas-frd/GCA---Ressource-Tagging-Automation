@@ -1,9 +1,0 @@
-=Description=
-<br>
-The IDCARE Apps & Tools is designed to provide individuals with a range of resources to help them better understand and manage their identity. The site includes a range of tools, including a password manager, an identity restoration checklist, and a fraud monitoring service. The site also provides information on a range of identity theft and fraud prevention topics.
-<br>
-=More Information=
-<br>
-https://www.idcare.org/learning-centre/apps-and-tools
-[[Category:Sensitive Data]]
-[[Category:Security Awareness & Training]]

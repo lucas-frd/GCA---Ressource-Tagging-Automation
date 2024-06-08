@@ -1,9 +1,0 @@
-=Description=
-<br>
-SecureAuth Identity Platform is a comprehensive solution for securing access to data and applications. It provides a single sign-on experience for users, and uses a variety of authentication methods to verify the identity of users and ensure that only authorized users can access data and applications. SecureAuth Identity Platform also includes a comprehensive set of security policies and controls to help organizations secure their data and applications.
-<br>
-=More Information=
-<br>
-https://secureauth.com/identity-platform/
-[[Category:Single Sign-On (SSO)]]
-[[Category:Identity & Access Management (IAM)]]

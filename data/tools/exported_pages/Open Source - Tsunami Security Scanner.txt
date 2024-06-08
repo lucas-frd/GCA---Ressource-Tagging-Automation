@@ -1,8 +1,0 @@
-=Description=
-<br>
-The Tsunami Security Scanner is an open source tool that helps organizations scanning for vulnerabilities across their networks. It was developed by Google and released in 2017. The tool is written in Go and runs on Linux, macOS, and Windows. Tsunami can perform full-port scans of all 65,535 TCP and UDP ports on an IPv4 address in less than 5 minutes. The scanner is designed to be fast and efficient, and it can be used to scan large networks for vulnerabilities
-<br>
-=More Information=
-<br>
-https://github.com/google/tsunami-security-scanner
-[[Category:Threat & Vulnerability Management]]

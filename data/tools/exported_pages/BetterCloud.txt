@@ -1,8 +1,0 @@
-=Description=
-<br>
-BetterCloudrich is an automated data backup and recovery tool designed for small businesses. The tool provides a hassle-free way to backup data and keep it safe in the event of data loss. BetterCloud also offers a number of other features such as data encryption, versioning, and snapshotting.
-<br>
-=More Information=
-<br>
-https://www.bettercloud.com/
-[[Category:User Provisioning & Governance]]

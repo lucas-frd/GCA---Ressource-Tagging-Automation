@@ -1,8 +1,0 @@
-=Description=
-<br>
-SplashID is a password manager and secure digital wallet that helps users keep track of their login information, credit card numbers, and other sensitive data. The app is available for both iOS and Android devices, and features a clean, intuitive interface that makes it easy to manage your passwords and other data. SplashID also includes a number of security features, such as AES-256 bit encryption, to help keep your data safe and secure.
-<br>
-=More Information=
-<br>
-https://www.splashid.com/
-[[Category:Password Managers]]

@@ -1,8 +1,0 @@
-=Description=
-<br>
-Exostar is a cloud-based software platform that helps companies manage supply chain risk and improve collaboration. It helps companies share data and manage workflows related to supply chain management. Exostar also offers a range of risk management and compliance tools.
-<br>
-=More Information=
-<br>
-https://www.exostar.com/
-[[Category:Identity & Access Management (IAM)]]

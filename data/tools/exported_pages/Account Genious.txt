@@ -1,8 +1,0 @@
-=Description=
-<br>
-Account Genious is an online tool that helps businesses manage their finances. It provides users with a variety of features, including invoicing, bill payment, and expense tracking. Account Genious is designed to save businesses time and money by automating many of the financial tasks that they would otherwise have to do manually.
-<br>
-=More Information=
-<br>
-https://accountgenius.com/
-[[Category:User Provisioning & Governance]]

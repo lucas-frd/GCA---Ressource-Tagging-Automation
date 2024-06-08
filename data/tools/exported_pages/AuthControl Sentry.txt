@@ -1,8 +1,0 @@
-=Description=
-<br>
-AuthControl Sentry is an authentication and authorization tool that helps organizations control access to their data and systems. It provides a unified view of all activity across your environment, so you can quickly identify and respond to potential threats. It also offers granular control over who can access what, making it easy to comply with regulatory requirements.
-<br>
-=More Information=
-<br>
-https://authcontrol.com/products/sentry/
-[[Category:Biometric]]

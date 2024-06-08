@@ -1,8 +1,0 @@
-=Description=
-<br>
-ID R&D's goal is to create technology that can identify people based on how they look, behave, and sound. The company's products are used by government agencies, businesses, and individuals to verify someone's identity. ID R&D's products are used to authenticate people via their appearance, iris recognition, voice recognition, and fingerprint recognition. The company also offers products that can detect passport forgery, driver's license fraud, and credit card fraud.
-<br>
-=More Information=
-<br>
-https://www.idrd.com/en/
-[[Category:Biometric]]

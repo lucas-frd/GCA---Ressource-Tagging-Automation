@@ -1,8 +1,0 @@
-=Description=
-<br>
-Callsign is a secure messaging app that uses military-grade encryption to keep your conversations private. It’s available for both iOS and Android devices, and you can use it to send text messages, voice calls, and even video calls. The app also lets you create groups so you can chat with multiple people at once, and you can even set up a “burner” number that expires after a certain period of time.
-<br>
-=More Information=
-<br>
-https://www.callsign.com/
-[[Category:Biometric]]

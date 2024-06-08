@@ -1,9 +1,0 @@
-=Description=
-<br>
-Kali Linux is a Debian-derived Linux distribution designed for digital forensics and penetration testing. It is free and open source software developed by Offensive Security. The tool contains a large collection of security-related tools divided into categories. The categories include information gathering, vulnerability analysis, exploitation tools, payload tools, and post-exploitation tools. Kali Linux can be run from a live CD or USB drive, making it a portable and bootable tool. It is also available as a virtual
-<br>
-=More Information=
-<br>
-https://www.kali.org/
-[[Category:Security Testing & Auditing]]
-[[Category:Attack & Penetration Testing]]

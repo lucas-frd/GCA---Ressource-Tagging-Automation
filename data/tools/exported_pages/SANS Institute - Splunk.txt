@@ -1,8 +1,0 @@
-=Description=
-<br>
-Splunk turns data into insights. It captures, indexes and analyzes data from any source, so you can search, monitor and visualize machine data to see how your business is running. Splunk apps and technologies enable you to solve complex business and technical problems by bringing data to light in new ways.
-<br>
-=More Information=
-<br>
-https://www.splunk.com/
-[[Category:Security Information & Event Management (SIEM)]]

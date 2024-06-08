@@ -1,9 +1,0 @@
-=Description=
-<br>
-This tool helps organizations prepare for their first IT audit. It covers key topics such as understanding the audit process, identifying the scope of the audit, and gathering the information needed to complete the audit. The tool also includes a checklist to help ensure that all the necessary steps are taken to prepare for the audit.
-<br>
-=More Information=
-<br>
-https://www.wipfli.com/insights/articles/ra-how-to-prepare-for-your-first-it-audit
-[[Category:Nonprofits & Charities]]
-[[Category:Small & Medium Sized Businesses]]

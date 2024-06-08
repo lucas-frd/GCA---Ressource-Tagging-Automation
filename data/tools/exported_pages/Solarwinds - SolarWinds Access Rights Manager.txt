@@ -1,8 +1,0 @@
-=Description=
-<br>
-Access Rights Manager is a tool from SolarWinds that helps users track, manage, and audit user access rights within their organization. The tool allows administrators to see which users have access to which resources, and can generate reports on user access and activity. Access Rights Manager can help organizations to compliance with auditing and regulatory requirements, and can also be used to troubleshoot access-related issues.
-<br>
-=More Information=
-<br>
-https://www.solarwinds.com/access-rights-manager
-[[Category:User Provisioning & Governance]]

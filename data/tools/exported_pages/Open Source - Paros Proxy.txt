@@ -1,9 +1,0 @@
-=Description=
-<br>
-Paros Proxy is an open source web application proxy and security testing tool. It can be used to intercept, inspect, and modify HTTP and HTTPS traffic. Paros Proxy can be used to perform security testing of web applications. It can be used to find vulnerabilities such as SQL injection and cross-site scripting. Paros Proxy can also be used to conduct social engineering attacks.
-<br>
-=More Information=
-<br>
-https://www.parosproxy.org/
-[[Category:Security Testing & Auditing]]
-[[Category:Attack & Penetration Testing]]

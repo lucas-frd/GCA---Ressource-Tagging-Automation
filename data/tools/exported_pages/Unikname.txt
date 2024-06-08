@@ -1,8 +1,0 @@
-=Description=
-<br>
-Unikname is a digital tool that allows you to create a unique, decentralized identifier that can be used to login to applications and websites, or to send and receive payments. Unlike traditional login methods such as username and password, or email and password, Unikname does not require any personal information from you in order to create an account. Instead, it uses aSecure Remote Proof (SRP) protocol to verify your identity. This means that your private data is never stored on Unik
-<br>
-=More Information=
-<br>
-https://www.unikname.com/
-[[Category:Biometric]]

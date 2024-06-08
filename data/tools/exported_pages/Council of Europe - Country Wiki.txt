@@ -1,9 +1,0 @@
-=Description=
-<br>
-The tool Country Wiki is a Council of Europe in 250 words which enables users to view detailed information on European countries. The tool provides an overview of each country, including its history, geography, population, culture, and economy. The Country Wiki also includes a country profile section, which contains more specific information on each country. This tool is a valuable resource for students, educators, and researchers who are interested in learning more about Europe and its countries.
-<br>
-=More Information=
-<br>
-https://www.coe.int/en/web/octopus/country-wiki
-[[Category:All Businesses]]
-[[Category:Individuals]]

@@ -1,8 +1,0 @@
-=Description=
-<br>
-Sightline Security provides cybersecurity consulting services for nonprofits. Their services include cybersecurity assessments, incident response, and security awareness training. They also offer a free online security assessment tool. This tool helps nonprofits identify and assess their cybersecurity risks. It provides recommendations for improving their security posture.
-<br>
-=More Information=
-<br>
-https://sightlinesecurity.org/
-[[Category:Nonprofits & Charities]]

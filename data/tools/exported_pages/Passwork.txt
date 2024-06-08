@@ -1,8 +1,0 @@
-=Description=
-<br>
-Passwork is a password management tool that allows users to securely store and manage their passwords. Passwork provides users with a variety of features including the ability to create, store, and manage passwords, as well as the ability to share passwords with others. Passwork is a secure, easy-to-use password management tool that is perfect for both individuals and businesses.
-<br>
-=More Information=
-<br>
-https://passwork.pro/
-[[Category:Password Managers]]

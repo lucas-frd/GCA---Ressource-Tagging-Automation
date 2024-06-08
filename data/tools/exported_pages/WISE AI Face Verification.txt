@@ -1,8 +1,0 @@
-=Description=
-<br>
-WISE AI Face Verification is a tool used to determine whether two faces are the same. The user inputs two images, and the tool will output a percentage that indicates how likely it is that the two faces are the same. The tool can be used for a variety of purposes, such as verifying the identity of a person in a photograph or video.
-<br>
-=More Information=
-<br>
-https://www.wise.ai/face-verification/
-[[Category:Biometric]]

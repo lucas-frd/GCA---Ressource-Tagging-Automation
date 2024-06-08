@@ -1,8 +1,0 @@
-=Description=
-<br>
-PhotoRec is an open-source data recovery software developed and maintained by CGSecurity, a non-profit organization based in France. The project was first launched in 2002 by Christophe Grenier, a security specialist and software developer, as a tool for recovering lost or deleted photos from digital cameras. Over the years, the software has evolved to support the recovery of various file formats, including documents, videos, and audio files.
-<br>
-=More Information=
-<br>
-https://www.cgsecurity.org/wiki/PhotoRec
-[[Category:Data recovery]]

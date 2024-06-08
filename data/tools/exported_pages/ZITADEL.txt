@@ -1,8 +1,0 @@
-=Description=
-<br>
-Zitadel is a tool designed to help manage and monitor Amazon Web Services (AWS) accounts. It provides a number of features to help with this including the ability to view account activity, set up alerts, and create reports. It can also be used to track spending and optimize costs.
-<br>
-=More Information=
-<br>
-https://zitcitadel.com/
-[[Category:Identity & Access Management (IAM)]]

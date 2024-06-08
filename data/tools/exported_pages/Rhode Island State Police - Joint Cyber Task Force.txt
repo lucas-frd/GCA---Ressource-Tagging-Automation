@@ -1,8 +1,0 @@
-=Description=
-<br>
-The Rhode Island State Police Joint Cyber Task Force is a specialized unit that investigates and responds to cyber incidents, conducts cybercrime prevention and education, and collaborates with local, state, and federal agencies to ensure cybersecurity within the state.
-<br>
-=More Information=
-<br>
-https://risp.ri.gov/ccu/cyber
-[[Category:Rhode Island]]

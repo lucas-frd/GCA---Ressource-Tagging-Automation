@@ -1,8 +1,0 @@
-=Description=
-<br>
-The Detective Division of the Waynesboro Police Department is responsible for investigating and solving crimes within the city.
-<br>
-=More Information=
-<br>
-https://www.waynesboro.va.us/266/Detective-Division
-[[Category:Virginia]]

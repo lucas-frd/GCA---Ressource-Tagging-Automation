@@ -1,8 +1,0 @@
-=Description=
-<br>
-Udentify is a cloud-based identity verification and biometric authentication solution that helps organizations verify the identities of employees, customers, and other users. The solution uses a range of data points, including social media profiles, government-issued ID, and biometric data, to verify someone's identity. Udentify also offers a mobile app that allows users to securely login to their accounts using their fingerprint or other biometric data.
-<br>
-=More Information=
-<br>
-https://www.udentify.com/solutions/
-[[Category:Biometric]]

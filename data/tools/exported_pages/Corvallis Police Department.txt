@@ -1,8 +1,0 @@
-=Description=
-<br>
-The Corvallis Police Department is a law enforcement agency that investigates crimes and enforces the law within the city of Corvallis, Oregon.
-<br>
-=More Information=
-<br>
-https://www.corvallisoregon.gov/police/page/investigations-unit
-[[Category:Oregon]]

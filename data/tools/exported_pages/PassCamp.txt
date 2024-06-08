@@ -1,8 +1,0 @@
-=Description=
-<br>
-PassCamp is a secure password manager that lets you store all your passwords in one central location. It uses AES-256 encryption to keep your passwords safe, and you can access your passwords from any device with an internet connection. PassCamp also has a variety of features to make managing your passwords easier, such as the ability to generate strong passwords, share passwords with others, and set up two-factor authentication.
-<br>
-=More Information=
-<br>
-https://passcamp.com/
-[[Category:Password Managers]]

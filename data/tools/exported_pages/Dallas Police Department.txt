@@ -1,8 +1,0 @@
-=Description=
-<br>
-The Dallas Police Department's Computer Crime Squad is responsible for investigating and preventing cyber crimes within the city.
-<br>
-=More Information=
-<br>
-https://dallaspolice.net/divisions/Pages/Computer-Crime-Squad.aspx
-[[Category:Texas]]

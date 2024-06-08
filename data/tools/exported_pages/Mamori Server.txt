@@ -1,8 +1,0 @@
-=Description=
-<br>
-Mamori Server is a powerful analytics platform that helps organizations uncover hidden risks and trends in their data. With Mamori Server, organizations can quickly and easily Gain insights into their data to identify areas of risk or opportunity. Mamori Server also provides tools for predictive modeling and forecasting, helping organizations make better decisions about their data.
-<br>
-=More Information=
-<br>
-https://www.mamori.com/products/mamori-server/
-[[Category:Two-Factor & Multi-Factor Authentication]]

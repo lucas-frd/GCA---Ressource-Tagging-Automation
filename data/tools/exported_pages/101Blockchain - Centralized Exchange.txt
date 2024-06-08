@@ -1,8 +1,0 @@
-=Description=
-<br>
-A Centralized Exchange is a type of cryptocurrency exchange that allows users to trade digital assets in a centralized manner. This means that all trades are facilitated by a central authority, typically a company or organization, rather than by a decentralized network of users. Centralized exchanges offer many advantages over their decentralized counterparts, including increased security, higher liquidity, and faster transaction times. However, they also come with some risks, such as the potential for fraud or theft.
-<br>
-=More Information=
-<br>
-https://101blockchains.com/centralized-crypto-exchange/
-[[Category:Centralized Exchange (CEX) Account Protection]]

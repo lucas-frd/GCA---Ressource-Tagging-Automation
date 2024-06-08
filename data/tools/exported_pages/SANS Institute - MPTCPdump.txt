@@ -1,8 +1,0 @@
-=Description=
-<br>
-MPTCPdump is a command-line tool that can be used to capture and analyze MPTCP traffic. It can be used to troubleshoot MPTCP implementations, investigate performance issues, or simply to learn more about how MPTCP works. MPTCPdump supports both IPv4 and IPv6, and can be used on Linux, macOS, and Windows.
-<br>
-=More Information=
-<br>
-https://www.sans.org/tools/?per-page=100
-[[Category:Security Information & Event Management (SIEM)]]

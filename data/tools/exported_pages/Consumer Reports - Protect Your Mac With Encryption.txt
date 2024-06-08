@@ -1,9 +1,0 @@
-=Description=
-<br>
-This tool helps Mac users protect their computers with encryption. It provides step-by-step instructions for enabling encryption on a Mac, as well as tips for creating a strong encryption password. The tool also includes information on what to do if you forget your encryption password.
-<br>
-=More Information=
-<br>
-https://securityplanner.consumerreports.org/tool/encrypt-your-mac
-[[Category:MacOS]]
-[[Category:Computers (Laptops & Desktops)]]

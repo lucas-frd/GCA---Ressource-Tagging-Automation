@@ -1,8 +1,0 @@
-=Description=
-<br>
-The Warwick Police Department's Computer Forensics Division investigates and analyzes digital evidence in support of criminal investigations.
-<br>
-=More Information=
-<br>
-https://www.warwickpd.org/index.php/police-divisions/detective-division/computer-forensics
-[[Category:Rhode Island]]

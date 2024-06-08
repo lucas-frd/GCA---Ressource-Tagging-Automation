@@ -1,8 +1,0 @@
-=Description=
-<br>
-AWS Single Sign-On (AWS SSO) is an Amazon Web Services (AWS) service that enables you to centrally manage access to multiple AWS accounts and business applications. With AWS SSO, you can easily manage multiple AWS accounts and control which users have access to each account. You can also give users access to business applications, such as Salesforce, Concur, and Workday, without having to create separate identities for each application. AWS SSO provides a user interface
-<br>
-=More Information=
-<br>
-https://aws.amazon.com/single-sign-on/
-[[Category:Single Sign-On (SSO)]]

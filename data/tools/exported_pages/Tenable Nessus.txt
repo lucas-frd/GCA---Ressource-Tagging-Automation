@@ -1,8 +1,0 @@
-=Description=
-<br>
-Tenable Nessus is a vulnerability scanner that can be used to identify and assess the security of systems and networks. Nessus is available in both a free and paid version, and can be run on Windows, macOS, and Linux. Nessus can be used to scan for a variety of vulnerabilities, including those related to software, hardware, and configuration errors. Additionally, Nessus can be used to assess compliance with security policies, such as those related to HIPAA and PCI-DSS
-<br>
-=More Information=
-<br>
-https://www.tenable.com/products/nessus
-[[Category:Threat & Vulnerability Management]]

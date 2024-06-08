@@ -1,8 +1,0 @@
-=Description=
-<br>
-Idenprotect Passport is a tool that allows organizations to manage digital identities. It allows organizations to create and manage digital identities for their employees, customers, and partners. It also allows organizations to control access to their resources and applications. Idenprotect Passport is a secure, scalable, and easy-to-use platform that helps organizations to quickly and easily deploy digital identity management solutions.
-<br>
-=More Information=
-<br>
-https://www.idenprotect.com/passport/
-[[Category:Two-Factor & Multi-Factor Authentication]]

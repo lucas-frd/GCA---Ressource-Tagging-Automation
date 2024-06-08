@@ -13,7 +13,8 @@ low_probability_threshold = 60
 
 def add_tool(tool_website=""):
     description = webscraper.get_tool_description(tool_website)
-    description = description["description"]
+    key = next(iter(description))
+    description = list(description[key])
 
     high_probability_cis_controls = []
     mid_probability_cis_controls = []
@@ -37,3 +38,5 @@ def add_tool(tool_website=""):
     print(f'high: {high_probability_cis_controls}, mid: {mid_probability_cis_controls}, low: {low_probability_cis_controls}')
 
 add_tool("https://securityplanner.consumerreports.org/")
+
+#"3, 5, 6, 7, 9, 10, 14, 16

@@ -1,8 +1,0 @@
-=Description=
-<br>
-The Security Operations Centers (SOC) found at https://www.crest-approved.org/membership/membership-benefits/ are a set of tools designed to help organizations protect their information and systems from security threats. The SOC provides a central point of contact for security incidents, coordinates response and recovery efforts, and provides guidance on security best practices. The SOC also maintains a secure environment for storing and sharing sensitive information.
-<br>
-=More Information=
-<br>
-https://www.crest-approved.org/membership/membership-benefits/
-[[Category:All Businesses]]

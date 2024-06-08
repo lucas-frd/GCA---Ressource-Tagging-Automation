@@ -1,8 +1,0 @@
-=Description=
-<br>
-ConductorOne is a tool that helps with managing server deployments and monitoring server activity. It provides a web-based interface for users to track server deployments and activity. The tool also features a plugin system that allows users to extend its functionality.
-<br>
-=More Information=
-<br>
-https://www.conductorone.com/
-[[Category:Identity & Access Management (IAM)]]
